@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A fisherman has a large barbed hook through the skin of his forearm, point buried just under the
+    surface. You have fishing line and no local anaesthetic. Which technique is the best first try?
+  options:
+    - Pull the hook straight back out quickly the way it went in, barb and all.
+    - Push it through, cut the barb with side cutters, then back it out, without anaesthetic.
+    - String-yank, with line around the bend, shank pressed flat and a quick jerk along it.
+    - Cut the skin over the whole hook with a razor blade to lift it out.
+  correct: 2
+  explanation: >-
+    The string-yank is the field method that often needs no anaesthetic and causes little tissue
+    damage (AAFP 2001). Pulling a barbed hook back tears tissue; advance-and-cut needs anaesthetic and
+    makes a second wound.
+- id: q2
+  question: >-
+    A man fell onto a glass table. After 20 minutes of careful exploration of a clean 2 cm thigh
+    cut under good light, you have removed two pieces and cannot see or feel any more. He has full
+    movement and feeling. What now?
+  options:
+    - Stop, irrigate, dress, and record that a small fragment may remain.
+    - Extend the cut to 6 cm so you can look deeper for any remaining glass.
+    - Probe the base with your gloved fingertip to feel for small sharp edges.
+    - Close it tightly so any remaining glass is held in one place.
+  correct: 0
+  explanation: >-
+    Glass is inert and can be left if hard to find (AAFP 2007). WMS says not to extend a wound to
+    hunt for bodies you cannot see, set a time limit, and never feel for glass with a fingertip.
+- id: q3
+  question: >-
+    A woman's hand was crushed in a door. Her ring finger is swelling fast and the skin beyond her
+    gold ring is turning dusky. Lubrication and elevation have failed. What is the next step?
+  options:
+    - Wait 24 hours for the swelling to go down, then try soap again.
+    - Pull and twist the ring firmly until it passes the knuckle, whatever the pain.
+    - Wrap a tight rubber band around the finger above the ring to push blood back.
+    - String method after a digital block; if it fails, cut the ring with a guard under it.
+  correct: 3
+  explanation: >-
+    A ring on a dusky, swelling finger acts as a tourniquet. Merck's sequence is lubrication, cold,
+    then the string method or a cutter. Twisting increases swelling, and waiting risks the finger.
+- id: q4
+  question: >-
+    A child stepped on a thorn bush. A 1 cm wooden splinter is buried under the sole, with no end
+    showing. You have a sewing needle, tweezers and a lighter. What does good practice look like?
+  options:
+    - Leave it, because wood is inert and causes no problems if left in the foot.
+    - Flame the needle, open the thin skin along the splinter, lift it out whole along its line.
+    - Squeeze hard from both sides until it pops out of the entry hole.
+    - Dig around with the needle until you feel it, however long it takes.
+  correct: 1
+  explanation: >-
+    Wood and anything in the foot should be removed (WMS, AAFP). Open the skin along its length with a
+    clean needle under good light and lift it whole; squeezing breaks it, and endless blind digging
+    does more harm than good.
+- id: q5
+  question: >-
+    A fishing hook has gone into the edge of a teenager's upper eyelid. The eye looks normal and
+    he wants it out now. What do you do?
+  options:
+    - Use the string-yank, because it is the gentlest method.
+    - Use the needle-cover technique, because it does not tear the eyelid.
+    - Shield the eye with a rigid cup without touching the hook, and evacuate urgently.
+    - Cut the shank short with wire cutters and push the point out through the eyelid.
+  correct: 2
+  explanation: >-
+    Hooks in or near the eye or eyelid are not removed in the field (AAFP 2001: rigid shield and
+    immediate ophthalmology). Even with normal vision, removal can cause permanent damage.

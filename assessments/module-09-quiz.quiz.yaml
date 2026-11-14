@@ -1,0 +1,135 @@
+- id: q1
+  question: >-
+    Safe room, hour 10 after a rocket strike, no evacuation before tomorrow. A man has a fragment
+    wound on the thigh, 3 cm, clean-looking after irrigation, and asks you to stitch it so it stops
+    oozing. What do you do?
+  options:
+    - Suture it now, since it looks clean and closure will stop the oozing.
+    - Close it with glue, which seals the fragment track against infection.
+    - Leave it open under pressure, irrigate daily, delayed closure later if clean.
+    - Close it with adhesive strips, which allow drainage between the strips.
+  correct: 2
+  explanation: >-
+    Fragment and other war wounds are contaminated and stay open (WMS, MSF, JTS); this one is also
+    10 hours old. Pressure controls oozing; closure of any kind traps contamination.
+- id: q2
+  question: >-
+    You must infiltrate a long laceration in a 60 kg woman. You have lidocaine 1% with adrenaline.
+    What is the most you may give?
+  options:
+    - 27 ml, because the plain lidocaine maximum of 4.5 mg/kg always applies.
+    - 42 ml, because 7 mg/kg is 420 mg, under the 500 mg cap, and 1% is 10 mg/ml.
+    - 50 ml, the absolute cap for lidocaine with adrenaline at any weight.
+    - 21 ml, because 7 mg/kg is 420 mg and 1% contains 20 mg in each ml.
+  correct: 1
+  explanation: >-
+    With adrenaline the label maximum is 7 mg/kg up to 500 mg. 7 x 60 is 420 mg; at 10 mg/ml that is
+    42 ml. The 500 mg cap applies only to heavier adults, and 1% is 10 mg/ml, not 20.
+- id: q3
+  question: >-
+    A 7-year-old has a 2 cm clean forehead cut, edges meeting easily, and you have no local
+    anaesthetic at all. Her parents want the neatest scar. What is the best closure?
+  options:
+    - Tissue adhesive over the held edges, protecting the eye, or adhesive strips.
+    - Three 5-0 sutures after holding ice on the cut for 15 minutes.
+    - Skin staples, because they are fast and hurt only once.
+    - Leave it open to heal by secondary intention, the best option for cosmetic results.
+  correct: 0
+  explanation: >-
+    A small low-tension face cut is ideal for glue or strips: no needle, no anaesthetic, a scar
+    comparable to sutures. Staples never go on the face, and ice numbs only the surface briefly.
+- id: q4
+  question: >-
+    Two weeks into a long hold, a man you sutured on the trunk 11 days ago and on the shin 11 days
+    ago asks whether the stitches can come out. Both wounds look healed. What do you do?
+  options:
+    - Leave both for another week, because all stitches stay in for 3 weeks.
+    - Remove both sets now; day 10-14 is the usual time for the trunk and legs.
+    - Remove only the trunk stitches; leg stitches always stay for 21 days.
+    - Remove both, but cut and pull each stitch through by the long end, away from the knot.
+  correct: 1
+  explanation: >-
+    AAFP lists 10-14 days for both trunk and legs. Remove by cutting one side close to the skin and
+    pulling by the knot towards the cut side, so the outside segment is not dragged through.
+- id: q5
+  question: >-
+    Your suture kit is used up. A clean 4 cm forearm wound, 2 hours old, needs closing. You have
+    sewing needles, thin clear nylon fishing line, cotton thread, two pairs of pliers, a gas hob and
+    a pot. Which plan is best?
+  options:
+    - Cotton thread on a straight needle used straight from the sewing box.
+    - Fishing line on a needle that was bent cold and quenched in water to harden it.
+    - Cotton thread on a needle sterilised only by wiping it with 40% arak.
+    - Fishing line on a heat-bent needle, boiled 20 min with the pliers; 5 throws per knot.
+  correct: 3
+  explanation: >-
+    Thin nylon line is the closest match to nylon suture and does not wick; its knots slip, so tie
+    about 5 throws. Heating lets the needle bend without snapping, and washing then boiling disinfects
+    needle, line and pliers. Cotton wicks, and 40% spirits do not disinfect.
+- id: q6
+  question: >-
+    A woman has a 3 cm red, hot, boggy lump in her armpit with a pale centre, temperature 37.6 °C,
+    no spreading redness, healthy otherwise. A physician on the phone agrees to drainage. What
+    is the right follow-through after a single long-axis incision?
+  options:
+    - Break up the pockets with a finger, irrigate, dress without packing, review daily.
+    - Pack the cavity tightly with gauze and leave it unchanged for a week.
+    - Close the incision with two stitches once the pus is out, to keep the armpit clean.
+    - Inject antibiotic solution into the cavity and close it with glue.
+  correct: 0
+  explanation: >-
+    MSF: break down the loculi and wash the cavity. Small abscesses in healthy adults did not
+    benefit from packing. Closing the incision lets pus re-collect.
+- id: q7
+  question: >-
+    A diabetic farmer has a fluctuant abscess in the groin, right over the line where you can feel
+    the femoral pulse. He has a fever. What do you do?
+  options:
+    - Drain it with a deep vertical incision so all the pus comes out at once.
+    - Aspirate it with a large needle so that you avoid cutting near the artery.
+    - Do not incise; compresses, antibiotics, sepsis checks and urgent surgical evacuation.
+    - Wait for it to burst by itself, then pack the opening every day.
+  correct: 2
+  explanation: >-
+    MSF refers abscesses next to major vessels to a surgeon; a pulsating groin lump may even be an
+    aneurysm. With fever and diabetes he needs antibiotics, sepsis screening and evacuation.
+- id: q8
+  question: >-
+    During an infiltration with plain lidocaine for a 20 kg child, you realise you drew up the 2%
+    vial instead of 1% and have injected 5 ml. What does that mean?
+  options:
+    - Nothing; 5 ml is within the usual volume for any wound.
+    - She has had 50 mg, which is under the 90 mg maximum, so continue as planned.
+    - She has had 25 mg, so you may now safely double the volume.
+    - She has had 100 mg, over her 90 mg maximum; stop, watch for toxicity, get help.
+  correct: 3
+  explanation: >-
+    2% is 20 mg/ml, so 5 ml is 100 mg; her maximum is 4.5 x 20, which is 90 mg. Stop, watch her for
+    30 minutes for numb lips, tinnitus, twitching or seizures, and contact a physician.
+- id: q9
+  question: >-
+    A boy has a barbed fish hook through the pad of his finger and his other hand is swelling
+    under a steel ring after he trapped it in a door. You are alone with both. What do you do first?
+  options:
+    - Remove the fish hook first, since it is a penetrating injury.
+    - Get the ring off the swelling finger first, then deal with the hook.
+    - Give oral analgesia and wait an hour for both swellings to settle.
+    - Cut the fish hook's shank short so it cannot catch, then evacuate both.
+  correct: 1
+  explanation: >-
+    A ring on a swelling finger is a tourniquet and gets worse every minute; remove it now by
+    lubrication, the string method or cutting. A barbed hook in a finger pad is stable and can wait.
+- id: q10
+  question: >-
+    Day 2 after you sutured a clean shin cut, the man has a temperature of 38.3 °C, the wound is
+    red 3 cm around and swollen, and a little cloudy fluid oozes between two stitches. What now?
+  options:
+    - Leave the stitches; apply honey on top of the closed wound and recheck in 3 days.
+    - Add more stitches between the oozing ones to seal the wound.
+    - Cover it with glue to stop the oozing and keep bacteria out.
+    - Remove some or all stitches, let it drain, irrigate, leave open, start antibiotics.
+  correct: 3
+  explanation: >-
+    Signs of infection after closure mean the wound must be opened and drained (WMS); with fever
+    and spreading redness he also needs antibiotics and sepsis screening (08.5). Sealing it traps
+    pus.

@@ -1,0 +1,23 @@
+# Glossary inbox — Module 9
+
+- Primary closure — closing a fresh wound (sutures, staples, glue or strips) at the first treatment.
+- Delayed primary closure — closing a wound that was left open and dressed for about 3-5 days, once it is clean.
+- Secondary intention — healing of an open wound from its base upward, without closure.
+- Eversion — the slight outward lift of wound edges that a good stitch produces, giving a flatter scar.
+- Simple interrupted suture — a single stitch through both edges, tied and cut, repeated along the wound.
+- Vertical mattress suture — a "far-far, near-near" stitch that everts the edges and closes deeper space.
+- Horizontal mattress suture — a stitch that crosses the wound twice side by side, for tension and bleeding.
+- Instrument tie — tying a suture knot by wrapping the thread around the needle holder.
+- Surgeon's knot — a first throw with two wraps, which holds while the next throws are tied.
+- Tissue adhesive — medical cyanoacrylate glue (octyl or butyl) used to hold closed skin edges together.
+- Hair apposition technique (HAT) — closing a scalp cut by twisting hair from each side across it and fixing the twist with glue.
+- Butterfly strip — a tape strip with a narrow non-sticky middle used to hold small wound edges together.
+- Infiltration — injecting local anaesthetic into the tissue around or through the edges of a wound.
+- Field block — a ring of local anaesthetic injected in healthy skin around an area, such as an abscess.
+- Digital block — local anaesthetic placed at the base of a finger or toe to numb the whole digit.
+- Local anaesthetic systemic toxicity (LAST) — poisoning from too much local anaesthetic or injection into a vein: numb lips, tinnitus, twitching, seizures, arrest.
+- Fluctuance — a soft, fluid-filled feel in a swelling, the sign that an abscess contains pus.
+- Loculi — separate walled-off pockets inside an abscess, broken up by finger or clamp during drainage.
+- Loop drainage — draining an abscess through two small incisions with a loop of drain material tied outside.
+- String-yank — removing a fish hook by pressing its shank flat and jerking a string looped around its bend.
+- Advance and cut — removing a fish hook by pushing the point out, cutting off the barb and backing the rest out.

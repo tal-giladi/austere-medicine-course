@@ -18,8 +18,8 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Module 06 — Attack scenes, CBRN and moving casualties
 - [x] Module 07 — Keeping a casualty alive for 72 hours
 - [x] Module 08 — What goes wrong after the first hour
-- [ ] Module 09 — Wound closure and minor surgery
-- [x] Module 10 (waiting for 09 before sidebar) — Dislocations and orthopaedics without X-ray
+- [x] Module 09 — Wound closure and minor surgery
+- [x] Module 10 — Dislocations and orthopaedics without X-ray
 - [ ] Module 11 — Fluids, diarrhoea and outbreaks
 - [ ] Module 12 — Medicine without a doctor
 - [ ] Module 13 — People, the dead, and running a casualty point for days
@@ -27,7 +27,7 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
 
 ## Now working
-- Modules 09 and 11 (one agent each).
+- Modules 11 and 12 (one agent each).
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Day 1 of a long hold in a cut-off village. A man has a 5 cm gaping cut on his shin from a
+    sheet-metal edge in a cowshed, 3 hours ago, with manure in it. You have suture material and
+    lidocaine. What do you do?
+  options:
+    - Irrigate it well and suture it now, since it is within the 6-hour limit for the body.
+    - Close it with tape strips only, because tape lets pus drain out between the strips.
+    - Irrigate it well, dress it open, and consider delayed closure at 3-5 days if clean.
+    - Suture it loosely with wide gaps between stitches so that any infection can drain.
+  correct: 2
+  explanation: >-
+    Heavy farm or faecal contamination makes a wound dirty regardless of its age (WMS). Dirty
+    wounds get high-pressure irrigation and stay open, with delayed primary closure once clean;
+    loose stitches and tape still trap contamination.
+- id: q2
+  question: >-
+    A 30-year-old cut her palm on a broken glass 1 hour ago. The 2 cm cut is clean. When you hold the
+    middle joint of her ring finger straight, she cannot bend the tip. What is the right plan?
+  options:
+    - Irrigate, close the skin loosely or leave it dressed, splint the hand, and arrange evacuation.
+    - Irrigate and suture it carefully now, since it is clean and only 1 hour old.
+    - Glue it, because glue avoids a needle near the tendon and closes the skin quickly.
+    - Explore it deeply under local anaesthetic and tie the tendon ends with your strongest thread.
+  correct: 0
+  explanation: >-
+    Inability to bend the tip with the middle joint held means the deep flexor tendon is likely cut.
+    Tendon repair is a surgeon's job, with a window of days; your job is to irrigate, protect,
+    splint and evacuate, not to close it tight and hide the problem.
+- id: q3
+  question: >-
+    You need to prepare the skin around a clean forearm cut for closure. The house has dish soap,
+    40% arak, an unopened bottle of household bleach and alcohol hand gel (70%). What is the best
+    sequence?
+  options:
+    - Pour arak into the wound, then wipe the skin with undiluted bleach to sterilise it.
+    - Soap and water on the skin, water in the wound, then hand gel on intact skin, left to dry.
+    - Fill the wound with hand gel to kill bacteria inside, then rinse it out with arak.
+    - Wash the wound itself with dilute bleach at 0.5%, the same strength used for surfaces.
+  correct: 1
+  explanation: >-
+    Soap and water clean the skin; the wound itself gets potable water only (no additives, WMS 1A).
+    Alcohol of 60% or more on intact skin disinfects; 40% spirits do not, and 0.5% bleach is a
+    surface strength that damages skin and tissue.
+- id: q4
+  question: >-
+    A 10-year-old has a 3 cm forehead cut from a fall. An ambulance is confirmed to arrive in about
+    40 minutes. What is the best use of that time for the wound?
+  options:
+    - Close it with glue now so the hospital has nothing more to do.
+    - Suture it now, because face wounds scar badly if closure waits.
+    - Leave it uncovered so the receiving team can see it as soon as they arrive.
+    - Irrigate, cover it with a clean dressing and pressure, record findings, and hand over.
+  correct: 3
+  explanation: >-
+    When evacuation is coming within hours, don't close. A clean, dressed face wound can still be
+    closed at the hospital well within the face time limits, after proper exploration there.
+- id: q5
+  question: >-
+    A dog bit a man's calf 2 hours ago, leaving two 1.5 cm tears. The wound looks clean after
+    irrigation. He asks you to stitch it so it heals faster. What do you do?
+  options:
+    - Suture it now, since it is clean and well within 6 hours.
+    - Leave it open with dressings, raise the antibiotic and rabies questions with a physician.
+    - Close it with tape strips, which are safe for bites because they do not puncture the skin.
+    - Glue it, because glue seals bacteria out of the wound.
+  correct: 1
+  explanation: >-
+    Bites are on every list of wounds that stay open (MSF, WMS). Any closure, including tape and
+    glue, traps the bacteria inside. Dog bites in Israel also raise the rabies question, which
+    is for a physician.

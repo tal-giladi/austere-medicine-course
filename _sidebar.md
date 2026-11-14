@@ -74,3 +74,17 @@
   - [54 · Wound infection and sepsis without labs](lessons/module-08/lesson-05.md)
   - [55 · Wound care after 24 hours: irrigation, debridement and delayed closure](lessons/module-08/lesson-06.md)
   - [Module 8 quiz](assessments/module-08-quiz.md)
+- **Module 9 — Wound closure and minor surgery**
+  - [56 · Close or leave open: the decision](lessons/module-09/lesson-01.md)
+  - [57 · Tape, glue and hair apposition](lessons/module-09/lesson-02.md)
+  - [58 · Local anaesthesia: lidocaine, infiltration and digital block](lessons/module-09/lesson-03.md)
+  - [59 · Suturing and staples, and when to take them out](lessons/module-09/lesson-04.md)
+  - [60 · Abscess drainage](lessons/module-09/lesson-05.md)
+  - [61 · Foreign bodies: splinters, fish hooks, glass and rings](lessons/module-09/lesson-06.md)
+  - [Module 9 quiz](assessments/module-09-quiz.md)
+- **Module 10 — Dislocations and orthopaedics without X-ray**
+  - [62 · Shoulder dislocation: assessment and reduction](lessons/module-10/lesson-01.md)
+  - [63 · Kneecap, finger and toe dislocations](lessons/module-10/lesson-02.md)
+  - [64 · Ankle and fracture-dislocations: realignment when circulation is at risk](lessons/module-10/lesson-03.md)
+  - [65 · Long-term splint care and walking out](lessons/module-10/lesson-04.md)
+  - [Module 10 quiz](assessments/module-10-quiz.md)

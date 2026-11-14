@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A 14 kg toddler needs a 3 cm chin cut explored and closed. The only local anaesthetic is
+    lidocaine 2% without adrenaline. What is the label maximum volume of this vial?
+  options:
+    - About 6.3 ml, using 4.5 mg/kg as for 1% lidocaine.
+    - About 3.2 ml, because 4.5 mg/kg is 63 mg and 2% has 20 mg in each ml.
+    - About 4.9 ml, using the 7 mg/kg maximum for lidocaine.
+    - About 1 ml, because no lidocaine at all is allowed under 3 years.
+  correct: 1
+  explanation: >-
+    4.5 x 14 kg is 63 mg. At 20 mg/ml that is about 3.2 ml. Using the 1% volume with a 2% vial
+    doubles the dose, and 7 mg/kg applies only with adrenaline.
+- id: q2
+  question: >-
+    Two minutes into infiltrating a large thigh laceration with plain lidocaine, the casualty says
+    his lips feel numb and his ears are ringing, and his hand starts to twitch. What do you do?
+  options:
+    - Finish the last 2 ml quickly so the wound is fully numb before he gets worse.
+    - Switch to bupivacaine, which does not cause these effects.
+    - Stop injecting, protect the airway, prepare for seizures and call for help.
+    - Reassure him that tingling lips are the normal sign that the anaesthetic is working.
+  correct: 2
+  explanation: >-
+    Numb lips, tinnitus and twitching are early signs of local anaesthetic systemic toxicity.
+    Stop at once, support airway and breathing, plan for seizures and get the most qualified
+    help you can; bupivacaine is more cardiotoxic, not less.
+- id: q3
+  question: >-
+    A healthy 35-year-old has a deep cut on the side of his index finger that needs exploring. You
+    have lidocaine 2% with adrenaline 1:100,000. What does current evidence say about using it for a
+    digital block?
+  options:
+    - Safe in a healthy finger; avoid it only with poor circulation or a pale, injured finger base.
+    - Never use adrenaline in a finger, because it causes gangrene in a large share of cases.
+    - Use it only if you also put a rubber band at the base to keep the drug in the finger.
+    - Use it only at 1:50,000, since weaker strengths are not effective in fingers.
+  correct: 0
+  explanation: >-
+    A literature review found no digital necrosis attributable to adrenaline 1:100,000-1:200,000 in
+    thousands of blocks, and AAFP calls it safe in digits. Poor peripheral circulation is the
+    contraindication.
+- id: q4
+  question: >-
+    There is no local anaesthetic in a cut-off village. A woman has a clean, straight 3 cm cut on
+    her forearm, 2 hours old, edges meeting easily. What is the best way to manage the pain of
+    closure?
+  options:
+    - Hold ice on it for 20 minutes so the whole wound is numb, then put in six stitches.
+    - Give her 100 ml of arak to drink before suturing so she tolerates the stitches.
+    - Rub a pharmacy numbing cream into the open wound and wait an hour before suturing.
+    - Close it with tape or glue, which needs no anaesthetic at all.
+  correct: 3
+  explanation: >-
+    A small, clean, low-tension cut can be closed with strips or glue without any needle. Ice numbs
+    only the surface for minutes, alcohol by mouth is harmful, and intact-skin creams are not for
+    open wounds.
+- id: q5
+  question: >-
+    You are about to numb an abscess on the thigh that is red and tense. Why is injecting lidocaine
+    directly into the red, infected area likely to work poorly?
+  options:
+    - Lidocaine is broken down by bacteria within seconds of injection.
+    - Infected tissue is acidic and blocks lidocaine; a field block around it works better.
+    - Infected skin has no nerves, so there is nothing for the lidocaine to block.
+    - Lidocaine spreads infection into the blood, so it can only be used after drainage.
+  correct: 1
+  explanation: >-
+    Acidic, inflamed tissue reduces how well local anaesthetic works. Injecting a ring or diamond
+    of anaesthetic in healthy skin 1-2 cm outside the redness (a field block) gives better
+    anaesthesia.

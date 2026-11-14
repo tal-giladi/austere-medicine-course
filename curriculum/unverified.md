@@ -30,3 +30,6 @@ To review before a public release.
 
 ## Module 10
 - No WMS dislocation guideline exists; NOLS 2015 only via Wayback; StatPearls blocked (used MSD Manual); anterior/posterior dislocation percentages; WMS pain guideline full text; methoxyflurane limits and Israeli status; haematoma block volume; FARES rates not quoted; Israeli scope for reductions; course rules labelled. 10.2 mentions 09.3 as plain text — link it once module 9 is in.
+
+## Module 9
+- No human studies of household suture threads or superglue on skin; needle bending method (reasoning); pressure-cooker time extrapolated; child lidocaine ceiling (course rule); bupivacaine max from secondary sources; TMP-SMX child dose from a poor scan; closure time limits synthesised (WMS/MSF/AAFP); WMS wound guideline 2014 latest found; small-abscess packing evidence thin.

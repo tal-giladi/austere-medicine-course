@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You have just tied your first simple stitch in a forearm cut. Looking at it, the skin edges
+    have rolled inward so you cannot see where they meet. What is the most likely error?
+  options:
+    - The knot was not tied tightly enough, so the edges are sagging inward.
+    - The stitch was placed too far from the edge, which always inverts the skin.
+    - The knot was pulled to one side of the wound instead of being centred on it.
+    - The bite was too shallow; it should be as deep as it is wide, wider at the bottom.
+  correct: 3
+  explanation: >-
+    MSF: make the suture as deep as it is wide; shallow sutures invaginate the edges. A flask-shaped
+    loop, wider at the bottom, everts the edges. Knots belong off the wound line, and tighter knots
+    only strangle the skin.
+- id: q2
+  question: >-
+    You closed a 4 cm cut on a man's cheek on Sunday. On which day should the stitches usually come
+    out?
+  options:
+    - Wednesday to Friday (day 3-5), to avoid stitch marks on the face.
+    - The following Sunday (day 7), the standard time for all skin stitches.
+    - Day 10-14, because the face moves constantly when talking and eating.
+    - Day 14-21, the same as the palms and soles.
+  correct: 0
+  explanation: >-
+    Face stitches come out at 3-5 days (AAFP 2017). The face heals fast, and stitches left longer
+    leave track marks; adhesive strips can support the line afterwards.
+- id: q3
+  question: >-
+    A 6 cm scalp laceration keeps oozing despite pressure. You have a skin stapler, 4-0 nylon and
+    tissue glue. A helper is available. Which closure fits best?
+  options:
+    - Tissue glue along the whole wound, because it is fastest.
+    - Staples with the helper everting the edges, which also helps control the bleeding.
+    - A single continuous running stitch so that the whole wound is closed in one pass.
+    - Leave it open, because scalp wounds should never be closed in the field.
+  correct: 1
+  explanation: >-
+    The scalp is a good site for staples: fast, and closure helps stop scalp bleeding. Glue does not
+    stop bleeding, and a running stitch fails completely if one point breaks or becomes infected.
+- id: q4
+  question: >-
+    No suture kit exists. In the house you find thin clear nylon fishing line, waxed mint dental
+    floss, cotton sewing thread and polyester thread. Which is the best choice for skin stitches?
+  options:
+    - The mint dental floss, because it is made for use in the body.
+    - The cotton thread, because it is the softest on the skin.
+    - The thin nylon fishing line, a monofilament like nylon sutures; tie extra throws.
+    - The polyester thread, doubled, because two strands are stronger than one.
+  correct: 2
+  explanation: >-
+    Thin nylon line is the same polymer family and size as 3-0 or 4-0 nylon suture and does not wick.
+    Its knots slip, so tie about 5 throws. Floss and cotton are multifilaments that wick fluid,
+    and flavoured wax adds chemicals.
+- id: q5
+  question: >-
+    You want to curve a household sewing needle to make suturing easier. What is the right way?
+  options:
+    - Heat the middle to dull red, bend it slowly around a pen with pliers, let it cool in air.
+    - Bend it cold with two pairs of pliers, then quench it in cold water to harden it.
+    - Bend it cold between your fingers, because heat would make it unsterile.
+    - Heat the point until it glows, then bend only the tip into a hook.
+  correct: 0
+  explanation: >-
+    Hardened needle steel tends to snap when bent cold; heating the middle softens it so it bends,
+    and slow air cooling avoids making it brittle again. Keep the point out of the flame so it stays
+    sharp; the flame also helps sterilise the metal.

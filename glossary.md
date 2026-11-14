@@ -6,20 +6,25 @@ Terms used in the course, in alphabetical order.
 - **Accumulation** — build-up of a drug or its products when the body clears it slowly, for example morphine in kidney failure.
 - **Acute hemolytic transfusion reaction** — destruction of transfused red cells by the recipient's antibodies (usually ABO mismatch): fever, back pain, shock, dark urine.
 - **Acute kidney injury (AKI)** — sudden loss of kidney function; in the field, urine below 0.5 ml/kg/h for 6 hours.
+- **Advance and cut** — removing a fish hook by pushing the point out, cutting off the barb and backing the rest out.
 - **Agranulocytosis** — sudden loss of white blood cells; fever, sore throat or mouth ulcers after a drug such as dipyrone.
 - **Anterior axillary line (AAL)** — vertical line down the side of the chest from the front fold of the armpit.
+- **Anterior shoulder dislocation** — the head of the upper-arm bone slips forward and down out of the socket; by far the commonest shoulder dislocation.
 - **APLS weight formula** — estimated child weight by age: (0.5 × months) + 4 under 1 year, (2 × years) + 8 for 1-5, (3 × years) + 7 for 6-12.
 - **AT-MIST** — A handover format some services use: age, time of injury, then MIST.
 - **AtroPen** — atropine-only autoinjector in 0.5, 1 and 2 mg sizes, chosen by weight.
 - **Atropine endpoint** — dry bronchial secretions and easy breathing; not pupil size or heart rate.
 - **AVPU** — Level of consciousness scale: alert, responds to voice, responds to pain, unresponsive.
+- **Axillary nerve** — nerve wrapping around the upper arm that supplies the deltoid; tested by feeling on the outer upper arm before and after a shoulder reduction.
 - **Background, breakthrough and procedural pain** — continuous pain from a wound, pain triggered by movement, and pain caused by a procedure; each has its own plan.
 - **Bag-valve-mask (BVM)** — self-inflating bag with a one-way valve and face mask for ventilating a casualty who is not breathing adequately; TCCC specifies a 1000 ml bag.
 - **Blanch test** — pressing red skin to see whether it turns pale and refills; red skin that stays red is an early pressure injury.
 - **Blast lung** — bruising and bleeding inside the lungs from the blast wave; causes breathlessness, coughing blood and low SpO2, sometimes up to 48 hours later.
 - **Bougie** — long, thin, flexible guide over which a tube is passed into the trachea; tracheal rings are felt as clicks when it is in place.
 - **Broselow tape** — length-based tape that estimates a child's weight in colour zones and gives matching doses and equipment sizes.
+- **Buddy taping** — taping an injured finger or toe to its neighbour, with padding between, above and below the injured joint.
 - **Burping a chest seal** — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
+- **Butterfly strip** — a tape strip with a narrow non-sticky middle used to hold small wound edges together.
 - **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
 - **Carbon monoxide (CO)** — odourless gas from incomplete burning that binds haemoglobin; a standard pulse oximeter reads normal despite poisoning.
 - **Carbon monoxide poisoning** — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
@@ -34,21 +39,27 @@ Terms used in the course, in alphabetical order.
 - **Combat Gauze** — QuikClot Combat Gauze, the kaolin dressing that TCCC names as the hemostatic dressing of choice.
 - **Combat Wound Medication Pack (CWMP)** — TCCC tablet pack: acetaminophen, meloxicam and, since 2026, suzetrigine.
 - **Compartment syndrome** — rising pressure inside a closed muscle compartment that cuts off blood flow and kills the muscle within hours.
+- **Complex MCP dislocation** — knuckle dislocation with the volar plate trapped in the joint; cannot be reduced by pulling and often needs surgery.
 - **Condom catheter** — an external sheath over the penis that drains urine to a bag, avoiding an indwelling catheter.
 - **CoTCCC** — Committee on Tactical Combat Casualty Care, the US military body that publishes the TCCC guidelines.
 - **CRESS** — Consciousness, Respirations, Eyes, Secretions, Skin: the 2026 JTS rapid check that sorts chemical casualties into toxidromes.
 - **Cric-Key** — commercial cricothyroidotomy device whose hollow introducer works as both hook and guide; the TCCC course's preferred cric method.
 - **Cricothyroid membrane** — the membrane between the thyroid and cricoid cartilages at the front of the neck, about 6-10 mm high in adults; the site of a surgical airway.
 - **Crush syndrome** — shock, high potassium and kidney failure after release of a large muscle mass that was compressed for about an hour or more.
+- **Crutch palsy** — weakness of the wrist and hand from leaning the armpit on a crutch, compressing the radial nerve.
 - **Crystalloid** — salt-water IV fluid such as 0.9% saline, Hartmann's or Plasma-Lyte; carries no oxygen or clotting factors.
 - **CSM** — circulation, sensation and motor function checked beyond an injury or splint.
+- **Cunningham technique** — seated shoulder reduction by massaging the biceps, deltoid and trapezius while the casualty pulls the shoulder blades back; no traction.
 - **Cushing's triad** — rising blood pressure, slowing heart rate and irregular breathing; a late sign of brain herniation.
 - **CYP3A inhibitor** — drug or food (e.g. clarithromycin, ketoconazole, grapefruit) that blocks a liver enzyme and raises levels of drugs it breaks down.
 - **Dakin's solution** — diluted sodium hypochlorite buffered with bicarbonate; 0.025% (25 ÷ bleach % ml of bleach per litre) for dirty or infected wounds.
+- **Davos (Boss-Holzach-Matter) technique** — self-reduction of a shoulder: wrists bound around the bent knee, the casualty leans back to apply their own traction.
 - **DD Form 1380** — The TCCC casualty card used to record mechanism, injuries, signs and treatments; attached visibly to the casualty.
 - **Dead space** — volume left in a syringe tip, atomiser or line after injection.
 - **Debridement** — removal of dead tissue and debris from a wound.
+- **Delayed primary closure** — closing a wound that was left open and dressed for about 3-5 days, once it is clean.
 - **Delayed primary closure (DPC)** — closing a wound after 3-7 days of open care once it is clean.
+- **Digital block** — local anaesthetic placed at the base of a finger or toe to numb the whole digit.
 - **Dipyrone (metamizole)** — non-opioid painkiller sold over the counter in Israel (e.g. Optalgin); rare risk of agranulocytosis.
 - **Direct threat care** — TECC phase (hot zone) in which the threat is active; only cover, self-aid, movement and hasty tourniquets.
 - **Distal pulse** — pulse below a tourniquet (wrist for the arm, ankle or foot for the leg); its absence confirms an arterial tourniquet.
@@ -64,14 +75,18 @@ Terms used in the course, in alphabetical order.
 - **EtCO2 (end-tidal carbon dioxide)** — carbon dioxide measured in breathed-out air; confirms a tube is in the airway and guides ventilation rate.
 - **Evacuation care** — TECC phase (cold zone) that starts at handover or transport; every intervention is re-assessed.
 - **Evacuation category** — Urgent, priority or routine: how soon a casualty needs to reach surgical care.
+- **Eversion** — the slight outward lift of wound edges that a good stitch produces, giving a flatter scar.
 - **Evisceration** — abdominal organs, usually bowel, protruding through a wound in the abdominal wall.
 - **Extravasation** — leakage of infused fluid or drug into the tissue around a vein or IO; can cause compartment syndrome or tissue necrosis.
 - **EZ-IO** — battery-driven IO device with 15G needles of 15, 25 and 45 mm, used at the humerus, tibia and (in children) distal femur.
+- **FARES** — FAst, REliable, Safe shoulder reduction: gentle traction with small vertical oscillations while the arm is slowly raised to the side and turned out.
 - **Fasciotomy** — surgical opening of the skin and fascia over the full length of every affected compartment to release pressure.
 - **FAST1 / FASTResponder** — push-type sternal IO device that places an infusion tube 6 mm into the manubrium, for ages 12 and over.
+- **Field block** — a ring of local anaesthetic injected in healthy skin around an area, such as an abscess.
 - **Filter needle** — needle with a filter for drawing from glass ampoules without drawing up glass fragments.
 - **Finger thoracostomy** — opening the chest wall through a short incision in the side and passing a finger into the chest cavity to release air or blood; a provider-level procedure.
 - **Flowsheet** — a chart that plots vital signs, fluids, drugs and nursing tasks against time so that trends are visible.
+- **Fluctuance** — a soft, fluid-filled feel in a swelling, the sign that an abscess contains pus.
 - **Fluid overload** — too much fluid for the heart and kidneys to handle, causing breathlessness, crackles and swelling.
 - **Flutter valve (Heimlich valve)** — one-way valve that lets air out of a chest tube and closes when the casualty breathes in.
 - **Four Cs** — colour, consistency, contraction and circulation: the tests for whether muscle in a wound is alive.
@@ -80,6 +95,8 @@ Terms used in the course, in alphabetical order.
 - **Geotag** — location data stored inside a digital photo.
 - **Glasgow Coma Scale (GCS)** — 3-15 score of eye opening, verbal response and motor response; 13-15 mild, 9-12 moderate, 3-8 severe head injury.
 - **Greater trochanter** — bony bump on the outside of the upper thigh, roughly level with the pubic bone; the level at which a pelvic binder is centred.
+- **Haematoma block** — local anaesthetic injected into the blood collection around a fracture to allow manipulation.
+- **Hair apposition technique (HAT)** — closing a scalp cut by twisting hair from each side across it and fixing the twist with glue.
 - **Handoff report** — a structured handover: overall condition, mechanism, injuries, vital signs with trends and urine, treatments with times, and what is due next.
 - **Healing by secondary intention** — leaving a wound open to fill in and close from the bottom by itself.
 - **Hemorrhagic shock** — failure of circulation from blood loss; in the field, altered mental status without head injury and/or a weak or absent radial pulse (TCCC).
@@ -88,6 +105,7 @@ Terms used in the course, in alphabetical order.
 - **Herniation** — the swelling brain being forced through openings in the skull; signs are an unequal or fixed dilated pupil, posturing and Cushing's triad.
 - **High and tight** — Placing a tourniquet as close to the body as possible on the injured limb when the bleeding site cannot be seen under direct threat.
 - **Holliday-Segar rule** — child maintenance fluid: 100 ml/kg/day for the first 10 kg, 50 ml/kg/day for the next 10 kg, 20 ml/kg/day above 20 kg (4-2-1 ml/kg/h).
+- **Horizontal mattress suture** — a stitch that crosses the wound twice side by side, for tension and bleeding.
 - **Hot, warm and cold zones** — TECC/CBRN areas of active threat (only tourniquet and extraction), threat not cleared (full treatment, decontamination) and safe (evacuation care).
 - **HPMK** — Hypothermia Prevention and Management Kit: military kit with a chemical heating blanket and a heat-reflective shell; not insulated.
 - **Hydroxocobalamin (Cyanokit)** — cyanide antidote, 5 g IV over 15 min in adults, 70 mg/kg in children.
@@ -101,6 +119,7 @@ Terms used in the course, in alphabetical order.
 - **Indirect threat care** — TECC phase (warm zone) in relative safety where the threat may return; the full MARCH sequence is done here. TCCC calls it Tactical Field Care.
 - **Infiltration** — IV fluid leaking into the tissue around a cannula, causing swelling, coolness and pain.
 - **Inhalation injury** — airway and lung damage from hot gases and smoke; suspected with closed-space burns, soot and hoarseness.
+- **Instrument tie** — tying a suture knot by wrapping the thread around the needle holder.
 - **Intake and output (I/O)** — the record of all fluid going into and coming out of a casualty, totalled into a fluid balance.
 - **Intercostal space (ICS)** — the space between two ribs, numbered after the rib above it.
 - **Intraosseous (IO) access** — a needle through the bone cortex into the marrow, used like an IV when veins cannot be found.
@@ -111,13 +130,17 @@ Terms used in the course, in alphabetical order.
 - **Junctional tourniquet** — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
 - **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
 - **Ketamine** — dissociative analgesic that preserves breathing and blood pressure at pain doses; given IM, IN, IV or IO.
+- **Knee dislocation** — displacement of the shin bone from the thigh bone; a high-energy injury with a high risk of popliteal artery and nerve injury.
 - **Knockdown toxidrome** — sudden collapse with fast then failing breathing and normal pupils and secretions, typical of cyanide.
 - **Laryngeal handshake** — technique of gripping the larynx between thumb and middle finger and sliding down to find and hold the cricothyroid membrane.
 - **Laryngospasm** — sudden closure of the vocal cords, a rare complication of ketamine; treated with jaw thrust and positive-pressure ventilation.
 - **Lateral canthotomy** — cutting the outer corner of the eyelid to release pressure in the orbit; a physician procedure.
 - **Lethal triad** — hypothermia, coagulopathy and acidosis, which worsen each other in a bleeding casualty.
+- **Local anaesthetic systemic toxicity (LAST)** — poisoning from too much local anaesthetic or injection into a vein: numb lips, tinnitus, twitching, seizures, arrest.
+- **Loculi** — separate walled-off pockets inside an abscess, broken up by finger or clamp during drainage.
 - **Log roll** — turning a casualty as one unit with the head held in line, used when spinal injury is possible.
 - **Long lie** — hours spent unable to get up after a fall; a common cause of rhabdomyolysis and pressure injury in the elderly.
+- **Loop drainage** — draining an abscess through two small incisions with a loop of drain material tied outside.
 - **LTOWB** — low-titer group O whole blood: group O blood with low anti-A and anti-B antibody levels, used as universal whole blood.
 - **Maggot debridement therapy** — use of sterile, laboratory-bred Lucilia sericata larvae to eat dead tissue in chronic wounds.
 - **Maintenance fluid** — the daily fluid needed to replace normal losses, on top of any resuscitation fluid.
@@ -143,17 +166,20 @@ Terms used in the course, in alphabetical order.
 - **Oral (enteral) burn resuscitation** — replacing burn shock fluid losses by drinking (or tube feeding) a salt-and-sugar solution, titrated to urine output.
 - **Orally dissolving tablet (ODT)** — tablet that dissolves on the tongue without water.
 - **Orbital compartment syndrome** — rising pressure behind the eye from bleeding that threatens the optic nerve; treated by lateral canthotomy.
+- **Ottawa rules** — validated bedside rules (ankle, foot, knee) that identify which injuries are unlikely to be fractures without an X-ray.
 - **Oxygen concentrator** — electric device that removes nitrogen from room air to deliver oxygen-enriched air at low flow; needs mains or generator power.
 - **PACE plan** — primary, alternate, contingency and emergency communication methods, planned and tested in advance.
 - **Pain on passive stretch** — severe pain when the muscles of a compartment are stretched by moving the toes or fingers; an early sign of compartment syndrome.
 - **Palm method** — the casualty's own palm with fingers is about 1% of their body surface area.
 - **Parkland formula** — burn fluid estimate of 4 ml x kg x %TBSA for the first 24 hours, half in the first 8 hours from the time of injury.
+- **Patellar dislocation** — the kneecap slips out of its groove, almost always to the outer side; reduced by straightening the knee.
 - **Patient packaging** — preparing a casualty, documents, drugs, lines and dressings for transport.
 - **PAWS** — Teaching mnemonic that follows MARCH: pain, antibiotics, wounds, splinting.
 - **Pediatric Assessment Triangle** — quick look at a child's appearance, work of breathing and skin circulation before touching them.
 - **Pelvic binder** — wide belt or folded sheet tightened around the greater trochanters to close and stabilise a broken pelvic ring.
 - **Peritonitis** — infection and inflammation of the lining of the abdomen, usually from a bowel injury; causes fever, rising pulse and a rigid, painful belly.
 - **Permissive (hypotensive) resuscitation** — giving only enough fluid to reach a radial pulse, better mental status or systolic 100 mmHg, so clots are not blown off before surgery.
+- **Peroneal nerve palsy** — numb top of the foot and foot drop from pressure on the nerve just below the outer knee.
 - **Phlebitis** — inflammation of a vein around a cannula, seen as a red, tender cord.
 - **Pneumothorax** — air between the lung and the chest wall, causing the lung to collapse partly or fully.
 - **Posturing** — abnormal rigid flexion or extension of the arms in response to pain, a sign of severe brain injury.
@@ -163,6 +189,7 @@ Terms used in the course, in alphabetical order.
 - **Pressure delivery device** — improvised hard bolus strapped over a junctional pressure point to keep pressure on it without a rescuer's hands.
 - **Pressure injury** — damage to skin and tissue over a bony point from sustained pressure; stage 1 is red skin that does not blanch.
 - **Primary blast injury** — damage from the blast pressure wave itself, especially to air-filled organs such as the lungs, often with no visible wound.
+- **Primary closure** — closing a fresh wound (sutures, staples, glue or strips) at the first treatment.
 - **PRISM** — US federal (ASPR/BARDA) evidence-based guidance for mass chemical decontamination: evacuate, disrobe, dry, then wet.
 - **Proctoclysis** — giving fluid into the rectum through a soft tube for absorption by the large bowel.
 - **Prolonged casualty care (PCC)** — casualty care for extended periods when evacuation or the situation outruns the available capability; the JTS umbrella term since 2021.
@@ -171,6 +198,7 @@ Terms used in the course, in alphabetical order.
 - **Pulse-dose delivery** — oxygen delivered only when the user breathes in, used by many portable concentrators; unsuitable for a casualty who is not breathing or is on a BVM.
 - **qSOFA** — quick sepsis screen: breathing 22 or more, altered mentation, systolic blood pressure 100 or less; two or more signals high risk.
 - **Quaternary blast injury** — all other effects of an explosion, such as burns, smoke inhalation and crush.
+- **Quigley's traction** — suspending the leg by the foot in a fabric sling so its own weight helps realign a displaced ankle fracture.
 - **RASS (Richmond Agitation-Sedation Scale)** — a scale from +4 (combative) to -5 (unrousable) used to score agitation and sedation.
 - **Rautek grip** — rescuer behind the casualty grips one of their forearms across the chest from under both armpits to lift and drag them out of a seat or along a floor.
 - **Read-back** — repeating a recommendation, dose or time aloud to confirm it was understood correctly.
@@ -187,17 +215,25 @@ Terms used in the course, in alphabetical order.
 - **Rule of Ten** — USAISR starting burn fluid rate: %TBSA x 10 ml per hour for 40-80 kg adults, plus 100 ml per hour for every 10 kg above 80 kg.
 - **Safe triangle** — area on the side of the chest bordered by the edges of the chest and back muscles and the nipple level, used for chest drains and thoracostomy.
 - **Saline lock** — a capped IV cannula kept open by regular saline flushes for intermittent use.
+- **Scapular manipulation** — shoulder reduction by pushing the lower tip of the shoulder blade towards the spine while the arm is under gentle traction.
 - **Secondary blast injury** — penetrating wounds from fragments and debris thrown by an explosion.
 - **Secondary device** — a second explosive or attack aimed at the crowd and rescuers after a first event; recognised and avoided, never touched.
+- **Secondary intention** — healing of an open wound from its base upward, without closure.
 - **Septic shock** — sepsis with persistent low blood pressure despite fluids, needing vasopressors.
 - **Serotonin syndrome** — agitation, tremor, fever and twitching from combining serotonergic drugs such as SSRIs, tramadol and ondansetron.
 - **Shock index** — heart rate divided by systolic blood pressure; above 0.9 suggests significant blood loss even when the pressure looks normal.
+- **Simple interrupted suture** — a single stitch through both edges, tied and cut, repeated along the wound.
 - **SIRS** — heart rate above 90, breathing above 20, temperature above 38 °C or below 36 °C (and abnormal white count); early warning signs of systemic inflammation.
 - **Sit up and lean forward** — position TCCC lets a conscious casualty with facial or jaw injuries take so blood drains out of the mouth instead of into the airway.
+- **Skin tenting** — skin stretched white over a displaced bone end; it will die within hours unless the bone is realigned.
 - **SLUDGE** — Salivation, Lacrimation, Urination, Defecation, GI upset, Emesis: memory aid for cholinergic secretions.
 - **Source control** — removing the cause of an infection: draining pus, removing dead tissue, foreign bodies and infected lines.
+- **Spaso technique** — shoulder reduction lying on the back by lifting the straight arm to vertical with gentle traction and slight outward rotation.
 - **Sternal angle (angle of Louis)** — horizontal ridge on the breastbone where the 2nd rib attaches; the landmark for counting ribs.
+- **Stimson technique** — shoulder reduction with the casualty face down and a weight hanging from the wrist.
+- **String-yank** — removing a fish hook by pressing its shank flat and jerking a string looped around its bend.
 - **Sugar-tong splint** — U-shaped splint around the elbow along both sides of the forearm that stops forearm rotation.
+- **Surgeon's knot** — a first throw with two wraps, which holds while the next throws are tied.
 - **Surgical cricothyroidotomy (cric)** — creating an airway by cutting through the cricothyroid membrane and placing a tube into the trachea.
 - **Surgical emphysema** — air trapped under the skin, felt as crackling like crisped rice; a sign of air leaking from the lung or airway.
 - **Suzetrigine** — non-opioid oral pain drug that blocks the Nav1.8 sodium channel; contraindicated with strong CYP3A inhibitors.
@@ -210,6 +246,7 @@ Terms used in the course, in alphabetical order.
 - **Tertiary blast injury** — injuries from the body being thrown against objects or crushed by collapse.
 - **Time band** — In this course, the expected time until someone more qualified takes over: minutes to 1 hour, 1 to 72 hours, or days to weeks.
 - **Time-taping** — marking expected hourly fluid levels and clock times on a strip of tape on an IV bag.
+- **Tissue adhesive** — medical cyanoacrylate glue (octyl or butyl) used to hold closed skin edges together.
 - **Titer** — the level of anti-A and anti-B antibodies in a donor's plasma.
 - **Tourniquet conversion** — replacing a tourniquet with a packed hemostatic dressing and pressure bandage, then releasing the tourniquet slowly while watching for bleeding.
 - **Tourniquet reassessment** — exposing the wound and checking whether a tourniquet is needed, correctly placed and tight enough to stop the distal pulse.
@@ -228,6 +265,7 @@ Terms used in the course, in alphabetical order.
 - **Vastus lateralis** — outer thigh muscle; the preferred IM site in children and in shock.
 - **Venous tourniquet** — tourniquet tight enough to block veins but not the artery, which increases bleeding and swells the limb.
 - **Ventrogluteal site** — IM site on the side of the hip, located with the palm on the greater trochanter.
+- **Vertical mattress suture** — a "far-far, near-near" stitch that everts the edges and closes deeper space.
 - **Visual acuity** — how well each eye sees; in the field tested by reading text, counting fingers, hand motion or light perception.
 - **Walking blood bank** — pre-screened donors (usually soldiers) from whom fresh whole blood is collected in an emergency.
 - **Wash-in** — increased skin absorption of a chemical caused by long or hot showering.

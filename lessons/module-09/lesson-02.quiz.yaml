@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A 4-year-old has a clean, straight 1.5 cm cut on the forehead from the corner of a table, 2
+    hours ago. The edges meet when you press them together and it has stopped bleeding. You have
+    medical tissue adhesive. What is the best closure?
+  options:
+    - Two simple sutures after lidocaine, because glue fails on the face.
+    - Tissue adhesive over the held edges, with the eye protected from running glue.
+    - Hair apposition using the eyebrow hairs on either side.
+    - Leave it open, because children's face wounds should heal by secondary intention.
+  correct: 1
+  explanation: >-
+    A linear, low-tension, non-bleeding face cut under 12 hours old is the ideal glue wound. Glue is
+    painless and needs no removal; the eye must be protected so glue cannot run into it.
+- id: q2
+  question: >-
+    You are about to glue a clean forearm cut and squeeze the glue into the open wound so that it
+    "fills the gap". Why is this wrong?
+  options:
+    - Glue inside the wound blocks healing and acts like a foreign body; it goes over closed edges.
+    - Glue inside the wound is fine, but it takes longer to set and the casualty must keep still.
+    - Glue inside the wound is the correct method for deep cuts, and surface glue is for scratches.
+    - Glue inside the wound only matters on the face, where it can show through the scar.
+  correct: 0
+  explanation: >-
+    Tissue adhesive is a surface bridge. The edges must be brought together first and the glue
+    laid over them, extending 5-10 mm onto the skin; glue in the wound prevents the edges from
+    healing together.
+- id: q3
+  question: >-
+    A woman has a 5 cm scalp cut with long hair. It bled heavily, and after 10 minutes of firm
+    pressure it is still oozing steadily. Which closure is the poor choice here?
+  options:
+    - Sutures, which help stop scalp bleeding as well as closing the wound.
+    - Staples, which also close the scalp and help control the bleeding.
+    - More pressure first, then reassess whether closure is needed.
+    - Hair apposition, because it holds only the top layer and gives little haemostasis.
+  correct: 3
+  explanation: >-
+    HAT works well for non-bleeding linear scalp cuts, but WMS notes it appositions only the
+    superficial layer and gives little haemostasis. A scalp that keeps bleeding needs pressure
+    and, if that fails, sutures or staples.
+- id: q4
+  question: >-
+    The only adhesive in the house is household superglue, and the only tape is duct tape. A teenager
+    has a clean 2 cm cut on the shin, edges meeting easily, 1 hour old. What is a reasonable plan?
+  options:
+    - Fill the cut with superglue so no dirt can enter, then cover with duct tape.
+    - Wood glue on the cut, because it is less toxic than superglue.
+    - Duct-tape butterflies with a non-sticky waist, or a thin superglue layer over held edges only.
+    - Leave it open, because neither household product may ever be used on skin.
+  correct: 2
+  explanation: >-
+    Improvised butterflies work on a low-tension cut; check the skin under duct tape daily for
+    maceration. If you use superglue, it goes only on the surface over closed edges, never in
+    the wound. Wood glue and similar adhesives are toxic to tissue.
+- id: q5
+  question: >-
+    Two days after you closed a knuckle cut with adhesive strips, the edges have pulled apart under
+    the strips each time the man makes a fist. What is the most likely reason?
+  options:
+    - The strips were too narrow, and wider strips would hold the knuckle closed.
+    - The wound is under too much tension over a moving joint for tape to hold.
+    - The strips were placed too close together and stopped the wound from breathing.
+    - Adhesive strips always fail after 48 hours and must be replaced every day.
+  correct: 1
+  explanation: >-
+    Tape has the lowest strength of any closure and fails under tension and movement. Joints are
+    a poor site for strips or glue; this wound needs sutures if still within limits, or splinting
+    and secondary intention.

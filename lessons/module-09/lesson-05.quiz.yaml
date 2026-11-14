@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Day 4 in a shelter. A man has a 3 cm red, painful lump on his thigh, soft in the middle with a
+    yellow point. No fever. A physician on the phone agrees it should be drained and asks how you
+    will do it. Which plan matches MSF?
+  options:
+    - A small needle puncture at the yellow point, squeeze out what comes, then a plaster.
+    - A cross-shaped incision, then cut away the skin flaps so it cannot close early.
+    - Field block, one incision along the long axis big enough for a finger, break up pockets, irrigate.
+    - Antibiotics alone for 7 days, since cutting an abscess spreads the infection.
+  correct: 2
+  explanation: >-
+    MSF: a single incision along the long axis, long enough for a finger, then break down all
+    loculi with the finger and wash out the cavity. A needle hole closes and re-collects; pus in a
+    closed pocket responds poorly to antibiotics alone.
+- id: q2
+  question: >-
+    Which of these abscesses should you NOT open in the field, but treat with compresses and
+    antibiotics while arranging a surgeon?
+  options:
+    - A 2 cm fluctuant abscess on the outer thigh of an adult.
+    - A 3 cm fluctuant abscess on the back of the shoulder from an insect bite.
+    - A 2 cm boil on the buttock that has already started to point.
+    - A tender lump beside the nose, between the mouth corners and the bridge of the nose.
+  correct: 3
+  explanation: >-
+    MSF sends abscesses of the central face triangle, front and side of the neck, hand, breast,
+    perianal area, near major vessels and involving joints or bone to a surgeon. Face-triangle
+    veins drain towards the brain.
+- id: q3
+  question: >-
+    After draining a 3 cm abscess on a healthy adult's forearm, you have plenty of gauze. Should
+    you pack the cavity?
+  options:
+    - No; packing small abscesses in healthy adults did not improve outcomes and hurts to change.
+    - Yes; every drained abscess must be packed tightly or it will re-form.
+    - Yes, with honey-soaked gauze, which is required after every drainage.
+    - No, and you should close the incision with two stitches to keep bacteria out.
+  correct: 0
+  explanation: >-
+    Trials summarised for abscesses under 5 cm found no benefit from packing. Deep cavities get a
+    drain or wick (MSF). Closing the incision traps pus and makes it re-form.
+- id: q4
+  question: >-
+    A 50-year-old with diabetes has a drained abscess on the calf, with redness spreading 4 cm
+    around it and a temperature of 38.4 °C. He has no allergies. What antibiotic plan is reasonable
+    if a physician agrees?
+  options:
+    - No antibiotic, because drainage alone cures every abscess.
+    - TMP-SMX 1-2 DS tablets twice daily for 7-10 days, watching for spreading redness.
+    - A single dose of amoxicillin, since one dose is enough after drainage.
+    - Antibiotic ointment in the cavity only, because tablets cannot reach the skin.
+  correct: 1
+  explanation: >-
+    MSF gives antibiotics with systemic signs, extensive cellulitis or diabetes, and trials show a
+    higher cure with TMP-SMX or clindamycin after drainage. Plain amoxicillin misses many skin
+    staph, and one dose or ointment is not treatment.
+- id: q5
+  question: >-
+    You have no scalpel. In the house there are double-edged safety-razor blades, a haemostat,
+    nitrile gloves and a pot. How do you improvise the blade and drain?
+  options:
+    - Hold a whole razor blade between thumb and finger and use a kitchen sponge strip as a drain.
+    - Snap a boiled blade in half in its wrapper, clamp it, and cut a glove strip as a drain.
+    - Use a fresh blade straight from the packet without cleaning, and no drain at all.
+    - Make the incision with kitchen scissors and plug the opening with a cotton ball.
+  correct: 1
+  explanation: >-
+    A blade clamped in a haemostat is how MSF mounts surgical blades. A double-edged blade must
+    never be held in the fingers. A glove strip keeps the opening from sealing; sponge and cotton
+    balls shed fibres and plug the opening.

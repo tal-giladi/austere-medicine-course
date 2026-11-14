@@ -96,7 +96,7 @@ The middle knuckle of the finger (**PIP joint**, proximal interphalangeal) dislo
 **Dorsal PIP dislocation, reduction:**
 
 1. CSM of the finger. Remove **rings** from that hand now, before swelling traps them.
-2. Optional: a digital nerve block by a qualified person (lidocaine; covered in lesson 09.3 on local anaesthesia). Many simple finger dislocations are reduced without it in sport.
+2. Optional: a digital nerve block by a qualified person (lidocaine; covered in [lesson 09.3](../module-09/lesson-03.md) on local anaesthesia). Many simple finger dislocations are reduced without it in sport.
 3. Hold the hand firmly just below the injured joint.
 4. With your other hand grip the dislocated finger segment (a gauze or cloth helps you grip). Apply **gentle steady traction along the finger**, exaggerate the deformity very slightly (a little more bend backwards) to unhook the base, then **push the base of the dislocated segment forward** (towards the palm) and bend the finger. MSD summary: axial traction and pressure towards the palm.
 5. It slips back with a clunk.
