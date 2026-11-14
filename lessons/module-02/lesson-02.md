@@ -177,7 +177,7 @@ https://www.youtube.com/watch?v=n8_PswVDJ74
 
 ## Scope and law
 
-Direct pressure and wound packing are EMT skills, and the Duty to Rescue Law (1998) protects reasonable aid. Junctional tourniquets, XStat and the iTClamp are medical devices outside the Israeli EMT curriculum: use them only when it is that or death and no one more qualified can be reached, and otherwise ready them and assist a paramedic or physician. Improvised manual pressure and pressure devices carry no special legal status; they are first aid.
+Direct pressure and wound packing are EMT skills; the legal basis for lay aid (and why the Duty to Rescue Law gives no immunity) is in [lesson 01.5](../module-01/lesson-05.md). Junctional tourniquets, XStat and the iTClamp are medical devices outside the Israeli EMT curriculum: use them only when it is that or death and no one more qualified can be reached, and otherwise ready them and assist a paramedic or physician. Improvised manual pressure and pressure devices carry no special legal status; they are first aid.
 
 ## Practice
 

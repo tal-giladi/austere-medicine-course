@@ -15,3 +15,6 @@ To review before a public release.
 - Israeli registration/OTC status: suzetrigine (none found), cefadroxil, dipyrone, meloxicam, ondansetron, brand names, ketamine schedule.
 - Child doses from secondary sources: TXA cap, IN ketamine, calcium, cephalosporins, dipyrone, dimenhydrinate, amox-clav, clindamycin.
 - Ondansetron bands, ceftriaxone push/IM limits, APLS formulas, IM volume limits; NIO sites; IDF hypocalcaemia 54% of 222 (abstract); 2026 change markings; rectal fluid figures (case report); course rules labelled.
+
+## Module 5
+- Reason TCCC dropped traction splints (course reasoning); child midazolam dose; C-TECC child dextrose "2 mg/kg" read as 2 ml/kg D10; infant Rule of Nines; Broselow ranges; ABA oral resus thresholds from summary sheet; Leibovici blast figures from abstracts.

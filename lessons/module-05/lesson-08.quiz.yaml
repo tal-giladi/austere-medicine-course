@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    A girl injured in a rocket strike measures 100 cm lying down. Her parents are not with her. What
+    weight do you use for her doses?
+  options:
+    - About 30 kg, the green zone, to be safe with antibiotics.
+    - About 15-18 kg, the white zone of the length-based tape.
+    - About 10 kg, since injured children should get lower doses.
+    - About 40 kg, so she gets the adult dose of every drug.
+  correct: 1
+  explanation: >-
+    A length of 95-108 cm falls in the white zone, an estimated 15-18 kg. Length-based estimates are
+    more accurate than age formulas; move up one zone only if she is clearly overweight.
+- id: q2
+  question: >-
+    A 4-year-old with a leg wound has a heart rate of 160, capillary refill of 4 seconds and is quiet
+    and pale. His systolic blood pressure is 82. What does this mean?
+  options:
+    - He is in shock; a normal-looking pressure is a late sign to fall in children.
+    - He is stable, because his systolic pressure is above the 78 mmHg floor for age.
+    - He is frightened; reassure him and recheck in an hour.
+    - He is hypothermic only; warm him and the heart rate will settle.
+  correct: 0
+  explanation: >-
+    Children compensate with heart rate and vasoconstriction and keep their blood pressure until late.
+    Tachycardia, slow capillary refill and a quiet, pale child mean shock even above the age floor.
+- id: q3
+  question: >-
+    A paramedic on scene asks you to read out the TXA dose for a 22 kg child with penetrating torso
+    trauma 40 minutes ago. What is it?
+  options:
+    - 2 g, the same as an adult, as a slow push.
+    - 22 mg, 1 mg/kg as a slow push.
+    - 1 g, the usual maximum, as a slow push over 10 minutes.
+    - 330 mg (15 mg/kg), then an infusion if possible.
+  correct: 3
+  explanation: >-
+    C-TECC gives TXA 15 mg/kg as a loading dose (maximum 1 g), then 2 mg/kg per hour for 8 hours,
+    within 3 hours of injury. 15 times 22 is 330 mg.
+- id: q4
+  question: >-
+    An 18-month-old has heavy bleeding from a deep wound on the thigh. You have a CAT tourniquet. What
+    is the best approach?
+  options:
+    - Apply the CAT high on the thigh; it reliably occludes limbs of every size.
+    - Apply the CAT over the knee, where the limb is narrowest.
+    - Firm direct pressure and packing; a windlass tourniquet is studied from about age 2.
+    - Use a thin cord as a tourniquet, since it fits a small limb better than a strap.
+  correct: 2
+  explanation: >-
+    Studies and the American Red Cross support manufactured windlass tourniquets from about age 2.
+    Under that age, direct pressure, packing and a pressure dressing are the main tools; thin cords
+    cut small limbs.
+- id: q5
+  question: >-
+    Two hours after an evisceration was covered, a 7-year-old is quiet, sweaty and floppy. Bleeding is
+    controlled and his pulse has improved. A glucometer reads low. He is nil by mouth. What next?
+  options:
+    - Give him a sweet drink, since sugar by mouth always comes first.
+    - Ask a provider for IV/IO dextrose (D10), as he must stay nil by mouth.
+    - Let him sleep; floppiness after injury is normal in children.
+    - Give acetaminophen, since the symptoms come from pain.
+  correct: 1
+  explanation: >-
+    Low blood sugar is common in injured children. Oral sugar is used only if eating is allowed; with
+    an abdominal injury he needs IV or IO dextrose (D10, which C-TECC recommends) from a provider.

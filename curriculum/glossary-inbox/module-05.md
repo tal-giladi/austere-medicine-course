@@ -1,0 +1,38 @@
+# Glossary inbox — Module 5
+
+- Primary blast injury — damage caused by the blast pressure wave itself, mainly to air-filled organs (lungs, ears, bowel), often with no visible wound.
+- Secondary blast injury — penetrating wounds from fragments and debris thrown by an explosion.
+- Tertiary blast injury — injuries from the body being thrown against objects or crushed by collapse.
+- Quaternary blast injury — all other effects of an explosion, such as burns, smoke inhalation and crush.
+- Blast lung — bruising and bleeding inside the lungs from the blast wave; causes breathlessness, coughing blood and low SpO2, sometimes up to 48 hours later.
+- Tympanic membrane perforation — a ruptured eardrum; the commonest primary blast injury; an isolated one does not by itself predict blast lung.
+- Traumatic brain injury (TBI) — brain damage from an external force; TCCC 2026 calls it moderate or severe when the casualty cannot follow simple commands beyond 10 minutes after injury.
+- Glasgow Coma Scale (GCS) — 3-15 score of eye opening, verbal response and motor response; 13-15 mild, 9-12 moderate, 3-8 severe head injury.
+- Herniation — the swelling brain being forced through openings in the skull; signs are an unequal or fixed dilated pupil, posturing and Cushing's triad.
+- Posturing — abnormal rigid flexion or extension of the arms in response to pain, a sign of severe brain injury.
+- Cushing's triad — rising blood pressure, slowing heart rate and irregular breathing; a late sign of brain herniation.
+- Hypertonic saline (HTS) — concentrated salt solution (3%, 5% or 23.4%) given IV/IO to draw water out of a swelling brain; in TCCC only for herniation signs.
+- Open globe — a full-thickness wound or rupture of the eyeball; treated with a rigid shield and no pressure on the eye.
+- Rigid eye shield — a hard cover that rests on the bones around the eye without touching it; can be improvised from a cut-down cup.
+- Visual acuity — how well each eye sees; in the field tested by reading text, counting fingers, hand motion or light perception.
+- Orbital compartment syndrome — rising pressure behind the eye from bleeding that threatens the optic nerve; treated by lateral canthotomy.
+- Lateral canthotomy — cutting the outer corner of the eyelid to release pressure in the orbit; a physician procedure.
+- TBSA (total body surface area) — the percentage of the body surface burned; only partial- and full-thickness burns are counted.
+- Rule of Nines — burn size estimate assigning 9% (or multiples) to each body region; in infants the head counts more and the legs less.
+- Palm method — the casualty's own palm with fingers is about 1% of their body surface area.
+- Rule of Ten — USAISR starting burn fluid rate: %TBSA x 10 ml per hour for 40-80 kg adults, plus 100 ml per hour for every 10 kg above 80 kg.
+- Parkland formula — burn fluid estimate of 4 ml x kg x %TBSA for the first 24 hours, half in the first 8 hours from the time of injury.
+- Oral (enteral) burn resuscitation — replacing burn shock fluid losses by drinking (or tube feeding) a salt-and-sugar solution, titrated to urine output.
+- Inhalation injury — airway and lung damage from hot gases and smoke; suspected with closed-space burns, soot and hoarseness.
+- Eschar — the stiff, dead skin of a full-thickness burn; around a limb or chest it can act like a tourniquet.
+- Escharotomy — cutting through circumferential burned skin to restore circulation or breathing; a physician procedure.
+- Evisceration — abdominal organs, usually bowel, protruding through a wound in the abdominal wall.
+- Peritonitis — infection and inflammation of the lining of the abdomen, usually from a bowel injury; causes fever, rising pulse and a rigid, painful belly.
+- CSM — circulation, sensation and motor function checked beyond an injury or splint.
+- Sugar-tong splint — U-shaped splint around the elbow along both sides of the forearm that stops forearm rotation.
+- Traction splint — device that pulls a broken femur to length; removed from the TCCC skill sets in 2024.
+- Lethal triad — hypothermia, coagulopathy and acidosis, which worsen each other in a bleeding casualty.
+- Vapour barrier — an impermeable plastic or foil layer that stops evaporative heat loss in a hypothermia wrap.
+- HPMK — Hypothermia Prevention and Management Kit: military kit with a chemical heating blanket and a heat-reflective shell; not insulated.
+- Broselow tape — length-based tape that estimates a child's weight in colour zones and gives matching doses and equipment sizes.
+- Pediatric Assessment Triangle — quick look at a child's appearance, work of breathing and skin circulation before touching them.

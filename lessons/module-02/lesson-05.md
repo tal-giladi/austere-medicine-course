@@ -123,7 +123,7 @@ The equipment in this lesson is mostly paper, a pen and a container.
 
 ## Scope and law
 
-Deciding to keep or release a long tourniquet is a physician-level decision; the Israeli EMT curriculum does not include it, and TCCC 2026 limits conversion after 2 hours to advanced medical personnel or their direction. The Duty to Rescue Law (1998) protects reasonable lay aid, and in this situation reasonable aid means keeping the tourniquet tight, monitoring, documenting and getting physician direction by any means available. Acting beyond that is the last resort, only when it is this or death and no one more qualified can be reached.
+Deciding to keep or release a long tourniquet is a physician-level decision; the Israeli EMT curriculum does not include it, and TCCC 2026 limits conversion after 2 hours to advanced medical personnel or their direction. The Duty to Rescue Law gives no immunity (see [lesson 01.5](../module-01/lesson-05.md)); in this situation reasonable aid means keeping the tourniquet tight, monitoring, documenting and getting physician direction by any means available. Acting beyond that is the last resort, only when it is this or death and no one more qualified can be reached.
 
 ## Practice
 

@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=LU-HVtpWqIs
 
 ## Scope and law
 
-Pelvic immobilisation with a binder or sheet is within basic trauma care, and the Duty to Rescue Law (1998) protects reasonable aid given in good faith. The tourniquet steps in the module drill below follow lessons 02.3-02.4: reassessment is expected of every trained responder, while conversion is a TCCC medic-level skill outside the Israeli EMT curriculum, to be done alone only when it is that or death and no one more qualified can be reached.
+Pelvic immobilisation with a binder or sheet is within basic trauma care; the legal basis for lay aid (and why the Duty to Rescue Law gives no immunity) is in [lesson 01.5](../module-01/lesson-05.md). The tourniquet steps in the module drill below follow lessons 02.3-02.4: reassessment is expected of every trained responder, while conversion is a TCCC medic-level skill outside the Israeli EMT curriculum, to be done alone only when it is that or death and no one more qualified can be reached.
 
 ## Practice
 

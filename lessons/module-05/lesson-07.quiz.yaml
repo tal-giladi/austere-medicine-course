@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    It is August. A man with a thigh wound and a tourniquet lies on the tiled floor of an
+    air-conditioned safe room, his trousers cut off and soaked in blood. Why should you start
+    hypothermia prevention now?
+  options:
+    - It is not needed, because hypothermia is a winter problem in Israel.
+    - Only to make him comfortable; temperature does not affect his bleeding.
+    - Because he will need it only if evacuation takes longer than 24 hours.
+    - Cold blood clots poorly, and floor, air and wet cloth all drain heat.
+  correct: 3
+  explanation: >-
+    The lethal triad links hypothermia, coagulopathy and acidosis. A bleeding casualty on a cold floor
+    with wet clothing cools even in summer, and TCCC calls for early and aggressive prevention.
+- id: q2
+  question: >-
+    You have a duvet, a foil emergency blanket, bin bags, a foam mat and two hot water bottles. In
+    what order do the layers go, from the floor up?
+  options:
+    - Foam mat, bottles at the armpits, foil blanket, duvet, bin bags outside.
+    - Duvet on the floor, foil blanket on the skin, bottles on top, bin bags last.
+    - Bin bags on the floor, duvet, bottles under the back, foil blanket outside.
+    - Foil blanket on the floor, bottles on the bare chest, bin bags, duvet outside.
+  correct: 0
+  explanation: >-
+    The JTS wrap is ground insulation, heat at the armpits and chest over clothing, an inner vapour
+    barrier, insulation, then an outer impermeable shell. Heat never goes directly on skin.
+- id: q3
+  question: >-
+    A casualty has a tourniquet on the lower leg and you have three wrapped hot water bottles. Where do
+    you place them?
+  options:
+    - One on the tourniquet leg to keep the foot alive, two on the chest.
+    - Under the back, where the casualty's weight keeps them in place.
+    - In the armpits and on the chest over clothing, none on the tourniquet leg.
+    - Directly on the skin of the abdomen, where most heat is lost.
+  correct: 2
+  explanation: >-
+    Heat goes to the armpits, then chest, then back, never directly on skin or under the casualty's
+    weight. Heating the limb below a tourniquet increases muscle damage.
+- id: q4
+  question: >-
+    A wet, cold casualty with a fragment wound to the chest cannot be undressed because every movement
+    makes him short of breath. What does the JTS suggest?
+  options:
+    - Leave him as he is; wet clothes keep the dressings moist and clean.
+    - Wrap plastic or foil around him over the wet clothes.
+    - Rub his limbs hard to restore circulation before covering him.
+    - Pour warm water over the wet clothing to replace the cold water.
+  correct: 1
+  explanation: >-
+    If wet clothing cannot be removed, the JTS says wrap an impermeable vapour layer around the
+    casualty and leave it until a warm environment is reached, then add insulation and an outer shell.
+- id: q5
+  question: >-
+    After an hour in an improvised wrap with hot water bottles, a casualty sedated with ketamine has a
+    red patch under one bottle that does not fade when pressed. What do you do?
+  options:
+    - Nothing; redness shows the heat is reaching the core as intended.
+    - Remove all heat sources and rely on the duvet for the rest of the night.
+    - Refill the bottle with hotter water so it warms faster and can be removed sooner.
+    - Move the bottle, add a layer, check all heat sites every 15-20 minutes.
+  correct: 3
+  explanation: >-
+    Non-fading redness is an early contact burn, and sedated casualties cannot feel it. Move and
+    re-wrap the heat source and check skin frequently; active heat is still needed to prevent cooling.

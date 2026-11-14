@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    After a blast, a man has a small cut on the clear front of his right eye, a teardrop-shaped pupil
+    and blurred vision. A bystander is about to tape a thick gauze pad firmly over the eye. What do
+    you do instead?
+  options:
+    - Tape a rigid shield, such as a cut-down cup, resting on the bone.
+    - Pad both eyes firmly so neither eye moves, then bandage around the head.
+    - Rinse the eye vigorously to wash out any fragments before covering it.
+    - Leave the eye uncovered so you can watch for bleeding during transport.
+  correct: 0
+  explanation: >-
+    A peaked pupil and corneal cut mean an open globe. TCCC and the JTS say rigid shield, not a
+    pressure patch, with nothing under the shield and no pressure on the eye.
+- id: q2
+  question: >-
+    A woman's eye was splashed with wet cement during a building collapse. You have only tap water and
+    no pH strips. What is the right irrigation plan?
+  options:
+    - Rinse for 1 minute, then cover the eye and wait for a doctor to irrigate properly.
+    - Neutralise the alkali with diluted vinegar, then rinse with water.
+    - Wait until you can find sterile saline, since tap water may infect the eye.
+    - Start now with tap water, at least 2 litres, sweeping particles from under the lids.
+  correct: 3
+  explanation: >-
+    The JTS says irrigate immediately; water is acceptable, use at least 2 litres if pH cannot be
+    checked, remove particles from the folds, and never neutralise an acid or base.
+- id: q3
+  question: >-
+    A 20 kg child has a fragment wound of the eyelid and reduced vision in that eye. A physician on the
+    phone asks which antibiotic option C-TECC suggests for a penetrating eye injury in a child. What do
+    you tell them?
+  options:
+    - Cefadroxil 1 g by mouth, the adult TCCC dose.
+    - Ceftriaxone 2 g IM, the same as for an adult.
+    - Levofloxacin 16 mg/kg, about 320 mg, up to a maximum of 750 mg.
+    - No antibiotic until the eye has been examined by a surgeon.
+  correct: 2
+  explanation: >-
+    C-TECC suggests levofloxacin 16 mg/kg (up to 750 mg) for penetrating eye injury in children. TCCC's
+    adult options are ceftriaxone 2 g or cefadroxil 1 g, given in child doses per kg.
+- id: q4
+  question: >-
+    A casualty with a shielded open globe keeps vomiting during the long wait for evacuation. Why does
+    this matter and what does the JTS recommend?
+  options:
+    - It matters only for hydration; give oral rehydration solution in small sips.
+    - Vomiting can push eye contents out; give an antiemetic such as ondansetron early.
+    - It is a sign of brain injury, so the eye shield should be removed to check the pupils.
+    - It shows the shield is too tight; loosen it and pad underneath with gauze.
+  correct: 1
+  explanation: >-
+    Straining and vomiting raise pressure in the eye and can extrude its contents. The JTS says treat
+    nausea and vomiting aggressively (ondansetron 4-8 mg IV), keep the casualty NPO and head up.
+- id: q5
+  question: >-
+    An hour after a blow to the face, a man's left eye bulges, the eyelids feel rock hard and he now
+    sees only hand movements with that eye. What is most important?
+  options:
+    - Cold compresses pressed firmly on the eye to reduce the swelling.
+    - A rigid shield and routine evacuation within 24 hours like any eye injury.
+    - Orbital compartment syndrome; a provider must do a lateral canthotomy within minutes.
+    - Irrigation with 2 litres of water in case a chemical is behind the swelling.
+  correct: 2
+  explanation: >-
+    Falling vision, proptosis and rock-hard lids suggest orbital compartment syndrome, which needs an
+    immediate lateral canthotomy and cantholysis by a physician or advanced provider.

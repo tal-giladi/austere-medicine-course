@@ -127,7 +127,7 @@ When you have no hemostatic gauze, **packing plus pressure still works**: the ga
 
 ## Scope and law
 
-Wound packing and pressure dressings are within the skills you already learned as an EMT, and the Duty to Rescue Law (1998) protects reasonable aid given in good faith. Hemostatic gauzes are sold over the counter. XStat and the iTClamp are medical devices; using them is a step beyond the Israeli EMT curriculum, so use them only when it is that or death and no one more qualified can be reached, and prepare them for a paramedic or physician when one is present.
+Wound packing and pressure dressings are within the skills you already learned as an EMT; the legal basis for lay aid (and why the Duty to Rescue Law gives no immunity) is in [lesson 01.5](../module-01/lesson-05.md). Hemostatic gauzes are sold over the counter. XStat and the iTClamp are medical devices; using them is a step beyond the Israeli EMT curriculum, so use them only when it is that or death and no one more qualified can be reached, and prepare them for a paramedic or physician when one is present.
 
 ## Practice
 

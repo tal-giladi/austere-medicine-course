@@ -143,7 +143,7 @@ Everything in a conversion has a household version:
 
 ## Scope and law
 
-Tourniquet conversion is taught in TCCC at the combat medic level and above, and it is not part of the Israeli EMT curriculum. Under the Duty to Rescue Law (1998) reasonable lay aid is protected, but conversion is a clinical decision: whenever a paramedic or physician can be reached, in person or by phone, convert under their direction. Act alone only when no evacuation is coming within the 2-hour window, no one more qualified can be reached, and the casualty meets every criterion.
+Tourniquet conversion is taught in TCCC at the combat medic level and above, and it is not part of the Israeli EMT curriculum. The Duty to Rescue Law gives no immunity (see [lesson 01.5](../module-01/lesson-05.md)), and conversion is a clinical decision: whenever a paramedic or physician can be reached, in person or by phone, convert under their direction. Act alone only when no evacuation is coming within the 2-hour window, no one more qualified can be reached, and the casualty meets every criterion.
 
 ## Practice
 

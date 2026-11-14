@@ -38,3 +38,13 @@
   - [27 · Routes and drug math](lessons/module-04/lesson-07.md)
   - [28 · Nausea, sedation risks and dangerous combinations](lessons/module-04/lesson-08.md)
   - [Module 4 quiz](assessments/module-04-quiz.md)
+- **Module 5 — War injuries**
+  - [29 · Blast injury](lessons/module-05/lesson-01.md)
+  - [30 · Head injury (TBI)](lessons/module-05/lesson-02.md)
+  - [31 · Eye injuries](lessons/module-05/lesson-03.md)
+  - [32 · Burns](lessons/module-05/lesson-04.md)
+  - [33 · Abdomen and evisceration](lessons/module-05/lesson-05.md)
+  - [34 · Fractures for long transport](lessons/module-05/lesson-06.md)
+  - [35 · Hypothermia prevention in trauma](lessons/module-05/lesson-07.md)
+  - [36 · Children in trauma](lessons/module-05/lesson-08.md)
+  - [Module 5 quiz](assessments/module-05-quiz.md)

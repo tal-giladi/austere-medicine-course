@@ -1,0 +1,135 @@
+- id: q1
+  question: >-
+    A rocket hit the entrance of a bus shelter. Five people who were inside walk out with ringing ears
+    and small cuts. Roads are closed until tomorrow. Which plan is safest?
+  options:
+    - Send them home, since walking casualties with only ear symptoms have no hidden injuries.
+    - Give each of them TXA now, since everyone in an enclosed blast is bleeding internally.
+    - Keep them together, survey each fully, and re-check breathing and abdomen on a schedule for 48 hours.
+    - Irrigate their ears to check for perforation, then decide who needs observation.
+  correct: 2
+  explanation: >-
+    Enclosed-space blasts carry much more primary blast injury, and blast lung or bowel injury can
+    appear up to 48 hours later. Full survey and scheduled re-checks catch them; ears are not irrigated.
+- id: q2
+  question: >-
+    Fifteen minutes after a blast, a man cannot follow commands. SpO2 is 88% and his radial pulse is
+    weak. A paramedic with oxygen, fluids and 3% saline is beside you. His pupils are equal. What is
+    the priority?
+  options:
+    - Give 250 ml of 3% saline at once to protect the brain from swelling.
+    - Oxygen to SpO2 of at least 92% and treat the shock to restore a radial pulse.
+    - Sit him up at 45 degrees to lower intracranial pressure before anything else.
+    - Ventilate at 20 breaths per minute to shrink the swollen brain.
+  correct: 1
+  explanation: >-
+    TCCC 2026 TBI care starts with preventing hypoxia and hypotension; shock takes precedence. Head-up
+    positioning is only for casualties not in shock, and hypertonic saline is only for herniation signs.
+- id: q3
+  question: >-
+    A woman has glass in her right eye after a window blew in. The eye is distorted and leaking clear
+    fluid. Your kit has no eye shield. What do you do?
+  options:
+    - Pull out the glass fragment so it cannot cut deeper during transport.
+    - Pad the eye firmly with gauze and bandage both eyes to stop movement.
+    - Wash the eye with 2 litres of water to remove the glass and blood.
+    - Tape a cut-down plastic cup over the eye, resting on bone.
+  correct: 3
+  explanation: >-
+    A distorted, leaking eye is an open globe. Shield it with any rigid material that does not touch
+    the eye, such as a cup, leave impaled objects, and never patch or press.
+- id: q4
+  question: >-
+    A 90 kg man has 40% partial-thickness burns. There is no IV for at least 12 hours. He is awake,
+    swallowing well and has no other injuries. What is his starting oral plan under the JTS protocol?
+  options:
+    - About 500 ml per hour of home ORS, titrated to 30-50 ml of urine per hour.
+    - About 400 ml per hour of plain water, since salt worsens burn swelling.
+    - About 1,440 ml per hour, the Parkland volume, to make up for the lack of IV fluid.
+    - No oral fluid, since burns over 30% can only be treated with IV fluids.
+  correct: 0
+  explanation: >-
+    The Rule of Ten gives 400 ml per hour plus 100 ml per hour for the 10 kg above 80 kg. The JTS uses
+    the same rate orally with a salt-and-sugar solution, titrated to urine; the ABA says many burns up
+    to 40% can be resuscitated orally.
+- id: q5
+  question: >-
+    A soldier's bowel protrudes through a fragment wound and you see brown fluid leaking from one loop.
+    What does TCCC 2026 tell you to do with the bowel?
+  options:
+    - One gentle attempt of under 60 seconds to put it back, then cover the wound.
+    - Do not reduce it; rinse, cover with transparent impermeable film and seal it.
+    - Push it back firmly so the abdominal wall can seal the leak.
+    - Cover it with dry gauze and press firmly to stop the leakage.
+  correct: 1
+  explanation: >-
+    Evidence of ruptured bowel (leaking contents) or active bleeding rules out reduction. Cover with a
+    water-impermeable, preferably transparent material such as clear food wrap, secured with adhesive.
+- id: q6
+  question: >-
+    Before a 10-hour drive in a pickup truck, you splint a casualty's broken tibia with a foam mat.
+    Which detail matters most for the long journey?
+  options:
+    - Wrap the splint tightly in circles of tape so it cannot slip on the bumpy road.
+    - Leave out the knee so he can bend it and sit more comfortably in the truck.
+    - Wide, loose ties, padded bony points and scheduled pulse checks.
+    - Remove the splint every hour to check the skin, then reapply it.
+  correct: 2
+  explanation: >-
+    Limbs keep swelling for days, so splints for long transport must not be constrictive, must pad
+    pressure points and include the joints above and below, and need scheduled pulse checks.
+- id: q7
+  question: >-
+    A friend asks why your kit has no traction splint when his old first-aid course taught one for
+    every femur fracture. What is the accurate answer?
+  options:
+    - Traction splints were banned because they caused deaths in every study.
+    - TCCC still requires traction splints, but they are too expensive for civilians.
+    - Traction splints only work with an X-ray, so they are useless in the field.
+    - TCCC dropped traction splinting in 2024; rigid splints suffice for most.
+  correct: 3
+  explanation: >-
+    The 2024 TCCC skill sets list traction splinting as removed, and the 2026 JTS fracture CPG says
+    other splinting methods may be more expedient and equally effective. Blast injuries often rule out
+    traction anyway.
+- id: q8
+  question: >-
+    A casualty with a tourniquet on her left forearm lies on a concrete floor in a cold stairwell. You
+    have a duvet, bin bags, a foil blanket and two hot water bottles. What do you do first?
+  options:
+    - Get insulation under her, then build the wrap with heat at the armpits and chest.
+    - Put the hot water bottles on the left hand to keep it warm below the tourniquet.
+    - Cover her with the foil blanket alone, since it reflects back almost all heat.
+    - Wait until bleeding is fully controlled at the hospital before warming her.
+  correct: 0
+  explanation: >-
+    TCCC starts with insulation between the casualty and the ground, then removing wet clothing, heat
+    at the armpits and chest (never on skin, never below a tourniquet) and an insulated, sealed wrap.
+- id: q9
+  question: >-
+    A 3-year-old pulled from rubble has a heart rate of 170, cool hands and capillary refill of 5 s.
+    His systolic pressure is 80. You estimate 14 kg. A paramedic has IO access, crystalloid and no
+    blood. What is the first fluid order?
+  options:
+    - 1 litre of crystalloid as fast as possible, the adult bolus.
+    - Nothing, since 80 mmHg is above the floor of 76 for his age.
+    - 280 ml warm crystalloid (20 ml/kg), reassess, repeat to 60 ml/kg.
+    - 140 ml (10 ml/kg) of crystalloid over 4 hours as maintenance fluid.
+  correct: 2
+  explanation: >-
+    He is in compensated shock despite a pressure above 70 + (2 x 3) = 76. Without blood, C-TECC gives
+    a 20 ml/kg warm crystalloid bolus, repeated up to 60 ml/kg, slowing once he improves.
+- id: q10
+  question: >-
+    After a drone strike you have three casualties and one paramedic. A: herniation signs after a
+    blast. B: 30% burns, swallowing well, voice normal. C: a child with a covered evisceration and
+    stable vital signs. Who needs the paramedic's 3% saline and urgent neurosurgical evacuation?
+  options:
+    - B, because burns over 20% need hypertonic fluids first.
+    - A, with 250 ml over at least 10 minutes, repeated once at 20 minutes if no response.
+    - C, because children with abdominal wounds need hypertonic saline to prevent shock.
+    - Nobody, since hypertonic saline is only used in a hospital.
+  correct: 1
+  explanation: >-
+    Hypertonic saline in TCCC 2026 treats signs of herniation only, never burns or shock. A also needs
+    neurosurgery quickly, while B can start oral resuscitation and C is watched closely.

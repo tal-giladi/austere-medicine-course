@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Twelve minutes after a blast, a man with a scalp wound opens his eyes to your voice but cannot
+    give you a thumbs up or show two fingers. His radial pulse is strong. How does TCCC 2026 classify
+    him and what does it mean for evacuation?
+  options:
+    - Mild TBI, so his assessment can be deferred to prolonged care.
+    - Concussion only, because he still opens his eyes when spoken to.
+    - Unclassifiable until he has had a head CT at a hospital.
+    - Moderate or severe TBI, so evacuate to neurosurgery as soon as possible.
+  correct: 3
+  explanation: >-
+    Inability to follow simple commands beyond 10 minutes with a suspected head injury defines
+    moderate or severe TBI. TCCC notes better outcomes with neurosurgery within 5 hours.
+- id: q2
+  question: >-
+    You are ventilating a TBI casualty with a BVM and have no capnography. Which rate does TCCC 2026
+    give?
+  options:
+    - Twenty breaths per minute to keep the brain from swelling.
+    - Ten breaths per minute with low tidal volumes, one every 6 seconds.
+    - As fast as you can squeeze until the SpO2 reaches 100%.
+    - Six breaths per minute to avoid raising pressure in the chest.
+  correct: 1
+  explanation: >-
+    Without EtCO2, TCCC 2026 says low tidal volume at 10 breaths per minute. Hyperventilation narrows
+    brain vessels and can cause ischaemia; older teaching of 20 per minute is not in the 2026 text.
+- id: q3
+  question: >-
+    A head-injured casualty has a weak radial pulse and a heart rate of 130 from a thigh wound that is
+    now controlled. You want to raise his head to lower intracranial pressure. What is right?
+  options:
+    - Keep him flat and treat the shock first; raise the head and torso only when he is not in shock.
+    - Raise his head and torso to 45 degrees now, since the brain is the priority in TBI.
+    - Raise only his head on a pillow, which lowers brain pressure without affecting blood pressure.
+    - Give hypertonic saline, which treats both the shock and the brain swelling.
+  correct: 0
+  explanation: >-
+    TCCC raises the head and torso above 30 degrees only if the casualty is not in shock. Shock
+    resuscitation takes precedence, and hypertonic saline is not a resuscitation fluid.
+- id: q4
+  question: >-
+    During your 5-minute checks, a TBI casualty's left pupil becomes large and unreactive and his arms
+    stiffen in extension when you pinch him. A paramedic with 3% saline arrives. What dose and repeat
+    does TCCC 2026 give?
+  options:
+    - 500 ml of 3% saline as fast as possible, repeated until the pupil returns to normal.
+    - 30 ml of 3% saline over 1 minute, repeated every 5 minutes up to 4 doses.
+    - 250 ml over at least 10 minutes, repeated once after 20 minutes if no response.
+    - 250 ml over 10 minutes given every hour from now on to prevent further herniation.
+  correct: 2
+  explanation: >-
+    For herniation signs TCCC gives 250 ml of 3% or 5% (or 30 ml of 23.4%) over at least 10 minutes,
+    repeated once at 20 minutes if there is no response, maximum two doses.
+- id: q5
+  question: >-
+    A fragment has opened a woman's skull above the ear and the wound oozes blood. What does TCCC 2026
+    say about the dressing?
+  options:
+    - Pack hemostatic gauze into the cavity and hold firm pressure for 3 minutes.
+    - Close the scalp over the hole with staples to stop contamination and bleeding.
+    - Leave it open to the air so swelling of the brain is not restricted.
+    - Hemostatic gauze on the surface with gentle pressure, no packing and no closure.
+  correct: 3
+  explanation: >-
+    Penetrating TBI gets a surface dressing that keeps contaminants out; bleeding is treated with
+    hemostatic gauze on the surface and gentle pressure. Nothing is packed into the cavity or sutured.

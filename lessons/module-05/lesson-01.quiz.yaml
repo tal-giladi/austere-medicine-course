@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A drone exploded in the stairwell of a building. A man who was inside has no visible wounds and
+    says he feels fine apart from ringing ears. Evacuation is impossible for the next day. What is the
+    right plan for him?
+  options:
+    - Release him to his flat, since an isolated eardrum injury rules out lung damage.
+    - Give him TXA now, because anyone in an enclosed blast has occult bleeding.
+    - Full body survey, then re-check breathing, SpO2, pulse and abdomen on a schedule for 48 hours.
+    - Irrigate both ear canals with clean water to remove blood and check for perforation.
+  correct: 2
+  explanation: >-
+    Enclosed-space blasts carry much more primary blast injury, and blast lung can appear up to 48
+    hours later. Survey him fully and watch the breathing and abdomen; never irrigate a blast ear.
+- id: q2
+  question: >-
+    Forty minutes after a rocket impact, a woman with only small fragment wounds becomes confused.
+    Her radial pulse is present and she has no obvious head wound. Which TCCC 2026 drug decision
+    applies?
+  options:
+    - Give TXA, because altered mental status after blast is a TCCC indication.
+    - TXA is not indicated, because she has no signs of hemorrhagic shock.
+    - TXA should wait until a head CT confirms a bleed inside the skull.
+    - TXA is too late, because the window closes 30 minutes after injury.
+  correct: 0
+  explanation: >-
+    TCCC 2026 gives 2 g TXA to casualties likely to need transfusion or with signs of significant TBI
+    or altered mental status associated with blast injury or blunt trauma, within 3 hours.
+- id: q3
+  question: >-
+    Of the people below, all exposed to the same open-air blast, whose finding should worry you most
+    about blast lung?
+  options:
+    - A teenager with a ruptured eardrum, normal breathing and SpO2 98%.
+    - A man with a deep fragment wound in the calf controlled by a tourniquet.
+    - A woman with a bleeding scalp laceration who is talking normally.
+    - A man with no ear symptoms, breathing faster and coughing bloody sputum.
+  correct: 3
+  explanation: >-
+    Blast lung shows as breathlessness, rising breathing rate, falling SpO2 and coughing blood. An
+    intact eardrum does not exclude it, and an isolated ruptured eardrum with normal breathing did not
+    predict it in Israeli data.
+- id: q4
+  question: >-
+    A blast casualty has a traumatic above-knee amputation controlled with two tourniquets. He is
+    pale and his radial pulse is weak. What else does TCCC tell you to apply?
+  options:
+    - A splint along the stump to stop it moving during transport.
+    - A pelvic binder, because a major lower-limb amputation after blast is an indication.
+    - A pressure dressing over the tourniquets to protect them from being bumped.
+    - A cervical collar, because every blast casualty has a spine injury.
+  correct: 1
+  explanation: >-
+    TCCC lists severe blast injury with any major lower-limb amputation or near-amputation, shock or
+    unconsciousness as reasons to apply a pelvic binder.
+- id: q5
+  question: >-
+    On day 2 of sheltering, a man who was near a bomb blast yesterday starts vomiting and says his
+    belly hurts more and more. His pulse has risen from 90 to 120 and he has no external wound on the
+    abdomen. What is the most likely problem?
+  options:
+    - Food poisoning from shelter supplies, since blast injuries show up within an hour.
+    - Anxiety after the event, best treated with reassurance and fluids by mouth.
+    - Delayed bowel injury from the blast wave; nothing by mouth, treat shock, evacuate.
+    - A missed fracture of the lower ribs, which needs a chest binder and painkillers.
+  correct: 2
+  explanation: >-
+    The pressure wave bruises gas-filled bowel, which can perforate later. New abdominal pain,
+    vomiting and rising pulse after a blast mean hidden abdominal injury until proven otherwise.

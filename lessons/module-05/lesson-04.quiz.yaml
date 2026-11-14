@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A 70 kg woman has blistered burns over the whole front of her torso and the whole of one arm. Her
+    face is red but not blistered. Using the Rule of Nines and the Rule of Ten, what is her TBSA and
+    starting fluid rate?
+  options:
+    - 36% rounded to 40%, starting at 400 ml per hour.
+    - 27% rounded to 30%, starting at 300 ml per hour.
+    - 30% rounded to 30%, starting at 210 ml per hour.
+    - 27% rounded to 30%, starting at 840 ml per hour.
+  correct: 1
+  explanation: >-
+    Front torso 18% plus one arm 9% is 27%, rounded to 30%; red skin without blisters is not counted.
+    The Rule of Ten for 40-80 kg is %TBSA times 10, so 300 ml per hour, titrated to urine output.
+- id: q2
+  question: >-
+    There is no IV and no evacuation for a day. A conscious 80 kg man has 30% partial-thickness burns.
+    Which oral plan follows the JTS 2025 protocol?
+  options:
+    - Plain water as much as he wants, since any fluid is better than none.
+    - A sports drink only, because it already contains salt and sugar.
+    - Home ORS at about 300 ml per hour, measured, titrated to urine of 30-50 ml per hour.
+    - Home ORS at 2 litres per hour to catch up for the time he went without fluid.
+  correct: 2
+  explanation: >-
+    Oral resuscitation uses a salt-and-sugar solution started at the Rule of Ten rate and titrated to
+    urine. Plain water and sports drinks alone cause hyponatremia, and catch-up volumes are avoided.
+- id: q3
+  question: >-
+    Four hours into oral resuscitation, a burned casualty has produced 40 ml of urine in total, is
+    drinking well and has no vomiting. What should you do?
+  options:
+    - Increase the hourly intake by about 20-25% and keep measuring urine every hour.
+    - Stop oral fluids, since low urine shows the gut is not absorbing them.
+    - Halve the intake, because the kidneys are failing and fluid will now overload him.
+    - Keep the rate unchanged, since urine is not a useful sign in burns.
+  correct: 0
+  explanation: >-
+    Urine below 30 ml per hour means under-resuscitation; increase the rate by 20-25% and reassess.
+    Persistent low urine output for 4 hours is also a JTS trigger to add or switch to IV fluid.
+- id: q4
+  question: >-
+    A man rescued from a burning flat has facial burns, soot in his nostrils and a voice that is
+    getting hoarse. His SpO2 is 95%. What is the main danger and response?
+  options:
+    - Carbon monoxide only; a normal SpO2 proves the airway is safe.
+    - The burns are small in TBSA, so no special action is needed for now.
+    - Lung infection in a few days; start an antibiotic now to prevent it.
+    - Inhalation injury swelling the airway; sit up, oxygen, early airway.
+  correct: 3
+  explanation: >-
+    Closed-space facial burns with soot and hoarseness mean inhalation injury that swells over hours.
+    TCCC says monitor the airway aggressively and consider an early surgical airway; oximetry can be
+    falsely normal with carbon monoxide.
+- id: q5
+  question: >-
+    A 20 kg child has 30% burns. A physician on the phone has IV access and asks for the JTS
+    pediatric starting rates. What do you give?
+  options:
+    - 300 ml per hour, the Rule of Ten applied to the child.
+    - 75 ml per hour of LR, from 4 ml times kg times TBSA over 24 hours.
+    - About 112 ml per hour of LR plus 60 ml per hour of maintenance D5LR.
+    - 20 ml per kg as a bolus, repeated until the child passes urine.
+  correct: 2
+  explanation: >-
+    For children, 3 ml times kg times TBSA is 1,800 ml, half in 8 hours, so about 112 ml per hour,
+    plus maintenance with dextrose by the 4-2-1 rule (40 + 20 = 60 ml per hour).

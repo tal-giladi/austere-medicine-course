@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    A fragment opened a man's abdominal wall and a loop of bowel lies outside. It is pink, not
+    bleeding, and there is no stool or fluid leaking. What does TCCC 2026 allow?
+  options:
+    - Push the bowel back firmly until it is all inside, however long it takes.
+    - Never touch the bowel; cover it with dry gauze and bandage it tightly.
+    - A single gentle attempt of under 60 seconds to put it back, without forcing.
+    - Put it back only after giving antibiotics and waiting 30 minutes for them to work.
+  correct: 2
+  explanation: >-
+    With no leakage and bleeding controlled, TCCC allows a single brief attempt under 60 seconds.
+    Contents must never be forced back, and reduction is not attempted with leakage or bleeding.
+- id: q2
+  question: >-
+    You cannot reduce an evisceration and your kit has run out of dressings. A kitchen is nearby.
+    Which cover matches the TCCC 2026 text best?
+  options:
+    - Sheets of clear cling film over the bowel, sealed to dry skin.
+    - Paper kitchen towels soaked in warm water, held on with a bandage.
+    - Cling film wrapped tightly around the whole torso several times.
+    - A thick dry bath towel pressed down to stop the bowel moving.
+  correct: 0
+  explanation: >-
+    TCCC lists water-impermeable, non-adhesive, preferably transparent covers such as a bowel bag, IV
+    bag or clear food wrap, secured with adhesive. Paper shreds and sticks; tight circular wrapping
+    can restrict breathing and strangle bowel.
+- id: q3
+  question: >-
+    A woman has a single fragment wound in the left flank, a weak radial pulse and confusion. No
+    surgeon can reach you for several hours. Which plan fits TCCC?
+  options:
+    - Pack the wound tightly with gauze, since packing stops abdominal bleeding.
+    - Give IV fluid continuously until her blood pressure is above 120 to protect the kidneys.
+    - Give her sweet tea to raise her blood sugar and treat the confusion.
+    - TXA 2 g, fluid only until radial pulse and mentation return, warm her, evacuate her first.
+  correct: 3
+  explanation: >-
+    Penetrating torso trauma is a TCCC indication for TXA. Fluid stops at the endpoints, hypothermia
+    is prevented, and surgery is the only cure. Abdominal casualties stay nil by mouth.
+- id: q4
+  question: >-
+    On day 2 without evacuation, a man with a penetrating abdominal wound has a temperature of 38.9,
+    a pulse rising from 100 to 125, and a belly that is harder and more painful. What is happening?
+  options:
+    - Normal healing; the pain and fever are expected for a week after any wound.
+    - Likely peritonitis from bowel injury; record vital signs and call a physician urgently.
+    - Constipation from lying still; give him a laxative and plenty of oral fluids.
+    - Dehydration only; oral rehydration solution will settle the pulse and temperature.
+  correct: 1
+  explanation: >-
+    Fever, rising pulse and a rigid, worsening abdomen after penetrating injury suggest peritonitis
+    and developing sepsis. It needs physician direction, antibiotics and surgery as soon as possible.
+- id: q5
+  question: >-
+    A conscious man has 25% burns and a fragment wound in the abdomen. There is no IV and evacuation
+    is at least 12 hours away. He asks for something to drink. What fits the JTS guidance?
+  options:
+    - Start home ORS at the Rule of Ten rate, since he is conscious and under 30%.
+    - Give plain water freely, since the salt in ORS would irritate the injured bowel.
+    - Give sports drinks only, which are gentler on the gut than home ORS.
+    - Avoid oral resuscitation because of the abdominal injury; seek IV access or a physician.
+  correct: 3
+  explanation: >-
+    The JTS lists abdominal injury, vomiting and burns over 40% as reasons to avoid enteral
+    resuscitation. This casualty needs IV fluid from a provider; until then, mouth care only.

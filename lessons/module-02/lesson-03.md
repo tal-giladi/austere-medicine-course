@@ -143,7 +143,7 @@ https://www.youtube.com/watch?v=ua1S-FCrtEI
 
 ## Scope and law
 
-Tourniquet application is an EMT skill and reassessment is part of using one safely; the Duty to Rescue Law (1998) protects reasonable aid. Under the 2026 TCCC model, reassessment and repositioning within 2 hours are expected of every trained responder, not only medics. Removing a tourniquet you judged unnecessary is a clinical decision beyond the Israeli EMT curriculum: when a paramedic or physician can be reached, by phone if necessary, involve them first.
+Tourniquet application is an EMT skill and reassessment is part of using one safely; the legal basis for lay aid (and why the Duty to Rescue Law gives no immunity) is in [lesson 01.5](../module-01/lesson-05.md). Under the 2026 TCCC model, reassessment and repositioning within 2 hours are expected of every trained responder, not only medics. Removing a tourniquet you judged unnecessary is a clinical decision beyond the Israeli EMT curriculum: when a paramedic or physician can be reached, by phone if necessary, involve them first.
 
 ## Practice
 

@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A blast casualty has a deformed mid-thigh, pain over the pelvis and a crushed foot on the same
+    side. A bystander offers a traction splint from a car kit. What is the better plan?
+  options:
+    - Apply the traction splint, since it is the standard of care for every femur fracture.
+    - Pelvic binder, then a long rigid splint from hip to beyond the foot and the legs tied together.
+    - Apply traction by hand for the whole journey instead of using a splint.
+    - Leave the leg unsplinted until X-ray shows which bones are broken.
+  correct: 1
+  explanation: >-
+    Pelvic and same-side foot injuries rule out traction, and TCCC removed traction splinting from its
+    skill sets in 2024. A binder plus a long rigid and anatomic splint is faster and safe for transport.
+- id: q2
+  question: >-
+    Six hours into a long evacuation, a conscious casualty with a splinted lower leg says the splint
+    hurts more than the fracture. Toes are cool and capillary refill is 4 seconds. What do you do?
+  options:
+    - Reassure him, since splints always hurt for the first day.
+    - Give more painkillers and recheck in another 6 hours as scheduled.
+    - Loosen the ties, re-pad and elevate, then recheck circulation within minutes.
+    - Tighten the splint further, since movement at the fracture causes the pain.
+  correct: 2
+  explanation: >-
+    Pain from the splint with slow capillary refill means it is too tight on a swelling limb. Loosen,
+    re-pad and reassess; if signs persist, remove it and contact a higher medical authority.
+- id: q3
+  question: >-
+    A woman's forearm is bent at a sharp angle mid-shaft and her radial pulse is absent. Evacuation is
+    hours away. What is the right field action?
+  options:
+    - Splint it exactly as it lies, since moving a fracture is never allowed in the field.
+    - Push the ends together hard until you feel them click into place.
+    - Apply a tourniquet above the fracture to protect the hand from bleeding.
+    - Gentle in-line traction toward straight, stop at resistance, recheck the pulse.
+  correct: 3
+  explanation: >-
+    For an angulated long-bone shaft fracture with lost pulse, gentle longitudinal traction to restore
+    gross alignment is the aim. Stop at firm resistance, splint, and recheck CSM.
+- id: q4
+  question: >-
+    An unconscious casualty has a splinted femur and will stay with you overnight. According to the
+    JTS PCC guideline, how often should you check pulses below the splint?
+  options:
+    - At least every 2 hours, because he cannot tell you the splint hurts.
+    - Every 6 hours, the same as for any splinted casualty.
+    - Only when the splint is changed, to avoid disturbing the fracture.
+    - Every 12 hours, during the morning and evening nursing rounds.
+  correct: 0
+  explanation: >-
+    The JTS PCC guideline says check pulses below a splint at least every 6 hours if conscious, and
+    every 2 hours if unconscious, because the casualty cannot report pain or numbness.
+- id: q5
+  question: >-
+    A fragment has caused an open tibia fracture with soil in the wound. You have clean bottled water,
+    dressings and cefadroxil. What is the order of care?
+  options:
+    - Splint first, then irrigate tomorrow when the bleeding has fully stopped.
+    - Close the skin with tape to keep the soil out, then splint.
+    - Control bleeding, irrigate gross dirt, dress, cefadroxil 1 g, splint and mark the splint.
+    - Pack the wound with dry gauze, splint, and wait for a surgeon before any antibiotic.
+  correct: 2
+  explanation: >-
+    The JTS asks for early irrigation of gross contamination at any level of care and antibiotics as
+    soon as possible; the wound care time is written on the splint. Open fracture wounds are not closed.
