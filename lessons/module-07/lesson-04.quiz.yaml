@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    An unconscious casualty lies on a blanket on a concrete shelter floor. How often should he be
+    repositioned, and in what position?
+  options:
+    - Every 4 hours, flat on his back, so his lines are never disturbed.
+    - Every 2 hours, fully on one side at 90 degrees, alternating sides.
+    - Every hour, tilted about 30 degrees on a wedge, rotating sides and back, heels floated.
+    - Only when he becomes restless, since turning an unconscious man risks the airway.
+  correct: 2
+  explanation: >-
+    JTS advises turning every 2 hours, or every hour on a hard surface. The 30-degree tilt is
+    preferred to 90-degree side-lying, and heels are floated with padding under the calves.
+- id: q2
+  question: >-
+    During a turn you find a red patch over the sacrum. When you press it, it stays red. What is
+    this and what do you do?
+  options:
+    - A stage 1 pressure injury; outline it, keep him off it and pad around it.
+    - Normal redness after lying still; massage it well to restore blood flow.
+    - A skin infection; cover it with an antiseptic dressing and keep him lying on it.
+    - A bruise from the injury; ignore it and record it at handover.
+  correct: 0
+  explanation: >-
+    Red skin that does not blanch is the first stage of a pressure injury. Mark it, offload it
+    completely and recheck at every turn. Do not rub at-risk skin.
+- id: q3
+  question: >-
+    You are about to do mouth care for an unconscious woman who sometimes clenches her jaw. Which
+    approach is safe?
+  options:
+    - Hold her mouth open with your thumb and clean with a wet cloth on your other hand.
+    - Pour a little mouthwash into her mouth and let it rinse while she lies flat.
+    - Skip mouth care, since an unconscious casualty cannot get pneumonia from her mouth.
+    - Turn her head aside, hold the mouth open with a padded spatula, wipe with damp gauze.
+  correct: 3
+  explanation: >-
+    A padded tongue depressor just past the teeth keeps the mouth open without risking your finger.
+    Turning the head lets fluid drain out. Mouth care every 4 hours reduces pneumonia risk.
+- id: q4
+  question: >-
+    You apply a condom catheter to an unconscious man. An hour later the head of the penis is
+    swollen and dusky. What most likely went wrong?
+  options:
+    - The sheath is too large, so leaking urine is irritating the skin badly.
+    - A retracted foreskin or a constricting sheath; remove it at once.
+    - The drainage bag is too low, causing back-pressure into the penis.
+    - This is normal swelling for the first day and settles without action.
+  correct: 1
+  explanation: >-
+    A retracted foreskin or a constricting sheath or tape can trap the head of the penis. Remove the
+    device, return the foreskin and check colour. Never wrap tape all the way round.
+- id: q5
+  question: >-
+    A conscious man with a splinted forearm fracture, no abdominal injury, wants to eat on day 1.
+    He coughed and his voice turned wet when you gave him a teaspoon of water. What now?
+  options:
+    - Give him thicker food instead, since only thin liquids cause problems.
+    - Let him feed himself, because any conscious man protects his own airway.
+    - Do not feed him yet; sit him up, recheck later, and call if it persists.
+    - Give a large drink quickly so the water passes before he can cough.
+  correct: 2
+  explanation: >-
+    Coughing and a wet voice suggest unsafe swallowing and a risk of aspiration pneumonia. Stop,
+    sit him up, try again later, and get advice if he keeps failing the check.

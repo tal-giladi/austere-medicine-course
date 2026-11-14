@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    An 80 kg man with a leg wound has passed 90 ml of urine in the last 4 hours. His pulse has
+    crept from 92 to 108. He says he is not thirsty. What do you conclude and do?
+  options:
+    - Output is fine for an injured man, so keep the plan and recheck in 4 hours.
+    - He is under 0.5 ml/kg/h; check bladder, look for bleeding, then give fluid.
+    - He is below target, so give a diuretic tablet to make the kidneys work harder.
+    - Thirst is the best guide in prolonged care, so wait until he asks for water.
+  correct: 1
+  explanation: >-
+    His target is at least 40 ml/h, or 160 ml in 4 hours. Low urine with a rising pulse suggests
+    under-filling. Rule out retention, look for hidden bleeding, and give fluid by the best route.
+- id: q2
+  question: >-
+    You must run 100 ml/h by gravity. The giving set package says 20 drops/ml. What do you count
+    in the drip chamber?
+  options:
+    - About 100 drops per minute.
+    - About 20 drops per minute.
+    - About 25 drops per minute.
+    - About 33 drops per minute.
+  correct: 3
+  explanation: >-
+    Drops per minute equal ml per hour times drop factor divided by 60, so 100 x 20 / 60 is about
+    33, roughly one drop every 2 seconds. 25 per minute would be right only for a 15-drop set.
+- id: q3
+  question: >-
+    A 25 kg child needs maintenance fluid by mouth for two days. Using the Holliday-Segar rule, what
+    is the daily volume?
+  options:
+    - About 1600 ml per day, roughly 65 ml per hour.
+    - About 2500 ml per day, roughly 100 ml per hour.
+    - About 750 ml per day, roughly 30 ml per hour.
+    - About 3000 ml per day, the adult minimum.
+  correct: 0
+  explanation: >-
+    100 ml/kg for the first 10 kg (1000 ml), 50 ml/kg for the next 10 kg (500 ml) and 20 ml/kg for
+    the remaining 5 kg (100 ml) give 1600 ml a day. Then let urine output guide you.
+- id: q4
+  question: >-
+    A woman on regular morphine has passed no urine for 9 hours despite drinking well. She is
+    restless and has a tender swelling above the pubic bone. What is the most likely problem?
+  options:
+    - Dehydration from her injuries, so she needs a rapid fluid bolus.
+    - Kidney failure from her injuries, so all fluids should be stopped now.
+    - Urinary retention; help her void, then get her catheterised by a professional.
+    - Over-sedation, so the next dose of morphine should be doubled for comfort.
+  correct: 2
+  explanation: >-
+    Opioids, lying flat and pain commonly cause retention. A full, tender bladder with good intake
+    is not dehydration or kidney failure. Try positioning and privacy, then a catheter by a qualified
+    person.
+- id: q5
+  question: >-
+    Two hours after a 1 litre IV bolus, a 74-year-old man becomes breathless lying flat, his
+    breathing rate climbs from 18 to 28 and his SpO2 falls. What do you do?
+  options:
+    - Lay him flat and run the next litre faster, as he is still in shock.
+    - Sit him up, stop the fluid, check his chest and call for advice.
+    - Give him water by mouth instead, which cannot cause fluid overload.
+    - Lower the IV bag, because gravity drips cannot give too much fluid.
+  correct: 1
+  explanation: >-
+    New breathlessness lying flat, a rising breathing rate and falling SpO2 after fluid suggest
+    overload, especially in older people. Sit him up, stop the infusion and get medical advice.

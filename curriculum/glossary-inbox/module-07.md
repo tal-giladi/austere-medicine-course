@@ -1,0 +1,34 @@
+# Glossary inbox — Module 7
+
+- Prolonged casualty care (PCC) — casualty care for extended periods when evacuation or the situation outruns the available capability; the JTS umbrella term since 2021.
+- Prolonged field care (PFC) — the advanced-provider continuation of prolonged casualty care until the casualty reaches the right level of care.
+- Minimum / better / best — the three-level format of JTS prolonged-care guidelines: the least you must deliver, what improves outcomes when available, and the optimal care for the provider's level.
+- Mini-round — a periodic step back to ask: sick or not sick, stable or unstable, better or worse, and how this differs from the last assessment.
+- Flowsheet — a chart that plots vital signs, fluids, drugs and nursing tasks against time so that trends are visible.
+- Intake and output (I/O) — the record of all fluid going into and coming out of a casualty, totalled into a fluid balance.
+- Urine output target — the minimum urine production that suggests adequate circulation: adult 0.5 ml/kg/h, child 1 ml/kg/h, infant 2 ml/kg/h.
+- Maintenance fluid — the daily fluid needed to replace normal losses, on top of any resuscitation fluid.
+- Holliday-Segar rule — child maintenance fluid: 100 ml/kg/day for the first 10 kg, 50 ml/kg/day for the next 10 kg, 20 ml/kg/day above 20 kg (4-2-1 ml/kg/h).
+- Drop factor — the number of drops per ml delivered by a giving set (macrodrip 10, 15 or 20; microdrip 60), printed on the package.
+- Time-taping — marking expected hourly fluid levels and clock times on a strip of tape on an IV bag.
+- Proctoclysis — giving water or rehydration solution into the rectum for absorption by the bowel.
+- Urinary retention — inability to empty a full bladder, common with opioids, ketamine, pain and lying flat.
+- Fluid overload — too much fluid for the heart and kidneys to handle, causing breathlessness, crackles and swelling.
+- Pressure injury — damage to skin and tissue over a bony point from sustained pressure; stage 1 is red skin that does not blanch.
+- Blanch test — pressing red skin to see whether it turns pale and refills; red skin that stays red is an early pressure injury.
+- 30-degree tilt — side-lying with the body tilted about 30 degrees on a wedge, preferred to full 90-degree side-lying to relieve pressure.
+- Log roll — turning a casualty as one unit with the head held in line, used when spinal injury is possible.
+- Condom catheter — an external sheath over the penis that drains urine to a bag, avoiding an indwelling catheter.
+- Saline lock — a capped IV cannula kept open by regular saline flushes for intermittent use.
+- Infiltration — IV fluid leaking into the tissue around a cannula, causing swelling, coolness and pain.
+- Phlebitis — inflammation of a vein around a cannula, seen as a red, tender cord.
+- Background, breakthrough and procedural pain — continuous pain from a wound, pain triggered by movement, and pain caused by a procedure; each has its own plan.
+- RASS (Richmond Agitation-Sedation Scale) — a scale from +4 (combative) to -5 (unrousable) used to score agitation and sedation.
+- Accumulation — build-up of a drug or its products when the body clears it slowly, for example morphine in kidney failure.
+- Teleconsultation — a caregiver discussing a casualty with a remote expert by phone, text or video.
+- PACE plan — primary, alternate, contingency and emergency communication methods, planned and tested in advance.
+- Closed-loop communication — the receiver reads back each instruction and the sender confirms it.
+- Read-back — repeating a recommendation, dose or time aloud to confirm it was understood correctly.
+- Geotag — location data stored inside a digital photo.
+- Patient packaging — preparing a casualty, documents, drugs, lines and dressings for transport.
+- Handoff report — a structured handover: overall condition, mechanism, injuries, vital signs with trends and urine, treatments with times, and what is due next.

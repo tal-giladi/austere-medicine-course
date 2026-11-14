@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    The ambulance will arrive in 3 hours after a 20-hour hold. The casualty's thigh dressing was
+    last changed 18 hours ago. What does the JTS packaging guidance suggest?
+  options:
+    - Leave it untouched, since moving the dressing before transport risks bleeding.
+    - Change and reinforce it now, with date and time, so the crew does not need to.
+    - Remove it entirely so the crew can inspect the wound on arrival.
+    - Wrap more bandage around it tightly to last the journey.
+  correct: 1
+  explanation: >-
+    Evacuation crews do not routinely change dressings in transit. JTS "best" is a change within
+    4 hours of departure, reinforced and labelled with date and time.
+- id: q2
+  question: >-
+    You are wrapping a casualty in blankets and a plastic outer layer for a long carry. How do you
+    help the crew find his saline lock and tourniquet without unwrapping him?
+  options:
+    - Tell the first crew member you meet and trust them to remember.
+    - Leave the arm with the lock outside the wrap so it stays visible.
+    - Write the location of each line and device on tape on top of the wrap.
+    - Put the information only on the flowsheet in the document bag.
+  correct: 2
+  explanation: >-
+    JTS suggests identifying the location of interventions and access points with tape on top of
+    the hypothermia wrap, so transport teams can find them quickly while keeping the casualty warm.
+- id: q3
+  question: >-
+    Which handover order matches the JTS documentation guideline?
+  options:
+    - Condition and trend, mechanism, injuries, vitals with urine, treatments with times.
+    - Treatments first, then the mechanism, then the casualty's full name and home address.
+    - Mechanism, then a full story of the event, then the current vital signs only.
+    - Vital signs only, since the crew will examine the casualty again themselves.
+  correct: 0
+  explanation: >-
+    The JTS handoff report summarises overall condition (stable or not, better or worse), mechanism,
+    injuries and exam, vital signs with trends and urine output, then treatments, with what is due
+    next.
+- id: q4
+  question: >-
+    A casualty who re-bled overnight now has bleeding controlled, systolic BP 108, urine 60 ml/h
+    (80 kg) and a splinted fracture. Is he ready for a long move by the JTS minimum?
+  options:
+    - No, because he re-bled once and must now wait a full 48 hours.
+    - No, because his systolic pressure is still below 120 mmHg.
+    - Only if he can walk to the waiting vehicle by himself.
+    - Yes; bleeding controlled, resuscitation adequate, fracture stable.
+  correct: 3
+  explanation: >-
+    The JTS transfer minimum is hemorrhage control, adequate resuscitation (systolic 70-80 or more,
+    MAP over 60, or urine over 0.5 ml/kg/h; here 0.75) and stabilised fractures.
+- id: q5
+  question: >-
+    In the 24-hour scenario, the casualty re-bleeds at 02:00 and the turns due at 02:00 and 04:00
+    are missed. What should the team do once the bleeding is controlled?
+  options:
+    - Skip turning until the morning so that he is not disturbed after the bleed.
+    - Turn him at once, check the sacrum and heels, and restart the 2-hour schedule.
+    - Double the next pain dose so that he can sleep through the missed turns.
+    - Record the turns as done, since the crisis justified the gap.
+  correct: 1
+  explanation: >-
+    Crises are when nursing tasks slip. Catch up immediately, check the pressure points, record the
+    gap honestly and restart the schedule; a missed turn is a common cause of pressure injury.

@@ -55,3 +55,22 @@
   - [40 · Decontamination: disrobe, dry, wet](lessons/module-06/lesson-04.md)
   - [41 · Smoke, carbon monoxide and cyanide](lessons/module-06/lesson-05.md)
   - [Module 6 quiz](assessments/module-06-quiz.md)
+- Stage 2 — Hours to days: prolonged field care
+- **Module 7 — Keeping a casualty alive for 72 hours**
+  - [42 · The 10 prolonged-care capabilities](lessons/module-07/lesson-01.md)
+  - [43 · Monitoring by hand and the vital-sign flowsheet](lessons/module-07/lesson-02.md)
+  - [44 · Fluids in and out](lessons/module-07/lesson-03.md)
+  - [45 · Nursing care: turning, skin, mouth, toilet and food](lessons/module-07/lesson-04.md)
+  - [46 · Lines and dressings over days](lessons/module-07/lesson-05.md)
+  - [47 · Pain and sedation over days](lessons/module-07/lesson-06.md)
+  - [48 · Calling a doctor remotely: the telemedicine report](lessons/module-07/lesson-07.md)
+  - [49 · Preparing for evacuation after a long hold](lessons/module-07/lesson-08.md)
+  - [Module 7 quiz](assessments/module-07-quiz.md)
+- **Module 8 — What goes wrong after the first hour**
+  - [50 · Crush syndrome: fluids before extrication, tourniquets before release](lessons/module-08/lesson-01.md)
+  - [51 · Dangerous potassium without a monitor](lessons/module-08/lesson-02.md)
+  - [52 · Compartment syndrome: recognition and what to do without a surgeon](lessons/module-08/lesson-03.md)
+  - [53 · Rhabdomyolysis](lessons/module-08/lesson-04.md)
+  - [54 · Wound infection and sepsis without labs](lessons/module-08/lesson-05.md)
+  - [55 · Wound care after 24 hours: irrigation, debridement and delayed closure](lessons/module-08/lesson-06.md)
+  - [Module 8 quiz](assessments/module-08-quiz.md)

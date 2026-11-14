@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Two hours after a rocket strike, you and three neighbours are caring for one badly wounded man in
+    a house. Evacuation is not expected before tomorrow. Bleeding is controlled. Everyone is busy
+    with something. What should happen next?
+  options:
+    - Name one leader, give each helper a defined role, then do a full exam and write a care plan.
+    - Keep everyone on their current tasks so momentum is not lost, and plan later.
+    - Start an IV on him at once, because fluids are the main treatment in prolonged care.
+    - Send all three helpers to look for a vehicle, since evacuation is the only real treatment.
+  correct: 0
+  explanation: >-
+    PCC principle 2 is to delineate roles and name a team leader, followed by a comprehensive exam,
+    problem list and care plan. Without a leader, doses are duplicated and vital signs are missed.
+- id: q2
+  question: >-
+    You could check urine output with a urinary catheter if a nurse neighbour inserts one, but she
+    will leave in two hours and nobody else can manage it. You also have a measuring jug and empty
+    bottles. What does minimum / better / best thinking suggest?
+  options:
+    - Insert the catheter anyway, because best care should always be chosen when available.
+    - Skip urine measurement, since it cannot be done to the best standard after she leaves.
+    - Measure each void in a bottle and jug, a level you can sustain for 72 hours without her.
+    - Ask her to insert it and leave it clamped, so it can be used only if he gets worse.
+  correct: 2
+  explanation: >-
+    The aim is the highest level you can actually sustain. A graduated container is the JTS "better"
+    level for urine measurement, and it works for days without skilled help.
+- id: q3
+  question: >-
+    On day 2 the casualty's numbers look much the same as at the last check, but he seems quieter.
+    Which mini-round question is most likely to catch an early deterioration?
+  options:
+    - Is his pain score lower than at the start?
+    - How is this assessment different from the last one?
+    - Has he eaten at least three full meals today?
+    - Is the room temperature still comfortable for him?
+  correct: 1
+  explanation: >-
+    The JTS mini-round asks sick or not sick, stable or unstable, better or worse, and how this
+    assessment differs from the last. Comparing with the previous round is what exposes slow change
+    such as rising confusion.
+- id: q4
+  question: >-
+    You are the only person with medical training in a cut-off village caring for two casualties.
+    It is 23:00 on the first night. What is the best plan for the night?
+  options:
+    - Stay awake all night, since you are the only one who can judge their condition.
+    - Give both casualties sedatives so that nobody needs to watch them overnight.
+    - Stop all checks overnight and restart the care plan in the morning when everyone is fresh.
+    - Sleep in short blocks while a trained neighbour records vitals and wakes you on set triggers.
+  correct: 3
+  explanation: >-
+    The PCC principles include a team wake, rest and food plan. Cross-trained helpers record vital
+    signs and wake you on agreed triggers, so the care plan can last 72 hours without your judgment
+    failing.
+- id: q5
+  question: >-
+    Auditing your home kit against the 10 capabilities, which group can you deliver almost fully
+    without prescription drugs or invasive skills?
+  options:
+    - Resuscitation with blood, airway with a cuffed tube, and surgical interventions.
+    - Ventilation with a PEEP valve, sedation, and point-of-care ultrasound diagnostics.
+    - Monitoring, nursing and hygiene, telemedicine, and preparing for transport.
+    - Surgical interventions, long-term sedation, and resuscitation beyond crystalloid.
+  correct: 2
+  explanation: >-
+    Monitoring, nursing, telemedicine and transport preparation need little equipment and are within
+    lay and EMT scope, yet they prevent many complications. They are also the capabilities most often
+    neglected.

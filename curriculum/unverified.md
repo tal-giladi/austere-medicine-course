@@ -24,3 +24,6 @@ To review before a public release.
 
 ## Module 8
 - JTS Dakin's recipe self-contradiction (course teaches 0.025% directly); ISN 2012 full text paywalled (used Short Field Version); ORS vs potassium-free fluid in crush (course reasoning); child calcium cap differs from RCH (max 30 ml); child metronidazole/insulin/dextrose/salbutamol from RCH; salbutamol inhaler puffs; sugar dressing evidence weak.
+
+## Module 7
+- Child urine targets (ATLS summaries); NPIAP staging from memory; NICE refeeding numbers not fetched; rectal maintenance volumes vs 04.1's 100-400 ml/h (inconsistent — reconcile); no Israeli lay telemedicine pathway source; Percocet acetaminophen 325 vs 650; EZ-IO 24 vs 48 h; course rules labelled.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A man with a converted thigh tourniquet has been stable for 6 hours. You are checking him every
+    4 hours. At 02:00 a helper reports his pulse is 118, up from 96 at 22:00. What do you do first?
+  options:
+    - Note it and keep the 4-hourly plan, since one high pulse is common at night.
+    - Repeat the set, check the wound and dressing, and step up to 15-30 minute checks.
+    - Give a fluid bolus straight away, because a rising pulse always means bleeding.
+    - Give pain medication and recheck at 06:00, as pain is the usual cause of a fast pulse.
+  correct: 1
+  explanation: >-
+    A reading that crosses a trigger is first repeated, then explained. A rise from 96 to 118 in a
+    casualty with a converted tourniquet could be renewed bleeding, so you check the wound and step
+    back up to critical-level checks until it is explained.
+- id: q2
+  question: >-
+    You have a BP cuff but no stethoscope. How do you get a usable blood pressure reading?
+  options:
+    - Estimate it from the pulse, using radial present as a systolic of at least 80.
+    - Inflate fully, release quickly, and read the gauge where the needle starts to bounce.
+    - Skip blood pressure and record only the pulse rate until a stethoscope is found.
+    - Inflate past the radial pulse, deflate slowly, and read systolic when it returns.
+  correct: 3
+  explanation: >-
+    The palpated systolic is the pressure at which the radial pulse returns as the cuff deflates.
+    It gives no diastolic and reads a little low, but it is a real measurement, unlike pulse-site
+    estimates.
+- id: q3
+  question: >-
+    Over 6 hours a casualty's readings were pulse 90, 98, 106, 114; BP 126/80, 124/84, 120/86,
+    116/88; breathing 16, 18, 22, 24; urine falling each check. Each value is "not too bad" on its
+    own. What does the flowsheet show?
+  options:
+    - Compensated shock developing; look for hidden bleeding or fluid loss and call for advice.
+    - Normal recovery after injury, since the systolic is still above 100.
+    - Anxiety and pain, because the blood pressure is stable and the casualty is alert.
+    - Over-sedation, since breathing and pulse change together after drugs.
+  correct: 0
+  explanation: >-
+    Rising pulse and breathing, a narrowing pulse pressure and falling urine with a held systolic is
+    the classic pattern of compensated shock. Compare with the baseline, not textbook normals.
+- id: q4
+  question: >-
+    Which of these findings is listed by the JTS telemedicine guideline as a reason for an emergent
+    consultation?
+  options:
+    - A heart rate of 104 that has been steady for 12 hours.
+    - A temperature of 37.6 °C in a casualty who has just eaten.
+    - Urine output under 0.5 ml/kg/h for more than 2 hours.
+    - A pain score of 5 that improved to 3 after acetaminophen.
+  correct: 2
+  explanation: >-
+    The guideline lists urine output under 0.5 ml/kg/h for over 2 hours, shock index over 1, heart
+    rate under 30 or over 110, systolic under 90, breathing over 30, SpO2 under 88% and altered
+    mental status, among others.
+- id: q5
+  question: >-
+    A neighbour with no medical training will watch the casualty while you sleep for three hours.
+    What should she record and when should she wake you?
+  options:
+    - Only the time she checked, since numbers from a non-medic are unreliable.
+    - Blood pressure and SpO2 every 15 minutes, waking you for any change at all.
+    - Nothing, but wake you if the casualty asks for anything.
+    - Pulse, breathing, pain, skin and alertness hourly, waking you on written triggers.
+  correct: 3
+  explanation: >-
+    The JTS non-medical minimum set is pulse, breathing rate, pain score, skin and alert or not.
+    A written list of wake-up triggers (breathing over 30 or under 10, not waking to voice, new
+    bleeding) makes her checks useful and lets you rest.

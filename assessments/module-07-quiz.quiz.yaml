@@ -1,0 +1,137 @@
+- id: q1
+  question: >-
+    Six hours into a hold in a kibbutz clinic, three volunteers are helping with two casualties.
+    Drugs have been given twice to one casualty because two volunteers each thought it was their
+    job. What is the first fix?
+  options:
+    - Name one leader, give each volunteer a written role, one drug chart per casualty.
+    - Ask the volunteers to leave so that only you give any care from now on.
+    - Stop all drugs for the rest of the hold to avoid any further double doses.
+    - Let the most confident volunteer take over the drug chart without a leader.
+  correct: 0
+  explanation: >-
+    PCC principle 2 is naming a leader and delineating roles. One drug chart per casualty, with
+    times and initials, prevents duplicate doses while keeping the helpers you need.
+- id: q2
+  question: >-
+    A 70 kg woman with a pelvic injury has checks every 4 hours. Her readings: pulse 86, 94, 104;
+    breathing 16, 20, 24; BP 130/82, 128/86, 124/90; urine 140, 90, 40 ml per 4 hours. What do you
+    do?
+  options:
+    - Continue the 4-hour checks, since her systolic is still above 120.
+    - Give her acetaminophen, since pain explains a faster pulse and breathing.
+    - Compensated shock; check binder and wounds, step up checks, call now.
+    - Encourage her to drink more water and recheck the urine tomorrow morning.
+  correct: 2
+  explanation: >-
+    Rising pulse and breathing, a narrowing pulse pressure and urine falling to 10 ml/h (well under
+    0.5 ml/kg/h) form a compensated shock trend. Look for bleeding, increase the check rate and make
+    an emergent call.
+- id: q3
+  question: >-
+    A physician by phone asks you to run 1 litre of saline over 8 hours. The giving set is
+    15 drops/ml and there is no pump. What do you set and how do you keep it accurate?
+  options:
+    - About 125 drops/min, checked once when the bag is half empty.
+    - About 31 drops/min, a time-taped bag, and a recount every hour and after moves.
+    - About 8 drops/min, checked by feeling whether the arm is cold.
+    - About 60 drops/min, since microdrip and macrodrip sets run at the same count.
+  correct: 1
+  explanation: >-
+    1000 ml over 8 h is 125 ml/h; 125 x 15 / 60 is about 31 drops/min. Gravity drips drift with
+    position and bag height, so time-tape the bag and recount hourly.
+- id: q4
+  question: >-
+    On day 2 a neighbour helping you says the casualty's heels and sacrum are red. The casualty lies
+    on a mattress on the floor, turned every 4 hours. What changes do you make?
+  options:
+    - Massage the red areas firmly at each turn to restore their circulation.
+    - Keep the 4-hour turns but add a doughnut cushion under his sacrum.
+    - Sit him upright at 60 degrees all day so that he stays off his back.
+    - Turn 2-hourly to a 30-degree tilt, float the heels, mark the red areas.
+  correct: 3
+  explanation: >-
+    JTS sets turns at least every 2 hours; the 30-degree tilt and heel floating are recommended by
+    the international guideline. Do not rub at-risk skin, and avoid long periods sitting high, which
+    shears the sacrum.
+- id: q5
+  question: >-
+    A casualty's IO was placed 30 hours ago. A peripheral IV has now been placed by a paramedic.
+    What happens to the IO?
+  options:
+    - Remove it now with the syringe-handle method; it is past 24 hours.
+    - Leave it as a spare route until evacuation in case the IV fails.
+    - Flush it every hour with extra saline to keep it free of infection.
+    - Remove it only when the casualty develops a fever or a red site.
+  correct: 0
+  explanation: >-
+    JTS says to discontinue an IO after 24 hours, 48 at most when IV access is difficult. With an IV
+    in place there is no reason to keep it, and infection risk rises with time.
+- id: q6
+  question: >-
+    Three hours after a 20 mg IV ketamine dose and two doses of IV morphine, a casualty opens his
+    eyes to voice without eye contact. His breathing is 8 per minute. What is your priority?
+  options:
+    - Give midazolam so that he does not have an emergence reaction.
+    - Recheck in an hour, since RASS -3 is a comfortable level of sedation.
+    - Airway and breathing support and naloxone; no further sedating drugs.
+    - Give ondansetron, since nausea is the main risk after ketamine.
+  correct: 2
+  explanation: >-
+    Eye opening to voice without eye contact is RASS -3, and breathing of 8 is below the adult
+    minimum on opioids. Support the airway, ventilate if needed and give naloxone. Never add a
+    benzodiazepine.
+- id: q7
+  question: >-
+    At 01:00 a casualty is agitated and pulling at his IV. A helper suggests giving him a sleeping
+    pill from her own supply. What do you do?
+  options:
+    - Give the sleeping pill at half dose, since a small amount is safe.
+    - First check oxygen, pulse, BP, sugar, bladder, temperature and pain.
+    - Tie both wrists to the bed so that the line is protected until morning.
+    - Give an extra morphine dose, since pain is always the cause of agitation.
+  correct: 1
+  explanation: >-
+    The commonest causes of agitation are pain, low oxygen, low blood pressure and low blood sugar,
+    plus a full bladder and cold. Someone else's sedative is unknown and dangerous with other drugs.
+- id: q8
+  question: >-
+    You call a duty physician for a casualty with a thigh wound. Which item, often forgotten, most
+    changes the advice you will get?
+  options:
+    - The exact address and the casualty's full name and ID number.
+    - The full story of the attack, told right from the beginning.
+    - The casualty's blood type, even if it is only a guess.
+    - Your training and the drugs, fluids and monitoring you have.
+  correct: 3
+  explanation: >-
+    JTS stresses conveying capabilities so the consultant does not recommend what you lack. Sending
+    a kit photo before the call and stating your training saves time and leads to usable advice.
+- id: q9
+  question: >-
+    You must use WhatsApp to send a physician photos of a wound and your flowsheet during a war.
+    What is the best practice?
+  options:
+    - Small, compressed images so that they send quickly on a weak network.
+    - Location off, no face or surroundings, readable 0.5-1 MB images, one recipient.
+    - Send everything to the community group so more people can help quickly.
+    - Include a full-face photo so the physician can identify the casualty later.
+  correct: 1
+  explanation: >-
+    JTS advises identifying casualties by sex and age, avoiding identifying images, disabling
+    geotags, and using images large enough to read (about 0.5-1 MB), since small ones are often
+    useless.
+- id: q10
+  question: >-
+    Evacuation arrives after 30 hours. What single action most protects the casualty during the
+    handover?
+  options:
+    - A long, detailed verbal story of the whole hold, told from the beginning.
+    - Letting the crew unwrap the casualty to examine everything themselves.
+    - A structured handover with trends, drugs and next-due items, paper attached.
+    - Riding along so that you can answer any questions at the hospital later.
+  correct: 2
+  explanation: >-
+    JTS calls handover the most dangerous time. A structured report (condition, mechanism, injuries,
+    trends and urine, treatments with times) with the flowsheet and drug list attached carries what
+    the crew cannot see.

@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A paramedic placed a tibial IO at 09:00 yesterday and left. It is now 08:00 the next day and
+    no IV has been found. Evacuation is still 10 hours away. What is the right plan?
+  options:
+    - Leave it until evacuation, since IOs can stay in for as long as they flow.
+    - Get it removed now and switch routes, as it has been in about 23 hours.
+    - Flush it hourly with extra saline to prevent infection, and leave it in.
+    - Remove it only if the leg becomes red, since that is the only sign that matters.
+  correct: 1
+  explanation: >-
+    JTS says to discontinue an IO after 24 hours, 48 at most when IV access is difficult. Plan
+    another route and remove it before infection risk climbs; watch the site afterwards.
+- id: q2
+  question: >-
+    Flushing a saline lock that has not been used for 10 hours, you feel firm resistance. What do
+    you do?
+  options:
+    - Push harder with a 3 ml syringe, which generates more force to clear the clot.
+    - Inject air first to open the channel, then flush with saline.
+    - Leave it, since a blocked lock will clear itself once fluids are hung.
+    - Try gentle pulsing pressure; if it will not flow, stop and remove it without forcing.
+  correct: 3
+  explanation: >-
+    JTS describes gentle pulsing pressure until saline flows freely. Forcing can push a clot into
+    the vein or rupture it. A lock that still will not flush is removed.
+- id: q3
+  question: >-
+    On day 2 you lift the dressing over a thigh fragment wound. The skin is red 3 cm around it.
+    What do you do so that you can judge it tomorrow?
+  options:
+    - Draw a pen line at the edge of the redness and write the time beside it.
+    - Take a photo only if the casualty has a fever, since redness alone is normal.
+    - Cover it with a tighter bandage to reduce the swelling that causes the redness.
+    - Apply alcohol to the red skin to stop it spreading before the next change.
+  correct: 0
+  explanation: >-
+    Marking the edge of redness with time lets anyone see at the next check whether it is spreading,
+    a key early sign of wound infection that should trigger a call for advice.
+- id: q4
+  question: >-
+    You have oral acetaminophen and ibuprofen for a casualty who needs a painful dressing change.
+    When should you give them?
+  options:
+    - Right after the dressing change, when the pain is worst.
+    - Only if he asks for them during the change.
+    - About 60 minutes before you start the change.
+    - At the same time as you begin removing the dressing.
+  correct: 2
+  explanation: >-
+    JTS advises giving long-acting oral analgesia at least 60 minutes before wound care, or IV drugs
+    15-30 minutes before, so that the drug is working when the pain starts.
+- id: q5
+  question: >-
+    On day 2 a man with a splinted lower-leg fracture says the pain is getting worse and much worse
+    when you gently move his toes. What do you do?
+  options:
+    - Give more pain medicine and recheck the leg in 6 hours as scheduled.
+    - Loosen the splint and reassess; if no better, remove it and call for advice now.
+    - Tighten the splint, since more support will reduce the movement causing pain.
+    - Raise the leg high above his heart and leave the splint unchanged until morning.
+  correct: 1
+  explanation: >-
+    Rising pain and pain on passive stretch suggest compartment syndrome or a tight splint. JTS says
+    loosen and reassess, then remove and contact a higher medical authority if signs persist.

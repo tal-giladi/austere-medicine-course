@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    You reach a physician by phone about a casualty with a thigh wound. How should you open the
+    report?
+  options:
+    - With a full account of the attack and the rescue, so the context is clear first.
+    - By reading out every vital sign recorded since the injury, in time order.
+    - By asking the physician which details they would like to hear first today.
+    - Who you are, the casualty in one line, the trend, and your one question.
+  correct: 3
+  explanation: >-
+    The JTS call script starts with who is calling, a headline (patient, problem, stable or not,
+    trend) and a specific "I need help with". The consultant then listens with a purpose.
+- id: q2
+  question: >-
+    A casualty's urine has been under 0.5 ml/kg/h for 3 hours and his pulse is now 116. Your
+    script form is not filled in yet. What do you do?
+  options:
+    - Call now by voice and fill in the form afterwards, as this is an emergent consultation.
+    - Fill in the whole script first, since a disorganised call wastes the consultant's time.
+    - Send photos and a text, then wait for a reply within 24 hours.
+    - Wait for the next 4-hour round to confirm the trend before calling.
+  correct: 0
+  explanation: >-
+    Urine under 0.5 ml/kg/h for over 2 hours and a heart rate over 110 are emergent triggers. JTS
+    says not to delay an urgent call to fill out a guide sheet or send emails.
+- id: q3
+  question: >-
+    The physician recommends "cefadroxil 1 g by mouth now and every 24 hours, and call back if his
+    temperature goes over 38.5". What should you do next on the call?
+  options:
+    - Say thank you and hang up quickly to save the phone battery for later.
+    - Read back drug, dose, route, timing and trigger; write them on the sheet.
+    - Ask the physician to repeat the advice later by text, without confirming it now.
+    - Give the first dose while still on the line, to save some time overall.
+  correct: 1
+  explanation: >-
+    Closed-loop communication with read-back catches errors in drug names and doses. Write the
+    advice on the flowsheet with the time, the consultant's name and the next call time.
+- id: q4
+  question: >-
+    During a war you want to send a wound photo to a physician by WhatsApp. Which approach is
+    right?
+  options:
+    - Post it to the neighbourhood group so any doctor among them can answer.
+    - Include the casualty's face and the street so the physician can find you later.
+    - Location off, wound only with a coin for scale, sent to one contact.
+    - Send a small, low-resolution image so it uses as little data as possible.
+  correct: 2
+  explanation: >-
+    JTS advises identifying casualties by sex and age, avoiding faces and surroundings, disabling
+    geotags, and using images of about 0.5-1 MB, since smaller ones are often unreadable.
+- id: q5
+  question: >-
+    The phone network is overloaded during a rocket attack and voice calls keep failing. What is
+    the next step in a PACE plan?
+  options:
+    - Keep redialling the same number every minute until the call connects.
+    - Switch to the alternate method, such as SMS or text with photos.
+    - Stop trying until the attack ends, as messages cannot get through.
+    - Go up to the roof for a better phone signal during the attack.
+  correct: 1
+  explanation: >-
+    A PACE plan moves to the next method when the primary fails twice. Short numbered texts often
+    get through when calls do not; never expose yourself to fire for a signal.

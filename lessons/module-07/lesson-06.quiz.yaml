@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A casualty with a fractured femur gets acetaminophen only when he asks. Every few hours he is in
+    severe pain, then needs a large dose of a strong drug that leaves him very drowsy. What change
+    does prolonged-care guidance suggest?
+  options:
+    - Wait longer between the doses so that his body slowly adapts to the pain.
+    - Give one very large dose at night so that he sleeps through until morning.
+    - Scheduled background doses around the clock, small rescue doses on top.
+    - Add a benzodiazepine so that the strong drug lasts longer between doses.
+  correct: 2
+  explanation: >-
+    The JTS PFC guideline separates background, breakthrough and procedural pain. Scheduled
+    background doses with smaller, more frequent rescue doses avoid swings between agony and
+    over-sedation.
+- id: q2
+  question: >-
+    After repeated IV morphine, an adult casualty opens his eyes to his name only briefly and looks
+    away within a few seconds. His breathing is 9 per minute. What is his state and what do you do?
+  options:
+    - RASS -2 with slow breathing; stop opioids, support airway, ready naloxone.
+    - RASS 0, calm and comfortable; continue the current morphine plan unchanged.
+    - RASS +1, restless and anxious; give a further morphine dose for comfort.
+    - RASS -5, unrousable; begin chest compressions and call for help now.
+  correct: 0
+  explanation: >-
+    Brief eye contact to voice is RASS -2, and an adult rate under 10 on morphine is below the MSF
+    minimum. Stop the opioid, open and support the airway, and give naloxone if breathing stays low.
+- id: q3
+  question: >-
+    At 03:00 a casualty with a chest wound becomes agitated and pulls at his dressing. A helper asks
+    for something to calm him. What do you check first?
+  options:
+    - Whether he has already had any sedative drug in the last 24 hours.
+    - SpO2, breathing, pulse, BP, blood sugar, bladder and pain.
+    - Whether he will accept soft restraints on both wrists for the night.
+    - The exact time of his next scheduled acetaminophen dose on the chart.
+  correct: 1
+  explanation: >-
+    The commonest causes of agitation are pain, low oxygen, low blood pressure and low blood sugar,
+    plus a full bladder and cold. Sedating a hypoxic or shocked casualty can kill him.
+- id: q4
+  question: >-
+    A 70 kg man on regular IV morphine has passed less urine each shift since day 1 and is now
+    drowsier on the same dose on day 3. What is the likely problem?
+  options:
+    - Tolerance to morphine, so the dose should be doubled from now on.
+    - Normal deep sleep after two nights without any proper rest.
+    - A late ketamine emergence reaction from the doses the day before.
+    - Morphine building up as his kidneys fail; reduce it and call.
+  correct: 3
+  explanation: >-
+    Morphine and its active products are cleared by the kidneys. Falling urine output with rising
+    sedation on an unchanged dose suggests accumulation, a reason to reduce the dose and seek advice.
+- id: q5
+  question: >-
+    A 20 kg child needs acetaminophen every 6 hours. You have syrup with 120 mg in 5 ml. What do you
+    give per dose?
+  options:
+    - 300 mg, which is 12.5 ml.
+    - 120 mg, which is 5 ml.
+    - 600 mg, which is 25 ml.
+    - 200 mg, which is 8.5 ml.
+  correct: 0
+  explanation: >-
+    15 mg/kg x 20 kg is 300 mg. At 120 mg per 5 ml that is 300 / 24 = 12.5 ml. Four doses give
+    1200 mg a day, the MSF maximum of 60 mg/kg.
