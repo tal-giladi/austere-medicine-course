@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    An 18-month-old weighing 11 kg has watery diarrhoea, is restless, has sunken eyes, drinks eagerly
+    and the skin pinch goes back slowly. There is no IV and no doctor on site. What is the plan?
+  options:
+    - Plan C, so 1.1 L of ORS in the first hour from a baby bottle, then reassess.
+    - Plan A, 50-100 ml of ORS after each stool, and stop breastfeeding until it settles.
+    - Plan B, about 825 ml of ORS over 4 hours by spoon, breastfeeding and zinc.
+    - Plain boiled water as often as he wants, with ORS only if he becomes lethargic.
+  correct: 2
+  explanation: >-
+    Two or more signs of some dehydration means Plan B, 75 ml/kg over 4 hours, given by spoon or cup
+    rather than a bottle. Breastfeeding continues and every child with diarrhoea gets zinc (11.3).
+- id: q2
+  question: >-
+    Your shelter's household bleach says 3.5% sodium hypochlorite. How do you make 1 litre of 0.05%
+    solution for handwashing at the cholera corner?
+  options:
+    - 14 ml of bleach made up to 1 litre with water.
+    - 57 ml of bleach made up to 1 litre with water.
+    - 4 drops of bleach in 1 litre of water.
+    - 570 ml of bleach plus 430 ml of water.
+  correct: 0
+  explanation: >-
+    Millilitres of bleach per litre equal 1000 × wanted strength ÷ bleach strength, so 1000 × 0.05 ÷ 3.5
+    is about 14 ml. 57 ml makes 0.2% for surfaces, 570 ml makes 2% for buckets, and 4 drops per litre
+    disinfects drinking water (11.5, 11.6).
+- id: q3
+  question: >-
+    A 16-year-old with type 1 diabetes uses glargine 22 units at night. His pen will run out; a neighbour
+    has NPH and regular insulin. What basal plan does the FDA emergency switching guidance support?
+  options:
+    - NPH 22 units once at night, the same time and dose as the glargine.
+    - NPH 11 units twice a day, starting when the next glargine dose would be due.
+    - Regular insulin 22 units at night, since it is the closest human insulin to glargine.
+    - Stop basal insulin and give regular insulin only with meals until he is evacuated.
+  correct: 1
+  explanation: >-
+    Once-daily long-acting insulin converts to NPH as the same total daily dose split into two equal
+    doses. Starting when the next glargine dose is due avoids doubling basal insulin, and in type 1
+    diabetes basal insulin is never stopped (12.4, 12.3).
+- id: q4
+  question: >-
+    A woman with a dental abscess has been taking ibuprofen 400 mg and acetaminophen 1 g every 6 hours.
+    Today she has four watery stools and feels dizzy on standing. What do you change?
+  options:
+    - Nothing, since the dental pain plan is the ADA's first-line regimen.
+    - Double the acetaminophen to 2 g every 6 hours to replace the ibuprofen's effect.
+    - Add naproxen at night so the pain does not keep her awake while she is ill.
+    - Stop ibuprofen, rehydrate with ORS, keep acetaminophen, dipyrone if needed.
+  correct: 3
+  explanation: >-
+    NSAIDs harm the kidneys of a dehydrated patient and are given only after fluids. Acetaminophen stays
+    within its 4 g daily maximum, and dipyrone can replace, not add to, the NSAID (04.5, 12.5).
+- id: q5
+  question: >-
+    One evacuation place. A diabetic teenager is drowsy with deep fast breathing, glucose 420 mg/dL and
+    large ketones; a 74-year-old cholera patient is drinking and improving on ORS; a woman's dental
+    abscess is unchanged on amoxicillin. Who goes, and why?
+  options:
+    - The 74-year-old, because age over 60 is a cholera risk factor that outweighs the others.
+    - The teenager, because DKA needs IV fluid, insulin and potassium checks you cannot give.
+    - The woman, because a dental abscess can spread to the neck and close the airway.
+    - Nobody yet; wait until two places are offered so no family is split up.
+  correct: 1
+  explanation: >-
+    DKA worsens every hour without hospital treatment, while the other two are improving or stable on
+    what the shelter can give. The abscess becomes the top priority only if emergency signs appear
+    (12.3, 12.5).

@@ -1,0 +1,144 @@
+- id: q1
+  question: >-
+    Three casualties reach your stairwell after a drone strike. A man is screaming with a deformed forearm,
+    a woman is quiet with blood pooling under her thigh, and a teenager is coughing and talking. Help
+    cannot reach you for hours. Where do your hands go first?
+  options:
+    - The woman's thigh, because massive bleeding kills fastest and comes before airway.
+    - The teenager's airway, because airway always comes first in the ABC sequence.
+    - The screaming man, because his pain shows the most serious injury in the room.
+    - All three get a full primary survey in order of arrival before any treatment starts.
+  correct: 0
+  explanation: >-
+    Circulation first: massive limb bleeding is controlled before anything else, and a quiet casualty
+    with a pool of blood is often the most urgent. A talking, coughing casualty has an airway for now
+    (01.3, 02.3).
+- id: q2
+  question: >-
+    In a safe room, a man with a fragment wound to the right chest has a vented seal. His breathing rate
+    climbs to 34, SpO2 falls to 85% and breath sounds are absent on the right. A paramedic neighbour with
+    decompression needles has just arrived. What is the first step?
+  options:
+    - Decompress at once at the 2nd intercostal space medial to the nipple line, where the wall is thinnest.
+    - Give high-flow oxygen and wait 10 minutes to see whether the saturation recovers on its own.
+    - Lay him flat on his back and start bag-valve-mask ventilation to re-expand the lung.
+    - Burp or remove the chest seal; if there is no improvement, decompress at a TCCC site.
+  correct: 3
+  explanation: >-
+    He meets the tension criteria. The seal is burped or removed first, and if that fails, needle
+    decompression goes in at the 5th space anterior axillary line or the 2nd space midclavicular line,
+    never medial to the nipple line (03.3, 03.4).
+- id: q3
+  question: >-
+    A paramedic reaches a casualty with a thigh amputation and shock 4 hours after the injury and places
+    an IO. She asks whether you have TXA in your kit. What does TCCC say about giving it now?
+  options:
+    - Give 2 g slowly, since TXA helps any bleeding casualty whenever it is started.
+    - Do not give it; TXA is given within 3 hours of injury, never later.
+    - Give 1 g now and 1 g over 8 hours, the infusion schedule TCCC still uses.
+    - Give 2 g only after calcium, because calcium must always go in first.
+  correct: 1
+  explanation: >-
+    TCCC gives TXA 2 g by slow IV or IO push as soon as possible and never later than 3 hours after
+    injury. The single 2 g push replaced the old 1 g plus infusion (04.3).
+- id: q4
+  question: >-
+    After a blast, a man has a GCS of 11, a weak radial pulse and SpO2 89%, with no bleeding left to
+    control. A paramedic is on the way. Which targets do you set while you wait?
+  options:
+    - Lay him flat with legs raised, breathe for him at 20 a minute, and keep his pulse just palpable.
+    - Keep his head down to help blood reach the brain, and give nothing until the paramedic arrives.
+    - SpO2 at least 92%, a normal radial pulse or SBP over 100, 10 breaths a minute if bagged.
+    - Sit him fully upright, give fluids by mouth, and let him sleep to rest the brain.
+  correct: 2
+  explanation: >-
+    The injured brain needs oxygen and pressure: SpO2 92% or more and a normal radial pulse (SBP over 100
+    if measured), not the permissive target. Over-breathing narrows brain vessels; head up 30 degrees only
+    once he is out of shock (05.2, 04.1).
+- id: q5
+  question: >-
+    On the third night in a building's shelter, five people complain of headache and nausea at once. A
+    petrol generator runs in the stairwell next to the shelter door. Their pulse oximeter readings are
+    98-99%. What do you do first?
+  options:
+    - Give acetaminophen to all five and recheck in an hour, since the oximeter is normal.
+    - Treat as a stomach bug, start ORS and set up a separate toilet bucket for them.
+    - Open the shelter door wider so the generator's warm air reaches the people inside.
+    - Everyone out to fresh air, generator off, high-flow oxygen if you have it.
+  correct: 3
+  explanation: >-
+    Several people with headache in a closed space near an engine means carbon monoxide. A pulse oximeter
+    reads carbon monoxide as oxygen, so a normal number is no reassurance. Fresh air first; generators
+    run outside away from openings (06.5, 03.7).
+- id: q6
+  question: >-
+    Hour 10 of a long hold. An 80 kg casualty's urine has been 25 ml/h for the last 3 hours; pulse 108,
+    BP 112/74, alert. The physician line works. According to the JTS telemedicine triggers, what now?
+  options:
+    - Call now; urine below 0.5 ml/kg/h for over 2 hours is an emergent trigger.
+    - Wait for the scheduled call at hour 12, since his blood pressure is normal.
+    - Give furosemide from a neighbour's supply to get the kidneys going again.
+    - Stop all oral fluids, as low urine means the kidneys cannot handle more.
+  correct: 0
+  explanation: >-
+    The target is at least 0.5 ml/kg/h, 40 ml/h for 80 kg. Below it for more than 2 hours is an emergent
+    consultation trigger; first check for retention and dehydration, and never push urine with a diuretic
+    on your own (07.2, 07.3).
+- id: q7
+  question: >-
+    A woman's crushed thigh was released 15 minutes ago. Her pulse drops from 104 to 56 and becomes
+    irregular; she says her legs feel heavy. She has an IV line and a physician on the phone has ordered
+    calcium for exactly this. What do you give first?
+  options:
+    - Furosemide 40 mg IV to get the potassium out through the urine.
+    - Calcium gluconate 10% 10 ml IV over 2-3 min, repeated after 5 min if needed.
+    - Sodium bicarbonate through the same line as the calcium to correct the acid.
+    - A litre of Ringer's lactate as fast as possible to wash the potassium out.
+  correct: 1
+  explanation: >-
+    A slowing, irregular pulse after release is high potassium until proven otherwise. Calcium protects
+    the heart within minutes; then shift and remove potassium. Bicarbonate is no longer recommended and
+    precipitates with calcium (08.2).
+- id: q8
+  question: >-
+    Day 2 in a cut-off village. A man has a dirty 6 cm laceration on his calf from a falling metal sheet
+    18 hours ago. It has been irrigated well and is not bleeding. You have a full suture kit and
+    lidocaine. What do you do with the wound?
+  options:
+    - Suture it now after irrigation, since a closed wound keeps dirt and bacteria out.
+    - Close it with superglue, which seals in less time than stitches and needs no removal.
+    - Leave it open, dress and irrigate daily, delayed closure at 3-5 days if clean.
+    - Close it with strips under tension, since tape lets pus out if it becomes infected.
+  correct: 2
+  explanation: >-
+    A body wound over about 6 hours old, especially a dirty or crushing one, stays open. Closing it traps
+    infection. Daily care and delayed primary closure at 3-5 days, if it looks clean, is the field
+    standard (09.1, 08.6).
+- id: q9
+  question: >-
+    After an earthquake, a woman's ankle is badly deformed; the foot is pale, cold and numb, with no pulse.
+    No evacuation for at least a day. Pain relief is ready. What is the right decision?
+  options:
+    - One gentle realignment now, splint, recheck; if no better, splint as reached.
+    - Splint it exactly as found and elevate it, because moving a fracture-dislocation is never safe.
+    - Apply a tourniquet above the ankle to prevent swelling until a surgeon can reach her.
+    - Pull repeatedly until the foot looks straight, however long it takes, then splint it.
+  correct: 0
+  explanation: >-
+    A pulseless, cold, numb foot is a threatened limb: realign now with one gentle attempt, splint, and
+    check colour, sensation and pulses. If it does not improve, splint in the best position reached and
+    evacuate urgently, watching for compartment syndrome (10.3, 05.6).
+- id: q10
+  question: >-
+    Day 5 in a shelter with suspected cholera. A 30-year-old pregnant woman has watery diarrhoea with
+    some dehydration. A pharmacist has doxycycline and azithromycin. What is the antibiotic decision?
+  options:
+    - No antibiotic, since pregnant women should only receive ORS during an outbreak.
+    - Give doxycycline 100 mg twice daily for a week, the usual course in adults.
+    - Give azithromycin to everyone in the shelter so the outbreak stops spreading.
+    - Give a single dose, for example azithromycin 1 g, alongside ORS by plan.
+  correct: 3
+  explanation: >-
+    GTFCC gives cholera antibiotics to pregnant women whatever the dehydration, as a single dose
+    (azithromycin 1 g or doxycycline 300 mg). Mass prophylaxis is not recommended, and fluids remain the
+    main treatment (11.5).

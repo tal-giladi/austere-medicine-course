@@ -112,3 +112,8 @@
   - [81 · Running a casualty collection point for days](lessons/module-13/lesson-03.md)
   - [82 · Handling the dead: identification, storage and respect](lessons/module-13/lesson-04.md)
   - [Module 13 quiz](assessments/module-13-quiz.md)
+- **Module 14 — Capstone: 72-hour scenarios**
+  - [83 · Safe room after an attack: 8 hours, 3 casualties, no evacuation](lessons/module-14/lesson-01.md)
+  - [84 · Collapsed building: crush, long tourniquet, day-2 infection](lessons/module-14/lesson-02.md)
+  - [85 · Cut-off shelter: diarrhoea outbreak, a diabetic without insulin, a dental abscess](lessons/module-14/lesson-03.md)
+  - [Module 14 quiz](assessments/module-14-quiz.md)

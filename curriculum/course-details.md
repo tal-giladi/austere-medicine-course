@@ -17,4 +17,4 @@
   - Wound closure, abscess drainage and dislocation reduction.
   - Oral rehydration, outbreak control, chronic patients without medication, dental emergencies, psychological first aid.
   - Doing all of it with household items when nothing else is available.
-- Home kit estimate: TBD after modules 2-4 are written.
+- Home kit: see lesson 01.6 (kits) and each lesson's Practice section.

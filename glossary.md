@@ -35,6 +35,7 @@ Terms used in the course, in alphabetical order.
 - **Burping a chest seal** — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
 - **Butterfly strip** — a tape strip with a narrow non-sticky middle used to hold small wound edges together.
 - **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
+- **Capstone scenario** — a timed, step-by-step exercise that combines the skills of the whole course in one realistic situation, scored against reference decisions.
 - **Carbon monoxide (CO)** — odourless gas from incomplete burning that binds haemoglobin; a standard pulse oximeter reads normal despite poisoning.
 - **Carbon monoxide poisoning** — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
 - **Care Under Fire** — The TCCC name for care while the threat is still acting on rescuer and casualty; the TECC equivalent is direct threat care.
@@ -74,6 +75,7 @@ Terms used in the course, in alphabetical order.
 - **Dead space** — volume left in a syringe tip, atomiser or line after injection.
 - **Debridement** — removal of dead tissue and debris from a wound.
 - **Decision log** — a timed written record of major decisions and the reasons for them, kept by the leader of a casualty operation.
+- **Decision point** — a moment in a scenario, marked by elapsed time (for example T+1:10), at which the learner must decide and document before reading the reference.
 - **Delayed primary closure** — closing a wound that was left open and dressed for about 3-5 days, once it is clean.
 - **Delayed primary closure (DPC)** — closing a wound after 3-7 days of open care once it is clean.
 - **Delirium tremens** — severe alcohol withdrawal 2-5 days after the last drink, with confusion, hallucinations, fever and fast heart rate.
@@ -164,6 +166,7 @@ Terms used in the course, in alphabetical order.
 - **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
 - **Kavod ha-met** — the Jewish principle of respect for the dead.
 - **Ketamine** — dissociative analgesic that preserves breathing and blood pressure at pain doses; given IM, IN, IV or IO.
+- **Kit limits** — the exact list of supplies available in a scenario; anything not on it cannot be used, and everything used is gone for later.
 - **Knee dislocation** — displacement of the shin bone from the thigh bone; a high-energy injury with a high risk of popliteal artery and nerve injury.
 - **Knockdown toxidrome** — sudden collapse with fast then failing breathing and normal pupils and secretions, typical of cyanide.
 - **Kohen (plural kohanim)** — man of Jewish priestly descent who traditionally avoids being under the same roof as a dead body.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Safe room, 19:40. A neighbour put a tourniquet over jeans high on a woman's thigh at 19:33. Blood
+    still oozes from the mid-thigh wound and you can feel the pulse behind her inner ankle. What do you do?
+  options:
+    - Tighten the existing tourniquet over the jeans until the ooze slows, then pack the wound beneath it.
+    - Remove the tourniquet, since a pulse below it shows the bleeding is venous and packing will hold it.
+    - Second tourniquet on skin 5-7.5 cm above the wound until the pulse goes; then loosen the first.
+    - Leave it as it is and write the time, since touching a tourniquet in the first hour risks a re-bleed.
+  correct: 2
+  explanation: >-
+    Bleeding plus a distal pulse means the tourniquet is not arterial and may be acting as a venous
+    tourniquet. TCCC reassessment puts a new one on skin 2-3 inches above the wound, then loosens the
+    first and leaves it in place as a backup (02.3).
+- id: q2
+  question: >-
+    At 20:45 the same woman has a strong radial pulse, is alert, and her wound is exposed under your
+    light. The first tourniquet went on at 19:33. There is no amputation. What is the right decision?
+  options:
+    - Convert now; pack, hold 3 minutes, bandage, release slowly, leave the tourniquet loose.
+    - Keep the tourniquet until the ambulance arrives, since conversion is only for medics on scene.
+    - Wait until about 21:30 so the clot is firmer, then convert just inside the 2-hour window.
+    - Take the tourniquet right off after packing, so nobody can tighten it again by mistake.
+  correct: 0
+  explanation: >-
+    All three criteria are met (not in shock, wound can be watched, not an amputation) and it is under
+    2 hours, so convert now; waiting only adds ischaemia and risks missing the window. The loosened
+    tourniquet stays in place as a backup (02.4).
+- id: q3
+  question: >-
+    A 67-year-old who walked into the safe room after a blast takes bisoprolol and apixaban. Three hours
+    later he has new belly pain and nausea. Pulse 74 (was 68), BP 118/76 (was 146/88), skin cooler. What
+    is the best reading of this?
+  options:
+    - Stress and the cold room; his pulse is still normal, so recheck him in 4 hours as planned.
+    - Stomach upset from the cefadroxil; give the next dose with food and continue routine checks.
+    - Nausea from the burst eardrum; lay him on the injured side, keep him still and observe him.
+    - Possible delayed blast abdomen masked by the beta-blocker; upgrade, nil by mouth, call.
+  correct: 3
+  explanation: >-
+    Bowel and abdominal blast injury can declare itself hours later. A beta-blocker stops the pulse from
+    rising, so the falling blood pressure, cool skin and new abdominal signs are the shock trend, and the
+    anticoagulant makes bleeding worse (05.1, 04.1).
+- id: q4
+  question: >-
+    It is cold during a long siren and the safe room door is closed. A neighbour offers to light his
+    camping gas stove inside to boil water and warm the room. What do you say?
+  options:
+    - Yes, but only for 10 minutes, with the door opened slightly after each use.
+    - No flame inside; warm the casualties with layers and a vapour barrier.
+    - Yes, as long as the battery carbon monoxide alarm stays silent while it burns.
+    - Only if the casualties are first moved to the far corner, away from the stove.
+  correct: 1
+  explanation: >-
+    Gas stoves, heaters, charcoal and generators are never run in a sealed safe room, even briefly:
+    carbon monoxide builds up silently, and an alarm is a backup, not permission. Warmth comes from
+    insulation, layers and a vapour barrier (06.5, 05.7).
+- id: q5
+  question: >-
+    An 8-year-old, about 25 kg, has blistered scalds covering about six of his own palms and no other
+    injury needing fluid. He can drink. What fluid plan fits?
+  options:
+    - The Rule of Ten for 6%, so 60 ml per hour of plain water, checked against his thirst.
+    - Parkland, 4 ml × 25 kg × 6% over 24 hours, given by mouth as plain water.
+    - About 100 ml/h of salty-sweet fluid (1.5 × maintenance); urine target 25 ml/h.
+    - Nothing beyond normal drinking, since burns under 20% never need any extra fluid.
+  correct: 2
+  explanation: >-
+    Children under 10% TBSA usually need about 1.5 times maintenance and drinking; maintenance for 25 kg
+    is about 65 ml/h. Oral fluid must contain salt and sugar, and the urine target for a child is about
+    1 ml/kg/h (05.4, 07.3).

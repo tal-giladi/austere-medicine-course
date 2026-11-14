@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    You reach a man at 08:05. A passer-by put a tourniquet over his jeans at 05:40 for an open shin
+    fracture. No bleeding, no foot pulse, radial pulse 112 and weak. No physician has been reached yet.
+    What do you do with the tourniquet?
+  options:
+    - Put a second tourniquet on skin below it and loosen the first, as reassessment requires.
+    - Convert it now with packing and a pressure bandage, since the wound is not bleeding.
+    - Remove it, because after 2 hours the limb is lost and the tourniquet only adds harm.
+    - Leave it on and tight, treat shock, give fluid by mouth, and call for direction.
+  correct: 3
+  explanation: >-
+    Past 2 hours, loosening a tourniquet is a conversion, and TCCC 2026 says lay-level responders do not
+    convert beyond 2 hours without a paramedic or physician directing them. He is also in shock, which
+    fails the first conversion criterion (02.4, 02.5).
+- id: q2
+  question: >-
+    A woman has been trapped by both thigh and calf since 05:10; the slab will be lifted at 10:30. You
+    have 4 L of saline for two casualties, a nurse who leaves at 13:00 and no monitor. What fits the JTS
+    crush guidance?
+  options:
+    - Saline at 2 L/h until release, then stop, since the danger ends once she is freed from it.
+    - Saline 1 L/h then 500 ml/h, potassium-free oral mix, two tourniquets just before release.
+    - Oral ORS sachets only, keeping all the saline for after release when potassium rises.
+    - No fluids before release, to avoid overload; start the crush protocol once she is out.
+  correct: 1
+  explanation: >-
+    Fluids start before extrication (ISN 1 L/h, reduced to 500 ml/h when extrication takes over 2 hours),
+    with potassium-free oral fluid alongside. When entrapment exceeds 2 hours and the protocol cannot be
+    guaranteed, the JTS advises tourniquets just before release (08.1).
+- id: q3
+  question: >-
+    Day 2, 08:00. The crush casualty's urine has fallen to 35-60 ml/h over four hours despite 1 L/h of
+    oral fluid. Her eyelids are puffy, breathing 24, crackles at both bases, SpO2 down to 92%. What now?
+  options:
+    - Restrict fluid to losses, sit her up, check the bladder, call for dialysis evacuation.
+    - Increase oral fluid to 1.5 L/h, since urine is below the crush target of 100-200 ml/h.
+    - Give the last litre of saline as a bolus to flush the kidneys before they fail completely.
+    - Give ibuprofen for the leg pain so she can drink more, and recheck the urine in 4 hours.
+  correct: 0
+  explanation: >-
+    Low urine despite adequate fluid plus overload signs means established kidney injury; more fluid
+    floods the lungs. Restrict, sit up, exclude retention, call, and make dialysis evacuation the top
+    priority (08.1, 08.4).
+- id: q4
+  question: >-
+    Day 2, 18:00. An open-fracture casualty has temperature 38.9, pulse 124, breathing 24, new confusion,
+    pus and spreading redness. He has no IV. Your kit has ceftriaxone 1 g vials and lidocaine. First steps?
+  options:
+    - Cefadroxil 2 g by mouth now, since he can still talk, and irrigate at the morning dressing change.
+    - Wait for the physician's next call window, then give whatever antibiotic is advised.
+    - Ceftriaxone 2 g IM (two 1 g sites) within the hour, call, oral/rectal fluid, irrigate the wound.
+    - Close the wound with sutures after irrigation to stop more bacteria getting in, then start fluids.
+  correct: 2
+  explanation: >-
+    This is sepsis (qSOFA 2, red-flag confusion). The antibiotic goes in within the hour; with no IV,
+    ceftriaxone is given IM at no more than 1 g per site. Fluids by mouth or rectum to a urine target and
+    source control follow, and infected wounds are opened, never closed (08.5, 04.6, 08.6).
+- id: q5
+  question: >-
+    Day 1, 13:00. Four hours after a long tourniquet was converted, the man's calf is hard, he rates the
+    pain 9/10 despite acetaminophen, and pulling his toes up makes it much worse. The foot pulse is
+    present. What do you do?
+  options:
+    - Raise the leg on pillows and pack it in ice to bring the swelling down, then recheck in 4 hours.
+    - Reassure him, since a foot pulse rules out compartment syndrome, and add ibuprofen.
+    - Re-tighten the tourniquet, since the swelling shows the conversion has failed.
+    - Split every bandage and splint to skin, keep the leg at heart level, check hourly, call now.
+  correct: 3
+  explanation: >-
+    Pain out of proportion and on passive stretch in a tense compartment after reperfusion is compartment
+    syndrome until proven otherwise; a pulse does not exclude it. Remove constriction, keep the limb at
+    heart level with no ice or NSAIDs, and get a surgeon involved (08.3).

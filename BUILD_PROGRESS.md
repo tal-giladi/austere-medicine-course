@@ -23,11 +23,11 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Module 11 — Fluids, diarrhoea and outbreaks
 - [x] Module 12 — Medicine without a doctor
 - [x] Module 13 — People, the dead, and running a casualty point for days
-- [ ] Module 14 — Capstone: 72-hour scenarios
-- [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
+- [x] Module 14 — Capstone: 72-hour scenarios
+- [x] Final QA: check-course 0 problems (85 lessons, 561 questions), 516 links 0 broken, warning in every lesson
 
 ## Now working
-- Module 14 (one agent).
+- Nothing running. Course complete.
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

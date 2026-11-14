@@ -42,3 +42,6 @@ To review before a public release.
 
 ## Module 13
 - Israeli civilian death-notification protocol; who may legally determine death (MDA protocols); NATAL *3362; MoH adoption of SIX Cs (news only); SALT original paper not opened; religious burial points from secondary sources; course rules labelled (re-triage intervals, rationing triggers, shift lengths).
+
+## Module 14
+- Course reasoning in scenarios: glargine→NPH timing, single evacuation place choice, holding crush tourniquets without calcium/IV, ibuprofen after major bleed; scenario details invented for training.
