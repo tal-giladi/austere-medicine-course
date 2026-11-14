@@ -1,0 +1,139 @@
+- id: q1
+  question: >-
+    A drone hits a street in a border town. You find a teenager with an arm amputation lying
+    beside a burning car, and residents gathering around him. No alert is active. What is your
+    first sequence?
+  options:
+    - Full MARCH assessment where he lies, since no alert is active and the scene is calm.
+    - Tourniquet high and tight, then drag him to cover away from the car and send the crowd back.
+    - Carry him into the nearest house, since indoors is safer than any street corner.
+    - Pack the stump with gauze first, since a tourniquet on an amputation is rarely needed.
+  correct: 1
+  explanation: >-
+    A burning car and a crowd at a strike site, where a second strike is possible, make it a hot
+    zone: tourniquet for the massive bleeding, then move to cover and keep people away. Full
+    treatment happens at the CCP.
+- id: q2
+  question: >-
+    Your community response team has set up a CCP in the village's main car park, next to the
+    clinic. A resident reports an unfamiliar van parked there since the attack. What do you do?
+  options:
+    - Ask a volunteer to check the van's doors and look inside before deciding.
+    - Keep the CCP, since moving casualties now would undo their treatment.
+    - Cover the casualties with blankets so they are protected from any blast.
+    - Report it to police and move the CCP out of its line of sight behind solid cover.
+  correct: 3
+  explanation: >-
+    Anything that does not belong near a CCP is treated as a threat: do not approach or touch it,
+    tell police, and move away out of line of sight behind cover. Casualties can be moved on
+    blankets with interventions re-checked afterwards.
+- id: q3
+  question: >-
+    You must move an unconscious woman with a packed groin wound and a femur fracture from a
+    third-floor flat to a car, with two helpers and no stretcher. Which plan is best?
+  options:
+    - Fireman's carry down the stairs by the strongest helper, since it is fastest.
+    - Two-person seat carry, since she can be held upright and her airway watched.
+    - Load-tested blanket litter, tied on, carried down feet first, head uphill.
+    - Wait in the flat until an ambulance crew with a stair chair arrives.
+  correct: 2
+  explanation: >-
+    An unconscious casualty with a fracture needs a litter and to be tied on; downstairs she goes
+    feet first so the head stays uphill. Seat and fireman's carries suit conscious casualties without
+    these injuries.
+- id: q4
+  question: >-
+    After a release in a train station, a 40 kg 12-year-old is seizing, not breathing well, with
+    copious secretions and pinpoint pupils. A paramedic has DuoDote, AtroPens and midazolam. What
+    is the right initial plan?
+  options:
+    - One 1 mg AtroPen, then wait 15 minutes to see whether he improves.
+    - Severe-level atropine, pralidoxime and midazolam 5 mg IM, then ventilate.
+    - Midazolam only, since the seizure is the threat and atropine can wait.
+    - Wait for decontamination, since injecting through clothes spreads the agent.
+  correct: 1
+  explanation: >-
+    Seizures and poor breathing are severe signs: severe-level atropine (for 18-41 kg up to three
+    times the 1 mg AtroPen, repeated until the lungs are dry), pralidoxime, midazolam 5 mg for
+    13-40 kg, and ventilation. Antidotes go in through clothing before decontamination.
+- id: q5
+  question: >-
+    Twenty minutes after two DuoDote injections, a casualty's pupils are still pinpoint but his
+    breathing is easy and his chest is clear. His pulse is 118. Is more atropine needed?
+  options:
+    - No; the lungs are dry and breathing is easy, which is the atropine endpoint.
+    - Yes; the pupils must return to normal before atropine is stopped.
+    - Yes; a pulse over 100 shows the agent is still active and needs more atropine.
+    - No; atropine should never exceed two autoinjectors in a civilian setting.
+  correct: 0
+  explanation: >-
+    Atropine is titrated to dry bronchial secretions and easy breathing. Pupils can stay small for
+    days, and tachycardia is common and not itself a reason to give or withhold atropine.
+- id: q6
+  question: >-
+    Thirty walking people were exposed to an unknown liquid spray at an outdoor event. Their skin
+    does not burn. The fire service is 25 minutes away; you have rubbish bags, paper towels and a
+    garden hose. What do you organise?
+  options:
+    - Line them up for the hose first, 3-5 minutes each, then undress afterwards.
+    - Keep them dressed and wrapped in blankets to prevent hypothermia until the fire service arrives.
+    - Upwind, disrobe into bags, 10:10 dry blotting head to toe, then a short mist rinse and dry.
+    - Wash only those with symptoms; the others can go home and shower there.
+  correct: 2
+  explanation: >-
+    The PRISM order is evacuate, disrobe, dry decontamination, then a 15-30 s rinse if needed and
+    available, and active drying. Long showers cause wash-in; sending people home spreads the
+    contamination.
+- id: q7
+  question: >-
+    Which casualty should go through wet decontamination before any dry blotting?
+  options:
+    - A man with an oily liquid on his arms and no skin pain, on a cold night.
+    - A woman who was near a vapour release and now has a runny nose and small pupils.
+    - A child who has no symptoms but whose parents ask for decontamination.
+    - A worker covered in a powder whose skin is burning and red.
+  correct: 3
+  explanation: >-
+    Wet decontamination comes first for caustic chemicals (painful, burning skin) and powders. Dry
+    decontamination is the default for the others, and is preferred in cold weather.
+- id: q8
+  question: >-
+    You are making 0.5% hypochlorite from a household bleach labelled 3.5% sodium hypochlorite.
+    What mix is right, and where must it not be used?
+  options:
+    - 1 part bleach to 6 parts water; never in eyes, body cavities or brain wounds.
+    - 1 part bleach to 9 parts water; never on the face, hands or any wound.
+    - Undiluted bleach on the skin for one minute; never on wounds of any kind.
+    - 1 part bleach to 20 parts water; it is safe in the eyes once diluted.
+  correct: 0
+  explanation: >-
+    Parts of water = (bleach % / 0.5) - 1 = 6. The 1:9 mix is for 5% bleach. JTS 2026 bars
+    hypochlorite from the eyes, chest and abdominal cavities and open brain or spinal cord wounds.
+- id: q9
+  question: >-
+    A man rescued from a burning bedroom is confused and has soot around his nose. His SpO2 is
+    97%. You have a cylinder and a non-rebreather; a paramedic is 20 minutes away. What do you do?
+  options:
+    - Oxygen by nasal cannula at 2 L/min, since his saturation is already normal.
+    - Walk him around outside in fresh air, which clears carbon monoxide fastest.
+    - No oxygen until the paramedic can measure his carbon monoxide level properly.
+    - Non-rebreather at 15 L/min, rest, airway watch and priority evacuation.
+  correct: 3
+  explanation: >-
+    Confusion after an enclosed fire suggests CO and possibly cyanide; a normal oximeter does not
+    rule out CO. High-flow oxygen and rest, with hydroxocobalamin by a provider for collapse, shock
+    or seizures.
+- id: q10
+  question: >-
+    During a long blackout, a neighbour wants to run a petrol generator inside the safe room so the
+    family can shelter there with lights and a fan through the night alerts. What do you advise?
+  options:
+    - It is safe if the safe room window is opened a little and the door kept closed.
+    - It is safe for short runs of under an hour at a time, with a break in between.
+    - The generator must run outside away from windows; use battery lights and a CO alarm inside.
+    - It is safe if a wet towel is placed over the generator exhaust to absorb the fumes.
+  correct: 2
+  explanation: >-
+    Generators and other fuel-burning devices must never run in a closed room, even with a window
+    open: CO builds up silently. A wet towel does not absorb carbon monoxide. A battery CO alarm
+    warns early.

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A woman with a fragment wound to the back and a thigh tourniquet lies in the open during a
+    lull between rocket alerts. You are alone; she is heavier than you. Which move is best?
+  options:
+    - A fireman's carry, so you can run to the shelter with one hand free.
+    - Wait for a second rescuer, since carrying her alone risks dropping her.
+    - Roll her onto a blanket, board her and drag her with your arms only.
+    - A shoulder drag along the line of her body to the nearest cover.
+  correct: 3
+  explanation: >-
+    A drag needs the least strength and keeps her low and roughly in line. A fireman's carry is
+    hard to load with a heavy casualty and presses on injuries, and waiting in the open is the worst
+    choice.
+- id: q2
+  question: >-
+    You must carry a man who fell from scaffolding and has neck pain down three flights of stairs
+    on a door used as a litter. How do you do it?
+  options:
+    - Tie him to the door at chest, hips and legs and carry feet first down, keeping the head uphill.
+    - Carry him head first down the stairs, so the lead bearer can watch the steps and his face.
+    - Untie him on the stairs so he can hold the rails and help balance the door.
+    - Sit him on a kitchen chair instead, because a door is too awkward on stairs.
+  correct: 0
+  explanation: >-
+    A blunt fall with neck pain needs a rigid litter and a tied-on casualty. Downstairs he goes feet
+    first so the head stays uphill. A chair would bend his spine.
+- id: q3
+  question: >-
+    You built a blanket-and-poles litter from a smooth polyester throw and two broom handles. At
+    the 10 cm load test, the volunteer sinks until his back nearly touches the floor and one
+    handle creaks. What now?
+  options:
+    - Carry on, but walk slowly and keep the litter close to the ground.
+    - Use the litter only for a child, since the problem is the casualty's weight.
+    - Rebuild with a wool blanket and thicker poles, or use a door or blanket drag instead.
+    - Add more people along the sides so the weight is shared over the handles.
+  correct: 2
+  explanation: >-
+    Sagging and a creaking pole mean the litter will fail on the move. Smooth synthetic fabric slips
+    and thin handles snap; change materials or method before loading the casualty.
+- id: q4
+  question: >-
+    No ambulance can reach your village for an hour. You drive a casualty in shock with a thigh
+    tourniquet in a five-seat car. How should he travel?
+  options:
+    - Sitting in the front passenger seat with the seat belt on, so you can watch him while driving.
+    - Lying across the back seat on a blanket, with a second person in the back watching him.
+    - Sitting in the back seat with his legs on the seat, so he stays awake on the way.
+    - Lying in the boot of the car, since it is the only place long enough for an adult.
+  correct: 1
+  explanation: >-
+    A shocked casualty should lie flat; sitting worsens shock. Someone must ride with him to watch
+    the airway and tourniquet, since the driver cannot. A boot isolates him from help.
+- id: q5
+  question: >-
+    You moved an unconscious casualty from the street into the safe room on a blanket. What do you
+    do first once inside?
+  options:
+    - Write the time of the move on the card and then start the full head-to-toe check.
+    - Give oral fluids while he is still breathing well, since moving tires casualties.
+    - Remove the blanket so you can see his back and legs before the next alert.
+    - Re-check airway and breathing, tourniquets and dressings, since moves shift them.
+  correct: 3
+  explanation: >-
+    Every move can close an unconscious casualty's airway, loosen a tourniquet or dislodge packing.
+    Reassess those first, then document. Oral fluids are never for unconscious casualties.

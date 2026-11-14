@@ -1,0 +1,22 @@
+# Glossary inbox — Module 6
+
+- Hot, warm and cold zones — TECC/CBRN areas of active threat (only tourniquet and extraction), threat not cleared (full treatment, decontamination) and safe (evacuation care).
+- Casualty collection point (CCP) — the place casualties are gathered and treated, chosen for cover, no line of sight to the threat, upwind and an exit route.
+- Secondary device — a second explosive or attack aimed at the crowd and rescuers after a first event; recognised and avoided, never touched.
+- Rautek grip — rescuer behind the casualty grips one of their forearms across the chest from under both armpits to lift and drag them out of a seat or along a floor.
+- Improvised litter — a stretcher made from a blanket or jackets on poles, a door, a ladder or a sheet, load-tested before use.
+- CRESS — Consciousness, Respirations, Eyes, Secretions, Skin: the 2026 JTS rapid check that sorts chemical casualties into toxidromes.
+- Cholinergic toxidrome — the picture of nerve agent or organophosphate poisoning: pinpoint pupils, heavy secretions, sweating, twitching, seizures, breathing failure.
+- SLUDGE — Salivation, Lacrimation, Urination, Defecation, GI upset, Emesis: memory aid for cholinergic secretions.
+- Atropine endpoint — dry bronchial secretions and easy breathing; not pupil size or heart rate.
+- Pralidoxime (2-PAM) — oxime that reactivates acetylcholinesterase if given before the agent-enzyme bond "ages".
+- DuoDote / ATNAA — autoinjector with atropine 2.1 mg and pralidoxime 600 mg for adults and children over 41 kg.
+- AtroPen — atropine-only autoinjector in 0.5, 1 and 2 mg sizes, chosen by weight.
+- PRISM — US federal (ASPR/BARDA) evidence-based guidance for mass chemical decontamination: evacuate, disrobe, dry, then wet.
+- Dry decontamination — blotting and rubbing skin with absorbent material (10 s blot, 10 s rub, head down) after undressing; removes up to 99%.
+- Triple Protocol — PRISM sequence of dry decontamination, a 15-30 s high-volume rinse, and a 60-90 s warm technical shower.
+- Wash-in — increased skin absorption of a chemical caused by long or hot showering.
+- RSDL — Reactive Skin Decontamination Lotion, a sponge lotion that deactivates nerve agents and mustard on intact skin.
+- Carbon monoxide (CO) — odourless gas from incomplete burning that binds haemoglobin; a standard pulse oximeter reads normal despite poisoning.
+- Hydroxocobalamin (Cyanokit) — cyanide antidote, 5 g IV over 15 min in adults, 70 mg/kg in children.
+- Knockdown toxidrome — sudden collapse with fast then failing breathing and normal pupils and secretions, typical of cyanide.

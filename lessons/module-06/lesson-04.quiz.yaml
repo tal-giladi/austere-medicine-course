@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A man was sprayed with an oily liquid at a bus station. He has no burning pain and no water
+    supply is nearby; a fire engine is 20 minutes away. What do you start now?
+  options:
+    - Wait for the fire engine, since only a proper shower removes oily chemicals from skin.
+    - Wipe the liquid off his clothes with paper towels first, so he can keep them on for warmth.
+    - Pour your drinking water over his clothes to dilute the chemical before he undresses.
+    - Get him upwind, cut off and bag his clothes, then blot and rub with paper towels from head down.
+  correct: 3
+  explanation: >-
+    Disrobing removes most contamination and dry blotting removes up to 99% more, starting at once.
+    Waiting for a shower loses minutes; wetting clothes first can spread the chemical.
+- id: q2
+  question: >-
+    A worker is covered in a white powder from a burst sack and says her skin is starting to sting.
+    Which decontamination comes first after undressing?
+  options:
+    - Wet decontamination at once with plenty of water, since it is a powder and her skin hurts.
+    - Dry blotting and rubbing with towels, since dry decontamination is always the default.
+    - Flour sprinkled on the skin to absorb the powder before rinsing.
+    - 0.5% hypochlorite wiped on all skin, since bleach neutralises most chemicals.
+  correct: 0
+  explanation: >-
+    PRISM keeps wet decontamination for caustic chemicals (burning or painful skin) and powders,
+    which rubbing grinds in. Bleach is not a general neutraliser and can worsen some burns.
+- id: q3
+  question: >-
+    You have a garden hose and a group of 12 contaminated people who have undressed and blotted.
+    How long should each person stand under the spray?
+  options:
+    - Five minutes each, because longer washing always removes more of the chemical.
+    - Until they no longer smell of the chemical, however long that takes.
+    - 15-30 seconds on wide mist, rubbing from head to toe, then dry with towels.
+    - No rinse at all, since water always increases skin absorption of chemicals.
+  correct: 2
+  explanation: >-
+    PRISM's high-volume, low-pressure rinse is 15-30 seconds. Longer soaking can drive chemical into
+    the skin (wash-in), and smell is not a reliable guide. Active drying follows.
+- id: q4
+  question: >-
+    A contaminated casualty has a fragment wound in the forearm and another in the abdomen. You
+    have water and freshly made 0.5% hypochlorite. How do you treat the wounds?
+  options:
+    - Hypochlorite into both wounds, since wounds absorb chemicals fastest.
+    - Irrigate both with water; hypochlorite may be used in the forearm but never in the abdomen.
+    - Cover both with dry dressings and leave decontamination of wounds to the hospital.
+    - Rub flour into both wounds to absorb the chemical, then irrigate.
+  correct: 1
+  explanation: >-
+    Wounds are decontaminated early. JTS 2026 allows 0.5% hypochlorite in open limb wounds but not in
+    the chest or abdominal cavity, brain or eyes. Powders do not belong in wounds.
+- id: q5
+  question: >-
+    On a cold winter night you must decontaminate an elderly woman and her 2-year-old grandson
+    after a chemical release. What fits PRISM?
+  options:
+    - Separate them so that each is undressed by a helper of the same gender.
+    - Hose them both down first to save time, then undress them indoors later.
+    - Leave the child dressed, since undressing a toddler in the cold is dangerous.
+    - Keep them together, carry the child, dry decontamination, then wrap warmly.
+  correct: 3
+  explanation: >-
+    Children are prioritised and carried, families stay together, and dry decontamination is the
+    preferred method in cold weather. Clothing holds most of the contamination and must come off.

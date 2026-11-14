@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Several people collapse in a shopping centre. A man walking out has a streaming nose, tiny
+    pupils, chest tightness and is sweating, but talks normally. You carry DuoDote kits. What do
+    you give?
+  options:
+    - One DuoDote into the outer thigh, then disrobe and reassess in 10-15 minutes.
+    - Three DuoDote in rapid succession plus midazolam, since nerve agents always progress.
+    - Nothing until he is decontaminated, since injecting through contaminated clothing is unsafe.
+    - Midazolam 10 mg IM only, since he is anxious and atropine would speed his heart.
+  correct: 0
+  explanation: >-
+    Walking and talking with secretions, small pupils and chest tightness is mild/moderate: one
+    DuoDote. Antidotes go in through clothing before decontamination. Three plus a benzodiazepine is
+    for severe signs.
+- id: q2
+  question: >-
+    After three DuoDote injections, a casualty still has crackles in both lungs and the BVM feels
+    stiff. His pulse is 128 and his pupils are still pinpoint. What do you do?
+  options:
+    - Stop atropine because his heart is already fast and further doses could cause arrhythmia.
+    - Keep giving atropine until his pupils return to normal size.
+    - Give 2 mg more atropine every 5-10 minutes until his lungs dry and ventilation eases.
+    - Switch to pralidoxime alone, since atropine has clearly failed after three injections.
+  correct: 2
+  explanation: >-
+    The atropine endpoint is dry bronchial secretions and easy breathing. Tachycardia is common and
+    not a reason to stop, and pupils can stay small for days after the lungs are dry.
+- id: q3
+  question: >-
+    A 6-year-old (about 20 kg) is unconscious and seizing after exposure in the same incident. A
+    paramedic has DuoDote, 1 mg AtroPens and midazolam, but no IV. Which plan fits the guidance?
+  options:
+    - One 1 mg AtroPen only, because pralidoxime is not approved for children.
+    - Wait for IV access so that weight-based doses can be given exactly.
+    - Midazolam 10 mg IM alone, since seizures are the immediate threat.
+    - Up to 3 mg atropine IM, pralidoxime IM and midazolam 5 mg IM.
+  correct: 3
+  explanation: >-
+    Severe poisoning in an 18-41 kg child: AtroPen 1 mg, up to three times in severe cases, plus
+    pralidoxime about 25 mg/kg and midazolam 5 mg IM for 13-40 kg. For severe poisoning without an
+    IV, adult autoinjectors are acceptable rather than waiting.
+- id: q4
+  question: >-
+    A kibbutz worker was splashed with a liquid insecticide 40 minutes ago. He feels fine, with
+    only sweating and twitching on his forearm where it landed. What is the right plan?
+  options:
+    - Reassure him and send him home, since liquid exposure that has not caused symptoms by now will not.
+    - Remove his clothes, wash the skin, and keep him watched for 18 hours with atropine ready.
+    - Give three DuoDote now as prevention, since organophosphates need large atropine doses.
+    - Cover the forearm with a dry dressing and recheck him tomorrow morning.
+  correct: 1
+  explanation: >-
+    Local sweating and twitching is early skin absorption; liquid exposure can take up to 18 hours
+    to cause systemic poisoning. Decontaminate and observe; give antidotes when systemic signs appear.
+- id: q5
+  question: >-
+    You find an old Israeli civilian kit from before 2010 with a 1 mg atropine autoinjector. A
+    neighbour has severe nerve agent signs and no EMS can reach you. What is reasonable?
+  options:
+    - Discard it, since expired atropine becomes toxic and may cause seizures.
+    - Keep it for a child, since 1 mg is too small to help any adult.
+    - Use it, check the needle came out, and use more if available, while ventilating.
+    - Inject it into a vein, since an IV dose works faster than an IM one.
+  correct: 2
+  explanation: >-
+    With no other antidote and severe poisoning, a possibly weaker but available drug is better than
+    none. 1 mg is low for an adult, so more may be needed. Autoinjectors are designed for IM use only.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    During a power cut, a family of four has spent the night in their safe room with a small
+    gas heater. All have headaches and the father is confused. His finger oximeter reads 99%.
+    What is your conclusion?
+  options:
+    - The 99% reading rules out a breathing problem; the headaches are from stress and poor sleep.
+    - Likely carbon monoxide poisoning; everyone out to fresh air and high-flow oxygen for the father.
+    - Likely a viral illness spreading in a crowded room; isolate the father from the children.
+    - Likely dehydration from the heater; give oral fluids and open the safe room door.
+  correct: 1
+  explanation: >-
+    A fuel-burning device in a closed room and several people ill together point to CO. A standard
+    oximeter cannot tell CO-haemoglobin from oxygen-haemoglobin and reads normal.
+- id: q2
+  question: >-
+    A CO casualty on a non-rebreather at 15 L/min says her headache has gone after 30 minutes. MDA
+    will take two more hours. What do you do with the oxygen?
+  options:
+    - Stop it, since the symptoms resolving shows the CO has left her blood.
+    - Change to a nasal cannula at 2 L/min to save the cylinder for others.
+    - Stop it and let her walk around outside, since fresh air works equally well.
+    - Continue high-flow oxygen with her resting, for hours or until hospital takes over.
+  correct: 3
+  explanation: >-
+    On 100% oxygen CO's half-life is still over an hour, so clearing it takes several hours.
+    Symptom relief is not the endpoint; rest reduces oxygen demand.
+- id: q3
+  question: >-
+    A man was pulled from a burning flat full of foam furniture. He has soot in his mouth, is
+    barely responsive, gasping and his blood pressure is falling. A paramedic has IV access and
+    a Cyanokit. What dose fits?
+  options:
+    - Hydroxocobalamin 5 g IV over 15 minutes, in its own line, with oxygen continued.
+    - Hydroxocobalamin 70 mg/kg IV pushed over one minute, since he is about to arrest.
+    - Sodium nitrite 300 mg IV first, since it acts faster than hydroxocobalamin.
+    - Cyanocobalamin 1 mg IM, since vitamin B12 binds cyanide in the same way.
+  correct: 0
+  explanation: >-
+    The adult dose is 5 g IV over 15 minutes, with a second 5 g if needed. Nitrites make
+    methaemoglobin and worsen oxygen delivery after CO exposure; cyanocobalamin already carries
+    cyanide and is not an antidote.
+- id: q4
+  question: >-
+    Your flat's corridor is filling with smoke and the stairwell door is hot. What gives you the
+    best chance?
+  options:
+    - Cover your face with a wet towel and go down the stairs fast, since it filters the toxic gases.
+    - Open the stairwell door to check, then crawl down if you can see the steps.
+    - Go into a room with a window, close the door, seal gaps with wet towels, signal and call 102.
+    - Wait in the corridor near the floor, where the air is cleanest, until firefighters arrive.
+  correct: 2
+  explanation: >-
+    A hot door means fire behind it. A closed door and wet towels at the gaps slow smoke; a wet cloth
+    over the face does not stop CO or cyanide, and the corridor will fill.
+- id: q5
+  question: >-
+    A 25 kg child pulled from a house fire is unconscious with seizures after an enclosed-space
+    fire. A physician has an IO in place and a Cyanokit. What is the initial dose?
+  options:
+    - 5 g, the full adult vial, since cyanide poisoning is life-threatening at any age.
+    - 1.75 g (70 mg/kg) over 15 minutes, then reassess.
+    - 0.5 g (20 mg/kg), since children are more sensitive to the drug's side effects.
+    - No hydroxocobalamin, since it is not approved under 18 and oxygen alone is safer.
+  correct: 1
+  explanation: >-
+    The paediatric dose is 70 mg/kg (max 5 g) over 15 minutes: 25 kg times 70 mg is 1750 mg. It is
+    off-label under 18 but used for severe cyanide poisoning in children.

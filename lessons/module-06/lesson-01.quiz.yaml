@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    You arrive on foot two minutes after an explosion at a bus stop. A man lies 5 m from the stop
+    with a spurting thigh wound; there is a backpack nobody claims against the shelter wall. What
+    do you do?
+  options:
+    - Pack and dress the wound where he lies, since moving him will make the bleeding worse.
+    - Move the backpack away from him first so you can work on him safely.
+    - Tourniquet high and tight over clothing, drag him away out of sight of the bag, then treat.
+    - Wait at 100 m until police declare the scene safe, then go in with full kit.
+  correct: 2
+  explanation: >-
+    A suspected second device makes this a hot zone: only the tourniquet for massive limb bleeding,
+    then move out of its line of sight. Never touch the object, and do not leave a man bleeding to
+    death while waiting for clearance.
+- id: q2
+  question: >-
+    You are choosing a casualty collection point for six wounded after a rocket impact in a
+    neighbourhood. Which place is best?
+  options:
+    - The open car park beside the impact, where ambulances can reach every casualty easily.
+    - Behind a concrete building corner 60 m away, upwind, out of sight of the impact, with a road exit.
+    - In the lobby of the damaged building, which shelters casualties from the next rocket.
+    - Under the trees of the nearby park, which hide the casualties from a drone overhead.
+  correct: 1
+  explanation: >-
+    A CCP needs solid cover, no line of sight to the site, upwind of smoke and an exit. Open car parks
+    draw crowds and further risk, a damaged building may collapse, and trees stop little.
+- id: q3
+  question: >-
+    You are packing a wound at the CCP when the Home Front Command app sounds an alert. The
+    casualty can be carried and a protected space is 20 m away. What now?
+  options:
+    - Finish the packing and pressure dressing first, however long it takes, then move.
+    - Leave him where he is and run to the protected space, since you cannot help him if you die.
+    - Stay in the open and shield him with your body, since moving will undo the packing.
+    - Hold pressure on the wound while helpers carry him straight into the protected space.
+  correct: 3
+  explanation: >-
+    Everyone who can be moved goes into the protected space; you keep control of the bleeding while
+    moving, and re-check the packing and dressing once inside.
+- id: q4
+  question: >-
+    A casualty lies at the foot of a three-storey building damaged by a blast. You notice plaster
+    dust falling and a crack in the wall widening. What is right?
+  options:
+    - Drag him quickly to a spot at least the building's height away from its walls, then treat.
+    - Treat him in place but keep your back to the wall so you can see the street.
+    - Go inside to look for more casualties first, since he is breathing and talking.
+    - Turn off the gas supply inside the building before you do anything else.
+  correct: 0
+  explanation: >-
+    Widening cracks and falling plaster are signs of further collapse. Move him out fast and treat at
+    least the height of the building away; do not enter, and leave the building to search and rescue.

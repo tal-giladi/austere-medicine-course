@@ -7,6 +7,8 @@ Terms used in the course, in alphabetical order.
 - **Anterior axillary line (AAL)** — vertical line down the side of the chest from the front fold of the armpit.
 - **APLS weight formula** — estimated child weight by age: (0.5 × months) + 4 under 1 year, (2 × years) + 8 for 1-5, (3 × years) + 7 for 6-12.
 - **AT-MIST** — A handover format some services use: age, time of injury, then MIST.
+- **AtroPen** — atropine-only autoinjector in 0.5, 1 and 2 mg sizes, chosen by weight.
+- **Atropine endpoint** — dry bronchial secretions and easy breathing; not pupil size or heart rate.
 - **AVPU** — Level of consciousness scale: alert, responds to voice, responds to pain, unresponsive.
 - **Bag-valve-mask (BVM)** — self-inflating bag with a one-way valve and face mask for ventilating a casualty who is not breathing adequately; TCCC specifies a 1000 ml bag.
 - **Blast lung** — bruising and bleeding inside the lungs from the blast wave; causes breathlessness, coughing blood and low SpO2, sometimes up to 48 hours later.
@@ -14,16 +16,19 @@ Terms used in the course, in alphabetical order.
 - **Broselow tape** — length-based tape that estimates a child's weight in colour zones and gives matching doses and equipment sizes.
 - **Burping a chest seal** — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
 - **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
+- **Carbon monoxide (CO)** — odourless gas from incomplete burning that binds haemoglobin; a standard pulse oximeter reads normal despite poisoning.
 - **Carbon monoxide poisoning** — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
 - **Care Under Fire** — The TCCC name for care while the threat is still acting on rescuer and casualty; the TECC equivalent is direct threat care.
 - **Casualty collection point (CCP)** — A place where casualties are gathered, triaged and treated before evacuation.
 - **Cephalosporin side chain** — the part of a beta-lactam molecule that decides cross-allergy; cefadroxil and cephalexin resemble amoxicillin and penicillin, ceftriaxone does not.
 - **Chitosan** — substance from shellfish shell in Celox and ChitoGauze that sticks to blood cells and tissue and forms a plug without relying on the clotting cascade.
+- **Cholinergic toxidrome** — the picture of nerve agent or organophosphate poisoning: pinpoint pupils, heavy secretions, sweating, twitching, seizures, breathing failure.
 - **Circulation first** — The principle of controlling major bleeding before airway and breathing interventions in trauma; adopted by the IDF Medical Corps guideline of 30 April 2024.
 - **Citrate** — anticoagulant in stored blood that binds calcium.
 - **Combat Gauze** — QuikClot Combat Gauze, the kaolin dressing that TCCC names as the hemostatic dressing of choice.
 - **Combat Wound Medication Pack (CWMP)** — TCCC tablet pack: acetaminophen, meloxicam and, since 2026, suzetrigine.
 - **CoTCCC** — Committee on Tactical Combat Casualty Care, the US military body that publishes the TCCC guidelines.
+- **CRESS** — Consciousness, Respirations, Eyes, Secretions, Skin: the 2026 JTS rapid check that sorts chemical casualties into toxidromes.
 - **Cric-Key** — commercial cricothyroidotomy device whose hollow introducer works as both hook and guide; the TCCC course's preferred cric method.
 - **Cricothyroid membrane** — the membrane between the thyroid and cricoid cartilages at the front of the neck, about 6-10 mm high in adults; the site of a surgical airway.
 - **Crystalloid** — salt-water IV fluid such as 0.9% saline, Hartmann's or Plasma-Lyte; carries no oxygen or clotting factors.
@@ -35,6 +40,8 @@ Terms used in the course, in alphabetical order.
 - **Dipyrone (metamizole)** — non-opioid painkiller sold over the counter in Israel (e.g. Optalgin); rare risk of agranulocytosis.
 - **Direct threat care** — TECC phase (hot zone) in which the threat is active; only cover, self-aid, movement and hasty tourniquets.
 - **Distal pulse** — pulse below a tourniquet (wrist for the arm, ankle or foot for the leg); its absence confirms an arterial tourniquet.
+- **Dry decontamination** — blotting and rubbing skin with absorbent material (10 s blot, 10 s rub, head down) after undressing; removes up to 99%.
+- **DuoDote / ATNAA** — autoinjector with atropine 2.1 mg and pralidoxime 600 mg for adults and children over 41 kg.
 - **Duty to Rescue Law** — Israel's חוק לא תעמוד על דם רעך, 1998: a duty to help a person in sudden serious danger when you can without risk to yourself or others; calling MDA counts as helping.
 - **E-C clamp** — one-hand mask grip: thumb and index finger press the mask down (C), the other three fingers lift the jaw (E).
 - **Emergence reaction** — fear, hallucinations or agitation as ketamine wears off.
@@ -60,10 +67,13 @@ Terms used in the course, in alphabetical order.
 - **Hemothorax** — blood in the chest space around the lung; causes one-sided quiet breath sounds and shock, and does not improve with needle decompression.
 - **Herniation** — the swelling brain being forced through openings in the skull; signs are an unequal or fixed dilated pupil, posturing and Cushing's triad.
 - **High and tight** — Placing a tourniquet as close to the body as possible on the injured limb when the bleeding site cannot be seen under direct threat.
+- **Hot, warm and cold zones** — TECC/CBRN areas of active threat (only tourniquet and extraction), threat not cleared (full treatment, decontamination) and safe (evacuation care).
 - **HPMK** — Hypothermia Prevention and Management Kit: military kit with a chemical heating blanket and a heat-reflective shell; not insulated.
+- **Hydroxocobalamin (Cyanokit)** — cyanide antidote, 5 g IV over 15 min in adults, 70 mg/kg in children.
 - **Hypertonic saline (HTS)** — concentrated salt solution (3%, 5% or 23.4%) given IV/IO to draw water out of a swelling brain; in TCCC only for herniation signs.
 - **Hypocalcaemia of trauma** — low blood calcium from injury and from citrate in transfused blood; treated with 1 g of calcium after the first blood product.
 - **IFAK** — Individual first aid kit: the personal trauma kit carried on the body every day.
+- **Improvised litter** — a stretcher made from a blanket or jackets on poles, a door, a ladder or a sheet, load-tested before use.
 - **Indirect threat care** — TECC phase (warm zone) in relative safety where the threat may return; the full MARCH sequence is done here. TCCC calls it Tactical Field Care.
 - **Inhalation injury** — airway and lung damage from hot gases and smoke; suspected with closed-space burns, soot and hoarseness.
 - **Intercostal space (ICS)** — the space between two ribs, numbered after the rib above it.
@@ -74,6 +84,7 @@ Terms used in the course, in alphabetical order.
 - **Junctional tourniquet** — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
 - **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
 - **Ketamine** — dissociative analgesic that preserves breathing and blood pressure at pain doses; given IM, IN, IV or IO.
+- **Knockdown toxidrome** — sudden collapse with fast then failing breathing and normal pupils and secretions, typical of cyanide.
 - **Laryngeal handshake** — technique of gripping the larynx between thumb and middle finger and sliding down to find and hold the cricothyroid membrane.
 - **Laryngospasm** — sudden closure of the vocal cords, a rare complication of ketamine; treated with jaw thrust and positive-pressure ventilation.
 - **Lateral canthotomy** — cutting the outer corner of the eyelid to release pressure in the orbit; a physician procedure.
@@ -107,24 +118,30 @@ Terms used in the course, in alphabetical order.
 - **Permissive (hypotensive) resuscitation** — giving only enough fluid to reach a radial pulse, better mental status or systolic 100 mmHg, so clots are not blown off before surgery.
 - **Pneumothorax** — air between the lung and the chest wall, causing the lung to collapse partly or fully.
 - **Posturing** — abnormal rigid flexion or extension of the arms in response to pain, a sign of severe brain injury.
+- **Pralidoxime (2-PAM)** — oxime that reactivates acetylcholinesterase if given before the agent-enzyme bond "ages".
 - **Pre-staged tourniquet** — A tourniquet carried with its loop open and folded so it can be applied quickly with one hand.
 - **Pressure delivery device** — improvised hard bolus strapped over a junctional pressure point to keep pressure on it without a rescuer's hands.
 - **Primary blast injury** — damage from the blast pressure wave itself, especially to air-filled organs such as the lungs, often with no visible wound.
+- **PRISM** — US federal (ASPR/BARDA) evidence-based guidance for mass chemical decontamination: evacuate, disrobe, dry, then wet.
 - **Proctoclysis** — giving fluid into the rectum through a soft tube for absorption by the large bowel.
 - **Pulse oximeter (SpO2)** — clip-on sensor estimating the percentage of haemoglobin carrying oxygen; inaccurate in shock, cold, motion, carbon monoxide poisoning and some skin tones.
 - **Pulse-dose delivery** — oxygen delivered only when the user breathes in, used by many portable concentrators; unsuitable for a casualty who is not breathing or is on a BVM.
 - **Quaternary blast injury** — all other effects of an explosion, such as burns, smoke inhalation and crush.
+- **Rautek grip** — rescuer behind the casualty grips one of their forearms across the chest from under both armpits to lift and drag them out of a seat or along a floor.
 - **Recovery position** — side-lying position for an unconscious breathing casualty, head tilted back and chin away from the chest so fluid drains from the mouth; injured side down with a one-sided chest injury.
 - **Refractory shock** — shock that does not improve with resuscitation; in chest trauma, a reason to suspect untreated tension pneumothorax.
 - **Resuscitation endpoint** — the sign at which fluid is stopped: palpable radial pulse, improved mental status or systolic 100 mmHg (TCCC 2026); a normal radial pulse and systolic above 100 in TBI.
 - **Rigid eye shield** — a hard cover that rests on the bones around the eye without touching it; can be improvised from a cut-down cup.
+- **RSDL** — Reactive Skin Decontamination Lotion, a sponge lotion that deactivates nerve agents and mustard on intact skin.
 - **Rule of Nines** — burn size estimate assigning 9% (or multiples) to each body region; in infants the head counts more and the legs less.
 - **Rule of Ten** — USAISR starting burn fluid rate: %TBSA x 10 ml per hour for 40-80 kg adults, plus 100 ml per hour for every 10 kg above 80 kg.
 - **Safe triangle** — area on the side of the chest bordered by the edges of the chest and back muscles and the nipple level, used for chest drains and thoracostomy.
 - **Secondary blast injury** — penetrating wounds from fragments and debris thrown by an explosion.
+- **Secondary device** — a second explosive or attack aimed at the crowd and rescuers after a first event; recognised and avoided, never touched.
 - **Serotonin syndrome** — agitation, tremor, fever and twitching from combining serotonergic drugs such as SSRIs, tramadol and ondansetron.
 - **Shock index** — heart rate divided by systolic blood pressure; above 0.9 suggests significant blood loss even when the pressure looks normal.
 - **Sit up and lean forward** — position TCCC lets a conscious casualty with facial or jaw injuries take so blood drains out of the mouth instead of into the airway.
+- **SLUDGE** — Salivation, Lacrimation, Urination, Defecation, GI upset, Emesis: memory aid for cholinergic secretions.
 - **Sternal angle (angle of Louis)** — horizontal ridge on the breastbone where the 2nd rib attaches; the landmark for counting ribs.
 - **Sugar-tong splint** — U-shaped splint around the elbow along both sides of the forearm that stops forearm rotation.
 - **Surgical cricothyroidotomy (cric)** — creating an airway by cutting through the cricothyroid membrane and placing a tube into the trachea.
@@ -147,6 +164,7 @@ Terms used in the course, in alphabetical order.
 - **TRALI** — transfusion-related acute lung injury, sudden breathlessness after transfusion, more often from donors who have been pregnant.
 - **Tranexamic acid (TXA)** — drug that stops the breakdown of forming clots; 2 g slow IV/IO push within 3 hours of injury in TCCC.
 - **Traumatic brain injury (TBI)** — brain damage from an external force; TCCC 2026 calls it moderate or severe when the casualty cannot follow simple commands beyond 10 minutes after injury.
+- **Triple Protocol** — PRISM sequence of dry decontamination, a 15-30 s high-volume rinse, and a 60-90 s warm technical shower.
 - **Tympanic membrane perforation** — a ruptured eardrum; the commonest primary blast injury; an isolated one does not by itself predict blast lung.
 - **Vapour barrier** — an impermeable plastic or foil layer that stops evaporative heat loss in a hypothermia wrap.
 - **Vastus lateralis** — outer thigh muscle; the preferred IM site in children and in shock.
@@ -154,6 +172,7 @@ Terms used in the course, in alphabetical order.
 - **Ventrogluteal site** — IM site on the side of the hip, located with the palm on the greater trochanter.
 - **Visual acuity** — how well each eye sees; in the field tested by reading text, counting fingers, hand motion or light perception.
 - **Walking blood bank** — pre-screened donors (usually soldiers) from whom fresh whole blood is collected in an emergency.
+- **Wash-in** — increased skin absorption of a chemical caused by long or hot showering.
 - **Whole blood** — blood transfused as donated, with red cells, plasma and platelets in one bag.
 - **X-ABCDE** — Assessment order: exsanguination, airway, breathing, circulation, disability, exposure; also written <C>ABC.
 - **XStat** — applicator that injects small expanding sponges into deep, narrow wound tracts; never removed in the field.

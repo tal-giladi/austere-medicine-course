@@ -15,7 +15,7 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Module 03 — Airway and chest beyond EMT
 - [x] Module 04 — Circulation, resuscitation and field drugs
 - [x] Module 05 — War injuries
-- [ ] Module 06 — Attack scenes, CBRN and moving casualties
+- [x] Module 06 — Attack scenes, CBRN and moving casualties
 - [ ] Module 07 — Keeping a casualty alive for 72 hours
 - [ ] Module 08 — What goes wrong after the first hour
 - [ ] Module 09 — Wound closure and minor surgery
@@ -27,7 +27,7 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
 
 ## Now working
-- Modules 06 and 07 (one agent each).
+- Modules 07 and 08 (one agent each).
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

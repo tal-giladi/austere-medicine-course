@@ -18,3 +18,6 @@ To review before a public release.
 
 ## Module 5
 - Reason TCCC dropped traction splints (course reasoning); child midazolam dose; C-TECC child dextrose "2 mg/kg" read as 2 ml/kg D10; infant Rule of Nines; Broselow ranges; ABA oral resus thresholds from summary sheet; Leibovici blast figures from abstracts.
+
+## Module 6
+- Home Front Command guidance (oref blocked); Israeli atropine autoinjector withdrawal 2010 (one news report); CHEMM antidote pages down — doses from ATSDR 2017, JTS CBRN card 2026, FDA AtroPen; child benzo doses; hydroxocobalamin child repeat, Cyanokit mixing, Nithiodote doses; MDA antidote carriage; safe-room filtration; course rules labelled.

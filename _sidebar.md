@@ -48,3 +48,10 @@
   - [35 · Hypothermia prevention in trauma](lessons/module-05/lesson-07.md)
   - [36 · Children in trauma](lessons/module-05/lesson-08.md)
   - [Module 5 quiz](assessments/module-05-quiz.md)
+- **Module 6 — Attack scenes, CBRN and moving casualties**
+  - [37 · Scene threats and where to treat](lessons/module-06/lesson-01.md)
+  - [38 · Moving casualties: drags, carries, litters and vehicles](lessons/module-06/lesson-02.md)
+  - [39 · Nerve agents: recognition and autoinjectors](lessons/module-06/lesson-03.md)
+  - [40 · Decontamination: disrobe, dry, wet](lessons/module-06/lesson-04.md)
+  - [41 · Smoke, carbon monoxide and cyanide](lessons/module-06/lesson-05.md)
+  - [Module 6 quiz](assessments/module-06-quiz.md)
