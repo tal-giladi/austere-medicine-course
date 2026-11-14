@@ -28,3 +28,13 @@
   - [19 · Surgical cricothyroidotomy](lessons/module-03/lesson-06.md)
   - [20 · Oxygen in the field and pulse oximetry](lessons/module-03/lesson-07.md)
   - [Module 3 quiz](assessments/module-03-quiz.md)
+- **Module 4 — Circulation, resuscitation and field drugs**
+  - [21 · Shock resuscitation in the field](lessons/module-04/lesson-01.md)
+  - [22 · Intraosseous access](lessons/module-04/lesson-02.md)
+  - [23 · TXA and calcium](lessons/module-04/lesson-03.md)
+  - [24 · Whole blood and walking blood banks](lessons/module-04/lesson-04.md)
+  - [25 · Field pain management](lessons/module-04/lesson-05.md)
+  - [26 · Field antibiotics for open wounds](lessons/module-04/lesson-06.md)
+  - [27 · Routes and drug math](lessons/module-04/lesson-07.md)
+  - [28 · Nausea, sedation risks and dangerous combinations](lessons/module-04/lesson-08.md)
+  - [Module 4 quiz](assessments/module-04-quiz.md)

@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A 70 kg man with a shrapnel wound to the calf can walk, is alert, and has severe but tolerable
+    pain. Under TCCC 2026, what is the right analgesia?
+  options:
+    - Ketamine 100 mg IM, because shrapnel wounds always need strong analgesia.
+    - The wound medication pack - acetaminophen, meloxicam and suzetrigine by mouth.
+    - Esketamine 28 mg intranasally, so he stays mobile without injections.
+    - Nothing, so that pain keeps him alert for the rest of the evacuation.
+  correct: 1
+  explanation: >-
+    A casualty who can still function gets the Combat Wound Medication Pack. Ketamine and esketamine
+    are for casualties who cannot function, given by medical personnel.
+- id: q2
+  question: >-
+    A paramedic directs you by phone to give a screaming casualty ketamine 50 mg intranasally. Your
+    kit has ketamine 50 mg/ml and 100 mg/ml. What do you draw up?
+  options:
+    - 0.5 ml of the 100 mg/ml, split between both nostrils with the atomiser.
+    - 1 ml of the 50 mg/ml, all into one nostril so it is absorbed together.
+    - 5 ml of the 100 mg/ml, because intranasal doses must be diluted to work.
+    - 0.5 ml of the 50 mg/ml, because a smaller volume is always safer in the nose.
+  correct: 0
+  explanation: >-
+    TCCC says use the 100 mg/ml concentration intranasally to minimise volume: 50 mg is 0.5 ml,
+    about 0.25 ml per nostril. 0.5 ml of 50 mg/ml would only be 25 mg.
+- id: q3
+  question: >-
+    Twenty minutes after ketamine 100 mg IM, a casualty has rhythmic flicking eye movements, says he
+    feels "far away", and becomes frightened and restless. Breathing is normal. What does TCCC advise?
+  options:
+    - Give a benzodiazepine to calm him, then a second ketamine dose.
+    - Give naloxone, because the eye movements show opioid-like toxicity.
+    - Reassure him; if still agitated, give more ketamine, not a benzodiazepine.
+    - Leave him alone in a dark room until the effect wears off completely.
+  correct: 2
+  explanation: >-
+    Nystagmus is an endpoint, not an emergency. TCCC 2026 says benzodiazepines with ketamine are not
+    recommended and that, if partly dissociated, it is safer to give more ketamine.
+- id: q4
+  question: >-
+    A woman with a fractured ankle took a cold-and-flu tablet two hours ago. She takes warfarin. You
+    have acetaminophen, ibuprofen and dipyrone. Which plan is safest?
+  options:
+    - Ibuprofen 400 mg plus acetaminophen 1000 mg, the strongest OTC combination.
+    - Ibuprofen 800 mg alone, because it will not interact with the cold tablet.
+    - Dipyrone plus ibuprofen together, so no acetaminophen is needed at all.
+    - Avoid NSAIDs, count the cold tablet's acetaminophen, splint the ankle.
+  correct: 3
+  explanation: >-
+    Warfarin plus an NSAID raises bleeding risk, and cold tablets often contain hidden acetaminophen.
+    Count every source of acetaminophen against the daily maximum and splint the ankle.
+- id: q5
+  question: >-
+    A casualty who takes clarithromycin for a chest infection is offered suzetrigine from a
+    medication pack. What is the problem?
+  options:
+    - Suzetrigine is an opioid and clarithromycin increases its sedation.
+    - Clarithromycin is a strong CYP3A inhibitor, and the combination is contraindicated.
+    - Suzetrigine inactivates clarithromycin, so the infection will get worse.
+    - There is no problem; suzetrigine has no known drug interactions.
+  correct: 1
+  explanation: >-
+    The suzetrigine label contraindicates use with strong CYP3A inhibitors such as clarithromycin,
+    ketoconazole, itraconazole or ritonavir. Use acetaminophen and meloxicam or ketamine instead.

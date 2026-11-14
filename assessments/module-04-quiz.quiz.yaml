@@ -1,0 +1,135 @@
+- id: q1
+  question: >-
+    After a rocket strike, a 30-year-old man has a tourniquet on his right thigh and a shrapnel wound
+    to the flank. Pulse 124, systolic 104, he is confused with no head injury. Injury was 50 minutes
+    ago. A paramedic places a left humeral IO. What is the best sequence?
+  options:
+    - Saline wide open until systolic 120, then consider TXA once he is stable.
+    - TXA 2 g slow push, then blood if available or a 500 ml bolus, reassessing to endpoints.
+    - Oral rehydration solution first, because his systolic is above 100 mmHg.
+    - Ketamine 100 mg IM first, because pain is what is driving his pulse up.
+  correct: 1
+  explanation: >-
+    Confusion and a shock index above 1 mean hemorrhagic shock with a penetrating torso wound, so
+    TXA is indicated inside 3 hours. Then blood, or a small bolus if none, stopping at radial pulse,
+    mental status or systolic 100.
+- id: q2
+  question: >-
+    You are about to place an IO in a casualty with bilateral above-knee amputations and a fractured
+    left humerus. You carry a FAST1 and an EZ-IO. Which choice is correct?
+  options:
+    - EZ-IO into the sternum, since the limbs are unusable.
+    - EZ-IO into the left humerus above the fracture.
+    - FAST1 into the manubrium, or the right humerus with the EZ-IO.
+    - EZ-IO into the distal femur stumps, which are close to the trunk.
+  correct: 2
+  explanation: >-
+    Never put an IO into a fractured bone or an EZ-IO into the sternum. The FAST1 is made for the
+    manubrium, and the uninjured right humerus is a valid EZ-IO site.
+- id: q3
+  question: >-
+    An IDF medic has given your casualty one unit of low-titer O whole blood. The casualty now has a
+    strong radial pulse and is talking sensibly. What should happen next?
+  options:
+    - Give 1 g of calcium if not yet given, stop further blood, and reassess every few minutes.
+    - Run the second unit at once so there is a reserve before evacuation.
+    - Give 2 litres of saline to dilute the citrate from the transfused blood.
+    - Give a second TXA dose, since blood products wash the first one out.
+  correct: 0
+  explanation: >-
+    TCCC gives 1 g of calcium after the first transfused product and stops resuscitation when an
+    endpoint is reached. Reassess frequently and restart if shock recurs.
+- id: q4
+  question: >-
+    In a besieged village a doctor reaches you by phone. A 20 kg child has an open forearm fracture
+    and is in severe pain; she cannot swallow tablets. You have ketamine 100 mg/ml, an atomiser and
+    ceftriaxone 1 g vials. What does the doctor most likely direct?
+  options:
+    - Ketamine 100 mg IM and ceftriaxone 2 g IM, the adult TCCC doses.
+    - Ketamine 20 mg IN (0.2 ml) and ceftriaxone about 1-1.5 g, with monitoring.
+    - Ketamine 2 mg IN (0.02 ml) and ceftriaxone 200 mg, to be safe.
+    - No ketamine, because ketamine is contraindicated in all children.
+  correct: 1
+  explanation: >-
+    Intranasal ketamine 1 mg/kg (max 50 mg) is 20 mg, 0.2 ml of 100 mg/ml. Ceftriaxone 50-75 mg/kg is
+    1000-1500 mg once daily. Ketamine is avoided only under 3 months of age.
+- id: q5
+  question: >-
+    A casualty with a gunshot wound to the thigh received ketamine 100 mg IM 15 minutes ago. He is now
+    vomiting, drowsy, and responds only to voice. What is the priority?
+  options:
+    - Sit him upright and give him water to settle his stomach.
+    - Give dimenhydrinate 100 mg, which treats nausea and calms him.
+    - Give a second dose of ketamine to deepen sedation and stop the retching.
+    - Turn him on his side, suction, watch his breathing, then give ondansetron.
+  correct: 3
+  explanation: >-
+    A drowsy, vomiting casualty can aspirate. Position and suction protect the airway first;
+    ondansetron then treats the nausea. Dimenhydrinate adds sedation to ketamine.
+- id: q6
+  question: >-
+    At home, a 60 kg woman with a fractured ankle takes daily rivaroxaban. Your cabinet has
+    acetaminophen, ibuprofen, naproxen and dipyrone. She has no G6PD deficiency. Which plan is best?
+  options:
+    - Ibuprofen plus naproxen together for stronger anti-inflammatory effect.
+    - Ibuprofen 400 mg plus acetaminophen 1000 mg, the strongest OTC combination.
+    - Acetaminophen 1000 mg and, if needed, dipyrone, with a splint and cold pack.
+    - Naproxen alone, since it lasts longer and needs fewer doses a day.
+  correct: 2
+  explanation: >-
+    NSAIDs with an anticoagulant raise bleeding risk, and two NSAIDs are never combined. Acetaminophen
+    with dipyrone avoids NSAID bleeding risk; splinting is the strongest pain relief.
+- id: q7
+  question: >-
+    A casualty with an open wound says, "I had a rash with penicillin as a child." He can swallow and
+    is not in shock. Which antibiotic plan fits TCCC 2026 and current allergy guidance?
+  options:
+    - Cefadroxil 1 g by mouth once daily, observing him after the first dose.
+    - No antibiotic, because any penicillin allergy rules out cephalosporins.
+    - Ceftriaxone 2 g IM only, because oral cephalosporins cross-react more.
+    - Amoxicillin-clavulanate, since a childhood rash is unlikely to recur.
+  correct: 0
+  explanation: >-
+    A non-anaphylactic penicillin history allows any cephalosporin, and most reported penicillin
+    allergies are not real. Cefadroxil is the preferred oral TCCC choice; amoxicillin is a penicillin.
+- id: q8
+  question: >-
+    A 3-year-old's weight is unknown. You need ibuprofen 10 mg/kg from a 100 mg/5 ml suspension and
+    have only kitchen spoons and a 10 ml oral syringe. What do you give?
+  options:
+    - One kitchen teaspoon, which holds 5 ml, giving 100 mg.
+    - 14 ml measured with the syringe, giving 280 mg.
+    - 3 ml measured with the syringe, giving 60 mg.
+    - 7 ml measured with the syringe, giving 140 mg.
+  correct: 3
+  explanation: >-
+    APLS estimate (2 x 3) + 8 = 14 kg; 10 mg/kg = 140 mg; 100 mg/5 ml is 20 mg/ml, so 7 ml. Kitchen
+    spoons vary from about 2.5 to over 7 ml, so measure with the syringe.
+- id: q9
+  question: >-
+    Two hours after a humeral EZ-IO was placed, the casualty's upper arm is tense and swollen and the
+    infusion has slowed. Ceftriaxone and calcium are both due. What do you do?
+  options:
+    - Flush harder and give both drugs together through the IO to save time.
+    - Remove the IO, watch the arm, and get access in another bone.
+    - Raise the arm above the shoulder to drain the swelling, then continue.
+    - Leave the IO but give the drugs IM in the same arm instead.
+  correct: 1
+  explanation: >-
+    Swelling means extravasation. Stop, remove, watch the limb, and use another bone. Ceftriaxone
+    and calcium must never share a line, and a humeral IO arm is never lifted overhead.
+- id: q10
+  question: >-
+    A casualty is in agony after ketamine wore off. Someone suggests diazepam "because it relaxes
+    muscles", a second person has already given him ibuprofen, and a third wants to add meloxicam.
+    What do you allow?
+  options:
+    - Diazepam plus another ketamine dose, since the effects balance each other.
+    - Meloxicam on top of ibuprofen, because two NSAIDs reach full effect faster.
+    - Acetaminophen and a repeat ketamine dose; no diazepam, no second NSAID.
+    - Diazepam alone, because muscle spasm is the main source of pain.
+  correct: 2
+  explanation: >-
+    TCCC does not recommend benzodiazepines with ketamine, and two NSAIDs add bleeding and kidney
+    risk without extra relief. Acetaminophen adds to the ibuprofen; ketamine may be repeated every 30
+    minutes.

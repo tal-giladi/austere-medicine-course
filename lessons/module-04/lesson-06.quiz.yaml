@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A woman has a shrapnel wound to the forearm. She is alert, not in shock, and can swallow. Evacuation
+    is 10 hours away. Which antibiotic does TCCC 2026 prefer?
+  options:
+    - Ceftriaxone 2 g IM, because injected antibiotics always work better.
+    - Moxifloxacin 400 mg by mouth from the old medication pack.
+    - No antibiotic, because a forearm wound is not a combat wound.
+    - Cefadroxil 1 g by mouth once daily, or cephalexin 500 mg every 6 hours.
+  correct: 3
+  explanation: >-
+    TCCC 2026 recommends antibiotics for all open combat wounds. If the casualty can take oral
+    medication, cefadroxil 1 g once daily is preferred and cephalexin 500 mg every 6 hours is the
+    alternative.
+- id: q2
+  question: >-
+    A man with a penetrating abdominal wound is in shock and has a humeral IO. Which antibiotic plan
+    is right?
+  options:
+    - Ceftriaxone 2 g through the IO once daily, flushed before and after.
+    - Cefadroxil 1 g crushed in a little water, since it is the preferred drug.
+    - Cephalexin 500 mg by mouth every 6 hours, starting after evacuation.
+    - No antibiotics until a surgeon has seen the wound.
+  correct: 0
+  explanation: >-
+    In shock and with an abdominal wound he takes nothing by mouth. TCCC gives ceftriaxone 2 g IV,
+    IO or IM once daily when oral medication cannot be taken.
+- id: q3
+  question: >-
+    A casualty says that amoxicillin once made his throat swell and he needed an adrenaline
+    injection. He has an open leg wound and cannot swallow safely. What is the best option?
+  options:
+    - Cefadroxil 1 g by mouth, since cephalosporins are unrelated to penicillins.
+    - Ceftriaxone, with adrenaline ready and close observation after the dose.
+    - Cephalexin 500 mg, because only skin rashes cross-react with it.
+    - Give nothing, because every beta-lactam is forbidden after anaphylaxis.
+  correct: 1
+  explanation: >-
+    Cefadroxil and cephalexin share side chains similar to amoxicillin and penicillin. Ceftriaxone's
+    side chain is dissimilar, and the 2022 practice parameter allows a dissimilar cephalosporin
+    without testing; be ready for anaphylaxis.
+- id: q4
+  question: >-
+    You must give an adult ceftriaxone 2 g IM. You have two 1 g vials, 1% lidocaine and water for
+    injection. What is the correct preparation?
+  options:
+    - Mix both vials with 7 ml of lidocaine into one syringe and inject one buttock.
+    - Mix both vials with lidocaine and give the dose slowly into a vein instead.
+    - Mix each vial with 3.5 ml lidocaine 1% and inject into two different large muscles.
+    - Mix each vial with tap water, since sterility matters less for IM injections.
+  correct: 2
+  explanation: >-
+    No more than 1 g per IM site, so two sites for 2 g. Lidocaine reduces pain but lidocaine-mixed
+    ceftriaxone must never be given IV, and only sterile diluent is acceptable.
+- id: q5
+  question: >-
+    A family's medicine cabinet has amoxicillin-clavulanate, azithromycin and ciprofloxacin. No TCCC
+    antibiotic is available for a dirty hand laceration, and a doctor cannot be reached. Which is the
+    most reasonable choice?
+  options:
+    - Azithromycin, because its short course is easiest to complete.
+    - Ciprofloxacin, because it covers the widest range of bacteria.
+    - None of these drugs ever has a place, so give only wound care.
+    - Amoxicillin-clavulanate, together with thorough irrigation of the wound.
+  correct: 3
+  explanation: >-
+    In the TCCC panel's scoring amoxicillin-clavulanate was a second-tier option covering strep and
+    staph. Azithromycin and ciprofloxacin cover wound bacteria poorly. Irrigation matters most.

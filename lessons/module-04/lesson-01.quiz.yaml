@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A man with a shrapnel wound to the thigh has a tightened tourniquet. He is alert, his radial pulse
+    is strong at 92, and you have saline and an IV kit. Evacuation is 4 hours away. What do you do
+    about fluids?
+  options:
+    - Start a litre of saline now so he has volume in reserve before he deteriorates.
+    - No IV fluid now; let him sip fluids, keep a line or lock if you can, and reassess often.
+    - Give a 500 ml bolus because every casualty with a tourniquet has lost significant blood.
+    - Withhold all fluids including by mouth, because he may need surgery later.
+  correct: 1
+  explanation: >-
+    He is not in shock (alert, strong radial pulse). TCCC 2026 says no IV fluids are immediately
+    necessary and fluids by mouth are permissible if the casualty is conscious and can swallow.
+- id: q2
+  question: >-
+    A casualty has a pulse of 118 and a systolic of 110 by cuff. He is anxious but oriented, and the
+    radial pulse is present but thready. How should you read this?
+  options:
+    - Normal - a systolic of 110 rules out significant blood loss in a young adult.
+    - Pain and fear explain the pulse, so reassess only if the pressure drops below 90.
+    - The shock index is above 1, so treat him as bleeding significantly and look for the source.
+    - He is in late shock and needs litres of crystalloid to bring his pulse below 100.
+  correct: 2
+  explanation: >-
+    118/110 gives a shock index of about 1.07. A shock index above 0.9 in an apparently normotensive
+    casualty predicts a higher need for transfusion; look for and control bleeding before thinking
+    about fluid.
+- id: q3
+  question: >-
+    You give a 500 ml saline bolus to a confused casualty with an abdominal wound. Afterwards his
+    radial pulse is clearly palpable and he answers questions sensibly, but his systolic is only 92.
+    What now?
+  options:
+    - Stop the fluid, keep the line, and recheck pulse and mental status every 5-15 minutes.
+    - Continue boluses until the systolic reaches 120 to protect his kidneys.
+    - Give a second bolus at once because 100 mmHg is the only valid endpoint.
+    - Remove the IV, since he no longer needs any further treatment.
+  correct: 0
+  explanation: >-
+    TCCC 2026 says stop when one or more endpoints is reached: palpable radial pulse, improved mental
+    status or systolic 100. Pushing pressure higher before surgical control can restart bleeding.
+- id: q4
+  question: >-
+    A blast casualty with a scalp wound is drowsy and has a weak radial pulse. What is your
+    resuscitation target?
+  options:
+    - Keep him hypotensive with a just-palpable radial pulse to limit bleeding.
+    - Give no fluid until he is fully alert, because fluid worsens brain swelling.
+    - Any improvement in mental status, then stop, as for any other casualty.
+    - A normal radial pulse, and systolic above 100 mmHg if you can measure it.
+  correct: 3
+  explanation: >-
+    With suspected TBI the brain needs perfusion pressure. TCCC 2026 says resuscitate to restore a
+    normal radial pulse and, if BP monitoring is available, a systolic greater than 100 mmHg.
+- id: q5
+  question: >-
+    In a cut-off village a man in shock from a thigh wound (bleeding now controlled) vomits every
+    sip of oral rehydration solution. There is no IV or IO equipment. Which option fits best?
+  options:
+    - Keep giving large cups of solution, since some of it will be absorbed before he vomits.
+    - Treat the nausea and give warmed solution rectally through a soft catheter, slowly.
+    - Give plain water only, because the salt in the solution is what makes him vomit.
+    - Stop all fluids and wait for evacuation, since nothing works without an IV.
+  correct: 1
+  explanation: >-
+    When the oral route fails and there is no IV or IO, the large bowel can absorb water and salt.
+    Rectal ORS at about 100-400 ml per hour has kept casualties alive; it is a bridge to evacuation,
+    not a replacement for blood.

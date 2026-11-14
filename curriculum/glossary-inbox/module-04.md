@@ -1,0 +1,45 @@
+# Glossary inbox — Module 4
+
+- Hemorrhagic shock — failure of circulation from blood loss; in the field, altered mental status without head injury and/or a weak or absent radial pulse (TCCC).
+- Shock index — heart rate divided by systolic blood pressure; above 0.9 suggests significant blood loss even when the pressure looks normal.
+- Permissive (hypotensive) resuscitation — giving only enough fluid to reach a radial pulse, better mental status or systolic 100 mmHg, so clots are not blown off before surgery.
+- Resuscitation endpoint — the sign at which fluid is stopped: palpable radial pulse, improved mental status or systolic 100 mmHg (TCCC 2026); a normal radial pulse and systolic above 100 in TBI.
+- Crystalloid — salt-water IV fluid such as 0.9% saline, Hartmann's or Plasma-Lyte; carries no oxygen or clotting factors.
+- Refractory shock — shock that does not improve with resuscitation; think of tension pneumothorax and hidden bleeding.
+- Proctoclysis — giving fluid into the rectum through a soft tube for absorption by the large bowel.
+- Intraosseous (IO) access — a needle through the bone cortex into the marrow, used like an IV when veins cannot be found.
+- EZ-IO — battery-driven IO device with 15G needles of 15, 25 and 45 mm, used at the humerus, tibia and (in children) distal femur.
+- FAST1 / FASTResponder — push-type sternal IO device that places an infusion tube 6 mm into the manubrium, for ages 12 and over.
+- NIO — spring-loaded, single-use IO device designed in Israel, with adult, pediatric and infant versions.
+- Extravasation — leakage of infused fluid or drug into the tissue around a vein or IO; can cause compartment syndrome or tissue necrosis.
+- Tranexamic acid (TXA) — drug that stops the breakdown of forming clots; 2 g slow IV/IO push within 3 hours of injury in TCCC.
+- Hypocalcaemia of trauma — low blood calcium from injury and from citrate in transfused blood; treated with 1 g of calcium after the first blood product.
+- Citrate — anticoagulant in stored blood that binds calcium.
+- Whole blood — blood transfused as donated, with red cells, plasma and platelets in one bag.
+- LTOWB — low-titer group O whole blood: group O blood with low anti-A and anti-B antibody levels, used as universal whole blood.
+- Titer — the level of anti-A and anti-B antibodies in a donor's plasma.
+- Walking blood bank — pre-screened donors (usually soldiers) from whom fresh whole blood is collected in an emergency.
+- Fresh whole blood (FWB) — whole blood collected in an emergency and used within 24 hours, not fully tested before transfusion.
+- Acute hemolytic transfusion reaction — destruction of transfused red cells by the recipient's antibodies (usually ABO mismatch): fever, back pain, shock, dark urine.
+- TRALI — transfusion-related acute lung injury, sudden breathlessness after transfusion, more often from donors who have been pregnant.
+- Combat Wound Medication Pack (CWMP) — TCCC tablet pack: acetaminophen, meloxicam and, since 2026, suzetrigine.
+- Suzetrigine — non-opioid oral pain drug that blocks the Nav1.8 sodium channel; contraindicated with strong CYP3A inhibitors.
+- Ketamine — dissociative analgesic that preserves breathing and blood pressure at pain doses; given IM, IN, IV or IO.
+- Esketamine — the more potent half (enantiomer) of ketamine; given as a nasal spray of 14 or 28 mg in TCCC 2026.
+- Nystagmus — rhythmic flicking eye movement; an endpoint for ketamine analgesia.
+- Emergence reaction — fear, hallucinations or agitation as ketamine wears off.
+- Dipyrone (metamizole) — non-opioid painkiller sold over the counter in Israel (e.g. Optalgin); rare risk of agranulocytosis.
+- Agranulocytosis — sudden loss of white blood cells; fever, sore throat or mouth ulcers after a drug such as dipyrone.
+- CYP3A inhibitor — drug or food (e.g. clarithromycin, ketoconazole, grapefruit) that blocks a liver enzyme and raises levels of drugs it breaks down.
+- Cephalosporin side chain — the part of a beta-lactam molecule that decides cross-allergy; cefadroxil and cephalexin resemble amoxicillin and penicillin, ceftriaxone does not.
+- Ondansetron — anti-nausea drug (4 mg ODT/IV/IO/IM every 8 hours in TCCC); can prolong the QT interval.
+- Orally dissolving tablet (ODT) — tablet that dissolves on the tongue without water.
+- Mucosal atomisation device (MAD) — syringe tip that sprays a drug as a mist into the nose.
+- Vastus lateralis — outer thigh muscle; the preferred IM site in children and in shock.
+- Ventrogluteal site — IM site on the side of the hip, located with the palm on the greater trochanter.
+- Filter needle — needle with a filter for drawing from glass ampoules without drawing up glass fragments.
+- Dead space — volume left in a syringe tip, atomiser or line after injection.
+- APLS weight formula — estimated child weight by age: (0.5 × months) + 4 under 1 year, (2 × years) + 8 for 1-5, (3 × years) + 7 for 6-12.
+- Naloxone — opioid antagonist that reverses opioid respiratory depression; shorter acting than most opioids.
+- Laryngospasm — sudden closure of the vocal cords, a rare complication of ketamine; treated with jaw thrust and positive-pressure ventilation.
+- Serotonin syndrome — agitation, tremor, fever and twitching from combining serotonergic drugs such as SSRIs, tramadol and ondansetron.

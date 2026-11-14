@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    You reach a man with a gunshot wound to the abdomen. He is pale with a weak radial pulse.
+    Witnesses say he was shot "about three and a half hours ago". A paramedic has just placed an IO.
+    What about TXA?
+  options:
+    - Give 2 g now, because he is in shock and still bleeding inside.
+    - Give 1 g only, as a reduced dose for late presentation.
+    - Do not give TXA, because after 3 hours it increased deaths from bleeding.
+    - Give 2 g orally, since the IV route is risky after 3 hours.
+  correct: 2
+  explanation: >-
+    TCCC says no later than 3 hours after injury. In CRASH-2, TXA given after 3 hours increased the
+    risk of death from bleeding. Record why it was withheld.
+- id: q2
+  question: >-
+    A casualty was thrown by a blast 40 minutes ago. He has no visible bleeding, a strong radial
+    pulse, but he is confused and repeats questions. Does he meet the TCCC TXA indication?
+  options:
+    - Yes - altered mental status after blast or blunt trauma is an indication on its own.
+    - No - TXA is only for casualties who are visibly bleeding or in shock.
+    - No - TXA is contraindicated in any head injury because it causes brain clots.
+    - Only if his confusion persists for longer than three hours after the blast.
+  correct: 0
+  explanation: >-
+    TCCC 2026 gives TXA for signs of significant TBI or altered mental status associated with blast
+    or blunt trauma, as well as for likely transfusion. Give 2 g within 3 hours.
+- id: q3
+  question: >-
+    A paramedic finishes the first unit of whole blood into a humeral IO and asks you to prepare
+    calcium. You have calcium chloride 10% and calcium gluconate 10%. Which is correct?
+  options:
+    - 30 ml of calcium chloride 10%, pushed fast through the same line as the blood.
+    - 10 ml of calcium chloride 10% or 30 ml of gluconate 10%, slowly, with the line flushed.
+    - 10 ml of calcium gluconate 10% now and repeat after every unit until the end.
+    - No calcium, because it should only be given before the blood starts.
+  correct: 1
+  explanation: >-
+    TCCC gives 1 g of calcium after the first transfused product: 10 ml of 10% chloride or 30 ml of
+    10% gluconate. Push slowly and flush, since calcium can clot citrated blood in the tubing.
+- id: q4
+  question: >-
+    A 20 kg child has a shrapnel wound to the abdomen and is in shock 30 minutes after injury. A
+    physician on the phone agrees to TXA. How much do you draw up from a 100 mg/ml ampoule?
+  options:
+    - 20 ml, the standard 2 g dose, because children bleed faster than adults.
+    - 10 ml, half the adult dose, as for any child under 12.
+    - 1.5 ml, which is 7.5 mg/kg given as a slow push.
+    - 3 ml, which is 15 mg/kg, the C-TECC pediatric loading dose.
+  correct: 3
+  explanation: >-
+    15 mg/kg x 20 kg = 300 mg; at 100 mg/ml that is 3 ml. C-TECC adds 2 mg/kg/h for 8 hours if an
+    infusion is possible, and restricts pediatric TXA to coordinated trauma systems.
+- id: q5
+  question: >-
+    Your only vein is a small one on the back of the hand. A casualty needs calcium after blood.
+    Which choice avoids the worst local harm?
+  options:
+    - Calcium chloride, because the smaller volume will irritate the vein less.
+    - Calcium chloride diluted with ceftriaxone to buffer it.
+    - Calcium gluconate, since chloride can cause severe tissue necrosis if it leaks.
+    - Either one, since both have the same effect on tissue if they leak.
+  correct: 2
+  explanation: >-
+    Calcium chloride extravasation can cause severe necrosis and skin sloughing. Use gluconate in a
+    small peripheral vein and keep chloride for an IO or large free-running vein.

@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    Ten minutes after ketamine 50 mg IN, a casualty with a leg wound is snoring, breathing 8 times a
+    minute, and his SpO2 has fallen to 88%. What do you do first?
+  options:
+    - Give naloxone, because slowed breathing always means an opioid effect.
+    - Sit him upright and give oxygen, then wait for the ketamine to wear off.
+    - Stimulate him and open the airway with a sniffing position or jaw thrust.
+    - Give ondansetron to prevent vomiting, then recheck in 15 minutes.
+  correct: 2
+  explanation: >-
+    TCCC 2026: if respirations are reduced after opioids or ketamine, reposition the airway into a
+    sniffing position; if that fails, ventilate. Naloxone only helps when an opioid is involved.
+- id: q2
+  question: >-
+    A casualty given ketamine becomes frightened, shouts and pulls at his dressings. A bystander
+    offers his own diazepam tablets "to calm him down". What do you do?
+  options:
+    - Decline; reassure him and, if needed, the medic gives more ketamine.
+    - Give 10 mg of diazepam, because benzodiazepines are the standard treatment.
+    - Give half a diazepam tablet, which is safe at a low dose with ketamine.
+    - Give diphenhydramine instead, because antihistamines are a safe sedative.
+  correct: 0
+  explanation: >-
+    TCCC 2026 does not recommend benzodiazepines with ketamine and says that if a casualty is
+    partly dissociated, more ketamine is safer. Sedating antihistamines also add to sedation.
+- id: q3
+  question: >-
+    A 10 kg toddler is vomiting after a burn and you have ondansetron 4 mg orally dissolving tablets.
+    What dose?
+  options:
+    - A whole 4 mg tablet, because the tablet cannot be divided.
+    - Ondansetron is never used in children under 12 years old.
+    - 8 mg, because toddlers clear the drug faster than adults.
+    - 2 mg - half a tablet - on the tongue, repeated after 8 hours if needed.
+  correct: 3
+  explanation: >-
+    Weight-band dosing gives 2 mg for 8-15 kg, 4 mg for 15-30 kg and 8 mg over 30 kg. C-TECC uses
+    ondansetron for children over 8 kg. Repeat every 8 hours as needed.
+- id: q4
+  question: >-
+    A woman on apixaban and an SSRI antidepressant has a broken wrist and is nauseated. Which plan
+    avoids the dangerous combinations?
+  options:
+    - Ibuprofen 400 mg for pain and ondansetron 4 mg for the nausea.
+    - Acetaminophen with a splint, and watch for serotonin signs if ondansetron is used.
+    - Naproxen for pain, since it is safer with anticoagulants than ibuprofen.
+    - Tramadol for pain and ondansetron for nausea, since neither affects bleeding.
+  correct: 1
+  explanation: >-
+    NSAIDs plus an anticoagulant or SSRI raise bleeding risk. Tramadol with an SSRI and ondansetron
+    adds serotonin risk. Acetaminophen and a splint are safe; ondansetron needs watching with SSRIs.
+- id: q5
+  question: >-
+    A paramedic gave a casualty morphine and you gave naloxone 0.4 mg IM; he woke up and is breathing
+    well. Evacuation is 3 hours away. What now?
+  options:
+    - Remove the airway adjuncts and let him walk, since the morphine has been reversed.
+    - Give a second morphine dose now that naloxone protects his breathing.
+    - Keep watching him closely for at least 2 hours, ready to repeat naloxone.
+    - Give a benzodiazepine, because naloxone often causes agitation.
+  correct: 2
+  explanation: >-
+    Naloxone lasts about 30-90 minutes and the opioid can outlast it, so breathing can slow again.
+    Watch for at least 2 hours and repeat naloxone if needed.

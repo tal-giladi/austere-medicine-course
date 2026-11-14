@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Why does the IDF give group O whole blood that has been tested for low anti-A and anti-B titers,
+    instead of any group O whole blood?
+  options:
+    - Low-titer blood has more platelets, so it clots faster in the wound.
+    - It can be stored at room temperature for longer than ordinary group O blood.
+    - High-titer O plasma can destroy the red cells of a group A, B or AB casualty.
+    - Low titer means the donor has been tested for all infectious diseases.
+  correct: 2
+  explanation: >-
+    Group O red cells suit every recipient, but O plasma carries anti-A and anti-B antibodies. Only
+    low-titer units are used as "universal" whole blood, so the plasma does not hemolyse the
+    recipient's cells.
+- id: q2
+  question: >-
+    During a long siege in your village, a man is bleeding heavily. A neighbour says he is "definitely
+    O negative" and offers to donate directly through IV tubing. No physician can be reached. What do
+    you do?
+  options:
+    - Decline, keep resuscitating as in 04.1, and keep trying to reach a qualified team.
+    - Accept, because group O negative blood can be given to anyone without testing.
+    - Accept, but only if you warm the blood and run it through the tubing slowly.
+    - Accept, but give only half a unit to limit the size of any reaction.
+  correct: 0
+  explanation: >-
+    Self-reported groups are often wrong, there is no infection testing, and blood without
+    anticoagulant clots. TCCC restricts unscreened fresh whole blood to trained personnel under
+    medical direction.
+- id: q3
+  question: >-
+    Five minutes into a unit of whole blood given by a paramedic, the casualty starts shivering,
+    complains of burning in the arm and low back pain, and his pulse rises. What is the first action?
+  options:
+    - Speed up the transfusion, since his pulse shows he needs more blood.
+    - Stop the transfusion immediately, keep the line open with saline and support ABCs.
+    - Give paracetamol for the fever and continue the unit more slowly.
+    - Finish the unit and then give calcium, because the reaction is from low calcium.
+  correct: 1
+  explanation: >-
+    Fever, pain along the vein and back pain early in a unit suggest an acute hemolytic reaction.
+    Stop at once, keep the line with saline, treat ABCs and keep the bag for testing.
+- id: q4
+  question: >-
+    A paramedic has only Rh positive LTOWB. The casualty is a 24-year-old woman in hemorrhagic
+    shock. What does TCCC 2026 say?
+  options:
+    - Withhold blood and give crystalloid, to protect her future pregnancies.
+    - Wait until Rh negative blood can be brought from the hospital.
+    - Give only plasma, since Rh positive red cells are banned for women.
+    - Give the Rh positive blood if Rh negative is not immediately available, and document it.
+  correct: 3
+  explanation: >-
+    Transfusion should occur as soon as possible to keep the casualty alive. If Rh negative products
+    are not immediately available, Rh positive should be used in hemorrhagic shock; the JTS asks that
+    it be documented.
+- id: q5
+  question: >-
+    Your community wants to prepare for a long cut-off period. Which blood-related step is lawful and
+    useful for civilians?
+  options:
+    - Buy blood bags with anticoagulant so neighbours can donate to each other in an emergency.
+    - Keep a consented list of laboratory-confirmed blood groups and encourage regular MDA donation.
+    - Type everyone with a home test kit and label each person's group on a wristband.
+    - Store donated blood in a household refrigerator for up to 35 days.
+  correct: 1
+  explanation: >-
+    Civilians cannot collect or transfuse blood. A confirmed group list helps a qualified team, and
+    regular donation keeps Israel's blood supply, including the IDF's whole blood, available.

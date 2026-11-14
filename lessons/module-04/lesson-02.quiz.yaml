@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A casualty with a left thigh tourniquet is in shock. Two IV attempts in the arms have failed.
+    You carry an EZ-IO. Which site do you choose?
+  options:
+    - The left proximal tibia, because the tourniquet keeps the IO site from bleeding.
+    - The sternum, because the EZ-IO is designed for central placement in shock.
+    - A proximal humerus, using the 45 mm needle with the hand on the abdomen.
+    - The left distal tibia, because it is the furthest point from the wound.
+  correct: 2
+  explanation: >-
+    Drugs and fluid given below a tourniquet stay behind it, and an EZ-IO must never be used in the
+    sternum. The humerus is the first-choice adult EZ-IO site and gives the best flow.
+- id: q2
+  question: >-
+    You push an EZ-IO needle through the skin of a heavy man's humerus until it touches bone, and
+    you cannot see the black 5 mm mark above the skin. What do you do?
+  options:
+    - Drill anyway, since the mark is only a guide for children.
+    - Choose a longer needle set, because this one will end short of the marrow.
+    - Push harder to compress the tissue until the mark appears, then drill.
+    - Drill, then run the fluid by gravity so the short catheter is not dislodged.
+  correct: 1
+  explanation: >-
+    The 5 mm mark must be visible when the tip touches bone; otherwise the catheter will be too short
+    to reach the marrow once seated. Use the 45 mm needle or a longer one.
+- id: q3
+  question: >-
+    After placing a tibial IO in an awake casualty, the flush goes in easily, but when you start the
+    pressure infusion he cries out with deep pain in the leg. The site is not swollen. What helps most?
+  options:
+    - Remove the IO, since pain always means it is outside the bone.
+    - Stop pressure and let the fluid run by gravity for the rest of the hold.
+    - Give 40 mg of preservative-free 2% lidocaine slowly over 2 minutes, wait, then flush.
+    - Inject 10 ml of 1% lidocaine with adrenaline to numb the bone faster.
+  correct: 2
+  explanation: >-
+    Infusion pressure in the marrow is what hurts. The manufacturer regimen is 40 mg of preservative-
+    and adrenaline-free 2% lidocaine over 120 seconds, 60 seconds dwell, then a saline flush.
+- id: q4
+  question: >-
+    Two hours after a humeral IO was placed, the upper arm is swollen, tense and cool around the site,
+    and the fluid is running slowly. What is the right action?
+  options:
+    - Stop the infusion, remove the IO, and watch the arm for compartment syndrome.
+    - Flush 20 ml briskly to clear the blockage and continue under pressure.
+    - Raise the arm above the head to drain the swelling and keep infusing.
+    - Place a second IO in the same humerus just below the first one.
+  correct: 0
+  explanation: >-
+    Swelling and a tense limb mean extravasation. Stop, remove, and monitor for compartment
+    syndrome. Never use the same bone again for 48 hours, and never lift a humeral IO arm overhead.
+- id: q5
+  question: >-
+    In a cut-off house an adult in shock has no veins you can find. You have only a 16-gauge
+    hypodermic needle. How do you judge an improvised tibial IO with it?
+  options:
+    - It works as well as a commercial device if you push hard enough at 90 degrees.
+    - It is the best option because bone marrow absorbs fluid faster than the gut.
+    - It is safe in adults but dangerous in children because of the growth plates.
+    - It usually fails in adults - the needle bends or plugs with bone - so prefer other routes.
+  correct: 3
+  explanation: >-
+    Without a stylet a hypodermic needle cores out a plug of bone and blocks, and the thick adult
+    cortex bends it. Improvised IO has a realistic chance only in small children with thin bone.

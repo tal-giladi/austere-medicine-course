@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    You need to give a 4-year-old with no known weight 15 mg/kg of paracetamol. Your syrup is
+    120 mg/5 ml. Using the APLS formula, how much do you draw up?
+  options:
+    - 5 ml, the usual "one teaspoon" dose on most syrup bottles.
+    - 15 ml, because the formula gives 24 kg for a 4-year-old.
+    - 7.5 ml, because the formula gives 12 kg for a 4-year-old.
+    - 10 ml, because the formula gives 16 kg, so the dose is 240 mg.
+  correct: 3
+  explanation: >-
+    For 1-5 years, weight = (2 x age) + 8 = 16 kg. 15 mg/kg x 16 = 240 mg. The syrup is 24 mg/ml, so
+    240 / 24 = 10 ml, measured with a syringe.
+- id: q2
+  question: >-
+    A lidocaine ampoule is labelled 2%. How many milligrams are in 2 ml?
+  options:
+    - 4 mg, because 2% of 2 ml is 0.04 ml.
+    - 40 mg, because 2% means 20 mg in each ml.
+    - 400 mg, because 2% means 200 mg in each ml.
+    - 2 mg, because the percentage equals the mg per ml.
+  correct: 1
+  explanation: >-
+    A percentage is grams per 100 ml, so 1% = 10 mg/ml and 2% = 20 mg/ml. 2 ml contain 40 mg, the
+    usual adult IO lidocaine dose.
+- id: q3
+  question: >-
+    A paramedic on the phone says "ketamine 18 mg IV, slowly." You have a 50 mg/ml vial and a 10 ml
+    syringe of saline. Which preparation is easiest to give accurately?
+  options:
+    - Draw 0.36 ml straight from the vial and push it fast so none is lost.
+    - Draw 3.6 ml straight from the vial, since IV doses are always larger.
+    - Dilute 1 ml in 9 ml saline to 5 mg/ml, label it, and push 3.6 ml over a minute.
+    - Give 18 mg intramuscularly instead, because small IV volumes cannot be measured.
+  correct: 2
+  explanation: >-
+    1 ml of 50 mg/ml in 10 ml total gives 5 mg/ml; 18 mg is 3.6 ml, easy to measure and to push
+    slowly over the minute TCCC requires. Label the new concentration.
+- id: q4
+  question: >-
+    A cut-off family has no new syringes. They need to give daily IM injections to two different
+    people. Which statement is correct?
+  options:
+    - Keep each syringe for one person; between people only new sterile ones are safe.
+    - Boiling a syringe for 20 minutes sterilises it fully, so it can be shared freely.
+    - Wiping the needle with alcohol between people is enough to prevent hepatitis.
+    - A bleach rinse makes a used syringe as safe as a new one, according to CDC.
+  correct: 0
+  explanation: >-
+    Boiling disinfects but does not kill spores, bleach is unreliable against hepatitis C, and
+    alcohol wiping does nothing useful. Keep each syringe to one person; between people, new
+    sterile equipment is the only safe option.
+- id: q5
+  question: >-
+    You must give 4 ml of ceftriaxone IM to a casualty in shock with cold, mottled arms. Which site
+    is best?
+  options:
+    - The deltoid, because it is the quickest muscle to expose.
+    - The outer thigh, a large muscle that holds the volume.
+    - Under the skin of the abdomen, because the abdomen stays warm in shock.
+    - The upper inner buttock, because it is the largest muscle mass.
+  correct: 1
+  explanation: >-
+    The adult deltoid takes only about 1-2 ml, the upper inner buttock risks the sciatic nerve, and
+    subcutaneous injection is not intramuscular. The vastus lateralis takes 3-5 ml and is preferred
+    in shock.
