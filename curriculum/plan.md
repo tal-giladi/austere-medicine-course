@@ -227,8 +227,8 @@ and a module quiz.
 
 ## 9. Open questions for Tal
 
-1. Course slug and repo: `austere-medicine` / `tal-giladi/austere-medicine-course`?
-2. Free or paid; public or hidden? (Has a sensitive-but-legit topic: attack scenes, CBRN.)
+1. DECIDED 2026-11-14: slug `austere-medicine`, repo `tal-giladi/austere-medicine-course` (public).
+2. DECIDED 2026-11-14: free, hidden (private) in the Academy.
 3. Recommend specific Israeli hands-on courses (e.g. MDA advanced/paramedic tracks, TCCC
    CLS/CMC courses in Israel) — research and list them?
 4. Drug doses: give full doses (current plan) or "know the drug, a doctor gives the dose"?
