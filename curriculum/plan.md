@@ -232,5 +232,5 @@ and a module quiz.
 3. DECIDED 2026-11-14: no list of outside hands-on courses. Instead, every procedure lesson
    embeds several different videos (different instructors, angles, models) plus simulations,
    so each action is seen from multiple perspectives.
-4. Drug doses: give full doses (current plan) or "know the drug, a doctor gives the dose"?
+4. DECIDED 2026-11-14: full doses.
 5. Home practice with animal tissue (pork ribs, pig larynx, pig's feet) — OK?
