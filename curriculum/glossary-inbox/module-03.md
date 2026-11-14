@@ -1,0 +1,36 @@
+# Glossary inbox — Module 3
+
+- Recovery position — side-lying position for an unconscious breathing casualty, head tilted back and chin away from the chest so fluid drains from the mouth; injured side down with a one-sided chest injury.
+- Sit up and lean forward — position TCCC lets a conscious casualty with facial or jaw injuries take so blood drains out of the mouth instead of into the airway.
+- Manual suction device — hand- or foot-operated pump (for example V-Vac) that clears blood and vomit from the mouth without a battery.
+- Yankauer tip — rigid, wide suction tip for clearing blood and vomit from the mouth.
+- Nasopharyngeal airway (NPA) — soft curved tube inserted through the nose to the back of the throat to keep the tongue from blocking the airway; tolerated by semi-conscious casualties.
+- French (Fr) — catheter and tube size unit equal to the outside circumference in millimetres (outside diameter in mm times 3); a 30 Fr NPA is about 10 mm wide.
+- Bag-valve-mask (BVM) — self-inflating bag with a one-way valve and face mask for ventilating a casualty who is not breathing adequately; TCCC specifies a 1000 ml bag.
+- E-C clamp — one-hand mask grip: thumb and index finger press the mask down (C), the other three fingers lift the jaw (E).
+- Pneumothorax — air between the lung and the chest wall, causing the lung to collapse partly or fully.
+- Tension pneumothorax — pneumothorax in which air enters the chest space with each breath and cannot leave, building pressure that collapses the lung and stops blood returning to the heart.
+- Hemothorax — blood in the chest space around the lung; causes one-sided quiet breath sounds and shock, and does not improve with needle decompression.
+- Primary blast injury — damage from the blast pressure wave itself, especially to air-filled organs such as the lungs, often with no visible wound.
+- Surgical emphysema — air trapped under the skin, felt as crackling like crisped rice; a sign of air leaking from the lung or airway.
+- Burping a chest seal — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
+- Needle decompression (NDC) — releasing a tension pneumothorax by inserting a long, wide needle/catheter between the ribs and leaving the catheter in place.
+- Intercostal space (ICS) — the space between two ribs, numbered after the rib above it.
+- Anterior axillary line (AAL) — vertical line down the side of the chest from the front fold of the armpit.
+- Midclavicular line (MCL) — vertical line down the front of the chest from the middle of the collarbone.
+- Sternal angle (angle of Louis) — horizontal ridge on the breastbone where the 2nd rib attaches; the landmark for counting ribs.
+- Flutter valve (Heimlich valve) — one-way valve that lets air out of a chest tube and closes when the casualty breathes in.
+- Finger thoracostomy — opening the chest wall through a short incision in the side and passing a finger into the chest cavity to release air or blood; a provider-level procedure.
+- Safe triangle — area on the side of the chest bordered by the edges of the chest and back muscles and the nipple level, used for chest drains and thoracostomy.
+- Refractory shock — shock that does not improve with resuscitation; in chest trauma, a reason to suspect untreated tension pneumothorax.
+- Cricothyroid membrane — the membrane between the thyroid and cricoid cartilages at the front of the neck, about 6-10 mm high in adults; the site of a surgical airway.
+- Laryngeal handshake — technique of gripping the larynx between thumb and middle finger and sliding down to find and hold the cricothyroid membrane.
+- Surgical cricothyroidotomy (cric) — creating an airway by cutting through the cricothyroid membrane and placing a tube into the trachea.
+- Bougie — long, thin, flexible guide over which a tube is passed into the trachea; tracheal rings are felt as clicks when it is in place.
+- Tracheal hook — small hooked instrument used to lift the cricoid cartilage and hold the cric opening.
+- Cric-Key — commercial cricothyroidotomy device whose hollow introducer works as both hook and guide; the TCCC course's preferred cric method.
+- EtCO2 (end-tidal carbon dioxide) — carbon dioxide measured in breathed-out air; confirms a tube is in the airway and guides ventilation rate.
+- Pulse oximeter (SpO2) — clip-on sensor estimating the percentage of haemoglobin carrying oxygen; inaccurate in shock, cold, motion, carbon monoxide poisoning and some skin tones.
+- Carbon monoxide poisoning — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
+- Oxygen concentrator — electric device that removes nitrogen from room air to deliver oxygen-enriched air at low flow; needs mains or generator power.
+- Pulse-dose delivery — oxygen delivered only when the user breathes in, used by many portable concentrators; unsuitable for a casualty who is not breathing or is on a BVM.

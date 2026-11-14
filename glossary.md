@@ -2,48 +2,82 @@
 
 Terms used in the course, in alphabetical order.
 
+- **Anterior axillary line (AAL)** — vertical line down the side of the chest from the front fold of the armpit.
 - **AT-MIST** — A handover format some services use: age, time of injury, then MIST.
 - **AVPU** — Level of consciousness scale: alert, responds to voice, responds to pain, unresponsive.
+- **Bag-valve-mask (BVM)** — self-inflating bag with a one-way valve and face mask for ventilating a casualty who is not breathing adequately; TCCC specifies a 1000 ml bag.
+- **Bougie** — long, thin, flexible guide over which a tube is passed into the trachea; tracheal rings are felt as clicks when it is in place.
+- **Burping a chest seal** — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
 - **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
+- **Carbon monoxide poisoning** — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
 - **Care Under Fire** — The TCCC name for care while the threat is still acting on rescuer and casualty; the TECC equivalent is direct threat care.
 - **Casualty collection point (CCP)** — A place where casualties are gathered, triaged and treated before evacuation.
 - **Chitosan** — substance from shellfish shell in Celox and ChitoGauze that sticks to blood cells and tissue and forms a plug without relying on the clotting cascade.
 - **Circulation first** — The principle of controlling major bleeding before airway and breathing interventions in trauma; adopted by the IDF Medical Corps guideline of 30 April 2024.
 - **Combat Gauze** — QuikClot Combat Gauze, the kaolin dressing that TCCC names as the hemostatic dressing of choice.
 - **CoTCCC** — Committee on Tactical Combat Casualty Care, the US military body that publishes the TCCC guidelines.
+- **Cric-Key** — commercial cricothyroidotomy device whose hollow introducer works as both hook and guide; the TCCC course's preferred cric method.
+- **Cricothyroid membrane** — the membrane between the thyroid and cricoid cartilages at the front of the neck, about 6-10 mm high in adults; the site of a surgical airway.
 - **DD Form 1380** — The TCCC casualty card used to record mechanism, injuries, signs and treatments; attached visibly to the casualty.
 - **Direct threat care** — TECC phase (hot zone) in which the threat is active; only cover, self-aid, movement and hasty tourniquets.
 - **Distal pulse** — pulse below a tourniquet (wrist for the arm, ankle or foot for the leg); its absence confirms an arterial tourniquet.
 - **Duty to Rescue Law** — Israel's חוק לא תעמוד על דם רעך, 1998: a duty to help a person in sudden serious danger when you can without risk to yourself or others; calling MDA counts as helping.
+- **E-C clamp** — one-hand mask grip: thumb and index finger press the mask down (C), the other three fingers lift the jaw (E).
+- **EtCO2 (end-tidal carbon dioxide)** — carbon dioxide measured in breathed-out air; confirms a tube is in the airway and guides ventilation rate.
 - **Evacuation care** — TECC phase (cold zone) that starts at handover or transport; every intervention is re-assessed.
 - **Evacuation category** — Urgent, priority or routine: how soon a casualty needs to reach surgical care.
+- **Finger thoracostomy** — opening the chest wall through a short incision in the side and passing a finger into the chest cavity to release air or blood; a provider-level procedure.
+- **Flutter valve (Heimlich valve)** — one-way valve that lets air out of a chest tube and closes when the casualty breathes in.
+- **French (Fr)** — catheter and tube size unit equal to the outside circumference in millimetres (outside diameter in mm times 3); a 30 Fr NPA is about 10 mm wide.
 - **Greater trochanter** — bony bump on the outside of the upper thigh, roughly level with the pubic bone; the level at which a pelvic binder is centred.
 - **Hemostatic dressing** — gauze coated with an agent (kaolin or chitosan) that speeds clot formation when packed into a wound with pressure.
+- **Hemothorax** — blood in the chest space around the lung; causes one-sided quiet breath sounds and shock, and does not improve with needle decompression.
 - **High and tight** — Placing a tourniquet as close to the body as possible on the injured limb when the bleeding site cannot be seen under direct threat.
 - **IFAK** — Individual first aid kit: the personal trauma kit carried on the body every day.
 - **Indirect threat care** — TECC phase (warm zone) in relative safety where the threat may return; the full MARCH sequence is done here. TCCC calls it Tactical Field Care.
+- **Intercostal space (ICS)** — the space between two ribs, numbered after the rib above it.
 - **Ischemia-reperfusion injury** — damage when blood returns to tissue that has been without it, releasing potassium, acid and myoglobin into the circulation.
 - **iTClamp** — spring clamp with small needles that closes wound edges so a contained clot forms underneath; used mainly on scalp and neck wounds.
 - **Junctional bleeding** — bleeding where a limb joins the trunk (groin, buttock, armpit) or at the base of the neck, where a limb tourniquet cannot be applied.
 - **Junctional tourniquet** — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
 - **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
+- **Laryngeal handshake** — technique of gripping the larynx between thumb and middle finger and sliding down to find and hold the cricothyroid membrane.
+- **Manual suction device** — hand- or foot-operated pump (for example V-Vac) that clears blood and vomit from the mouth without a battery.
 - **MARCH** — Treatment order: massive hemorrhage, airway, respiration, circulation, hypothermia/head injury.
+- **Midclavicular line (MCL)** — vertical line down the front of the chest from the middle of the collarbone.
 - **Minimum, better, best** — The prolonged field care approach of describing every capability at three levels of equipment and skill.
 - **MIST** — Handover and documentation format: mechanism, injuries, signs and symptoms, treatments.
 - **Myoglobin** — muscle pigment released from dying muscle; turns urine dark brown and can cause kidney failure.
+- **Nasopharyngeal airway (NPA)** — soft curved tube inserted through the nose to the back of the throat to keep the tongue from blocking the airway; tolerated by semi-conscious casualties.
 - **Necessity defence** — Israeli Penal Law s. 34יא: no criminal responsibility for an act immediately necessary to save life or body from a real danger of serious harm when there was no other way, provided the act was reasonable.
+- **Needle decompression (NDC)** — releasing a tension pneumothorax by inserting a long, wide needle/catheter between the ribs and leaving the catheter in place.
+- **Oxygen concentrator** — electric device that removes nitrogen from room air to deliver oxygen-enriched air at low flow; needs mains or generator power.
 - **PAWS** — Teaching mnemonic that follows MARCH: pain, antibiotics, wounds, splinting.
 - **Pelvic binder** — wide belt or folded sheet tightened around the greater trochanters to close and stabilise a broken pelvic ring.
+- **Pneumothorax** — air between the lung and the chest wall, causing the lung to collapse partly or fully.
 - **Pre-staged tourniquet** — A tourniquet carried with its loop open and folded so it can be applied quickly with one hand.
 - **Pressure delivery device** — improvised hard bolus strapped over a junctional pressure point to keep pressure on it without a rescuer's hands.
+- **Primary blast injury** — damage from the blast pressure wave itself, especially to air-filled organs such as the lungs, often with no visible wound.
+- **Pulse oximeter (SpO2)** — clip-on sensor estimating the percentage of haemoglobin carrying oxygen; inaccurate in shock, cold, motion, carbon monoxide poisoning and some skin tones.
+- **Pulse-dose delivery** — oxygen delivered only when the user breathes in, used by many portable concentrators; unsuitable for a casualty who is not breathing or is on a BVM.
+- **Recovery position** — side-lying position for an unconscious breathing casualty, head tilted back and chin away from the chest so fluid drains from the mouth; injured side down with a one-sided chest injury.
+- **Refractory shock** — shock that does not improve with resuscitation; in chest trauma, a reason to suspect untreated tension pneumothorax.
+- **Safe triangle** — area on the side of the chest bordered by the edges of the chest and back muscles and the nipple level, used for chest drains and thoracostomy.
+- **Sit up and lean forward** — position TCCC lets a conscious casualty with facial or jaw injuries take so blood drains out of the mouth instead of into the airway.
+- **Sternal angle (angle of Louis)** — horizontal ridge on the breastbone where the 2nd rib attaches; the landmark for counting ribs.
+- **Surgical cricothyroidotomy (cric)** — creating an airway by cutting through the cricothyroid membrane and placing a tube into the trachea.
+- **Surgical emphysema** — air trapped under the skin, felt as crackling like crisped rice; a sign of air leaking from the lung or airway.
 - **TACEVAC** — Tactical evacuation care, the third TCCC phase, covering casualty and medical evacuation.
 - **TCCC** — Tactical Combat Casualty Care, the military trauma care guidelines; current version 01 May 2026.
 - **TECC** — Tactical Emergency Casualty Care, the civilian adaptation of TCCC for all ages and hazards; current version 2025-1-2.
+- **Tension pneumothorax** — pneumothorax in which air enters the chest space with each breath and cannot leave, building pressure that collapses the lung and stops blood returning to the heart.
 - **Time band** — In this course, the expected time until someone more qualified takes over: minutes to 1 hour, 1 to 72 hours, or days to weeks.
 - **Tourniquet conversion** — replacing a tourniquet with a packed hemostatic dressing and pressure bandage, then releasing the tourniquet slowly while watching for bleeding.
 - **Tourniquet reassessment** — exposing the wound and checking whether a tourniquet is needed, correctly placed and tight enough to stop the distal pulse.
 - **Tourniquet repositioning** — replacing a tourniquet applied over clothing or "high and tight" with one on the skin 2-3 inches above the wound, then loosening the first.
 - **Tourniquet syndrome** — ischemic muscle death, compartment syndrome and kidney failure after a tourniquet left on for many hours.
+- **Tracheal hook** — small hooked instrument used to lift the cricoid cartilage and hold the cric opening.
 - **Venous tourniquet** — tourniquet tight enough to block veins but not the artery, which increases bleeding and swells the limb.
 - **X-ABCDE** — Assessment order: exsanguination, airway, breathing, circulation, disability, exposure; also written <C>ABC.
 - **XStat** — applicator that injects small expanding sponges into deep, narrow wound tracts; never removed in the field.
+- **Yankauer tip** — rigid, wide suction tip for clearing blood and vomit from the mouth.

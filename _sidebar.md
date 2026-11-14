@@ -19,3 +19,12 @@
   - [12 · Life over limb: long tourniquet times](lessons/module-02/lesson-05.md)
   - [13 · Pelvic binder](lessons/module-02/lesson-06.md)
   - [Module 2 quiz](assessments/module-02-quiz.md)
+- **Module 3 — Airway and chest beyond EMT**
+  - [14 · Positioning and suction in the field](lessons/module-03/lesson-01.md)
+  - [15 · Nasopharyngeal airway and BVM ventilation targets](lessons/module-03/lesson-02.md)
+  - [16 · Tension pneumothorax: recognising it without imaging](lessons/module-03/lesson-03.md)
+  - [17 · Needle decompression](lessons/module-03/lesson-04.md)
+  - [18 · Finger thoracostomy](lessons/module-03/lesson-05.md)
+  - [19 · Surgical cricothyroidotomy](lessons/module-03/lesson-06.md)
+  - [20 · Oxygen in the field and pulse oximetry](lessons/module-03/lesson-07.md)
+  - [Module 3 quiz](assessments/module-03-quiz.md)

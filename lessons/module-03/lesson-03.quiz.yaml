@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    A woman has a fragment wound to the right chest, covered with a vented chest seal 15 minutes
+    ago. Her breathing rate has climbed from 24 to 34 and her SpO2 has fallen from 93% to 85%. What
+    do you do first?
+  options:
+    - Burp the seal by lifting one edge as she breathes out, then reassess straight away.
+    - Wait for her trachea to shift before treating, so you are sure of the diagnosis.
+    - Add a second chest seal on top of the first to make the seal tighter.
+    - Lay her flat on her back with her legs raised to treat the shock.
+  correct: 0
+  explanation: >-
+    Worsening distress and falling SpO2 after torso trauma meet the TCCC criteria. Burping or
+    removing the seal is the first step; if signs persist, needle decompression follows. Tracheal
+    shift is a late, unreliable sign.
+- id: q2
+  question: >-
+    A man with a tourniquet on a thigh amputation is breathing 28 per minute and confused. Both
+    sides of his chest rise equally and sound the same. What is the most likely problem?
+  options:
+    - A tension pneumothorax from primary blast injury that has not shown itself yet.
+    - An airway obstruction from his tongue, because he is confused.
+    - Hemorrhagic shock, so he needs resuscitation rather than chest decompression.
+    - A simple pneumothorax that will become tension pneumothorax within minutes.
+  correct: 2
+  explanation: >-
+    Fast breathing and confusion with an equal chest and a major limb injury point to blood loss.
+    Without torso or blast trauma and one-sided findings, decompression would not help; circulation
+    comes first.
+- id: q3
+  question: >-
+    You start BVM ventilation on an unconscious blast casualty. Three minutes later the bag gets
+    stiff, SpO2 drops from 92% to 78% and you can no longer feel a radial pulse. Why has this
+    happened so quickly?
+  options:
+    - The BVM has filled his stomach, which pushes up on the lungs and heart.
+    - Positive-pressure breaths can turn a lung leak into a tension pneumothorax within minutes.
+    - Hemorrhagic shock always becomes obvious about three minutes after the injury.
+    - The oxygen saturation probe has slipped and is reading falsely low.
+  correct: 1
+  explanation: >-
+    Ventilated casualties with tension pneumothorax are hypoxic in over 90% of reported cases and
+    often lose their pulse within minutes. Pressure pushed into an injured lung builds tension fast;
+    decompress now.
+- id: q4
+  question: >-
+    A man fell 3 metres from a ladder onto his left side. He has bruised ribs and pain on breathing,
+    a rate of 22, equal chest movement and breath sounds, and SpO2 96%. A bystander says he needs a
+    needle in the chest. What is right?
+  options:
+    - Decompress the left side now, because blunt chest trauma always causes tension.
+    - Decompress both sides, because you cannot tell which side is injured.
+    - Apply a chest seal over the bruise to stop any air from entering the chest.
+    - No decompression; sit him up, treat pain, and reassess every 5 minutes for change.
+  correct: 3
+  explanation: >-
+    He has torso trauma but none of the six criteria: no progressive distress, no one-sided findings,
+    good SpO2, no shock. Rib pain explains his breathing; trend his signs because tension can develop
+    later.
+- id: q5
+  question: >-
+    In a crowded shelter with screaming and sirens, you cannot hear breath sounds at all. How do you
+    best check for a one-sided chest problem?
+  options:
+    - Skip the chest exam until the noise stops, then listen to it properly.
+    - Rely on the pulse oximeter alone, since in noise breath sounds add nothing.
+    - Compare chest movement under both flat hands, and look for wounds.
+    - Tap on the chest and decide by the sound, which is reliable in noise.
+  correct: 2
+  explanation: >-
+    In noise, look and feel are more reliable than listening. Comparing chest movement under both
+    hands, finding wounds front, back and in the armpits, and trending rate and SpO2 give the
+    picture.

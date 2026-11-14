@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You pulled a 60-year-old woman from a smoke-filled flat. She is coughing and hoarse, and your
+    pulse oximeter reads 99%. You have one small oxygen cylinder. What do you do?
+  options:
+    - No oxygen, because 99% shows she is well oxygenated and supply is short.
+    - Low-flow nasal cannula only, since her saturation is already near normal.
+    - Wait 30 minutes and give oxygen only if her saturation falls below 90%.
+    - High-flow oxygen by mask, because carbon monoxide makes the reading falsely high.
+  correct: 3
+  explanation: >-
+    Smoke inhalation is on the TCCC oxygen list, and pulse oximeters cannot tell carbon monoxide
+    from oxygen on haemoglobin, so the reading is falsely high. Treat the history, and watch the
+    airway for burns.
+- id: q2
+  question: >-
+    Your 2-litre cylinder reads 150 bar. You want to keep about 20% in reserve. Roughly how long can
+    you run a non-rebreather mask at 15 L/min?
+  options:
+    - About 16 minutes.
+    - About 2 hours.
+    - About 40 minutes.
+    - About 5 minutes.
+  correct: 0
+  explanation: >-
+    2 L times 150 bar is about 300 L of oxygen; keeping 60 L in reserve leaves 240 L, and 240 divided
+    by 15 L/min is about 16 minutes. At 4 L/min by nasal cannula the same supply lasts about an hour.
+- id: q3
+  question: >-
+    A pale, confused casualty with a thigh tourniquet and a weak radial pulse reads 98% on the pulse
+    oximeter. A helper says she must be fine. What is the right interpretation?
+  options:
+    - She is fine; a saturation of 98% rules out serious shock.
+    - The oximeter must be faulty, because shock always lowers saturation.
+    - She is in shock; a normal saturation does not exclude it, so resuscitate.
+    - She needs high-flow oxygen first, before anything else is done.
+  correct: 2
+  explanation: >-
+    TCCC notes that shock is not always preceded by a fall in oxygen saturation. Weak radial pulse
+    and altered mental status define shock in the field; treat the bleeding and the shock.
+- id: q4
+  question: >-
+    During a long power cut you borrow a neighbour's home oxygen concentrator for a casualty in your
+    safe room and have a petrol generator. How do you set it up?
+  options:
+    - Run the generator just inside the stairwell door so the cable reaches.
+    - Run the generator outdoors away from windows and vents, and the cable inside.
+    - Run the generator inside the safe room with the door slightly open.
+    - Skip the generator and run the concentrator from a phone power bank.
+  correct: 1
+  explanation: >-
+    Generator exhaust contains carbon monoxide and must stay outdoors, away from openings.
+    Concentrators draw far more power than a power bank can supply; size the generator or inverter
+    above the label wattage.
+- id: q5
+  question: >-
+    You have only a little oxygen and three casualties: a head-injured man at 89%, a woman with
+    painful rib fractures at 96%, and a teenager with a sealed chest wound at 93% and stable. Who
+    gets the oxygen first?
+  options:
+    - The woman with rib fractures, because pain makes her breathe fast.
+    - Split it equally between all three so no one goes without.
+    - The teenager, since chest wounds always need oxygen.
+    - The head-injured man, because TBI needs 92% or more and he is below it.
+  correct: 3
+  explanation: >-
+    TCCC targets SpO2 of 92% or more in TBI, and he is the only one below target. The others are
+    above 90% and stable; recheck them regularly and titrate rather than splitting by default.

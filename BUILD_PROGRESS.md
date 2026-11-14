@@ -12,7 +12,7 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Foundations (README, _sidebar, glossary, PUBLISHING_WARNING)
 - [x] Module 01 — When the ambulance isn't coming
 - [x] Module 02 — Bleeding beyond EMT
-- [ ] Module 03 — Airway and chest beyond EMT
+- [x] Module 03 — Airway and chest beyond EMT
 - [ ] Module 04 — Circulation, resuscitation and field drugs
 - [ ] Module 05 — War injuries
 - [ ] Module 06 — Attack scenes, CBRN and moving casualties
@@ -27,7 +27,7 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
 
 ## Now working
-- Module 03 and 04 (one agent each).
+- Modules 04 and 05 (one agent each).
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

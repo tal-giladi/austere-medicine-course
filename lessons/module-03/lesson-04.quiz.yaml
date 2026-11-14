@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You decide to decompress the left chest of a man with a fragment wound. He is lying on his
+    right side and the front of his chest is covered in blood and dressings. Which insertion is
+    right?
+  options:
+    - 2nd intercostal space just beside the breastbone, where the chest wall is thinnest.
+    - 5th space anterior axillary line, over the 6th rib, perpendicular to the chest wall.
+    - 7th intercostal space midaxillary line, low enough to drain blood as well as air.
+    - 5th intercostal space anterior axillary line, with the needle angled straight down to the ground.
+  correct: 1
+  explanation: >-
+    Either TCCC site may be used, whichever is accessible; here the side is. The needle goes over the
+    top of the lower rib, perpendicular to the chest wall, not the ground. Medial to the nipple line
+    risks the heart, and going lower risks the spleen.
+- id: q2
+  question: >-
+    Your first needle decompression at the 2nd intercostal space produced no hiss and no
+    improvement. The casualty is getting worse. What does TCCC say to do next?
+  options:
+    - Push the same catheter in deeper until you feel a second pop.
+    - Decompress the opposite side first, since the first side was clearly not the problem.
+    - A second NDC on the same side at the 5th space anterior axillary line, new needle.
+    - Stop decompressing and start CPR, because a failed decompression means cardiac arrest is near.
+  correct: 2
+  explanation: >-
+    If the first NDC fails, TCCC calls for a second NDC on the same side at the site not yet used,
+    with a new needle/catheter, while considering the opposite side. A second failure sends you on to
+    Circulation.
+- id: q3
+  question: >-
+    Twenty minutes after a successful decompression, the casualty becomes breathless again and her
+    SpO2 falls. The catheter is still taped in place. What is the most likely cause and action?
+  options:
+    - The catheter has kinked, clotted or slipped; repeat the NDC at the same site with a new needle.
+    - A hemothorax has developed, so further decompression is pointless and you move to Circulation.
+    - The lung has fully re-expanded, so remove the catheter and sit her upright.
+    - She is anxious about the catheter; give reassurance and recheck in 15 minutes.
+  correct: 0
+  explanation: >-
+    Recurrence after success usually means the catheter stopped working. TCCC says repeat the NDC at
+    the same site with a new needle/catheter unit, and keep reassessing.
+- id: q4
+  question: >-
+    You have only standard 14G IV cannulas, about 5 cm long, for a large muscular man who meets the
+    tension criteria. Which approach gives the best chance of reaching the chest cavity?
+  options:
+    - Use the 2nd intercostal space midclavicular line, which is the classic front site.
+    - Insert two cannulas side by side at the 2nd space to double the air flow.
+    - Wait for a proper 3.25-inch needle, since a short cannula is guaranteed to fail.
+    - Use the 5th intercostal space anterior axillary line, where the chest wall is usually thinnest.
+  correct: 3
+  explanation: >-
+    In the 2016 meta-analysis a 5 cm needle was predicted to fail in 38% at the 2nd space
+    midclavicular line but 13% at the anterior axillary line. A short needle at the thinner site is
+    worth trying while a tension pneumothorax kills.
+- id: q5
+  question: >-
+    A woman with a penetrating chest wound and a sealed wound is found with no pulse, no breathing
+    and no response to pain, with no obviously fatal injuries. What does TCCC 2026 say before you
+    stop treatment?
+  options:
+    - Start CPR and continue for 20 minutes before considering anything else.
+    - Decompress both sides of the chest to rule out tension pneumothorax.
+    - Decompress only the wounded side, since the other lung is not injured.
+    - Stop treatment immediately, because penetrating trauma arrest is never reversible.
+  correct: 1
+  explanation: >-
+    Torso trauma casualties in traumatic arrest should have bilateral needle decompression before
+    care is discontinued. CPR is not attempted in the field for penetrating or blast trauma arrest.

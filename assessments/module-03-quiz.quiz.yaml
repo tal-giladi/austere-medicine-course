@@ -1,0 +1,140 @@
+- id: q1
+  question: >-
+    A drone strike leaves two casualties in your courtyard. One has a spurting thigh wound and is
+    talking; the other is unconscious and snoring with a small scalp cut. You are alone. What is your
+    order?
+  options:
+    - Open the snoring casualty's airway first, because airway always comes before bleeding.
+    - Tourniquet the thigh, then put the unconscious casualty in the recovery position.
+    - Insert an NPA in the unconscious casualty, then return to the thigh.
+    - Start BVM ventilation on the unconscious casualty while shouting for help with the thigh.
+  correct: 1
+  explanation: >-
+    Circulation first: massive bleeding kills fastest and is stopped in seconds. The snoring casualty
+    is breathing; the recovery position, head back and chin away from the chest, opens most airways
+    without any tube.
+- id: q2
+  question: >-
+    An unconscious man with a jaw fracture keeps gurgling despite the recovery position. Your
+    improvised suction (60 ml syringe and thin tubing) keeps blocking with clots. His SpO2 is 93%
+    and stable. What next?
+  options:
+    - Tip him further onto his side, head lower, and clear what you can see with gauze.
+    - Perform a surgical cric now, since suction has failed.
+    - Lay him on his back so the syringe can reach the back of the throat.
+    - Insert two NPAs, one in each nostril, to bypass the blood.
+  correct: 0
+  explanation: >-
+    Gravity handles clots that thin tubing cannot. He is oxygenating, so the obstruction is still
+    manageable; a cric is for an obstruction that is unmanageable after positioning and suction.
+- id: q3
+  question: >-
+    A blast casualty with no visible chest wound is breathing 30 per minute with SpO2 86% and falling.
+    The left side moves less and is quiet. His radial pulse is weakening. What is your next action?
+  options:
+    - Give high-flow oxygen and wait 10 minutes to see if he improves.
+    - Start BVM ventilation to raise the saturation before anything else.
+    - Needle decompression of the left chest with a 3.25-inch needle.
+    - Decompress the right side, because blast usually affects the opposite lung.
+  correct: 2
+  explanation: >-
+    Primary blast injury with progressive distress, one-sided findings, SpO2 under 90% and early
+    shock meets the TCCC criteria. Decompress the side with the findings; BVM pressure could worsen a
+    tension pneumothorax.
+- id: q4
+  question: >-
+    You decompress a casualty at the 5th space anterior axillary line. Air hisses out, her distress
+    eases and SpO2 rises to 92%. Fifteen minutes later her distress returns. The catheter is still
+    in place. What do you do?
+  options:
+    - Push the old catheter deeper, since it has probably slipped back.
+    - Decompress at the 2nd intercostal space, since the first site has failed.
+    - Move straight to Circulation, as two problems at one site mean hemothorax.
+    - Repeat the NDC at the same site with a new needle/catheter.
+  correct: 3
+  explanation: >-
+    Initial success followed by recurrence means the catheter has kinked, clotted or slipped. TCCC
+    says repeat at the same site with a new unit. The other site is used when the first attempt fails.
+- id: q5
+  question: >-
+    After two correct needle decompressions on the right, a casualty with a chest wound is still in
+    shock despite fluids, with the right side silent. A physician arrives. Which statement fits TCCC
+    2026?
+  options:
+    - Repeated NDC or a finger thoracostomy at the 5th space, anterior axillary line.
+    - Nothing more can be done for the chest; only rapid evacuation will help.
+    - A third and fourth NDC should be placed medial to the nipple line.
+    - A surgical cric by the physician to improve the delivery of oxygen.
+  correct: 0
+  explanation: >-
+    For refractory shock with chest signs, TCCC lists repeated NDC or finger thoracostomy/chest tube
+    at the 5th space anterior axillary line by an authorised provider. Medial to the nipple line
+    risks the heart.
+- id: q6
+  question: >-
+    In a cut-off village, a man has severe facial burns from a gas explosion in a closed kitchen. His
+    voice is becoming hoarse and he is starting to struggle to breathe. What does TCCC advise?
+  options:
+    - Insert an NPA through the burned nose and wait for swelling to settle.
+    - Give oxygen only, because airway swelling after burns settles within an hour.
+    - Monitor aggressively and consider an early surgical airway before swelling closes it.
+    - Wait until he is unconscious and then perform a cric.
+  correct: 2
+  explanation: >-
+    TCCC says closed-space facial burns may mean inhalation injury; monitor the airway and consider
+    early surgical airway for distress or desaturation. Inhalation burns are a contraindication to
+    the NPA.
+- id: q7
+  question: >-
+    During a cric on an adult, you have made the skin incision and cut through the membrane. You
+    have a hook but no bougie or kit tube. Which tube would you choose from what is available?
+  options:
+    - A ballpoint pen barrel with the ink removed, because it is rigid.
+    - A 12 mm outer diameter garden hose cut to length, for maximum airflow.
+    - A thin 4 mm outer diameter aquarium tube, because it slides in easily.
+    - A 6.0 endotracheal tube cut to length, sliding it in along your finger.
+  correct: 3
+  explanation: >-
+    TCCC wants outer diameter under 10 mm and internal diameter 6-7 mm. A pen barrel is too narrow and
+    resists airflow, the hose will not fit the membrane, and thin tubing cannot carry enough air.
+- id: q8
+  question: >-
+    You are ventilating a casualty with a severe head injury using a BVM. You have a pulse oximeter
+    but no EtCO2. A helper is squeezing about 25 times a minute. What do you tell the helper?
+  options:
+    - Keep going, because fast breathing lowers brain pressure.
+    - Slow to 10 breaths per minute with small breaths, keeping SpO2 at 92% or more.
+    - Stop ventilating and give oxygen by mask, since BVM raises brain pressure.
+    - Squeeze harder but less often, to fill the lungs completely each time.
+  correct: 1
+  explanation: >-
+    Over-breathing lowers CO2 and narrows the brain's blood vessels. Without EtCO2, TCCC says low
+    tidal volume at 10 breaths per minute in TBI, with SpO2 kept at 92% or higher.
+- id: q9
+  question: >-
+    A woman was pulled from a house fire. She is alert and talking; your pulse oximeter shows 100%.
+    Your only oxygen cylinder is half full. What is the right decision?
+  options:
+    - Give high-flow oxygen anyway, because carbon monoxide gives falsely high readings.
+    - Withhold oxygen, since 100% means her blood is fully saturated.
+    - Give oxygen only if her saturation falls below 90% later.
+    - Recheck on another finger and give oxygen only if that reading is lower.
+  correct: 0
+  explanation: >-
+    The oximeter reads carbon monoxide-bound haemoglobin as oxygenated, so after smoke exposure a
+    normal reading is untrustworthy. Smoke inhalation is on the TCCC oxygen list.
+- id: q10
+  question: >-
+    A casualty with penetrating chest and abdominal wounds is found with no pulse, no breathing and no
+    response to pain, and no obviously fatal injuries. You are the only trained person. What does
+    TCCC call for before you stop treatment?
+  options:
+    - Thirty minutes of CPR, because he may still be saved.
+    - A surgical cric to secure the airway, then CPR.
+    - Bilateral needle decompression.
+    - Nothing; treatment stops immediately for penetrating trauma arrest.
+  correct: 2
+  explanation: >-
+    Torso trauma casualties in traumatic arrest should have both sides decompressed to rule out
+    tension pneumothorax before care is discontinued. CPR is not attempted in the field for
+    penetrating or blast arrest.

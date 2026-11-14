@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    After a rocket strike, a conscious man with a shattered lower jaw is sitting against a wall,
+    spitting blood. A bystander wants to lay him flat because he looks pale. What do you do?
+  options:
+    - Lay him flat with legs raised, since shock treatment takes priority over his position.
+    - Let him stay sitting, leaning forward so blood drains out, and suction what you can see.
+    - Lay him on his back and hold a jaw thrust so the tongue stays forward.
+    - Put him in the recovery position with his chin tucked onto his chest.
+  correct: 1
+  explanation: >-
+    TCCC lets a conscious casualty take any position that protects the airway, including sitting up
+    and leaning forward. A broken jaw no longer holds the tongue forward, so lying flat can block the
+    airway.
+- id: q2
+  question: >-
+    An unconscious, breathing casualty has a fragment wound on the right side of the chest, already
+    sealed. You have to leave her for a minute to treat someone else. How do you position her?
+  options:
+    - On her back with a rolled towel under the shoulders.
+    - Recovery position on her left side, so the injured lung is on top.
+    - Sitting up against a wall with her head forward.
+    - Recovery position on her right side, injured side down, head tilted back.
+  correct: 3
+  explanation: >-
+    Unconscious casualties go in the recovery position with the head back and chin away from the
+    chest; with a one-sided chest injury TCCC places the injured side down so the good lung is on
+    top.
+- id: q3
+  question: >-
+    You are suctioning blood from an unconscious casualty's mouth with a manual pump. Which
+    technique is right?
+  options:
+    - Insert the tip only as far as you can see, suction while withdrawing, for 10 seconds at most.
+    - Push the tip to the back of the throat first, then suction continuously until it is clear.
+    - Suction while inserting and withdrawing, for up to 30 seconds per pass.
+    - Sweep the throat blindly with a finger first, then suction what is left.
+  correct: 0
+  explanation: >-
+    Going deeper than you can see triggers gagging and vomiting, and long passes starve the
+    casualty of oxygen. TCCC limits each pass to 10 seconds, applied only on withdrawal; blind
+    finger sweeps are forbidden.
+- id: q4
+  question: >-
+    Your improvised suction is a 60 ml syringe with thin aquarium tubing. It keeps blocking with
+    clots and the casualty is still gurgling. What is the best next move?
+  options:
+    - Pull harder on the plunger so the clots are forced through the tubing.
+    - Suck on the tubing with your mouth to get stronger suction.
+    - Roll the casualty further onto the side, head lower, and let gravity drain the mouth.
+    - Lay the casualty flat so you can reach the back of the throat with the tube.
+  correct: 2
+  explanation: >-
+    Thin tubing cannot handle clots; gravity can. Mouth suction exposes you to blood and gives you
+    no control, and laying the casualty flat lets the blood run into the airway.
+- id: q5
+  question: >-
+    A teenager has a single gunshot wound through the cheek and is conscious and talking. Your
+    partner reaches for a cervical collar. What do you say?
+  options:
+    - Yes, every gunshot wound to the face needs full spinal protection before anything else.
+    - Yes, but only if the collar is loosened enough that he can still open his mouth.
+    - No, but someone must hold his head in line by hand until evacuation arrives.
+    - No, penetrating trauma alone needs no spinal stabilisation, and a collar hinders drainage.
+  correct: 3
+  explanation: >-
+    TCCC 2026 says cervical spine stabilisation is not necessary for casualties with only
+    penetrating trauma. A collar on a bleeding face hides the airway and stops him leaning forward.

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A blast casualty is unconscious, snoring, and has clear watery fluid dripping from one ear.
+    Positioning has helped only partly. What airway adjunct choice is best?
+  options:
+    - Insert a lubricated NPA in the right nostril, since he is unconscious and snoring.
+    - Insert an NPA in the left nostril, away from the ear that is leaking fluid.
+    - Avoid the NPA; keep him in the recovery position and use an OPA if he has no gag reflex.
+    - Insert an NPA but only half-way, so it cannot reach the base of the skull.
+  correct: 2
+  explanation: >-
+    Clear fluid from the nose or ears suggests a skull-base fracture, which TCCC lists as a reason
+    not to insert an NPA. Positioning, and an OPA if tolerated, are the safer options.
+- id: q2
+  question: >-
+    You are inserting an NPA in the right nostril and meet firm resistance about 3 cm in. What
+    should you do?
+  options:
+    - Push harder with steady pressure, since the nasal turbinates usually give way.
+    - Twist slightly and retry gently; if that fails, use the left nostril instead.
+    - Re-aim the tip upward towards the eye so it follows the line of the nose.
+    - Cut the NPA shorter so less of it has to pass through the nose.
+  correct: 1
+  explanation: >-
+    Never force an NPA. The TCCC card says to twist and reinsert gently, then try the other nostril,
+    inserting with the curve up and rotating it after about 5 cm. The NPA goes straight back, not up.
+- id: q3
+  question: >-
+    You are ventilating a non-breathing adult with a BVM. A bystander counts 28 squeezes in the last
+    minute, each a hard quick squeeze. Why is this a problem?
+  options:
+    - It is too slow, so carbon dioxide builds up and the casualty becomes acidotic.
+    - It is fine as long as the chest rises with each breath.
+    - It only matters if the casualty has a head injury.
+    - Air enters the stomach and raised chest pressure cuts blood return to the heart.
+  correct: 3
+  explanation: >-
+    The target is one breath every 5-6 seconds, squeezed over 1-2 seconds. Fast hard breaths inflate
+    the stomach (vomiting) and the pressure in the chest reduces venous return, which is dangerous in
+    shock.
+- id: q4
+  question: >-
+    In a safe room, a semi-conscious casualty keeps obstructing while you wait. You have no NPA.
+    Someone offers a length of garden hose. What is the best course?
+  options:
+    - Recovery position with the head tilted back, or a jaw thrust if he must lie flat.
+    - Cut the hose to nose-to-earlobe length and insert it as an NPA.
+    - Insert the hose through his mouth instead, as an improvised oral airway.
+    - Lay him flat and wait until he is unconscious enough to accept an OPA.
+  correct: 0
+  explanation: >-
+    Garden hose is too stiff, unclean and has a sharp cut edge with no flange. Positioning and a jaw
+    thrust keep most airways open with no tube at all.
+- id: q5
+  question: >-
+    A casualty with a severe head injury needs assisted ventilation. You have a BVM and pulse
+    oximeter, but no EtCO2 monitor. What ventilation target does TCCC 2026 give?
+  options:
+    - Fast breaths, about 20 per minute, to lower carbon dioxide and brain swelling.
+    - Low tidal volume at 10 breaths per minute, keeping SpO2 at 92% or higher.
+    - Large breaths every 3 seconds until the SpO2 reaches 100%.
+    - No assisted breaths at all, because ventilation raises pressure in the head.
+  correct: 1
+  explanation: >-
+    Without EtCO2, TCCC says low tidal volume at 10 breaths per minute for TBI. Over-breathing lowers
+    CO2, narrows the brain's vessels and worsens the injury; oxygen saturation should stay at 92% or
+    more.

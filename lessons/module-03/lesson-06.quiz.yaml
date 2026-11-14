@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    A man was shot through the lower face. He is conscious, sitting and leaning forward, spitting
+    blood, breathing 22 per minute with SpO2 94%. A helper says he needs a cric now. What do you do?
+  options:
+    - Perform a cric immediately, because facial gunshot wounds always obstruct later.
+    - Lay him flat so you can find the landmarks, then decide on a cric.
+    - Keep him sitting forward, suction under vision, prepare the cric kit and reassess often.
+    - Insert an NPA through the injured nose so he can breathe while lying down.
+  correct: 2
+  explanation: >-
+    TCCC reserves a surgical airway for when positioning and suction fail and the obstruction is
+    unmanageable. He is protecting his own airway now; prepare for intervention and watch closely.
+- id: q2
+  question: >-
+    You are about to cut. Using the laryngeal handshake you feel the large thyroid cartilage, then a
+    soft dip, then a firm ring. Where does the horizontal cut through the membrane go?
+  options:
+    - In the soft dip between the thyroid cartilage and the cricoid ring.
+    - Just above the thyroid cartilage, under the jaw, where the skin is thinnest.
+    - Below the firm cricoid ring, between the first tracheal rings.
+    - Through the middle of the thyroid cartilage, along its notch.
+  correct: 0
+  explanation: >-
+    The cricothyroid membrane is the dip between the thyroid cartilage above and the cricoid ring
+    below. Going below the cricoid risks the thyroid gland, which bleeds heavily.
+- id: q3
+  question: >-
+    During a bougie-aided cric on a lamb larynx, the bougie slides in easily but you feel no clicks,
+    and after placing the tube there is no misting and the "lung" does not inflate. What happened?
+  options:
+    - The cuff is not inflated enough, so add another 10 ml of air.
+    - The tube has gone into one main bronchus; pull back 2 cm.
+    - The membrane cut was too short, but the tube is in the right place.
+    - The bougie and tube went into a false passage outside the trachea; remove and redo.
+  correct: 3
+  explanation: >-
+    Tracheal clicks on the bougie, misting and chest rise confirm placement. Their absence means a
+    false passage in front of the trachea; remove, finger in the incision, re-find the membrane.
+- id: q4
+  question: >-
+    A neighbour says his community kit needs no cric set because "a ballpoint pen will do". Which
+    reply best fits the evidence?
+  options:
+    - He is right, since every pen barrel is wider than the membrane anyway.
+    - Pens cannot cut the way in, and most pen tubes are too narrow and resist airflow.
+    - Pens work only if pushed in with enough force and a twisting motion.
+    - Pens are fine for adults, but too large for the neck of a teenager.
+  correct: 1
+  explanation: >-
+    In a cadaver study only 1 of 10 laypeople succeeded with a pen, after more than 5 minutes and
+    with damage; bench tests found most pen tubes unsuitable for airflow. TCCC wants a 6-7 mm
+    internal diameter tube.
+- id: q5
+  question: >-
+    An 8-year-old has severe facial burns from a house fire and is struggling to breathe. Positioning
+    and suction help only a little. What is the right thinking about a surgical cric?
+  options:
+    - A surgical cric is the first choice, since burns swell and close the airway.
+    - A cric is fine if you use a smaller 4.0 tube instead of the 6.0.
+    - A surgical cric is not done in children under about 10-12; BVM and urgent evacuation.
+    - A needle cric with an IV cannula is the TCCC alternative for children.
+  correct: 2
+  explanation: >-
+    The TCCC course lists age under 10-12 years as a contraindication. Support with positioning,
+    suction, BVM and oxygen if available, and evacuate urgently; TCCC does not include needle cric.

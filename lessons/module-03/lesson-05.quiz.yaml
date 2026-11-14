@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    A physician arrives at your casualty point. A casualty with a left chest wound had two needle
+    decompressions that briefly helped, and is now in shock that is not responding to fluids, with
+    the left side silent. What procedure is the physician most likely to choose?
+  options:
+    - A third needle decompression at the 2nd intercostal space, medial to the nipple line.
+    - A surgical cricothyroidotomy to secure the airway before anything else.
+    - A finger thoracostomy at the 5th intercostal space, anterior axillary line.
+    - An airtight chest seal over both decompression sites to stop air entering.
+  correct: 2
+  explanation: >-
+    TCCC 2026 lists repeated NDC or finger thoracostomy at the 5th space anterior axillary line for
+    refractory shock with chest signs, by a provider with the skills and authorisation.
+- id: q2
+  question: >-
+    During a finger thoracostomy the operator's finger enters the opening but feels something firm
+    and smooth instead of soft, spongy tissue. What does this most likely mean?
+  options:
+    - The finger may be below the diaphragm in the abdomen, so the site is too low.
+    - The lung has fully collapsed and feels firm, which confirms the tension.
+    - The operator has reached the heart and must stop and withdraw at once.
+    - It is a normal adhesion, so the finger should be pushed through it.
+  correct: 0
+  explanation: >-
+    The TCCC card says air and the pink, spongy lung should be immediately inside; if not, the
+    operator may be in the abdominal cavity, often from going too low or entering as the diaphragm
+    rises.
+- id: q3
+  question: >-
+    An hour after a finger thoracostomy, the casualty's breathing worsens again and the gauze over
+    the incision has stopped getting wet. What is the likely problem?
+  options:
+    - The lung has healed, so the incision can now be sealed with an airtight dressing.
+    - The opening in the chest wall has closed, so the provider re-inserts a finger through it.
+    - A hemothorax has formed, so nothing more can be done in the field.
+    - The casualty needs a needle decompression on the other side of the chest.
+  correct: 1
+  explanation: >-
+    TCCC warns that a finger thoracostomy may not remain patent and finger decompression through the
+    incision may have to be repeated. Watch for fading improvement and a dry dressing.
+- id: q4
+  question: >-
+    You are assisting with a finger thoracostomy and only have household tools. Which instrument
+    should you hand the operator for the blunt dissection into the chest?
+  options:
+    - A pointed kitchen knife, because it opens the pleura in one push.
+    - A ballpoint pen barrel, which can be pushed through without cutting.
+    - Sharp pointed scissors, opened before insertion to save time.
+    - Blunt-tipped scissors inserted closed over the top of the rib, then opened.
+  correct: 3
+  explanation: >-
+    The entry is blunt dissection over the top of the lower rib, spread open, then a finger. Pointed
+    or sharp tools stab the lung or cut vessels; a pen does not create a usable opening.
