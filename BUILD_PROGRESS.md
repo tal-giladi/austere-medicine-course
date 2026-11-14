@@ -21,13 +21,13 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Module 09 — Wound closure and minor surgery
 - [x] Module 10 — Dislocations and orthopaedics without X-ray
 - [ ] Module 11 — Fluids, diarrhoea and outbreaks
-- [ ] Module 12 — Medicine without a doctor
+- [x] Module 12 (waiting for 11 before sidebar) — Medicine without a doctor
 - [ ] Module 13 — People, the dead, and running a casualty point for days
 - [ ] Module 14 — Capstone: 72-hour scenarios
 - [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
 
 ## Now working
-- Modules 11 and 12 (one agent each).
+- Modules 11 and 13 (one agent each).
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

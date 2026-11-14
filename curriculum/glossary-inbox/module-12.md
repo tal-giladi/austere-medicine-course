@@ -1,0 +1,36 @@
+# Glossary inbox — Module 12
+
+- Traffic-light system — NICE/RCH method of sorting a feverish child into low (green), intermediate (amber) and high (red) risk by colour, behaviour, breathing, circulation and other signs.
+- Non-blanching rash — red or purple spots that stay visible when pressed with a glass; with fever, meningococcal disease until proven otherwise.
+- Glass (tumbler) test — pressing a clear glass against a rash to see whether the spots fade.
+- PSBI — possible serious bacterial infection in a young infant (0-59 days); WHO gives simplified antibiotic regimens when referral is not possible.
+- Centor score — four-point bedside score (fever, no cough, tender neck glands, tonsil swelling or pus) used to decide whether a sore throat needs treatment for group A strep.
+- Pyelonephritis — kidney infection: urinary symptoms plus fever and loin pain; not treated by nitrofurantoin or fosfomycin.
+- Erysipelas — superficial skin infection with a sharp raised edge; a form of cellulitis.
+- Acute otitis media — middle-ear infection with a red, bulging eardrum or pus, ear pain and often fever.
+- Otitis externa — infection of the ear canal ("swimmer's ear"); pain when the ear lobe is pulled.
+- Dysentery — diarrhoea with visible blood, usually bacterial (Shigella); one of the few diarrhoeas that need antibiotics.
+- DKA (diabetic ketoacidosis) — life-threatening acid build-up from lack of insulin; high glucose, ketones, vomiting, deep breathing.
+- Kussmaul breathing — deep, sighing, fast breathing of metabolic acidosis such as DKA.
+- Basal insulin — long- or intermediate-acting insulin that covers the body's background needs; never stopped in type 1 diabetes.
+- Sick-day rules — instructions for adjusting medication (insulin, steroids, metformin, diuretics, ACE inhibitors) during illness, vomiting or dehydration.
+- Adrenal crisis — life-threatening shock from lack of cortisol in people with adrenal insufficiency or long-term steroid use; treated with hydrocortisone 100 mg IM/IV.
+- Status epilepticus — a convulsive seizure lasting 5 minutes or more, or repeated seizures without recovery between them.
+- Buccal midazolam — seizure rescue drug given between the gum and cheek.
+- Delirium tremens — severe alcohol withdrawal 2-5 days after the last drink, with confusion, hallucinations, fever and fast heart rate.
+- Wernicke's encephalopathy — brain damage from thiamine deficiency in heavy drinkers; confusion, unsteadiness and eye-movement problems.
+- SLEP — US Shelf Life Extension Program; tested stored military drug stocks and found most lots stable well beyond their expiry date.
+- Zeer pot — pot-in-pot evaporative cooler of two unglazed clay pots with wet sand between them.
+- NPH insulin — intermediate-acting human insulin (cloudy), usually given twice daily.
+- Avulsion (dental) — a tooth knocked completely out of its socket.
+- Primary tooth — baby tooth; never replanted after avulsion.
+- Pulpitis — inflammation of the tooth's nerve; reversible (brief pain with cold) or irreversible (lingering, throbbing pain).
+- Ludwig's angina — spreading infection of the floor of the mouth and neck, usually from a tooth, that can block the airway.
+- Eugenol — the active ingredient of clove oil; a topical dental analgesic, toxic if swallowed in quantity by children.
+- Corneal abrasion — a scratch on the clear front of the eye; pain, watering, light sensitivity; heals in 1-3 days.
+- Fluorescein — orange dye that makes corneal scratches glow green under blue light.
+- Lid eversion — folding the upper eyelid back over a cotton bud to find hidden foreign bodies.
+- Mother's kiss — positive-pressure method of removing a nasal foreign body from a young child by a parent's puff into the mouth with the clear nostril blocked.
+- Epistaxis — nosebleed; anterior (front of the septum, most) or posterior (back of the nose, harder to control).
+- Anterior nasal pack — a balloon, sponge, gauze or improvised tampon placed along the floor of the nose to press on a bleeding point.
+- Posterior nasal pack — a balloon (often a Foley catheter) lodged in the back of the nose for a posterior bleed; a physician procedure needing monitoring.

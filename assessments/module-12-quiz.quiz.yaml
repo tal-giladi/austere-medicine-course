@@ -1,0 +1,136 @@
+- id: q1
+  question: >-
+    Day 4 of a siege. A 5-week-old, 4 kg, has 38.1 °C and is feeding slightly less. The parents say
+    she seems fine otherwise. No hospital can be reached today. What is the best action?
+  options:
+    - Paracetamol 60 mg and a recheck in the morning, since she looks well.
+    - Oral fluids only, and antibiotics if the fever lasts 5 days.
+    - Treat as high risk; first antibiotic dose now and a physician by phone.
+    - Lukewarm sponging and observation every four hours overnight.
+  correct: 2
+  explanation: >-
+    Any fever of 38 °C or more under 3 months is a red feature. Young babies hide sepsis and
+    meningitis; WHO gives simplified antibiotic regimens when referral is not possible.
+- id: q2
+  question: >-
+    A 19-year-old in a shelter has had fever and a headache for 6 hours. Now he is drowsy, his
+    hands are cold and there are purple spots on his legs that stay visible under a glass. You have
+    ceftriaxone and amoxicillin. What do you give?
+  options:
+    - Oral amoxicillin 1 g three times daily, starting right now.
+    - Ceftriaxone 2 g IV or IM now, then evacuation and contact prophylaxis.
+    - Ceftriaxone 1 g once daily, the usual adult severe pneumonia dose.
+    - Nothing until a physician has confirmed the diagnosis by phone.
+  correct: 1
+  explanation: >-
+    Fever with a non-blanching rash and drowsiness is meningococcal disease. A parenteral
+    antibiotic must be given at once; MSF's adult meningitis dose is 2 g every 12 hours (or 4 g
+    daily). Close contacts need prophylaxis.
+- id: q3
+  question: >-
+    You have one course each of amoxicillin, cefalexin, nitrofurantoin and ciprofloxacin. Which
+    pairing of patient and drug is right?
+  options:
+    - Cellulitis of the shin from a cracked heel, cefalexin 1 g twice daily.
+    - Fever with loin pain, nitrofurantoin 100 mg three times daily.
+    - Sore throat with cough and runny nose, amoxicillin 1 g twice daily.
+    - Watery diarrhoea without blood, ciprofloxacin 500 mg twice daily.
+  correct: 0
+  explanation: >-
+    Cefalexin is an MSF first-line choice for cellulitis. Nitrofurantoin does not treat kidney
+    infection, a sore throat with cough is viral (Centor 0-1), and watery diarrhoea needs ORS.
+- id: q4
+  question: >-
+    A 22-year-old with type 1 diabetes ran out of long-acting insulin 18 hours ago. He has rapid
+    insulin, is vomiting, breathing deeply and has high urine ketones. A physician is on the phone.
+    What is the most important thing to report and prepare?
+  options:
+    - That he is vomiting, so all insulin should be held until he eats again.
+    - That glucose is high, so a large single dose of rapid insulin will settle it.
+    - That this is gastroenteritis, so ORS is all he needs.
+    - Probable DKA; fluids and physician-dosed rapid insulin every 1-2 hours.
+  correct: 3
+  explanation: >-
+    Type 1 without basal insulin, high ketones and deep breathing is DKA. The 2024 consensus allows
+    subcutaneous rapid insulin every 1-2 hours for mild to moderate DKA, with fluids; potassium risk
+    makes it a physician decision.
+- id: q5
+  question: >-
+    A woman with Addison's disease has 38.6 °C and a cough, but is eating, drinking and keeping her
+    tablets down. What do the sick-day rules say?
+  options:
+    - Double her usual oral steroid dose until she is better.
+    - Stop her steroid until the fever settles, to avoid suppressing immunity.
+    - Inject hydrocortisone 100 mg now and every 6 hours.
+    - Keep her usual dose; sick-day rules apply only when vomiting.
+  correct: 0
+  explanation: >-
+    Fever of 38 °C or more means doubling the oral dose. Injection is for vomiting, inability to keep
+    tablets down, injury or signs of crisis.
+- id: q6
+  question: >-
+    A 45 kg 11-year-old has been convulsing for 5 minutes. You have midazolam 5 mg/ml ampoules, an
+    atomiser and IM needles. Which dose fits the AES guideline?
+  options:
+    - IM midazolam 5 mg, the 13-40 kg dose.
+    - Intranasal midazolam 0.2 mg/kg, which is 15 mg.
+    - IM midazolam 10 mg, the dose for over 40 kg.
+    - Wait until the 15-minute mark before any benzodiazepine.
+  correct: 2
+  explanation: >-
+    AES 2016 gives IM midazolam 10 mg over 40 kg and 5 mg for 13-40 kg. Intranasal is 0.2 mg/kg but
+    capped at 10 mg. Treat at 5 minutes.
+- id: q7
+  question: >-
+    The power has been off for a week in July. You store a neighbour's unopened insulin in the
+    freezer compartment "to keep it cold", where it froze solid, and later thaws. What now?
+  options:
+    - Discard it, since frozen insulin must never be used.
+    - Use it; thawed insulin regains full potency once it is clear.
+    - Use it at double the dose, to make up for any loss.
+    - Use it only for basal doses, which are less sensitive.
+  correct: 0
+  explanation: >-
+    The FDA says never use frozen insulin. Heat-exposed insulin may still be used in an emergency,
+    but freezing destroys it. A clay pot or wrapped cold pack is the safe option.
+- id: q8
+  question: >-
+    A 30-year-old's upper front tooth was knocked out 70 minutes ago and kept dry in a tissue. No
+    dentist is reachable. What does IADT 2020 support?
+  options:
+    - Discard it, because after 60 minutes replantation is forbidden.
+    - Replant it anyway, gently, with a splint and a soft diet.
+    - Scrub the dead tissue off the root, then replant it.
+    - Keep it in water until a dentist can see it next week.
+  correct: 1
+  explanation: >-
+    After 60 minutes dry the root cells are likely dead, but IADT still recommends replanting a
+    permanent tooth: it preserves bone and space even if it later fuses to the bone.
+- id: q9
+  question: >-
+    A man with a dental abscess has swelling under his jaw and down his neck, fever, drooling and
+    cannot open his mouth. Evacuation will take 4 hours. What is the priority?
+  options:
+    - Hot compresses on the face so the abscess drains through the skin.
+    - Oral amoxicillin and salt-water rinses, review in 48-72 hours.
+    - A deep incision in the floor of the mouth to drain the pus.
+    - Upright position, ceftriaxone and metronidazole, constant airway watch.
+  correct: 3
+  explanation: >-
+    This is a spreading deep neck infection (Ludwig's angina) that can obstruct the airway. Keep him
+    upright, give parenteral antibiotics, watch the airway and evacuate. Drainage is surgical.
+- id: q10
+  question: >-
+    An 80-year-old on apixaban has a nosebleed. After 30 minutes of pressure and decongestant spray
+    and a well-placed tampon pack, blood runs down his throat and his pulse rises from 80 to 110.
+    What does this suggest and what do you do?
+  options:
+    - A normal reaction to the pack; reassure and recheck tomorrow.
+    - A posterior bleed with blood loss; treat shock, call a physician, evacuate.
+    - A sign the tampon is too small; add two more tampons in the same nostril.
+    - Anxiety from the pack; give a sedative so his pulse settles.
+  correct: 1
+  explanation: >-
+    Bleeding down the throat despite a good anterior pack suggests a posterior bleed, and the
+    rising pulse shows significant loss. Treat shock and get a physician; posterior balloon packing
+    is a physician procedure.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A 15-year-old with type 1 diabetes in a cut-off village has gastroenteritis and is not eating.
+    Her mother stopped all insulin "because she isn't eating." Twelve hours later her glucose is
+    19 mmol/L, urine ketones are high and she is breathing deeply. What was the key error, and what
+    now?
+  options:
+    - Insulin should have been stopped even earlier; give sugar-free fluids only and wait it out.
+    - Basal insulin never stops in type 1; this is DKA, so physician, fluids and insulin.
+    - The vomiting alone caused the ketones; give an antiemetic and recheck in 6 hours.
+    - Her glucose is not high enough for DKA; just restart her usual mealtime insulin now.
+  correct: 1
+  explanation: >-
+    Without insulin, type 1 diabetes goes into DKA even with no food. Known type 1, high ketones and
+    deep breathing is DKA: fluids, insulin under physician direction (potassium risk), evacuation.
+- id: q2
+  question: >-
+    A man on prednisolone 10 mg daily for two years has vomited all day, is weak, pale and has a
+    systolic BP of 80 that does not rise after 500 ml of fluid. You have a hydrocortisone 100 mg
+    vial. What do you do?
+  options:
+    - Double tomorrow's prednisolone dose, according to the sick-day rules.
+    - Wait for a physician to confirm adrenal crisis before giving any steroid.
+    - Give more fluid first; steroids work too slowly to help in shock.
+    - Hydrocortisone 100 mg IM now, then fluids and evacuation.
+  correct: 3
+  explanation: >-
+    Long-term steroids plus vomiting and shock is adrenal crisis until proven otherwise. The
+    Endocrine Society says give 100 mg hydrocortisone IM or IV immediately; a dose given wrongly
+    does little harm.
+- id: q3
+  question: >-
+    A 6-year-old (22 kg) has been convulsing for 6 minutes. You have buccal midazolam pre-filled
+    syringes in 2.5, 5, 7.5 and 10 mg. Which dose is right and what follows?
+  options:
+    - 7.5 mg buccal; recovery position after; one repeat after 10 minutes at most.
+    - 10 mg buccal, the adult dose, since 6 minutes is already prolonged.
+    - 2.5 mg buccal now and another 2.5 mg every 5 minutes until it stops.
+    - Nothing yet; rescue drugs are only for seizures longer than 15 minutes.
+  correct: 0
+  explanation: >-
+    BNFc bands give 7.5 mg for 5-9 years. AES treats a seizure lasting 5 minutes. Outside hospital
+    give no more than two benzodiazepine doses; watch breathing afterwards.
+- id: q4
+  question: >-
+    An elderly man on gliclazide has not eaten for two days. You correct a low sugar with juice and
+    he wakes fully. What is the main danger now?
+  options:
+    - Rebound high sugar from the juice, so he should not eat for a few hours.
+    - None; a single low corrected with sugar does not recur.
+    - The low will keep returning for 24-72 hours; feed regularly and check often.
+    - Hypoglycaemia makes him dependent on sugar, so stop giving it.
+  correct: 2
+  explanation: >-
+    Sulfonylurea lows last 24-72 hours. Feed every 2-3 hours, check glucose every 1-2 hours
+    including at night, and withhold the next gliclazide dose.
+- id: q5
+  question: >-
+    A 9-year-old with asthma is wheezing, speaking in short phrases. Her inhaler has 20 puffs left
+    but the spacer is lost. You have a 500 ml plastic bottle and tape. What is best?
+  options:
+    - A sealed bottle spacer, 4-10 puffs every 20 minutes, plus prednisolone.
+    - Inhaler puffs straight into the mouth, since a bottle traps the drug.
+    - A steam bath to open the airways first, then the inhaler with no spacer.
+    - A polystyrene cup spacer, because it is smaller and easier for a child.
+  correct: 0
+  explanation: >-
+    A sealed 500 ml bottle spacer worked as well as a commercial spacer in children (Zar 1999); a cup
+    was much worse. GINA gives 4-10 puffs every 20 minutes for an hour plus an oral steroid.

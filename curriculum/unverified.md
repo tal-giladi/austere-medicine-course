@@ -33,3 +33,6 @@ To review before a public release.
 
 ## Module 9
 - No human studies of household suture threads or superglue on skin; needle bending method (reasoning); pressure-cooker time extrapolated; child lidocaine ceiling (course rule); bupivacaine max from secondary sources; TMP-SMX child dose from a poor scan; closure time limits synthesised (WMS/MSF/AAFP); WMS wound guideline 2014 latest found; small-abscess packing evidence thin.
+
+## Module 12
+- NICE pages blocked (NG143, NG240 from memory; RCH checked); IADT antibiotics marked verify; doses from memory: SC DKA insulin, ISPAD sick-day, buccal midazolam bands, rectal diazepam, GINA, nasal glucagon age; alcohol withdrawal regimen (Queensland); doxycycline/clarithromycin/dental antibiotics; posterior Foley volumes; Israeli emergency refill rules; course rules labelled (dexamethasone stand-in, nasal TXA, vinegar ear drops). Module 11 mentioned as plain text — link after module 11 lands.

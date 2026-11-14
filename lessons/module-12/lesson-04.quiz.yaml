@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    During a long power cut in August, a neighbour's in-use insulin pen has been in a kitchen drawer
+    at about 32 °C for two weeks. It is clear, not frozen, and it is the only insulin she has. What
+    is the sensible advice?
+  options:
+    - Discard it at once; insulin above 30 °C is always inactive.
+    - Use it, expect a weaker effect, and check her glucose more often.
+    - Use double her usual dose to make up for heat damage.
+    - Put it in the freezer for an hour to restore its potency.
+  correct: 1
+  explanation: >-
+    FDA guidance allows insulin exposed above 30 °C to be used in an emergency, accepting some loss
+    of effect; an MSF study found insulin at 25-37 °C stable for 4 weeks. Never freeze it, and never
+    guess a higher dose.
+- id: q2
+  question: >-
+    Your reserve contains ciprofloxacin tablets in sealed blisters that expired 3 years ago, stored
+    in a cool cupboard, and an opened amoxicillin suspension that expired last month. Which is more
+    likely still usable in an emergency?
+  options:
+    - The suspension, because liquids are absorbed better than tablets.
+    - Neither; any expired medicine is dangerous and must be thrown away.
+    - Both equally, because expiry dates are only a legal formality.
+    - The sealed tablets; SLEP found most stored solid lots stable for years.
+  correct: 3
+  explanation: >-
+    In SLEP, 88% of lots of stored products were extended at least a year (mean 66 months). Opened
+    liquids, and reconstituted suspensions in particular, spoil within days to weeks.
+- id: q3
+  question: >-
+    A man with type 1 diabetes takes glargine 24 units once daily. His glargine is lost; you have
+    NPH insulin. How does FDA emergency guidance convert this?
+  options:
+    - NPH 12 units at breakfast and 12 at dinner, with glucose checks.
+    - NPH 24 units once at bedtime, the same as his glargine timing.
+    - NPH 48 units a day, because NPH is weaker than glargine.
+    - No basal insulin until glargine is found; NPH is too risky.
+  correct: 0
+  explanation: >-
+    FDA guidance keeps the same total daily dose split into two equal NPH doses with breakfast and
+    dinner. Stopping basal insulin in type 1 diabetes leads to DKA.
+- id: q4
+  question: >-
+    You build a zeer pot for insulin on a hot, dry Negev afternoon. Which set-up keeps it coolest?
+  options:
+    - Glazed pots in direct sun, so the water heats and evaporates faster.
+    - Unglazed pots with dry sand, so the insulin stays dry and clean.
+    - Unglazed pots, wet sand, wet cloth, shade with moving air, insulin sealed.
+    - The insulin bedded directly in wet sand, so it is closest to the cooling.
+  correct: 2
+  explanation: >-
+    Evaporation through unglazed clay in shade and moving air does the cooling; it needs the sand
+    kept wet. Insulin goes in a sealed bag or jar to stay dry and clean.
+- id: q5
+  question: >-
+    A father asks to keep a ready-mixed bottle of amoxicillin suspension for his toddler "just in
+    case", in the medicine cupboard. What do you advise?
+  options:
+    - Mix it now and keep it in the cupboard, since mixed suspension lasts a year.
+    - Keep it as dry powder, sealed, and add water only when it is needed.
+    - Mix it now and freeze it, since freezing preserves antibiotics for years.
+    - Keep adult tablets only, since children can take quarter tablets of any antibiotic.
+  correct: 1
+  explanation: >-
+    Reconstituted suspension usually lasts only 7-14 days (often refrigerated). As dry powder it
+    keeps far longer; children's doses from adult tablets are less accurate.

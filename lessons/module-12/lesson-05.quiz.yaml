@@ -1,0 +1,65 @@
+- id: q1
+  question: >-
+    A 12-year-old knocks out an upper front tooth playing football. It lies on the grass, slightly
+    muddy, and the injury was 5 minutes ago. You have a carton of milk. What do you do?
+  options:
+    - Scrub the root clean with a toothbrush, then store it in water for the dentist.
+    - Wrap it in a dry tissue and keep it safe until a dentist can see it.
+    - Hold the crown, rinse it 10 seconds in milk, replant it now, bite on gauze.
+    - Leave it out, since replanting by a non-dentist always leads to infection.
+  correct: 2
+  explanation: >-
+    IADT 2020: replant a permanent tooth immediately, holding the crown, after a brief rinse if
+    dirty. Root cells die quickly when dry; never scrub the root.
+- id: q2
+  question: >-
+    A 4-year-old falls and knocks out a front tooth. The parents found the tooth and want you to
+    put it back. What is right?
+  options:
+    - Do not replant it; a baby tooth can damage the permanent tooth underneath.
+    - Replant it at once, since any tooth replanted within 15 minutes survives.
+    - Store it in milk and replant it after the bleeding stops.
+    - Replant it and splint it with foil for four weeks.
+  correct: 0
+  explanation: >-
+    At 4 the front teeth are primary. IADT 2020 says never replant primary teeth, because the root
+    can injure the developing permanent tooth. Control bleeding and give a soft diet.
+- id: q3
+  question: >-
+    An adult has severe throbbing toothache that wakes him at night, no swelling and no fever. No
+    dentist is reachable for 10 days. Which plan fits current guidance?
+  options:
+    - Amoxicillin for 5 days, because throbbing pain means infection.
+    - Ibuprofen 400 mg with acetaminophen 1 g every 6 h; cover any cavity.
+    - Codeine every 4 hours, since dental pain does not respond to NSAIDs.
+    - Hold undiluted clove oil against the tooth and gum every hour.
+  correct: 1
+  explanation: >-
+    ADA 2024 makes an NSAID plus acetaminophen first line for dental pain; ADA 2019 advises against
+    antibiotics for pulpitis without swelling or fever. Undiluted clove oil burns the gum.
+- id: q4
+  question: >-
+    A woman has a dental abscess with swelling under the jaw that now reaches her neck. She is
+    drooling, cannot open her mouth fully and has a fever. What do you do?
+  options:
+    - Lay her flat and apply a hot compress to bring the abscess to a head.
+    - Drain it yourself through the floor of the mouth with a deep incision.
+    - Start oral amoxicillin and review her in 48-72 hours.
+    - Sit her up, give ceftriaxone and metronidazole, and evacuate urgently.
+  correct: 3
+  explanation: >-
+    These are signs of a spreading deep neck infection (Ludwig's angina) that can close the airway.
+    Keep her upright, give IV or IM antibiotics, and get her to a surgeon.
+- id: q5
+  question: >-
+    A man's crown has come off in one piece. He has superglue, denture adhesive and a pharmacy
+    temporary filling kit. Which is the best temporary fix?
+  options:
+    - Superglue, because it holds strongly until he reaches a dentist.
+    - Leave the tooth bare and keep the crown in his pocket for the dentist.
+    - Clean both, check the fit, refix with denture adhesive or temp cement.
+    - Fill the crown with temporary filling material and leave it off the tooth.
+  correct: 2
+  explanation: >-
+    Clean, try the crown in for fit, then use temporary cement or denture adhesive. Superglue can
+    damage the nerve and fix the crown in the wrong position.

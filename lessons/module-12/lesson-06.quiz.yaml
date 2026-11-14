@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    A man felt something fly into his eye while sweeping. Vision is normal. After irrigation he
+    still feels grit; you see nothing on the cornea. What is the next step?
+  options:
+    - Pad the eye shut for 24 hours so the scratch can heal.
+    - Give anaesthetic drops to use at home whenever it hurts.
+    - Rub the cornea firmly with a dry cotton bud to find the grit.
+    - Evert the upper lid and wipe any particle off with a moist bud.
+  correct: 3
+  explanation: >-
+    Grit commonly hides under the upper lid. Patching does not help abrasions (Cochrane), home
+    anaesthetic drops cause ulcers, and dry buds scrape the cornea.
+- id: q2
+  question: >-
+    A 3-year-old pushed something into her ear. With a torch you see a small silver disc in the
+    outer canal. What is right?
+  options:
+    - Irrigate with body-warm water from a syringe to float it out.
+    - Treat it as a button battery; remove it within hours, no water.
+    - Fill the ear with olive oil and wait until the morning to look again.
+    - Leave it alone until it works its way out naturally with ear wax.
+  correct: 1
+  explanation: >-
+    A button battery burns the canal and drum within hours. Remove it with forceps if graspable, or
+    evacuate; never irrigate, because water conducts the current.
+- id: q3
+  question: >-
+    A 2-year-old has a bead in the right nostril. He is calm on his mother's lap. What is the best
+    first attempt?
+  options:
+    - The mother's kiss, left nostril blocked, one short puff.
+    - Pushing the bead back with a cotton bud so he can swallow it.
+    - Grasping the bead with household tweezers while he is held down.
+    - Asking him to sniff in hard to loosen it before he blows his nose.
+  correct: 0
+  explanation: >-
+    Positive pressure from the parent, with the clear nostril blocked, works in about 60% of cases.
+    Pushing or sniffing can move the bead into the airway; tweezers slip on round objects.
+- id: q4
+  question: >-
+    A 72-year-old on warfarin has a right nosebleed that continues after 15 minutes of correct
+    pressure and a decongestant spray. You have slim tampons and petroleum jelly. How do you pack?
+  options:
+    - Insert the tampon upward toward the eye, where most bleeding starts.
+    - Lubricated, straight back along the floor of the nose, string taped.
+    - Pack both nostrils tightly with dry tampons and leave them for 5 days.
+    - Tilt his head back first so the blood clots before you insert it.
+  correct: 1
+  explanation: >-
+    Packs go straight back along the floor of the nose. Remove within 24-48 hours (toxic shock
+    risk). Sit him forward; tilting back makes him swallow blood.
+- id: q5
+  question: >-
+    Despite a good anterior pack, blood keeps running down the back of an elderly man's throat and
+    his pulse is rising. A physician on the phone talks a paramedic through a Foley catheter. What
+    is the critical safety point?
+  options:
+    - Inflate the balloon with air so that it stays light and comfortable.
+    - Inflate it fully in the nostril before advancing it to the throat.
+    - Water in the balloon, gentle forward pull, padding, scissors ready.
+    - Leave him alone once it is placed, so that the vagal reflex settles.
+  correct: 2
+  explanation: >-
+    The balloon is inflated with water once seen in the throat, pulled forward to lodge, and fixed
+    over padding. He needs continuous monitoring; cut the catheter if it slips into the airway.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A 7-week-old baby in a cut-off village has a temperature of 38.2 °C. She is feeding a little
+    less but looks pink and alert, and her breathing rate is 48. What is the right category and
+    first step?
+  options:
+    - Green, because she looks well; give paracetamol and recheck in the morning.
+    - Amber, because she is feeding less; give fluids and recheck every 2 hours.
+    - Red, since fever under 3 months is high risk; antibiotic and physician now.
+    - Amber, because her breathing rate is below the 60 threshold for her age group.
+  correct: 2
+  explanation: >-
+    Under 3 months, 38 °C or more is a red feature on its own. Young babies hide meningitis and
+    sepsis, so you treat and seek a physician and evacuation without waiting for other signs.
+- id: q2
+  question: >-
+    A 16-year-old with fever and headache has a few red spots on his shins. You press a glass on
+    them and they fade. Two hours later he is vomiting and says his legs ache, and his hands are
+    cold. What do you do?
+  options:
+    - Reassure the family, since a blanching rash rules out meningococcal disease.
+    - Wait for the rash to become purple before giving the antibiotic you have.
+    - Recheck the glass test hourly and give ibuprofen for the leg pain.
+    - Treat as meningococcal sepsis now; ceftriaxone, fluids if shocked, evacuation.
+  correct: 3
+  explanation: >-
+    Early meningococcal rashes often blanch, and leg pain, cold hands and vomiting are early sepsis
+    signs. A rash that fades does not rule it out; the first antibiotic dose is the priority.
+- id: q3
+  question: >-
+    A 3-year-old with 39.5 °C is floppy and grey. After paracetamol his temperature falls to 37.8 °C
+    but he is still hard to wake and his capillary refill is 4 seconds. How do you read this?
+  options:
+    - Still red; the response to paracetamol does not tell you he is safe.
+    - Improving; the falling temperature shows the infection is viral.
+    - Amber; give a second antipyretic and recheck in four hours.
+    - Green; the fever was the danger, and it has been controlled.
+  correct: 0
+  explanation: >-
+    Drowsiness and slow capillary refill are red features whatever the thermometer says, and the
+    response to antipyretics does not separate bacterial from viral illness.
+- id: q4
+  question: >-
+    You suspect bacterial meningitis in a 70 kg adult and you have ceftriaxone, oral
+    amoxicillin-clavulanate and a phone line to a physician that may take an hour. What is the best
+    plan?
+  options:
+    - Oral amoxicillin-clavulanate now, saving the ceftriaxone for the physician's decision.
+    - Ceftriaxone 2 g IV or IM now, then call the physician and arrange evacuation.
+    - Wait for the physician so that the drug choice is correct from the first dose.
+    - Ceftriaxone 50 mg/kg once daily, the usual adult sepsis dose, then reassess tomorrow.
+  correct: 1
+  explanation: >-
+    For suspected meningitis the first parenteral dose should not wait. MSF's adult meningitis dose
+    is 2 g every 12 hours (or 4 g daily); oral antibiotics do not reach the brain well enough.
+- id: q5
+  question: >-
+    A hot, miserable 2-year-old is shivering under a duvet. The parents want to sponge him with
+    iced water and rub him with arak. What do you advise?
+  options:
+    - Iced water only, because alcohol rubs are the only part that is dangerous.
+    - Both, because getting the temperature down quickly prevents febrile seizures.
+    - A single layer, lukewarm sponging if distressed, fluids; no ice and no alcohol.
+    - Keep him wrapped up so the fever breaks with sweating.
+  correct: 2
+  explanation: >-
+    Cold water causes shivering and alcohol is absorbed through children's skin. Comfort and fluids
+    are the goals; antipyretics and cooling do not prevent febrile seizures.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A 30-year-old woman has had burning urine for a day. Today she has a temperature of 38.6 °C,
+    pain in her right loin and has vomited twice. You have nitrofurantoin, ciprofloxacin and
+    ceftriaxone. What do you give?
+  options:
+    - Nitrofurantoin 100 mg three times daily for 5 days, the first-line cystitis drug.
+    - Ceftriaxone 1 g IM once, then ciprofloxacin 500 mg twice daily for 7 days.
+    - Fosfomycin 3 g as a single dose, because it is simplest when vomiting.
+    - No antibiotic yet; push fluids and recheck the dipstick tomorrow.
+  correct: 1
+  explanation: >-
+    Fever and loin pain mean kidney infection. Nitrofurantoin and fosfomycin only treat the bladder.
+    MSF gives ceftriaxone 1 g IM once, then ciprofloxacin 500 mg twice daily for 7 days, with
+    sepsis watch.
+- id: q2
+  question: >-
+    A 25-year-old has a sore throat, cough, runny nose and 37.9 °C. His tonsils are slightly red
+    with no pus and his neck glands are not tender. He asks for the amoxicillin you have. What is
+    the right decision?
+  options:
+    - Amoxicillin 1 g twice daily for 6 days, to prevent rheumatic fever.
+    - Azithromycin 500 mg daily for 3 days, which is gentler than amoxicillin.
+    - No antibiotic; his Centor score is 0 and the illness is almost certainly viral.
+    - A single injection of benzathine penicillin, so the course cannot be missed.
+  correct: 2
+  explanation: >-
+    He has a cough and no fever over 38, pus or tender glands, so Centor is 0. MSF treats only
+    scores of 2 or more (or past rheumatic fever). Save the stock.
+- id: q3
+  question: >-
+    A 60 kg man with anaphylaxis to penicillin has spreading cellulitis on his forearm from a cat
+    scratch. No fever. Which oral treatment fits?
+  options:
+    - Cefalexin 1 g twice daily, because cephalosporins are safe in penicillin allergy.
+    - Amoxicillin-clavulanate 875/125 mg twice daily, the usual skin choice.
+    - Ciprofloxacin 500 mg twice daily, which covers most skin bacteria.
+    - Clindamycin 600 mg three times daily for 7-10 days, with the edge marked.
+  correct: 3
+  explanation: >-
+    After penicillin anaphylaxis avoid cefalexin (similar side chain) and all penicillins. MSF's
+    allergy option for cellulitis is clindamycin; ciprofloxacin is poor for staph and strep.
+- id: q4
+  question: >-
+    A 3-year-old has had ear pain for a day, 38.4 °C, is drinking and playing between doses of
+    paracetamol. You can re-examine him daily. What does MSF suggest?
+  options:
+    - Pain relief now and re-examine in 48-72 hours; antibiotic only if not better.
+    - Amoxicillin 30 mg/kg three times daily for 5 days from today.
+    - Amoxicillin-clavulanate twice daily, since plain amoxicillin often fails.
+    - Ear drops and syringing to clear the canal before deciding.
+  correct: 0
+  explanation: >-
+    Over 2 years, without severe signs or risk factors, and when re-examination is possible, MSF
+    delays antibiotics; most ear infections settle. Under 2, severe, or no follow-up: treat at once.
+- id: q5
+  question: >-
+    A 9-month-old, 8 kg, has a cough and fever. Counted for a full minute while she sleeps, her
+    breathing rate is 54, with no indrawing, and she is feeding. What is the plan?
+  options:
+    - Steam over a bowl of hot water and honey for the cough, with no antibiotic.
+    - Treat as pneumonia with amoxicillin 240 mg three times daily for 5 days.
+    - Treat as severe pneumonia with ceftriaxone and evacuation, because of her age.
+    - Treat as viral bronchitis with fluids and paracetamol; her breathing is normal.
+  correct: 1
+  explanation: >-
+    54 is fast for 2-11 months (50 or more), so this is non-severe pneumonia: amoxicillin 30 mg/kg
+    three times daily for 5 days. Honey is forbidden under 1 year and bowls of hot water scald.
