@@ -229,7 +229,8 @@ and a module quiz.
 
 1. DECIDED 2026-11-14: slug `austere-medicine`, repo `tal-giladi/austere-medicine-course` (public).
 2. DECIDED 2026-11-14: free, hidden (private) in the Academy.
-3. Recommend specific Israeli hands-on courses (e.g. MDA advanced/paramedic tracks, TCCC
-   CLS/CMC courses in Israel) — research and list them?
+3. DECIDED 2026-11-14: no list of outside hands-on courses. Instead, every procedure lesson
+   embeds several different videos (different instructors, angles, models) plus simulations,
+   so each action is seen from multiple perspectives.
 4. Drug doses: give full doses (current plan) or "know the drug, a doctor gives the dose"?
 5. Home practice with animal tissue (pork ribs, pig larynx, pig's feet) — OK?
