@@ -19,6 +19,12 @@ Written 2026-11-14. Status: first draft, awaiting Tal's review. Nothing built ye
   extreme situation with a field kit. No ECG, cardiac drugs, drug-assisted intubation or
   anything that needs a monitor or hospital.
 - Standalone course. No dependency on, or references to, the survival course.
+- Improvise everything (Tal, 2026-11-14): these are extreme, last-resort situations. Every
+  procedure and treatment also teaches how to do it with only household resources, e.g.
+  suturing with a household needle and thread (and how to sterilise them), antisepsis without
+  medical alcohol (boiled water, soap, diluted bleach, high-proof spirits, salt water, honey),
+  improvised tourniquets, decompression needles, airways, IO, splints, binders, oxygen, ORS,
+  dressings, sterile fields, urine collection, litters: what works, what fails, and the risks.
 
 ## 2. Pitch
 
@@ -218,7 +224,7 @@ and a module quiz.
 
 ## 7. Lesson template (fixed `##` sections)
 
-`## Why it matters` · `## What to do` (steps) · `## When it goes wrong` · `## Scope and law`
+`## Why it matters` · `## What to do` (steps) · `## Improvise it` (household-only version, every lesson) · `## When it goes wrong` · `## Scope and law`
 · `## Practice` (drill, what you need, time, how you know it worked) · `## Sources`.
 
 ## 8. Simulations (optional, later)
@@ -235,5 +241,5 @@ and a module quiz.
    embeds several different videos (different instructors, angles, models) plus simulations,
    so each action is seen from multiple perspectives.
 4. DECIDED 2026-11-14: full doses.
-5. Home practice with animal tissue: no pork in Israel. Proposed: lamb/beef ribs (NDC),
-   lamb/calf larynx (cric), chicken with skin or beef tongue (suturing), turkey leg (IO) — OK?
+5. DECIDED 2026-11-14: no pork. Lamb/beef ribs (NDC), lamb/calf larynx (cric), chicken with
+   skin or beef tongue (suturing), turkey leg (IO).
