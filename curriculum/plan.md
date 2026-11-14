@@ -224,6 +224,12 @@ and a module quiz.
 
 ## 7. Lesson template (fixed `##` sections)
 
+Every lesson opens (right after the intro paragraph) with the same short warning (Tal, 2026-11-14):
+
+> [!CAUTION]
+> Performing these procedures on people without the required state certification is illegal.
+> This lesson is for educational purposes only. Practise only on models and animal tissue.
+
 `## Why it matters` · `## What to do` (steps) · `## Improvise it` (household-only version, every lesson) · `## When it goes wrong` · `## Scope and law`
 · `## Practice` (drill, what you need, time, how you know it worked) · `## Sources`.
 
