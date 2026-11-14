@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You must irrigate a 6 cm fragment wound full of dirt on day 1. You have tap water you would
+    drink, a 35 ml syringe, an IV cannula and a garden hose with a jet nozzle. Which plan fits the
+    JTS wound CPG?
+  options:
+    - Tap water by syringe and cannula for the pockets and a pierced bottle for bulk, 4-8 L in total.
+    - The garden hose on jet for 2 minutes, because higher pressure removes more bacteria.
+    - Half a litre of boiled water with povidone-iodine added, since additives make up for volume.
+    - Wait until sterile saline arrives, because tap water increases infection in open wounds.
+  correct: 0
+  explanation: >-
+    Potable tap water works as well as saline. About 8 psi from a 35 ml syringe with a 19G cannula is
+    ideal; above 15 psi damages tissue. A dirty medium wound needs 4-8 L, and additives do not help.
+- id: q2
+  question: >-
+    Your household bleach label says 4% sodium hypochlorite. How much do you add to 1 L of boiled,
+    cooled water to make the 0.025% Dakin's solution used in the JTS CPG?
+  options:
+    - 25 ml, about five teaspoons.
+    - 0.6 ml, a few drops from the cap.
+    - 6 ml, about a teaspoon and a quarter.
+    - 60 ml, about a small cupful.
+  correct: 2
+  explanation: >-
+    Millilitres of bleach per litre = 25 divided by the bleach percentage, so 25 / 4 = about 6 ml. The
+    JTS recipe is 5 ml of 5.25% bleach per litre, plus half a teaspoon of baking soda.
+- id: q3
+  question: >-
+    On day 5 you remove the bulky dressing from a calf wound. It is dry, stained greenish-black,
+    stuck to the wound and smells of ammonia. The base bleeds slightly and there is no pus or
+    spreading redness. What does this mean?
+  options:
+    - The wound is infected and needs daily Dakin's irrigation and new antibiotics.
+    - The dressing was left too long and the wound must now heal by secondary intention only.
+    - The muscle underneath has died and needs surgical debridement before anything else.
+    - A clean wound by the ICRC method, which a physician may now close (delayed primary closure).
+  correct: 3
+  explanation: >-
+    An adherent stained dressing with a "good-bad" ammonia smell over a slightly bleeding base is the
+    ICRC sign of a clean wound ready for delayed primary closure at 4-7 days. Pus under a dressing
+    that slides off would mean infection.
+- id: q4
+  question: >-
+    A deep thigh wound is producing large amounts of exudate on day 4. You have no antiseptics left,
+    but plenty of granulated sugar and honey. What do the ICRC and JTS describe?
+  options:
+    - Sprinkle a little sugar on the skin around the wound and leave the dressing for a week.
+    - Rinse the wound, fill it with sugar or honey under a dry dressing, and repeat every 24 hours.
+    - Mix honey with bleach to combine the effects, and apply once only.
+    - Avoid both, since honey and sugar feed bacteria and always worsen infection.
+  correct: 1
+  explanation: >-
+    Daily sugar or honey dressings after rinsing are part of the ICRC algorithm for wounds with heavy
+    exudate. Sugar liquefies on a wet wound, so it may need changing more often than daily.
+- id: q5
+  question: >-
+    A helper suggests closing a dirty forearm laceration from a collapse on day 1, "so dirt can't get
+    in". It is 14 hours old and had glass in it. What is right?
+  options:
+    - Close it now with sutures, since closure is the best way to keep a wound clean.
+    - Close it with skin tapes only, which are safe because they let pus out.
+    - Leave it open, dress it daily, and consider delayed closure at 3-7 days if clean.
+    - Close it if you give antibiotics, since they prevent infection of closed wounds.
+  correct: 2
+  explanation: >-
+    It is contaminated and older than 12 hours, so it stays open. Closure traps bacteria; when in
+    doubt leave it open, and close it later only if it is clean.

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Forty minutes after a man was freed from under a wall after 5 hours, his radial pulse falls from
+    118 to 64 and you feel frequent skipped beats. You have IV access and a physician is not yet
+    reachable. What comes first?
+  options:
+    - Sodium bicarbonate 50 ml IV push to shift potassium into the cells.
+    - Calcium gluconate 10%, 10 ml IV slowly over 2-3 minutes, then try the physician again.
+    - Insulin 10 units IV straight away, since it lowers potassium faster than anything else.
+    - Stop the IV fluids, because more volume is what drove his potassium up.
+  correct: 1
+  explanation: >-
+    Calcium protects the heart within minutes and is first in every sequence. Bicarbonate was removed
+    from the 2022 JTS CPG, insulin takes 10-20 minutes and needs dextrose, and fluids remain essential.
+- id: q2
+  question: >-
+    You have regular insulin, D50 and IV access for a crush casualty with signs of high potassium,
+    but no glucometer and no strips. What does the course teach?
+  options:
+    - Give insulin anyway, because the dextrose that goes with it prevents hypoglycaemia.
+    - Give twice the dextrose and half the insulin, which keeps the effect and halves the risk.
+    - Give the insulin under the skin instead of IV, so it acts more gently.
+    - Give calcium and nebulised salbutamol, and insulin only if a physician decides the risk is worth it.
+  correct: 3
+  explanation: >-
+    Insulin lasts hours and hypoglycaemia can follow after the dextrose is used up, especially when
+    kidneys fail. Without glucose checks it is a physician's decision; calcium and salbutamol carry
+    less risk.
+- id: q3
+  question: >-
+    In a cut-off village, a neighbour on haemodialysis has missed two sessions. His family is
+    feeding him to keep his strength up. Which of their plans is most dangerous?
+  options:
+    - Seasoning his food with "low-sodium" salt to protect his blood pressure.
+    - Giving him white rice and eggs for most meals until dialysis is available again.
+    - Limiting his drinks to the amount his dialysis unit told him to take.
+    - Asking a physician by phone which of his tablets to continue.
+  correct: 0
+  explanation: >-
+    Low-sodium salt substitutes are potassium chloride. With no kidney function, potassium from food
+    and salt substitutes accumulates; rice and eggs are lower-potassium choices.
+- id: q4
+  question: >-
+    A 20 kg child with a crushed leg shows a slowing, irregular pulse. A physician on the phone asks
+    you for salbutamol and calcium doses. What do you say?
+  options:
+    - Salbutamol 10 mg nebulised and calcium gluconate 10% 10 ml, as for an adult.
+    - Salbutamol 5 mg nebulised and calcium gluconate 10% 20 ml.
+    - Salbutamol 2.5 mg nebulised and calcium gluconate 10% 12 ml, capped at 10 ml per push.
+    - Salbutamol 2.5 mg nebulised and calcium chloride 10% 12 ml through a hand vein.
+  correct: 2
+  explanation: >-
+    RCH gives salbutamol 2.5 mg up to 25 kg. Calcium gluconate 0.6 ml/kg is 12 ml, kept at or under the
+    10 ml adult push. Calcium chloride is 0.2 ml/kg and damages small veins.
+- id: q5
+  question: >-
+    You gave calcium, D50 with insulin and salbutamol at 10:00 to a crush casualty whose urine has
+    nearly stopped. At 11:30 his pulse is slow and irregular again. What explains it and what next?
+  options:
+    - The drugs only shifted or buffered potassium; repeat calcium and push evacuation to dialysis.
+    - The first calcium dose was too small; give calcium chloride now, which always lasts longer.
+    - The insulin has caused low potassium; give oral potassium-rich ORS to correct it.
+    - The salbutamol is causing the irregular pulse; nothing is needed except observation.
+  correct: 0
+  explanation: >-
+    Calcium lasts 30-60 minutes and shifting drugs are temporary; potassium keeps rising while the
+    kidneys fail. Repeat treatment and make dialysis evacuation the priority.

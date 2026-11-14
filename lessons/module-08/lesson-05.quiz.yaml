@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    On day 2 a casualty's arm wound is red for 3 cm around the edges and more painful than
+    yesterday. He is alert, breathing 16, pulse 86, temperature 37.9 °C. What does the JTS sepsis CPG
+    tell you to do with the redness?
+  options:
+    - Outline it with a pen, write the date and time, and compare at each check.
+    - Photograph it once for the record, since redness on day 2 is normal healing.
+    - Cover it with a tight dressing so the swelling cannot spread further.
+    - Ignore the redness and judge only by temperature, the more reliable sign.
+  correct: 0
+  explanation: >-
+    Marking the border with date and time shows spread objectively. Worse after 24 hours or not better
+    after 48 hours means the treatment is failing and a physician should review it.
+- id: q2
+  question: >-
+    A woman with an infected leg wound is breathing 24 a minute and is newly confused. You have no
+    blood pressure cuff. Her radial pulse is present but weak. How do you classify her?
+  options:
+    - Not yet sepsis, because without a measured low blood pressure qSOFA is only 1.
+    - Local wound infection, because confusion is probably from her pain medicine.
+    - Possible sepsis; recheck in 4 hours before starting antibiotics.
+    - "Sepsis: qSOFA is at least 2 and confusion is a red flag; treat within the hour."
+  correct: 3
+  explanation: >-
+    Breathing 22 or more and altered mental state already give two qSOFA points, and new confusion is
+    a UK Sepsis Trust red flag. Antibiotics should be given immediately, ideally within an hour.
+- id: q3
+  question: >-
+    A shrapnel wound in the thigh, dressed 30 hours ago, is now extremely painful though the skin
+    looks only slightly red. Over two hours the skin turns dusky with dark blisters, and you feel
+    crackling under it. What is happening and what do you do?
+  options:
+    - Simple cellulitis; start oral cephalexin and recheck tomorrow morning.
+    - Necrotising infection; antibiotics and fluids now, physician, immediate evacuation.
+    - An allergic reaction to the dressing; remove it and give an antihistamine.
+    - Normal bruising from the blast; elevate the leg and give pain relief.
+  correct: 1
+  explanation: >-
+    Pain out of proportion, rapid spread, dusky skin, blisters and gas under the skin mean necrotising
+    soft-tissue infection, which only surgical excision cures. Antibiotics and fluids buy time.
+- id: q4
+  question: >-
+    A 70 kg septic casualty has a working IV and no signs of bleeding. How does the JTS sepsis CPG
+    guide your fluids in the first 3 hours?
+  options:
+    - Keep fluids minimal and permissive, as for a bleeding casualty, to protect the lungs.
+    - Give 6 L quickly, since septic shock needs fluid until the urine is pale.
+    - Up to 30 ml/kg (about 2.1 L), first boluses no more than 2-3 L, titrated to urine and refill.
+    - Only oral fluids, because IV fluid in sepsis causes overload in most patients.
+  correct: 2
+  explanation: >-
+    The CPG gives up to 30 ml/kg of crystalloid in 3 hours with the initial bolus not above 2-3 L, then
+    titration to urine of 0.3-0.5 ml/kg/h, capillary refill and blood pressure.
+- id: q5
+  question: >-
+    A 2-year-old in your shelter has a temperature of 38.6 °C, breathing 52 a minute, heart rate 154,
+    and is hard to wake. Which statement fits the UK Sepsis Trust under-5 tool?
+  options:
+    - "Red-flag sepsis: severe breathing and heart rates for age and not waking properly."
+    - Amber only, because fever above 38 °C is a red flag only under 3 months.
+    - Normal for a febrile toddler; give acetaminophen and reassess in 6 hours.
+    - Red flag only if the skin is mottled; otherwise treat as a simple viral illness.
+  correct: 0
+  explanation: >-
+    For ages 1-2, breathing of 50 or more and heart rate of 150 or more are severe, and a child who does
+    not wake or stay awake is a red flag. Each is enough on its own.

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Eight hours after a fragment broke his shin, a casualty's pain has climbed from 4 to 9 despite
+    the same pain relief that worked earlier. His foot pulse is strong. Pointing his toes down
+    makes him cry out. What is your conclusion?
+  options:
+    - Probably not compartment syndrome, because the strong foot pulse shows good blood flow.
+    - Expected fracture pain; increase the analgesia and recheck in 4 hours.
+    - Likely compartment syndrome despite the pulse; act now and get a surgeon involved.
+    - Nerve injury from the fragment, since the pain is in the front of the leg.
+  correct: 2
+  explanation: >-
+    Pain out of proportion and on passive stretch are the earliest and most important signs.
+    Irreversible damage can occur with palpable pulses; pulselessness is late.
+- id: q2
+  question: >-
+    You suspect compartment syndrome in a forearm that you splinted and bandaged firmly two hours
+    ago. What is your first practical step?
+  options:
+    - Raise the arm high on pillows above the heart to drain the swelling.
+    - Split the bandage, padding and splint along their full length down to skin.
+    - Put ice packs on the forearm for 20 minutes to bring the swelling down.
+    - Tighten the splint so the fracture cannot move and cause more swelling.
+  correct: 1
+  explanation: >-
+    Tight dressings and splints are a listed cause. Releasing everything circumferential is the
+    first non-surgical step; the limb stays at heart level and is cooled by air only, never ice.
+- id: q3
+  question: >-
+    Day 1 of a long hold. A man's crushed calf is tense and growing by 1 cm an hour; he is sedated
+    with ketamine and cannot report pain. A helper with a sharp kitchen knife offers to "let the
+    pressure out". What do you do?
+  options:
+    - Let him make one long cut down the calf, since any release is better than none.
+    - Let him make small stab cuts in the calf, which relieve pressure with less bleeding.
+    - Wait until the casualty wakes and reports pain before deciding anything.
+    - Refuse; split dressings, level the limb, start crush fluids, call a surgeon and push evacuation.
+  correct: 3
+  explanation: >-
+    Fasciotomy requires full-length release of every compartment by a qualified person with
+    anaesthesia and wound care; partial cuts fail and injure nerves and arteries. In a sedated
+    casualty a tense, growing compartment is enough to call for help.
+- id: q4
+  question: >-
+    Which casualty in your shelter most needs hourly compartment checks over the next two days?
+  options:
+    - A 9-year-old with a fracture just above the elbow, splinted and given pain relief.
+    - An adult with a sprained ankle who is walking with a stick.
+    - An adult with a small fragment wound in the thigh skin, dressed and not bleeding.
+    - A teenager with a bruised shoulder after a fall, moving the arm freely.
+  correct: 0
+  explanation: >-
+    A supracondylar elbow fracture is the high-risk fracture in children listed by the JTS 2026 CPG,
+    and swelling keeps rising for 24-48 hours.
+- id: q5
+  question: >-
+    A crush casualty's tourniquet was converted after 3 hours. The leg looked fine at hour 2 after
+    release. Why does the JTS 2026 CPG tell you to keep examining for days?
+  options:
+    - Because nerve damage from the tourniquet takes days to appear, not compartment syndrome.
+    - Because the casualty's pain medicine will wear off and reveal the true pain level.
+    - Because after reperfusion, maximal swelling may be delayed to 2-5 days after injury.
+    - Because the tourniquet's skin marks take several days to fade and may hide swelling.
+  correct: 2
+  explanation: >-
+    Swelling from injury peaks at 24-48 hours, and after ischaemia-reperfusion it may keep rising for
+    2 to 5 days, so vigilance continues through the first week.

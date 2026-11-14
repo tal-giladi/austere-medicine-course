@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    During a power cut you find a 78-year-old neighbour on her kitchen floor, where she fell about
+    20 hours ago. She is alert, has no fracture you can find, and says she is fine but weak. What
+    should you look for before deciding she just needs tea and bed?
+  options:
+    - Her blood sugar, since weakness in the elderly is usually low glucose.
+    - Her urine colour and a dipstick, and the limbs and pressure areas she lay on.
+    - Her temperature only, because infection is the usual reason for a fall.
+    - Her neck, since any fall in the elderly means a spinal fracture until proven otherwise.
+  correct: 1
+  explanation: >-
+    A long lie compresses muscle for hours and is a classic cause of rhabdomyolysis. Dark urine, a
+    positive blood pad, swollen or tense limbs and pressure blisters point to it.
+- id: q2
+  question: >-
+    A casualty's urine is brown and the dipstick shows blood +++. He also has a pelvic fracture.
+    What does the dipstick result tell you?
+  options:
+    - It proves myoglobin and rules out bleeding from the bladder.
+    - It proves bleeding from the urinary tract, so myoglobin can be ignored.
+    - Nothing useful, since dipsticks cannot detect myoglobin at all.
+    - It fits myoglobin but cannot separate it from blood; treat as both.
+  correct: 3
+  explanation: >-
+    The blood pad reacts to both haemoglobin and myoglobin. It is sensitive for muscle breakdown but
+    only about 57% specific; with a pelvic injury both are possible, and fluids treat the kidney risk.
+- id: q3
+  question: >-
+    A young reservist has sore thighs after a 30 km march, normal-coloured urine, a negative dipstick
+    for blood, no swelling, and is eating and drinking. What is a reasonable plan?
+  options:
+    - Rest, salty fluids and food, about 1 L of urine every 6 hours, and a recheck.
+    - IV saline at 1 L/h for 6 hours, as for any suspected rhabdomyolysis.
+    - Ibuprofen for the aches and a return to light training the next morning.
+    - Furosemide to keep the kidneys flushing while he keeps drinking normally.
+  correct: 0
+  explanation: >-
+    Without high-risk features, the CHAMP CPG manages exertional cases with oral fluids, rest and
+    close follow-up, aiming at about 200 ml/h of urine. NSAIDs and diuretics are avoided.
+- id: q4
+  question: >-
+    You are running IV fluids for severe exertional rhabdomyolysis. Urine is 250 ml/h and turning
+    lighter, but he is now breathless with crackles at the lung bases. Which action is right?
+  options:
+    - Give furosemide to keep urine flowing while continuing the full fluid rate.
+    - Continue at the same rate, since the urine target has not yet been met for long enough.
+    - Slow the fluids, sit him up and call a physician about overload.
+    - Switch to plain water by mouth so he gets volume without salt.
+  correct: 2
+  explanation: >-
+    Crackles and breathlessness mean overload. Slow down and get direction; diuretics are only for
+    overload under a physician, and plain water risks low sodium.

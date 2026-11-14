@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A man has been pinned by both thighs under a concrete slab for 3 hours. You can reach one arm
+    and have saline and a cannula. Rescuers say they will lift the slab in 20 minutes. He is
+    talking, pulse 110, no torso wounds. What is your fluid plan?
+  options:
+    - Small 250 ml boluses only to keep a radial pulse, since permissive resuscitation is the TCCC rule.
+    - Wait until he is out, so you can see his injuries before deciding how much fluid he needs.
+    - Saline running fast now, about 1 L/h (JTS 2 L bolus then 1 L/h), continued through and after release.
+    - Ringer's lactate at 1 L/h, because a balanced fluid protects the kidneys better than saline.
+  correct: 2
+  explanation: >-
+    Permissive resuscitation does not apply to an extremity crush needing extrication. Fluid must be
+    running before the weight comes off, and ISN advises potassium-free isotonic saline.
+- id: q2
+  question: >-
+    A woman has been trapped by one leg for 4 hours. You have two tourniquets but no IV equipment, no
+    fluids and no way to monitor her. The rescue team is about to lift the beam. What does the JTS
+    crush CPG suggest?
+  options:
+    - Two tourniquets side by side above the crushed area, applied immediately before release.
+    - A single tourniquet loosely, so some blood still reaches the leg and the muscle survives.
+    - No tourniquet, since there is no bleeding and tourniquets are only for haemorrhage.
+    - Tourniquets only if she becomes weak or her pulse turns irregular after she is free.
+  correct: 0
+  explanation: >-
+    After more than 2 hours of entrapment, with no crush protocol available, two tourniquets just
+    before extrication delay the potassium surge until fluids and monitoring are possible. A loose
+    tourniquet is a venous tourniquet and makes things worse.
+- id: q3
+  question: >-
+    Five hours after extrication your crush casualty has had 5 L of saline. Urine in the measuring
+    bottle totals 60 ml over the last 2 hours and is dark brown. He is now breathless lying flat and
+    has crackles at both lung bases. What do you do?
+  options:
+    - Increase the saline to 2 L/h, because low urine means he still needs more volume.
+    - Slow the fluid sharply, sit him up, get a physician on the phone and prioritise dialysis evacuation.
+    - Give mannitol to force urine through the kidneys and wash out the myoglobin.
+    - Continue 1 L/h unchanged, since the CPG target rate should not be altered without labs.
+  correct: 1
+  explanation: >-
+    Low urine despite volume plus crackles means established kidney injury with fluid overload. ISN
+    warns of rebound overload in oliguric victims and says mannitol is contraindicated without urine.
+- id: q4
+  question: >-
+    A trapped teenager has no IV access during a long entrapment. You have water, sugar, salt and
+    baking soda. Which is the safest way to give fluid?
+  options:
+    - As much plain bottled water as he can drink, since any fluid protects the kidneys.
+    - Fruit juice by mouth, because sugar and natural salts are absorbed well.
+    - Sugared tea by mouth, because the warmth helps absorption and he will drink more.
+    - A cup of home mix (8 tsp sugar, ½ tsp salt, ½ tsp baking soda per litre) every 15 minutes.
+  correct: 3
+  explanation: >-
+    Large volumes of plain water can cause dangerous low sodium, and juice adds potassium. The JTS
+    recipe gives salt, bicarbonate and sugar without potassium, by coached drinking on a schedule.
+- id: q5
+  question: >-
+    After extrication a casualty with a crushed calf asks for something for the pain. You have
+    meloxicam, ibuprofen, acetaminophen and ketamine (with a physician on the phone). Which choice
+    is wrong?
+  options:
+    - Acetaminophen by mouth for baseline pain relief.
+    - Ketamine as directed by the physician for severe pain.
+    - Meloxicam, since TCCC uses it and it barely affects bleeding.
+    - Acetaminophen now and ketamine if the pain becomes severe.
+  correct: 2
+  explanation: >-
+    NSAIDs such as meloxicam and ibuprofen add to kidney injury and the ISN field version says not
+    to use them in crush victims; acetaminophen, ketamine or opioids are used instead.

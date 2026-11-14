@@ -1,0 +1,137 @@
+- id: q1
+  question: >-
+    After an earthquake you reach a 30 kg girl pinned by both legs for 3 hours. You can cannulate
+    her arm and have saline. Extrication is expected within 30 minutes. What fluid plan follows
+    the ISN field recommendations?
+  options:
+    - Saline at 15-20 ml/kg/h (450-600 ml/h) started now, before she is freed.
+    - Saline 10 ml/kg boluses only if her radial pulse disappears, to avoid overload.
+    - No IV fluid until she is out, then Ringer's lactate at 1 L/h as for an adult.
+    - Oral water only, because IV fluid in a trapped child is too risky.
+  correct: 0
+  explanation: >-
+    ISN gives 15-20 ml/kg/h of isotonic saline for children, started before extrication. Permissive
+    resuscitation does not apply to crush, potassium-containing fluid is avoided, and plain water risks
+    low sodium.
+- id: q2
+  question: >-
+    A man has been trapped under a collapsed staircase for 5 hours. You have no IV kit and no
+    potassium drugs, only two tourniquets. Rescuers are ready to lift. His thigh is crushed. What
+    do you do?
+  options:
+    - Lift without tourniquets, since he has no bleeding and they only add ischaemic damage.
+    - Put one tourniquet on loosely so some blood keeps the leg alive during release.
+    - Two tourniquets side by side above the crush immediately before lifting; loosen only once fluids run.
+    - Ask rescuers to wait until IV fluids arrive, however many hours that takes.
+  correct: 2
+  explanation: >-
+    The JTS crush CPG suggests two tourniquets before extrication when entrapment exceeds 2 hours and
+    the crush protocol cannot start, and loosening only after fluids and monitoring are in place.
+- id: q3
+  question: >-
+    Twenty minutes after a crush release your casualty's pulse drops from 120 to 50 and becomes
+    irregular. You have calcium gluconate 10%, insulin, D50, no glucometer and a physician on the
+    phone. What do you do first?
+  options:
+    - Insulin 10 units IV with D50, because it lowers potassium more than calcium does.
+    - Sodium bicarbonate, because acid from the muscle is the real cause of the slow pulse.
+    - Stop the IV fluids, because they washed the potassium out of the leg.
+    - Calcium gluconate 10 ml IV over 2-3 minutes, repeated after 5 minutes if signs persist.
+  correct: 3
+  explanation: >-
+    Calcium protects the heart within minutes and comes first. Insulin without glucose checks is a
+    physician's call, bicarbonate was dropped from the 2022 JTS CPG, and fluids continue.
+- id: q4
+  question: >-
+    A casualty with a released 3-hour tourniquet on the forearm is sedated with ketamine. At hour 10
+    the forearm is tense and 2 cm thicker than at hour 4, and the fingers are pale. Radial pulse is
+    present. What is the right sequence?
+  options:
+    - Ice packs and elevation above the heart, then reassess in 4 hours.
+    - Split all dressings to skin, arm at heart level, physician with photos and girths, urgent evacuation.
+    - Wait for him to wake and report pain, since the pulse shows the blood supply is fine.
+    - Make several small cuts in the skin to let the swelling out.
+  correct: 1
+  explanation: >-
+    In a sedated casualty, a tense, growing compartment in a high-risk limb is enough. Release
+    everything circumferential, keep it level, cool only by air, and get surgical help; partial cuts
+    are dangerous.
+- id: q5
+  question: >-
+    A volunteer who dug for 16 hours has thigh pain, a dipstick strongly positive for blood, brown
+    urine and 40 ml of urine in the last hour. He has no injuries. What is the right approach?
+  options:
+    - High-risk rhabdomyolysis; IV fluid to urine 200-300 ml/h, no NSAIDs, potassium watch.
+    - Simple dehydration; one litre of plain water by mouth and rest until the urine clears.
+    - A urinary tract infection; start an antibiotic and recheck the dipstick tomorrow.
+    - Muscle strain; give ibuprofen and let him rest before returning to the site.
+  correct: 0
+  explanation: >-
+    Dark urine, a positive blood pad and low output after extreme exertion are high-risk features.
+    The CHAMP CPG targets 200-300 ml/h of urine with IV fluid; NSAIDs harm the kidneys.
+- id: q6
+  question: >-
+    Day 3 of a long hold. A casualty with a leg wound has temperature 36.1 °C, breathing 23, pulse
+    112, and is drowsy. His wife says he is "not himself". What does the course teach?
+  options:
+    - Not sepsis, because his temperature is normal and fever is the key sign.
+    - Wait for a blood pressure reading before deciding anything, as qSOFA needs it.
+    - Give acetaminophen and recheck in 6 hours, since drowsiness may be from his pain medicine.
+    - "Treat as sepsis: qSOFA is 2 and altered mentation is a red flag; antibiotics within the hour."
+  correct: 3
+  explanation: >-
+    Breathing of 22 or more and altered mental state already give two qSOFA points without a blood
+    pressure. A normal or low temperature does not exclude sepsis.
+- id: q7
+  question: >-
+    You treat a 60 kg septic casualty in a shelter with no IV access. Which fluid plan matches the
+    JTS sepsis CPG minimum option?
+  options:
+    - Plain water as much as tolerated, since sepsis fluids need not contain salt.
+    - ORS by mouth, and rectal ORS starting at 100 ml/h, increasing up to 500 ml/h as tolerated.
+    - Nothing by mouth or rectum until IV access is found, to avoid aspiration.
+    - Rectal plain tap water at 1 L/h, the fastest route available without a vein.
+  correct: 1
+  explanation: >-
+    The CPG's minimum is oral rehydration solution by mouth and rectal ORS from 100 ml/h up to
+    500 ml/h, aiming for urine of 0.3-0.5 ml/kg/h (18-30 ml/h for 60 kg).
+- id: q8
+  question: >-
+    Your bleach label reads 3% sodium hypochlorite. You need 2 L of 0.025% Dakin's solution for a
+    large infected wound. How much bleach do you add to 2 L of boiled water?
+  options:
+    - About 2 ml in total, measured with a syringe.
+    - About 33 ml, two tablespoons.
+    - About 17 ml, measured with a medicine syringe.
+    - About 170 ml, a large cupful.
+  correct: 2
+  explanation: >-
+    Bleach per litre = 25 / 3 = about 8.3 ml, so 2 L needs about 17 ml, plus half a teaspoon of baking
+    soda per litre. A syringe measures far more accurately than a spoon.
+- id: q9
+  question: >-
+    On day 4 a dirty blast wound's bulky dressing slides off easily over grey pus with a foul
+    "bad-bad" smell, and redness has spread past yesterday's pen line. What do you do?
+  options:
+    - Close the wound with tapes to stop bacteria getting in, and continue the same antibiotic.
+    - Replace the bulky dressing and leave it another 4-7 days, as the ICRC method recommends.
+    - Irrigate with large volumes or Dakin's, lift loose dead tissue, dress daily, physician on antibiotics.
+    - Pack it tightly with dry gauze to absorb the pus and stop the spread.
+  correct: 2
+  explanation: >-
+    A sliding dressing over pus with a bad smell is the ICRC sign of infection: more frequent cleaning,
+    removal of dead tissue, daily dressings and an antibiotic review, never closure.
+- id: q10
+  question: >-
+    Day 2 after a crush release with good fluids, your casualty passes 3 L of urine overnight, the
+    urine is pale, and he now has cramps and weakness. Which explanation should you raise with the
+    physician?
+  options:
+    - High potassium returning as the kidneys fail; give calcium again before anything else.
+    - Low potassium in the high-output recovery phase, needing replacement under direction.
+    - Compartment syndrome developing in both legs and causing the weakness.
+    - Sepsis starting, since general weakness is often the first sign of infection.
+  correct: 1
+  explanation: >-
+    Once urine flows well, potassium can fall: 9 of 16 Bingöl crush victims needed potassium
+    replacement. A physician decides on ORS with potassium or other replacement.

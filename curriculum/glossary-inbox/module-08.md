@@ -1,0 +1,31 @@
+# Glossary inbox — Module 8
+
+- Crush syndrome — shock, high potassium and kidney failure after release of a large muscle mass that was compressed for about an hour or more.
+- Rescue death — sudden cardiac arrest at or soon after extrication, from the surge of potassium and acid out of reperfused crushed muscle.
+- Reperfusion injury — damage caused when blood returns to tissue that was without circulation, releasing its toxic contents into the body.
+- Myoglobin — red oxygen-binding protein of muscle; released in muscle breakdown, it darkens urine and injures the kidneys.
+- Myoglobinuria — myoglobin in the urine, seen as red, brown or cola-coloured urine and a dipstick positive for blood.
+- Rhabdomyolysis — breakdown of skeletal muscle with release of myoglobin, potassium and acid; traumatic (crush) or non-traumatic (exertion, heat, long lie, drugs).
+- Long lie — hours spent unable to get up after a fall; a common cause of rhabdomyolysis and pressure injury in the elderly.
+- Hyperkalaemia — dangerously high blood potassium that slows and stops the heart; treated with calcium, insulin with dextrose, salbutamol and binders.
+- Potassium binder — oral or rectal drug that removes potassium through the gut (sodium zirconium cyclosilicate, patiromer, sodium polystyrene sulfonate).
+- Acute kidney injury (AKI) — sudden loss of kidney function; in the field, urine below 0.5 ml/kg/h for 6 hours.
+- Hypodermoclysis — slow infusion of isotonic saline under the skin when no vein is available (ISN: 1 ml/min).
+- Compartment syndrome — rising pressure inside a closed muscle compartment that cuts off blood flow and kills the muscle within hours.
+- Pain on passive stretch — severe pain when the muscles of a compartment are stretched by moving the toes or fingers; an early sign of compartment syndrome.
+- Fasciotomy — surgical opening of the skin and fascia over the full length of every affected compartment to release pressure.
+- qSOFA — quick sepsis screen: breathing 22 or more, altered mentation, systolic blood pressure 100 or less; two or more signals high risk.
+- SIRS — heart rate above 90, breathing above 20, temperature above 38 °C or below 36 °C (and abnormal white count); early warning signs of systemic inflammation.
+- Red-flag sepsis — UK Sepsis Trust criteria that on their own mean probable sepsis needing antibiotics within the hour.
+- Septic shock — sepsis with persistent low blood pressure despite fluids, needing vasopressors.
+- Source control — removing the cause of an infection: draining pus, removing dead tissue, foreign bodies and infected lines.
+- Necrotising soft-tissue infection — rapidly spreading infection that kills skin, fat and fascia (necrotising fasciitis, gas gangrene); a surgical emergency.
+- Irrigation — washing a wound with a large volume of clean fluid at controlled pressure (ideal 6-15 psi).
+- Debridement — removal of dead tissue and debris from a wound.
+- Four Cs — colour, consistency, contraction and circulation: the tests for whether muscle in a wound is alive.
+- Wet-to-dry dressing — moist gauze laid on a wound and removed dry once a day or twice, pulling off exudate and debris.
+- ICRC wound method — thorough first excision then a bulky dry dressing left 4-7 days, read for the "good-bad" or "bad-bad" smell.
+- Delayed primary closure (DPC) — closing a wound after 3-7 days of open care once it is clean.
+- Healing by secondary intention — leaving a wound open to fill in and close from the bottom by itself.
+- Dakin's solution — diluted sodium hypochlorite buffered with bicarbonate; 0.025% (25 ÷ bleach % ml of bleach per litre) for dirty or infected wounds.
+- Maggot debridement therapy — use of sterile, laboratory-bred Lucilia sericata larvae to eat dead tissue in chronic wounds.

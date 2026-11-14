@@ -21,3 +21,6 @@ To review before a public release.
 
 ## Module 6
 - Home Front Command guidance (oref blocked); Israeli atropine autoinjector withdrawal 2010 (one news report); CHEMM antidote pages down — doses from ATSDR 2017, JTS CBRN card 2026, FDA AtroPen; child benzo doses; hydroxocobalamin child repeat, Cyanokit mixing, Nithiodote doses; MDA antidote carriage; safe-room filtration; course rules labelled.
+
+## Module 8
+- JTS Dakin's recipe self-contradiction (course teaches 0.025% directly); ISN 2012 full text paywalled (used Short Field Version); ORS vs potassium-free fluid in crush (course reasoning); child calcium cap differs from RCH (max 30 ml); child metronidazole/insulin/dextrose/salbutamol from RCH; salbutamol inhaler puffs; sugar dressing evidence weak.
