@@ -1,0 +1,28 @@
+# Glossary inbox — Module 13
+
+- Acute stress reaction — the normal, usually short-lived response to a shocking event: freezing, panic, agitation, confusion or physical symptoms, appearing within minutes and fading over hours to days.
+- Psychological first aid (PFA) — humane, practical support for people in distress after a crisis; not therapy and not psychological debriefing.
+- SIX Cs model — Moshe Farchi's Israeli model of immediate cognitive-functional psychological first aid: Commitment, Communication, Cognition, Challenge, Control and Continuity; aims to move a person from helplessness to action.
+- Look-Listen-Link — the WHO PFA action principles: look for safety, needs and distress; listen to needs and concerns; link to services, information and loved ones.
+- Grounding (5-4-3-2-1) — calming technique that directs attention to things the person can see, touch, hear, smell and taste.
+- Unaccompanied child — a child separated from parents and other caregivers; needs one named responsible adult, a written record and verified release.
+- Sleep inertia — grogginess and impaired judgement for up to about half an hour after waking, worst when woken from deep sleep.
+- Micro-sleep — a few seconds of sleep while apparently awake; a sign that a responder must stop driving and calculating doses.
+- Decision log — a timed written record of major decisions and the reasons for them, kept by the leader of a casualty operation.
+- Moral injury — lasting guilt, shame, anger or sense of betrayal after doing, failing to prevent or witnessing acts that violate one's deeply held moral beliefs (Litz 2009).
+- Psychological debriefing — structured recounting of a traumatic event soon after it; not part of psychological first aid.
+- Casualty collection point (CCP) — a protected place where casualties are gathered, triaged, treated and held until evacuation.
+- SALT triage — Sort, Assess, Lifesaving interventions, Treatment/transport; mass-casualty triage with five categories: immediate, delayed, minimal, expectant and dead.
+- Expectant — triage category for casualties who are unlikely to survive given the resources currently available; they receive comfort care and are re-triaged when resources change.
+- Re-triage — repeated triage on a schedule and whenever a patient or the available resources change.
+- Crisis standards of care — a shift from the usual standard of care to doing the greatest good for the greatest number when resources are overwhelmed.
+- Burn rate — how fast a supply is being used, per shift or per day, used to predict when it will run out.
+- Casualty board — a wall board listing every patient's number, category, location, problem and next check.
+- Unique body code — identifier given to each dead body or body part at recovery, combining place, team and a sequential number, never a number alone.
+- Dead Body Information Form — the field manual's one-page record of a body's code, where found, sex, age group, marks, clothing, belongings, photographs and storage.
+- Temporary burial — emergency storage of documented bodies in marked, mapped graves 1.5 m deep and at least 200 m from drinking water, one layer, 0.4 m apart.
+- ZAKA — Israeli volunteer organisation that recovers and transports bodies and human remains, including blood, with religious care.
+- Kavod ha-met — the Jewish principle of respect for the dead.
+- Kohen (plural kohanim) — man of Jewish priestly descent who traditionally avoids being under the same roof as a dead body.
+- Ghusl — ritual washing of a Muslim's body before burial; by the majority view not done for those killed in battle.
+- GRIEV_ING — structured method for telling a family that a person has died.

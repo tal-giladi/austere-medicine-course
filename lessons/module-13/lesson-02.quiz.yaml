@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    It is 1 am on day 2 of a casualty point. You woke at 7 am yesterday and have not slept. You feel
+    fine. A child needs a weight-based ketamine dose. What is the safest way to give it?
+  options:
+    - Calculate it yourself, since you feel alert and know the drug well.
+    - Wake the physician on the phone line and let them do all the arithmetic for you.
+    - Calculate it, have a second person recalculate independently, and read it back.
+    - Skip the dose until morning, because no drug should be given when anyone is tired.
+  correct: 2
+  explanation: >-
+    After 17-19 hours awake, performance on some tests matched a blood alcohol of 0.05%, and fatigue
+    does not feel like impairment. An independent second calculation and read-back catch tired-brain
+    errors without withholding needed pain relief.
+- id: q2
+  question: >-
+    Your team must cover a casualty point for 72 hours. You are the leader and the only
+    paramedic-level person. Which sleep plan is best?
+  options:
+    - Stay awake throughout so that no decision is ever made without you being present.
+    - Hand over command by name, sleep in a quiet place, and have a named person wake you.
+    - Sleep in short naps beside the red area so you hear everything that happens.
+    - Rely on caffeine every two hours and plan to sleep only after evacuation arrives.
+  correct: 1
+  explanation: >-
+    The leader's judgement degrades like anyone's. A written handover, protected sleep away from the
+    treatment noise, and a clear wake-up rule keep both the leader and the patients safe.
+- id: q3
+  question: >-
+    A helper was woken from deep sleep after 50 minutes to decide whether to remove a tourniquet.
+    What is the risk, and what do you do?
+  options:
+    - Sleep inertia; give them 15 minutes, water and light before the decision.
+    - No risk; any sleep at all fully restores judgement within seconds.
+    - Moral injury; have someone else make every decision for the rest of the shift.
+    - Hypoglycaemia; give sugar and let them decide immediately afterwards.
+  correct: 0
+  explanation: >-
+    Waking from deep sleep leaves people groggy for up to about half an hour. A short delay before an
+    irreversible decision is safer; naps of 20-30 or about 90 minutes reduce the problem.
+- id: q4
+  question: >-
+    A week after the event, a volunteer keeps saying "I should have taken him first" about a casualty
+    he triaged as expectant. He is ashamed, not afraid, and avoids the team. What is this most likely?
+  options:
+    - A normal stress reaction that needs no attention because it always fades by itself.
+    - Acute panic, best treated with a benzodiazepine for the first few weeks.
+    - A sign he made a wrong triage decision, which the team should now review in detail.
+    - Moral injury; peers, leaders' acknowledgement and professional help if it persists.
+  correct: 3
+  explanation: >-
+    Moral injury centres on guilt and shame after acts that violate deeply held values. Peer contact,
+    leaders acknowledging the impossible conditions and, if it persists, professional help reduce it;
+    WHO advises against benzodiazepines in the first month.
+- id: q5
+  question: >-
+    Five weeks after a long casualty operation, a team member still has nightly flashbacks, drinks
+    every evening to sleep and has stopped going to work. What do you advise?
+  options:
+    - Wait a few more months, since reactions to such events normally take a year to fade.
+    - Professional help now: ERAN 1201, NATAL or the family doctor, with a peer making the first call.
+    - A group meeting in which everyone describes the worst moment in detail to release it.
+    - Switching from alcohol to sleeping tablets borrowed from a family member until it passes.
+  correct: 1
+  explanation: >-
+    Symptoms beyond about a month that disrupt life, with heavy drinking, need professional help.
+    Forced detailed debriefing is not recommended, and sharing prescription drugs is unsafe and
+    illegal.

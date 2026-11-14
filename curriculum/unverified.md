@@ -39,3 +39,6 @@ To review before a public release.
 
 ## Module 11
 - WHO 2005 diarrhoea manual blocked (NG rate, Plan C ORS timing, zinc <6 mo from copies); zinc 5 mg (WHO 2024) vs 20 mg (UNICEF) both taught; GTFCC child doxycycline; Israeli ORS brands besides Minerali, child zinc availability; Israeli bleach strength and derived doses; rice-ORS; teaspoon grams; SODIS times; NG tube details; SC fluids in children; infant MUAC cut-off; Israeli cholera reporting route.
+
+## Module 13
+- Israeli civilian death-notification protocol; who may legally determine death (MDA protocols); NATAL *3362; MoH adoption of SIX Cs (news only); SALT original paper not opened; religious burial points from secondary sources; course rules labelled (re-triage intervals, rationing triggers, shift lengths).

@@ -106,3 +106,9 @@
   - [77 · Dental emergencies: knocked-out tooth, lost filling, abscess](lessons/module-12/lesson-05.md)
   - [78 · Eye, ear and nose problems: foreign bodies and severe nosebleed](lessons/module-12/lesson-06.md)
   - [Module 12 quiz](assessments/module-12-quiz.md)
+- **Module 13 — People, the dead, and running a casualty point for days**
+  - [79 · Psychological first aid: the SIX Cs and Look-Listen-Link](lessons/module-13/lesson-01.md)
+  - [80 · Your own stress: sleep, fatigue, moral injury and after the event](lessons/module-13/lesson-02.md)
+  - [81 · Running a casualty collection point for days](lessons/module-13/lesson-03.md)
+  - [82 · Handling the dead: identification, storage and respect](lessons/module-13/lesson-04.md)
+  - [Module 13 quiz](assessments/module-13-quiz.md)

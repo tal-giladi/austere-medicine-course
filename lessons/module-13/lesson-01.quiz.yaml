@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    During a rocket alarm a man stands motionless on the pavement, staring, not answering when you
+    shout to take cover. You reach him. What do you do first, following the SIX Cs?
+  options:
+    - Ask him gently how he is feeling so he can release the emotion.
+    - Tell him firmly to calm down and pull him by the arm without speaking.
+    - Wait beside him silently until he recovers by himself, as most people do.
+    - Say your name, that you are with him, and give one short task he can do now.
+  correct: 3
+  explanation: >-
+    The SIX Cs aim to move a person from helplessness to action: Commitment ("I'm with you"),
+    clear Communication and a small Challenge. Questions about feelings deepen the flood, and
+    waiting in the open leaves him in danger.
+- id: q2
+  question: >-
+    After a blast nearby, a 30-year-old in the shelter is breathing fast, says her chest is tight
+    and her fingers tingle. Someone says it is a panic attack. What is your first move?
+  options:
+    - Give her a paper bag to breathe into until the tingling goes away.
+    - Check for blast lung, bleeding and other medical causes before treating it as panic.
+    - Start 4-in, 6-out breathing with her at once, since panic is by far the most common cause.
+    - Move her away from everyone and leave her to rest alone so she does not upset others.
+  correct: 1
+  explanation: >-
+    Panic is the last diagnosis, not the first: after a blast, fast breathing may be blast lung,
+    hypoxia or shock. Paper-bag rebreathing lowers oxygen and is no longer taught, and a distressed
+    person should not be left alone.
+- id: q3
+  question: >-
+    A 5-year-old is found alone at your casualty point. An hour later a man arrives, says he is her
+    uncle and wants to take her home. The child does not react to him. What is right?
+  options:
+    - Hand her over so she can leave the frightening casualty point as fast as possible.
+    - Let the child decide, since giving her control is part of the SIX Cs model.
+    - Keep her with her responsible adult until identity is verified, and record any release.
+    - Tell him to take her to the police station, which is the proper place for lost children.
+  correct: 2
+  explanation: >-
+    Unaccompanied children have one responsible adult and a written record, and are never released
+    to an adult who cannot be verified. Control means small choices, not decisions about safety.
+- id: q4
+  question: >-
+    On day 2 in a community shelter, a widow sits alone, has not eaten, and says "There's no point
+    any more." Which response best follows Look-Listen-Link?
+  options:
+    - Ask her directly about thoughts of suicide, stay with her, and link her to a professional.
+    - Avoid the subject of suicide, because asking about it can put the idea into her head.
+    - Ask her to describe the moment she heard the news in detail so she can process it.
+    - Give her a sleeping tablet from the shelter supply so she can rest and feel better.
+  correct: 0
+  explanation: >-
+    Asking directly does not plant the idea and lets you keep her safe and link her to help. PFA is
+    not debriefing, and WHO advises against benzodiazepines for acute stress in the first month.
+- id: q5
+  question: >-
+    You are giving PFA to a frozen driver after a crash. He answers in one word. Which question best
+    uses the "Cognition" component?
+  options:
+    - "Was it frightening when the other car hit you?"
+    - "How many people were in the car with you?"
+    - "Do you want to talk about what you saw?"
+    - "Are you feeling a little better now, or still upset?"
+  correct: 1
+  explanation: >-
+    Cognition switches the thinking brain on with factual questions about numbers, names and order.
+    Questions about fear and feelings at this stage tend to deepen the stress reaction.

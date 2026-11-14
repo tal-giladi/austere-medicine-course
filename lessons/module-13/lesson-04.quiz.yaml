@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Your team recovers three bodies from a collapsed house on Hadar Street. A volunteer starts
+    numbering them 1, 2 and 3 with a marker on the body bags. What should you change?
+  options:
+    - Nothing; simple numbers on the bags are clear, quick and enough for later identification.
+    - Write the numbers on the bodies' foreheads instead, since bags can be swapped in storage.
+    - Use place + team + number, on two waterproof labels: one on the body and one on the bag.
+    - Wait until the police arrive to assign numbers, so the official system is not duplicated.
+  correct: 2
+  explanation: >-
+    The field manual says a number alone is duplicated and confused; use place, team and number on
+    two waterproof labels, body and container, and on every photo and form. Writing only on a bag or
+    body rubs off.
+- id: q2
+  question: >-
+    It is summer, the power is out, and the police cannot reach your village for three days. You have
+    six bodies. A neighbour offers a truck of dry ice from a factory. What do you do?
+  options:
+    - Use the dry ice in the closed storage room, since it keeps bodies coldest for longest.
+    - Photograph and record each body, then use the coolest shaded ventilated place, not dry ice.
+    - Pack the bodies in water ice from household freezers, since it is the next best choice.
+    - Spray the bodies with diluted bleach and lime to prevent an epidemic while you wait.
+  correct: 1
+  explanation: >-
+    The manual says not to use dry ice (toxic CO2, cold burns) and to avoid water ice (dirty melt
+    water, damage). Photograph early because faces may be unrecognisable in 12-48 hours in heat, and
+    chemicals do not reduce risk.
+- id: q3
+  question: >-
+    A man killed by a fragment lies in blood-soaked clothes at your CCP. His family is religious
+    Jewish. A kind volunteer wants to wash him and dress him in clean clothes before the family comes.
+    What is right?
+  options:
+    - Wash and dress him, since a clean body is the most respectful sight for the family.
+    - Wash only the face and hands, and burn the bloody clothes to protect everyone's health.
+    - Remove the clothes for the police as evidence and give the family a clean shroud instead.
+    - Do not wash him; keep blood-soaked clothing and dressings with him and leave it to ZAKA.
+  correct: 3
+  explanation: >-
+    In Jewish practice blood is treated as part of the body and soaked items are buried with a person
+    who died violently; washing is the burial society's decision. The manual also says to leave
+    clothing and belongings with the body.
+- id: q4
+  question: >-
+    A father arrives looking for his missing daughter and asks to walk through the storage room to
+    look at all the bodies. Two have severe facial injuries. What does the field manual support?
+  options:
+    - Show him photographs of faces, clothing and belongings, with codes, in a quiet place first.
+    - Let him walk through the room, since a parent always recognises his own child correctly.
+    - Refuse to show him anything at all until the police complete DNA identification next month.
+    - Ask his 10-year-old son to look, as the boy saw his sister most recently that morning.
+  correct: 0
+  explanation: >-
+    Visual recognition after disasters is often mistaken, especially with injury. High-quality
+    photographs with the code, viewed in a quiet place, are preferred; children should not identify
+    bodies, and any recognition is provisional.
+- id: q5
+  question: >-
+    You are setting up a morgue at a CCP in a community with many religious Jewish families,
+    including kohanim. Where do you put it?
+  options:
+    - In a corner of the treatment hall, screened by sheets, so the team can watch it easily.
+    - In the shelter's main room, because it is the coolest place in the building in summer.
+    - In a separate structure or tent, out of sight, not under the treatment area's roof.
+    - Outside in the open courtyard near the entrance, so the families can find it quickly.
+  correct: 2
+  explanation: >-
+    The dead belong in a separate, protected, cool place out of sight of patients and families.
+    Kohanim traditionally avoid being under the same roof as a body, so a separate structure lets
+    them keep helping the living.

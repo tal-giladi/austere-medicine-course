@@ -22,12 +22,12 @@ Goal: build the course in `curriculum/plan.md` under `tals-academy/docs/new-cour
 - [x] Module 10 — Dislocations and orthopaedics without X-ray
 - [x] Module 11 — Fluids, diarrhoea and outbreaks
 - [x] Module 12 — Medicine without a doctor
-- [ ] Module 13 — People, the dead, and running a casualty point for days
+- [x] Module 13 — People, the dead, and running a casualty point for days
 - [ ] Module 14 — Capstone: 72-hour scenarios
 - [ ] Final QA: check-course 0 problems, link check, TODO_FOR_TAL
 
 ## Now working
-- Modules 13 and 14 (one agent each).
+- Module 14 (one agent).
 
 ## Decisions
 - 2026-11-14: see plan §9 (slug, free+hidden, videos instead of outside courses, full doses, no pork, improvise everything, warning in every lesson).

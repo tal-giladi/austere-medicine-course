@@ -7,6 +7,7 @@ Terms used in the course, in alphabetical order.
 - **Acute hemolytic transfusion reaction** — destruction of transfused red cells by the recipient's antibodies (usually ABO mismatch): fever, back pain, shock, dark urine.
 - **Acute kidney injury (AKI)** — sudden loss of kidney function; in the field, urine below 0.5 ml/kg/h for 6 hours.
 - **Acute otitis media** — middle-ear infection with a red, bulging eardrum or pus, ear pain and often fever.
+- **Acute stress reaction** — the normal, usually short-lived response to a shocking event: freezing, panic, agitation, confusion or physical symptoms, appearing within minutes and fading over hours to days.
 - **Adrenal crisis** — life-threatening shock from lack of cortisol in people with adrenal insufficiency or long-term steroid use; treated with hydrocortisone 100 mg IM/IV.
 - **Advance and cut** — removing a fish hook by pushing the point out, cutting off the barb and backing the rest out.
 - **Agranulocytosis** — sudden loss of white blood cells; fever, sore throat or mouth ulcers after a drug such as dipyrone.
@@ -30,12 +31,14 @@ Terms used in the course, in alphabetical order.
 - **Broselow tape** — length-based tape that estimates a child's weight in colour zones and gives matching doses and equipment sizes.
 - **Buccal midazolam** — seizure rescue drug given between the gum and cheek.
 - **Buddy taping** — taping an injured finger or toe to its neighbour, with padding between, above and below the injured joint.
+- **Burn rate** — how fast a supply is being used, per shift or per day, used to predict when it will run out.
 - **Burping a chest seal** — lifting one edge of a chest seal (or removing it briefly) to let trapped air escape from the chest.
 - **Butterfly strip** — a tape strip with a narrow non-sticky middle used to hold small wound edges together.
 - **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
 - **Carbon monoxide (CO)** — odourless gas from incomplete burning that binds haemoglobin; a standard pulse oximeter reads normal despite poisoning.
 - **Carbon monoxide poisoning** — poisoning from smoke, fires or engine exhaust in which carbon monoxide binds haemoglobin; pulse oximeters read falsely normal.
 - **Care Under Fire** — The TCCC name for care while the threat is still acting on rescuer and casualty; the TECC equivalent is direct threat care.
+- **Casualty board** — a wall board listing every patient's number, category, location, problem and next check.
 - **Casualty collection point (CCP)** — A place where casualties are gathered, triaged and treated before evacuation.
 - **Centor score** — four-point bedside score (fever, no cough, tender neck glands, tonsil swelling or pus) used to decide whether a sore throat needs treatment for group A strep.
 - **Cephalosporin side chain** — the part of a beta-lactam molecule that decides cross-allergy; cefadroxil and cephalexin resemble amoxicillin and penicillin, ceftriaxone does not.
@@ -56,6 +59,7 @@ Terms used in the course, in alphabetical order.
 - **CRESS** — Consciousness, Respirations, Eyes, Secretions, Skin: the 2026 JTS rapid check that sorts chemical casualties into toxidromes.
 - **Cric-Key** — commercial cricothyroidotomy device whose hollow introducer works as both hook and guide; the TCCC course's preferred cric method.
 - **Cricothyroid membrane** — the membrane between the thyroid and cricoid cartilages at the front of the neck, about 6-10 mm high in adults; the site of a surgical airway.
+- **Crisis standards of care** — a shift from the usual standard of care to doing the greatest good for the greatest number when resources are overwhelmed.
 - **Crush syndrome** — shock, high potassium and kidney failure after release of a large muscle mass that was compressed for about an hour or more.
 - **Crutch palsy** — weakness of the wrist and hand from leaning the armpit on a crutch, compressing the radial nerve.
 - **Crystalloid** — salt-water IV fluid such as 0.9% saline, Hartmann's or Plasma-Lyte; carries no oxygen or clotting factors.
@@ -66,8 +70,10 @@ Terms used in the course, in alphabetical order.
 - **Dakin's solution** — diluted sodium hypochlorite buffered with bicarbonate; 0.025% (25 ÷ bleach % ml of bleach per litre) for dirty or infected wounds.
 - **Davos (Boss-Holzach-Matter) technique** — self-reduction of a shoulder: wrists bound around the bent knee, the casualty leans back to apply their own traction.
 - **DD Form 1380** — The TCCC casualty card used to record mechanism, injuries, signs and treatments; attached visibly to the casualty.
+- **Dead Body Information Form** — the field manual's one-page record of a body's code, where found, sex, age group, marks, clothing, belongings, photographs and storage.
 - **Dead space** — volume left in a syringe tip, atomiser or line after injection.
 - **Debridement** — removal of dead tissue and debris from a wound.
+- **Decision log** — a timed written record of major decisions and the reasons for them, kept by the leader of a casualty operation.
 - **Delayed primary closure** — closing a wound that was left open and dressed for about 3-5 days, once it is clean.
 - **Delayed primary closure (DPC)** — closing a wound after 3-7 days of open care once it is clean.
 - **Delirium tremens** — severe alcohol withdrawal 2-5 days after the last drink, with confusion, hallucinations, fever and fast heart rate.
@@ -94,6 +100,7 @@ Terms used in the course, in alphabetical order.
 - **Evacuation category** — Urgent, priority or routine: how soon a casualty needs to reach surgical care.
 - **Eversion** — the slight outward lift of wound edges that a good stitch produces, giving a flatter scar.
 - **Evisceration** — abdominal organs, usually bowel, protruding through a wound in the abdominal wall.
+- **Expectant** — triage category for casualties who are unlikely to survive given the resources currently available; they receive comfort care and are re-triaged when resources change.
 - **Extravasation** — leakage of infused fluid or drug into the tissue around a vein or IO; can cause compartment syndrome or tissue necrosis.
 - **EZ-IO** — battery-driven IO device with 15G needles of 15, 25 and 45 mm, used at the humerus, tibia and (in children) distal femur.
 - **F-diagram** — the routes by which faeces reach mouths: fluids, fingers, flies, fields and food.
@@ -113,9 +120,12 @@ Terms used in the course, in alphabetical order.
 - **French (Fr)** — catheter and tube size unit equal to the outside circumference in millimetres (outside diameter in mm times 3); a 30 Fr NPA is about 10 mm wide.
 - **Fresh whole blood (FWB)** — whole blood collected in an emergency and used within 24 hours, not fully tested before transfusion.
 - **Geotag** — location data stored inside a digital photo.
+- **Ghusl** — ritual washing of a Muslim's body before burial; by the majority view not done for those killed in battle.
 - **Glasgow Coma Scale (GCS)** — 3-15 score of eye opening, verbal response and motor response; 13-15 mild, 9-12 moderate, 3-8 severe head injury.
 - **Glass (tumbler) test** — pressing a clear glass against a rash to see whether the spots fade.
 - **Greater trochanter** — bony bump on the outside of the upper thigh, roughly level with the pubic bone; the level at which a pelvic binder is centred.
+- **GRIEV_ING** — structured method for telling a family that a person has died.
+- **Grounding (5-4-3-2-1)** — calming technique that directs attention to things the person can see, touch, hear, smell and taste.
 - **Haematoma block** — local anaesthetic injected into the blood collection around a fracture to allow manipulation.
 - **Hair apposition technique (HAT)** — closing a scalp cut by twisting hair from each side across it and fixing the twist with glue.
 - **Handoff report** — a structured handover: overall condition, mechanism, injuries, vital signs with trends and urine, treatments with times, and what is due next.
@@ -152,9 +162,11 @@ Terms used in the course, in alphabetical order.
 - **Junctional bleeding** — bleeding where a limb joins the trunk (groin, buttock, armpit) or at the base of the neck, where a limb tourniquet cannot be applied.
 - **Junctional tourniquet** — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
 - **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
+- **Kavod ha-met** — the Jewish principle of respect for the dead.
 - **Ketamine** — dissociative analgesic that preserves breathing and blood pressure at pain doses; given IM, IN, IV or IO.
 - **Knee dislocation** — displacement of the shin bone from the thigh bone; a high-energy injury with a high risk of popliteal artery and nerve injury.
 - **Knockdown toxidrome** — sudden collapse with fast then failing breathing and normal pupils and secretions, typical of cyanide.
+- **Kohen (plural kohanim)** — man of Jewish priestly descent who traditionally avoids being under the same roof as a dead body.
 - **Kussmaul breathing** — deep, sighing, fast breathing of metabolic acidosis such as DKA.
 - **Laryngeal handshake** — technique of gripping the larynx between thumb and middle finger and sliding down to find and hold the cricothyroid membrane.
 - **Laryngospasm** — sudden closure of the vocal cords, a rare complication of ketamine; treated with jaw thrust and positive-pressure ventilation.
@@ -166,6 +178,7 @@ Terms used in the course, in alphabetical order.
 - **Loculi** — separate walled-off pockets inside an abscess, broken up by finger or clamp during drainage.
 - **Log roll** — turning a casualty as one unit with the head held in line, used when spinal injury is possible.
 - **Long lie** — hours spent unable to get up after a fall; a common cause of rhabdomyolysis and pressure injury in the elderly.
+- **Look-Listen-Link** — the WHO PFA action principles: look for safety, needs and distress; listen to needs and concerns; link to services, information and loved ones.
 - **Loop drainage** — draining an abscess through two small incisions with a loop of drain material tied outside.
 - **LTOWB** — low-titer group O whole blood: group O blood with low anti-A and anti-B antibody levels, used as universal whole blood.
 - **Ludwig's angina** — spreading infection of the floor of the mouth and neck, usually from a tooth, that can block the airway.
@@ -173,11 +186,13 @@ Terms used in the course, in alphabetical order.
 - **Maintenance fluid** — the daily fluid needed to replace normal losses, on top of any resuscitation fluid.
 - **Manual suction device** — hand- or foot-operated pump (for example V-Vac) that clears blood and vomit from the mouth without a battery.
 - **MARCH** — Treatment order: massive hemorrhage, airway, respiration, circulation, hypothermia/head injury.
+- **Micro-sleep** — a few seconds of sleep while apparently awake; a sign that a responder must stop driving and calculating doses.
 - **Midclavicular line (MCL)** — vertical line down the front of the chest from the middle of the collarbone.
 - **Mini-round** — a periodic step back to ask: sick or not sick, stable or unstable, better or worse, and how this differs from the last assessment.
 - **Minimum / better / best** — the three-level format of JTS prolonged-care guidelines: the least you must deliver, what improves outcomes when available, and the optimal care for the provider's level.
 - **Minimum, better, best** — The prolonged field care approach of describing every capability at three levels of equipment and skill.
 - **MIST** — Handover and documentation format: mechanism, injuries, signs and symptoms, treatments.
+- **Moral injury** — lasting guilt, shame, anger or sense of betrayal after doing, failing to prevent or witnessing acts that violate one's deeply held moral beliefs (Litz 2009).
 - **Mother's kiss** — positive-pressure method of removing a nasal foreign body from a young child by a parent's puff into the mouth with the clear nostril blocked.
 - **MUAC** — mid-upper arm circumference; in children 6-59 months, under 115 mm is severe and 115-124 mm moderate acute malnutrition.
 - **Mucosal atomisation device (MAD)** — syringe tip that sprays a drug as a mist into the nose.
@@ -232,6 +247,8 @@ Terms used in the course, in alphabetical order.
 - **Prolonged casualty care (PCC)** — casualty care for extended periods when evacuation or the situation outruns the available capability; the JTS umbrella term since 2021.
 - **Prolonged field care (PFC)** — the advanced-provider continuation of prolonged casualty care until the casualty reaches the right level of care.
 - **PSBI** — possible serious bacterial infection in a young infant (0-59 days); WHO gives simplified antibiotic regimens when referral is not possible.
+- **Psychological debriefing** — structured recounting of a traumatic event soon after it; not part of psychological first aid.
+- **Psychological first aid (PFA)** — humane, practical support for people in distress after a crisis; not therapy and not psychological debriefing.
 - **Pulpitis** — inflammation of the tooth's nerve; reversible (brief pain with cold) or irreversible (lingering, throbbing pain).
 - **Pulse oximeter (SpO2)** — clip-on sensor estimating the percentage of haemoglobin carrying oxygen; inaccurate in shock, cold, motion, carbon monoxide poisoning and some skin tones.
 - **Pulse-dose delivery** — oxygen delivered only when the user breathes in, used by many portable concentrators; unsuitable for a casualty who is not breathing or is on a BVM.
@@ -241,6 +258,7 @@ Terms used in the course, in alphabetical order.
 - **Quigley's traction** — suspending the leg by the foot in a fabric sling so its own weight helps realign a displaced ankle fracture.
 - **RASS (Richmond Agitation-Sedation Scale)** — a scale from +4 (combative) to -5 (unrousable) used to score agitation and sedation.
 - **Rautek grip** — rescuer behind the casualty grips one of their forearms across the chest from under both armpits to lift and drag them out of a seat or along a floor.
+- **Re-triage** — repeated triage on a schedule and whenever a patient or the available resources change.
 - **Read-back** — repeating a recommendation, dose or time aloud to confirm it was understood correctly.
 - **Recovery position** — side-lying position for an unconscious breathing casualty, head tilted back and chin away from the chest so fluid drains from the mouth; injured side down with a one-sided chest injury.
 - **Red-flag sepsis** — UK Sepsis Trust criteria that on their own mean probable sepsis needing antibiotics within the hour.
@@ -258,6 +276,7 @@ Terms used in the course, in alphabetical order.
 - **RUTF** — ready-to-use therapeutic food, an energy-dense paste used to treat severe acute malnutrition at home.
 - **Safe triangle** — area on the side of the chest bordered by the edges of the chest and back muscles and the nipple level, used for chest drains and thoracostomy.
 - **Saline lock** — a capped IV cannula kept open by regular saline flushes for intermittent use.
+- **SALT triage** — Sort, Assess, Lifesaving interventions, Treatment/transport; mass-casualty triage with five categories: immediate, delayed, minimal, expectant and dead.
 - **SAM / MAM** — severe and moderate acute malnutrition.
 - **Scapular manipulation** — shoulder reduction by pushing the lower tip of the shoulder blade towards the spine while the arm is under gentle traction.
 - **Secondary blast injury** — penetrating wounds from fragments and debris thrown by an explosion.
@@ -271,7 +290,9 @@ Terms used in the course, in alphabetical order.
 - **Simple interrupted suture** — a single stitch through both edges, tied and cut, repeated along the wound.
 - **SIRS** — heart rate above 90, breathing above 20, temperature above 38 °C or below 36 °C (and abnormal white count); early warning signs of systemic inflammation.
 - **Sit up and lean forward** — position TCCC lets a conscious casualty with facial or jaw injuries take so blood drains out of the mouth instead of into the airway.
+- **SIX Cs model** — Moshe Farchi's Israeli model of immediate cognitive-functional psychological first aid: Commitment, Communication, Cognition, Challenge, Control and Continuity; aims to move a person from helplessness to action.
 - **Skin tenting** — skin stretched white over a displaced bone end; it will die within hours unless the bone is realigned.
+- **Sleep inertia** — grogginess and impaired judgement for up to about half an hour after waking, worst when woken from deep sleep.
 - **SLEP** — US Shelf Life Extension Program; tested stored military drug stocks and found most lots stable well beyond their expiry date.
 - **SLUDGE** — Salivation, Lacrimation, Urination, Defecation, GI upset, Emesis: memory aid for cholinergic secretions.
 - **SODIS** — solar disinfection: clear plastic bottles of clear water left in full sun for a day, or two if cloudy.
@@ -293,6 +314,7 @@ Terms used in the course, in alphabetical order.
 - **TCCC** — Tactical Combat Casualty Care, the military trauma care guidelines; current version 01 May 2026.
 - **TECC** — Tactical Emergency Casualty Care, the civilian adaptation of TCCC for all ages and hazards; current version 2025-1-2.
 - **Teleconsultation** — a caregiver discussing a casualty with a remote expert by phone, text or video.
+- **Temporary burial** — emergency storage of documented bodies in marked, mapped graves 1.5 m deep and at least 200 m from drinking water, one layer, 0.4 m apart.
 - **Tension pneumothorax** — pneumothorax in which air enters the chest space with each breath and cannot leave, building pressure that collapses the lung and stops blood returning to the heart.
 - **Tertiary blast injury** — injuries from the body being thrown against objects or crushed by collapse.
 - **Time band** — In this course, the expected time until someone more qualified takes over: minutes to 1 hour, 1 to 72 hours, or days to weeks.
@@ -312,6 +334,8 @@ Terms used in the course, in alphabetical order.
 - **Traumatic brain injury (TBI)** — brain damage from an external force; TCCC 2026 calls it moderate or severe when the casualty cannot follow simple commands beyond 10 minutes after injury.
 - **Triple Protocol** — PRISM sequence of dry decontamination, a 15-30 s high-volume rinse, and a 60-90 s warm technical shower.
 - **Tympanic membrane perforation** — a ruptured eardrum; the commonest primary blast injury; an isolated one does not by itself predict blast lung.
+- **Unaccompanied child** — a child separated from parents and other caregivers; needs one named responsible adult, a written record and verified release.
+- **Unique body code** — identifier given to each dead body or body part at recovery, combining place, team and a sequential number, never a number alone.
 - **Urinary retention** — inability to empty a full bladder, common with opioids, ketamine, pain and lying flat.
 - **Urine output target** — the minimum urine production that suggests adequate circulation: adult 0.5 ml/kg/h, child 1 ml/kg/h, infant 2 ml/kg/h.
 - **Vapour barrier** — an impermeable plastic or foil layer that stops evaporative heat loss in a hypothermia wrap.
@@ -328,5 +352,6 @@ Terms used in the course, in alphabetical order.
 - **X-ABCDE** — Assessment order: exsanguination, airway, breathing, circulation, disability, exposure; also written <C>ABC.
 - **XStat** — applicator that injects small expanding sponges into deep, narrow wound tracts; never removed in the field.
 - **Yankauer tip** — rigid, wide suction tip for clearing blood and vomit from the mouth.
+- **ZAKA** — Israeli volunteer organisation that recovers and transports bodies and human remains, including blood, with religious care.
 - **Zeer pot** — pot-in-pot evaporative cooler of two unglazed clay pots with wet sand between them.
 - **Zinc (for diarrhoea)** — daily zinc for 10-14 days given to children with diarrhoea to shorten it and prevent further episodes.

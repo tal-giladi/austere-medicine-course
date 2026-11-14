@@ -1,0 +1,132 @@
+- id: q1
+  question: >-
+    In a safe room after a direct hit nearby, an 8-year-old girl clings to her mother, who is shaking
+    and cannot answer questions. The child is crying hysterically. Where do you put your effort first?
+  options:
+    - Take the girl to a separate room to calm her down away from her distressed mother.
+    - Give the mother a task, simple choices and the sequence of events, so she can hold her child.
+    - Ask the mother to describe exactly what she saw, so the emotion is released before it sets in.
+    - Tell both of them firmly that they are safe now and that they need to calm down.
+  correct: 1
+  explanation: >-
+    The best support for a child is a functioning caregiver. Using the SIX Cs on the mother (task,
+    choice, continuity, commitment) brings her back to action and keeps the child with her; pushing
+    for the story or saying "calm down" does not help.
+- id: q2
+  question: >-
+    A man who was in the burning car next to a blast is breathing fast, confused and has a headache.
+    His wife says he always panics. What do you do?
+  options:
+    - Treat it as panic with slow breathing, since his wife knows his usual reactions best.
+    - Give him a paper bag to correct the fast breathing, then reassess after five minutes.
+    - Move him to a quiet room alone so he does not frighten the other people in the shelter.
+    - Treat as possible smoke, carbon monoxide or blast injury first; panic is the last diagnosis.
+  correct: 3
+  explanation: >-
+    Confusion and headache after smoke and blast point to carbon monoxide, hypoxia, blast lung or
+    head injury. Rule out medical causes before calling it panic; paper bags lower oxygen.
+- id: q3
+  question: >-
+    You lead a casualty point on day 2. You have been awake for 20 hours and feel clear-headed. The
+    deputy suggests you sleep. Two red patients are stable. What is right?
+  options:
+    - Hand over in writing at the board, name who wakes you and for what, and sleep away from patients.
+    - Stay up, because feeling clear-headed shows you are not yet impaired by fatigue.
+    - Take a nap in the red area so you can still hear and supervise everything that happens.
+    - Use strong coffee every hour until evacuation, then sleep for as long as you need.
+  correct: 0
+  explanation: >-
+    Fatigue impairs performance like alcohol while feeling normal. A written handover, a named
+    deputy and protected sleep out of earshot keep the leader's judgement working for day 3.
+- id: q4
+  question: >-
+    Using SALT, a casualty breathes, obeys commands, has a radial pulse and controlled bleeding, but
+    is in clear respiratory distress. You have oxygen and can decompress the chest. Category?
+  options:
+    - Delayed, because three of the four assessment questions are answered yes.
+    - Minimal, because he obeys commands and can still talk to you in full sentences.
+    - Immediate, because one question is no and he is likely to survive with current resources.
+    - Expectant, because respiratory distress after trauma rarely survives without a hospital.
+  correct: 2
+  explanation: >-
+    In SALT any "no" to the four questions makes a casualty immediate if likely to survive with the
+    current resources, and expectant only if not. Here you can treat him, so he is red.
+- id: q5
+  question: >-
+    Your CCP has run for 30 hours. A telemedicine physician becomes available and the regional
+    command says one patient can be flown out in 2 hours. What should happen now?
+  options:
+    - Continue the routine schedule; resource changes do not affect existing triage categories.
+    - Send the patient who has waited longest, since that is the fairest way to choose.
+    - Ask the volunteers to vote, to share the moral weight of the decision among the team.
+    - A full re-triage round, including expectant patients, then choose by evacuation priority.
+  correct: 3
+  explanation: >-
+    Triage reflects the patient and the resources at the time. A new physician and an evacuation slot
+    are resource changes that trigger re-triage of everyone, then selection by evacuation priority.
+- id: q6
+  question: >-
+    An expectant casualty with massive burns is moaning in pain at 03:00. The only carer free is an
+    exhausted EMT. You hold oral morphine from a palliative prescription. What is the best action?
+  options:
+    - Withhold morphine because it could shorten his life and is reserved for survivable patients.
+    - Give weight-appropriate analgesia after a second person checks the dose, and keep someone with him.
+    - Give the whole remaining supply at once so he is no longer in pain and the carer can rest.
+    - Wait for the morning shift, since decisions made at 03:00 are unreliable and should be delayed.
+  correct: 1
+  explanation: >-
+    Comfort care, including analgesia even if it may worsen vital signs, is the point of the
+    expectant category. In the 02:00-06:00 window a second person checks the dose, and someone stays
+    with him.
+- id: q7
+  question: >-
+    You need helpers for a CCP that will run for days. Which use of untrained volunteers is safest?
+  options:
+    - Sitters for 2-4 patients with a briefing card listing what to report at once and what never to do.
+    - Each volunteer helps wherever they see a need, so nobody is idle during busy periods.
+    - Volunteers loosen tourniquets on a timer so that carers can focus on the red patients.
+    - Volunteers give out painkillers from the supply on request, to save time for the carers.
+  correct: 0
+  explanation: >-
+    Defined roles, a supervisor and a briefing card with clear "call at once" and "never" lists let
+    untrained people help safely. Tourniquets and drugs stay with trained carers.
+- id: q8
+  question: >-
+    You recover a body and, a metre away, a separate hand with a ring. How do you record them?
+  options:
+    - Put the hand in the same bag, since it obviously belongs to the nearest body.
+    - Photograph only the ring, discard the hand, and put the ring in the body's pocket.
+    - Leave the hand in place for the forensic team and record nothing until they arrive.
+    - Give the hand its own unique code, labels, photos and form; do not assume who it belongs to.
+  correct: 3
+  explanation: >-
+    The field manual says a separate body part is managed as if it were a whole body and must not be
+    assumed to belong to a nearby body; matching is for forensic experts.
+- id: q9
+  question: >-
+    It is day 3 in a cut-off village in August. There is no refrigeration and the police can come
+    only next week. Families and the rabbi want burial. What follows the field manual?
+  options:
+    - A single mass grave near the village well, so all the dead are together and close to home.
+    - Temporary individual or trench graves 1.5 m deep, far from water, marked, mapped, with records.
+    - Cremation of the unidentified, since it removes any disease risk and avoids decomposition.
+    - Keep the bodies in the shelter on ice until next week, changing the ice every day.
+  correct: 1
+  explanation: >-
+    With no other option, temporary burial at 1.5 m, at least 200 m from drinking water, one layer,
+    each grave marked with its code and mapped, preserves identification; never mix or cremate the
+    unidentified. Agree it with religious leaders and, if possible, the authorities.
+- id: q10
+  question: >-
+    A woman's husband died at your CCP an hour ago in your care. She is in the green area asking
+    for news. No authority can reach you before tomorrow. What do you do?
+  options:
+    - Wait for the police tomorrow, since only they may notify a family of a death.
+    - Tell her he has been moved to another room and is being looked after for now.
+    - Tell her in a private place with a support person, say "died", give time and answer questions.
+    - Ask a volunteer who knows her to tell her, so the news comes from a familiar face.
+  correct: 2
+  explanation: >-
+    For a death you witnessed, honest information is owed and false hope does harm. A structured
+    approach such as GRIEV_ING (private place, support person, plain words, time, questions) helps;
+    official identification of unknown bodies stays with the authorities.

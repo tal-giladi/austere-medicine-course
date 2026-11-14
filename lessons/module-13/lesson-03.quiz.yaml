@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Day 2 at a cut-off community CCP. A man triaged green yesterday after a blast walked in
+    unaided. A sitter says he is now breathing 28 a minute and his SpO2 is 89%. What do you do?
+  options:
+    - Re-triage him now as immediate, move him to red, and record the time on the board.
+    - Leave him green until the next scheduled four-hourly check of the minimal area.
+    - Move him to expectant, since late breathing problems after blast are rarely survivable.
+    - Reassure him that it is anxiety and use slow breathing with him before rechecking.
+  correct: 0
+  explanation: >-
+    Respiratory distress makes one of SALT's four questions "no", and he is likely to survive with
+    care, so he is immediate. Triage is dynamic: a change in the patient triggers re-triage at once,
+    and delayed blast lung is a known trap.
+- id: q2
+  question: >-
+    A casualty with burns over about 80% and a hoarse voice was placed in expectant at hour 1. At
+    hour 20 she is alive, and a helicopter can take two patients. What does good practice say?
+  options:
+    - Expectant is final once decided, so she stays and the helicopter takes two red patients.
+    - Send her first, because the longest-waiting patient has the strongest claim on transport.
+    - Re-triage everyone by evacuation priority now; resources changed, so she may be a candidate.
+    - Ask her family to decide, since they know her wishes best and it removes the burden from you.
+  correct: 2
+  explanation: >-
+    Expectant is a judgement about current resources and must be reviewed whenever resources change.
+    A confirmed evacuation is such a change; re-sort all patients by evacuation priority.
+- id: q3
+  question: >-
+    Which is the right way to make an expectant decision at a CCP that has been overwhelmed for hours?
+  options:
+    - The most experienced person with a second person, by phone with a physician if possible, written.
+    - The first carer to examine the patient decides quickly, so treatment is not delayed.
+    - Expectant status is avoided entirely, and every casualty receives full treatment in turn.
+    - The decision is based mainly on age, giving younger patients priority for all resources.
+  correct: 0
+  explanation: >-
+    Expectant decisions are grave, made by the most experienced available with a second person and a
+    physician by phone when possible, and recorded with time and reason. Age or identity alone is
+    never the basis.
+- id: q4
+  question: >-
+    You placed a dying man in the expectant area. He is in severe pain. A helper asks whether
+    giving morphine is "giving up". Which answer is correct?
+  options:
+    - Yes; morphine is saved for patients who can survive, so he gets water and company only.
+    - Pain relief is part of comfort care; give analgesia even if it may worsen vital signs.
+    - Only if he asks for it twice, since opioids in the dying are legally forbidden in Israel.
+    - No; give him a full resuscitation dose of IV fluid first and then reassess the pain.
+  correct: 1
+  explanation: >-
+    Expectant care emphasises comfort. The JTS prolonged-care guideline indicates opioids and
+    sedatives for a dying casualty even if they worsen vital signs, with a telemedicine consult where
+    possible.
+- id: q5
+  question: >-
+    Your CCP is on day 2. Half of your haemostatic gauze is gone and three new casualties are
+    expected tonight. What does your pre-agreed rationing rule say?
+  options:
+    - Use the gauze as before; rationing only starts when the last packet is opened.
+    - Give the remaining gauze to the current red patients so none of it is wasted on uncertainties.
+    - Hide part of the stock from the team so nobody uses it without good reason.
+    - At 50%, the leader alone releases it; use substitutes and keep a reserve for new arrivals.
+  correct: 3
+  explanation: >-
+    Trigger rules agreed in advance stop both waste and hoarding: at 50% the leader controls release
+    and substitutes are used, and a small fixed reserve is kept for new survivable bleeding.
