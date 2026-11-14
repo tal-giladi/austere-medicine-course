@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You measure a 2-year-old's left arm with a MUAC tape and read 119 mm. Both feet are normal when
+    pressed. How do you classify her?
+  options:
+    - Severe acute malnutrition, because she is under 125 mm.
+    - Normal, because only readings under 110 mm count.
+    - Moderate acute malnutrition, in the higher-risk 115-119 mm band.
+    - Severe acute malnutrition, because 119 mm is in the red zone.
+  correct: 2
+  explanation: >-
+    Under 115 mm is severe (red), 115 to under 125 mm is moderate (yellow). WHO 2023 flags 115-119 mm
+    as a higher-risk group within moderate wasting that should be prioritised for extra food.
+- id: q2
+  question: >-
+    A 3-year-old with a MUAC of 131 mm has puffy feet. When you press both feet for 3 seconds, a pit
+    remains on both sides; his face is not swollen. What does this mean?
+  options:
+    - Severe acute malnutrition, whatever the MUAC, with grade-one (+) oedema.
+    - He is well nourished, since MUAC is green; the swelling is from sitting.
+    - Moderate malnutrition, because oedema only lowers the class by one step.
+    - Nothing until the oedema reaches the face.
+  correct: 0
+  explanation: >-
+    Bilateral pitting oedema means severe acute malnutrition regardless of MUAC (after other causes
+    are considered). Feet only is grade +. Oedema can make a child look well fed.
+- id: q3
+  question: >-
+    A 14 kg child with severe wasting (MUAC 108 mm) has watery diarrhoea, sunken eyes and a slow
+    skin pinch. A helper starts Plan B, 1050 ml of ORS over 4 hours. What is wrong?
+  options:
+    - Nothing; Plan B is correct for any child with sunken eyes and a slow skin pinch.
+    - Plan B is too slow; a wasted child needs Plan C straight away.
+    - The volume is right but should be given as plain water to avoid salt.
+    - In SAM the signs mislead and fast fluids risk heart failure; go slowly.
+  correct: 3
+  explanation: >-
+    In severe malnutrition sunken eyes and skin pinch may come from wasting, and standard plans can
+    overload the heart. Use ReSoMal or ORS slowly by MSF rates, weigh hourly, stop at overload signs,
+    and get inpatient care.
+- id: q4
+  question: >-
+    Your home-made paper MUAC tape reads 126 mm on a paper tube you rolled to exactly 120 mm. What do
+    you do?
+  options:
+    - Use it, because 6 mm is within the normal range of error for MUAC.
+    - Re-mark it, because 6 mm high would call some yellow children green.
+    - Use it, but subtract 6 mm from readings for children who look thin.
+    - Use it, but pull it 6 mm tighter on every child to compensate.
+  correct: 1
+  explanation: >-
+    Six millimetres is enough to move a child across the 115 or 125 mm cut-off. Re-mark the tape
+    against an accurate ruler and recheck on the test tubes; do not compensate by pulling tighter.
+- id: q5
+  question: >-
+    At night a 2-year-old with severe malnutrition in the shelter becomes drowsy, cold and sweaty.
+    She missed two feeds. What do you do first?
+  options:
+    - Let her sleep and give a large meal at breakfast.
+    - Give 50 ml of 10% sugar water by mouth, warm her skin-to-skin, then feed.
+    - Give Plan B ORS quickly, since drowsiness means dehydration.
+    - Bathe her in warm water to raise her temperature.
+  correct: 1
+  explanation: >-
+    Drowsy, cold and sweaty after missed feeds suggests hypoglycaemia and hypothermia, both common
+    killers in SAM. Sugar water (50 ml of 10%), skin-to-skin warming and feeds every 2-3 hours day and
+    night; then medical care.

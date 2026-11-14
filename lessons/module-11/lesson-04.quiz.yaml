@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You have passed a nasogastric tube in a 6-year-old with some dehydration who vomits every
+    spoonful. You aspirate a little fluid. How do you confirm the tube is in the stomach?
+  options:
+    - Push air down the tube and listen over the stomach for a whoosh.
+    - Put the end of the tube in a cup of water and check that no bubbles appear.
+    - Test the aspirate on a pH strip and use the tube only if the pH is 5.5 or less.
+    - Ask the child to talk; if he can speak, the tube cannot be in the airway.
+  correct: 2
+  explanation: >-
+    An aspirate pH of 5.5 or less (or an X-ray) is the accepted check. The whoosh and bubble tests are
+    unreliable and banned in NHS practice, and speaking does not rule out a fine tube in the airway.
+- id: q2
+  question: >-
+    A 10 kg child has severe dehydration, no one can place an IV or IO, and a confirmed nasogastric
+    tube is in place. At what rate do you run ORS, and for how long?
+  options:
+    - 200 ml per hour for 6 hours, reassessing every 1-2 hours.
+    - 750 ml over 4 hours, as in Plan B, then stop.
+    - 300 ml in the first 30 minutes, then 700 ml over 2.5 hours.
+    - 50 ml per hour until the child can drink, to avoid vomiting.
+  correct: 0
+  explanation: >-
+    WHO's Plan C without IV is ORS by tube at 20 ml/kg per hour for 6 hours: 200 ml/h for 10 kg.
+    Slow down for vomiting or a swollen abdomen; if there is no improvement after 3 hours, IV is needed.
+- id: q3
+  question: >-
+    An 84-year-old man in a cut-off village is mildly dehydrated and confused, and keeps pulling
+    out anything taped to his arms. You have saline bags, giving sets and butterfly needles but no
+    one can find a vein. What is a reasonable plan?
+  options:
+    - Subcutaneous saline under his abdominal skin at 500 ml per 15 minutes.
+    - Subcutaneous saline over the shoulder blade at about 1 ml per minute.
+    - A nasogastric tube, because confusion makes tubes safer than needles.
+    - Home-made boiled salt water under the skin of the thigh, to save the sterile bags.
+  correct: 1
+  explanation: >-
+    Hypodermoclysis suits mild to moderate dehydration in old people. The shoulder blade is the site
+    for someone who pulls lines; about 1 ml per minute, up to about 1.5 L per site per day. Only
+    sterile fluid goes under the skin.
+- id: q4
+  question: >-
+    During nasogastric ORS for a 2-year-old, she starts to cough repeatedly and breathe fast. The
+    tape mark at the nostril has moved 4 cm out. What do you do first?
+  options:
+    - Push the tube back to its original mark and carry on at the same rate.
+    - Speed up the ORS to finish the plan before the tube moves again.
+    - Give the remaining ORS by spoon and leave the tube where it is for later.
+    - Stop the ORS, aspirate, sit her up, and recheck the position before any more fluid.
+  correct: 3
+  explanation: >-
+    Coughing and fast breathing with a displaced tube may mean fluid is entering the airway or she
+    has vomited and aspirated. Stop, sit up, and do not use the tube again until the pH check
+    confirms it is in the stomach.
+- id: q5
+  question: >-
+    A 25-year-old with cholera has a weak radial pulse and is drowsy. You have saline bags and
+    butterfly needles but cannot find a vein. Why is subcutaneous fluid the wrong main treatment?
+  options:
+    - Subcutaneous fluid is absorbed far too slowly to reverse shock.
+    - Subcutaneous fluid is only licensed for people over 65.
+    - Saline under the skin worsens cholera diarrhoea.
+    - Subcutaneous fluid must always be given with hyaluronidase.
+  correct: 0
+  explanation: >-
+    Hypodermoclysis delivers about 1 ml per minute per site and is contraindicated in shock and severe
+    dehydration. This casualty needs IV or IO access by a provider; meanwhile give ORS if he can
+    drink and keep trying for help.

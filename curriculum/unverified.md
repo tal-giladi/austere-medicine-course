@@ -36,3 +36,6 @@ To review before a public release.
 
 ## Module 12
 - NICE pages blocked (NG143, NG240 from memory; RCH checked); IADT antibiotics marked verify; doses from memory: SC DKA insulin, ISPAD sick-day, buccal midazolam bands, rectal diazepam, GINA, nasal glucagon age; alcohol withdrawal regimen (Queensland); doxycycline/clarithromycin/dental antibiotics; posterior Foley volumes; Israeli emergency refill rules; course rules labelled (dexamethasone stand-in, nasal TXA, vinegar ear drops). Module 11 mentioned as plain text — link after module 11 lands.
+
+## Module 11
+- WHO 2005 diarrhoea manual blocked (NG rate, Plan C ORS timing, zinc <6 mo from copies); zinc 5 mg (WHO 2024) vs 20 mg (UNICEF) both taught; GTFCC child doxycycline; Israeli ORS brands besides Minerali, child zinc availability; Israeli bleach strength and derived doses; rice-ORS; teaspoon grams; SODIS times; NG tube details; SC fluids in children; infant MUAC cut-off; Israeli cholera reporting route.

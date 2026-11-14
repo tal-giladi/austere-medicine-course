@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    In a cut-off shelter a father has been giving his 2-year-old with watery diarrhoea only bottled
+    water, about a litre a day, because "salt is bad for children". The child is now drowsy and
+    twitching. What is the most likely problem?
+  options:
+    - The child has too much sodium from the bottled water's minerals.
+    - The child has low blood sodium from replacing salty losses with plain water.
+    - The child has a fever seizure that is unrelated to the fluids given.
+    - The child is simply tired after a day of diarrhoea and needs to sleep.
+  correct: 1
+  explanation: >-
+    Watery stool loses sodium as well as water. Replacing large losses in a child with plain water
+    dilutes the blood sodium, which causes drowsiness and seizures. The fix is ORS, not more water,
+    and this child needs medical care.
+- id: q2
+  question: >-
+    Why does WHO ORS contain glucose, when the goal is to replace water and salt?
+  options:
+    - Glucose gives energy so the patient can keep drinking during the illness.
+    - Glucose makes the solution taste better, so children will accept the salt.
+    - Glucose pulls water into the bowel, which flushes the infection out faster.
+    - Glucose is absorbed together with sodium by a transporter that still works in cholera.
+  correct: 3
+  explanation: >-
+    The SGLT1 transporter takes up glucose and sodium together, and water follows. It keeps working
+    when a toxin makes the gut secrete, which is why salt plus glucose rehydrates and salt alone does
+    not. Excess glucose in the bowel would draw water out, not in.
+- id: q3
+  question: >-
+    A sports drink label says 50 mg sodium and 6 g sugar per 100 ml. A neighbour wants to use it
+    instead of ORS for her dehydrated toddler. What is your assessment?
+  options:
+    - About 22 mmol/L sodium and 60 g/L sugar; too little salt and too much sugar to replace ORS.
+    - About 50 mmol/L sodium and 6 g/L sugar; close enough to ORS for a toddler.
+    - About 75 mmol/L sodium and 60 g/L sugar; fine once diluted one to one with water.
+    - About 5 mmol/L sodium and 6 g/L sugar; harmless but useless for anyone.
+  correct: 0
+  explanation: >-
+    50 mg per 100 ml is 500 mg per litre, divided by 23 is about 22 mmol/L, against 75 in ORS. Sugar
+    6 g per 100 ml is 60 g/L, over four times the 13.5 g of glucose in ORS. Diluting it would also
+    dilute the sodium further.
+- id: q4
+  question: >-
+    You have made a litre of home ORS. You taste it and it is clearly much saltier than tears. What
+    do you do?
+  options:
+    - Use it, because more salt replaces losses faster in severe diarrhoea.
+    - Add two more spoons of sugar to balance the salt, then use it.
+    - Throw it away or dilute it, because too much salt can raise blood sodium dangerously.
+    - Give it only to adults, since only children are harmed by salty solutions.
+  correct: 2
+  explanation: >-
+    A solution clearly saltier than tears is probably overdosed with salt and can cause high blood
+    sodium, especially in infants. Adding sugar makes it more concentrated, not safer. Remake it or
+    dilute it.
+- id: q5
+  question: >-
+    Which of these home drinks does WHO list as a suitable fluid for a child with diarrhoea who is
+    not yet dehydrated?
+  options:
+    - Sweetened black tea with lemon.
+    - A salted yoghurt drink or vegetable soup with salt.
+    - Diluted cola left to go flat.
+    - Freshly squeezed orange juice, undiluted.
+  correct: 1
+  explanation: >-
+    WHO lists salted drinks such as salted rice water or salted yoghurt drinks and soups with salt as
+    suitable home fluids. Soft drinks, sweetened tea and sweetened fruit drinks are listed as
+    unsuitable because the sugar worsens diarrhoea.

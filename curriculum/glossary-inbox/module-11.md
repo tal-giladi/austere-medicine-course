@@ -1,0 +1,25 @@
+# Glossary inbox — Module 11
+
+- ORS (oral rehydration solution) — a drink of water, sodium, glucose, potassium and citrate in fixed amounts that rehydrates through the gut; WHO reduced-osmolarity ORS has 75 mmol/L sodium and 75 mmol/L glucose.
+- Reduced-osmolarity ORS — the WHO/UNICEF formula since 2002 (245 mOsm/L), with less sodium and glucose than the old formula; causes less stool output and vomiting.
+- SGLT1 — the sodium-glucose transporter in the small intestine that carries glucose and sodium in together, with water following; it keeps working in cholera.
+- Home salt-sugar solution — 1 litre of safe water, 6 level teaspoons of sugar and half a level teaspoon of salt.
+- Cereal-based (rice-water) ORS — ORS in which cooked rice or another starch replaces glucose, with salt added.
+- ReSoMal — rehydration solution for severely malnourished children, with less sodium and more potassium than standard ORS.
+- Plan A / Plan B / Plan C — WHO treatment plans for no, some and severe dehydration: ORS after each stool at home; 75 ml/kg ORS over 4 hours; 100 ml/kg IV Ringer's lactate.
+- Zinc (for diarrhoea) — daily zinc for 10-14 days given to children with diarrhoea to shorten it and prevent further episodes.
+- NEX measurement — nose to earlobe to xiphoid; the length of a nasogastric tube needed to reach the stomach in an adult.
+- Hypodermoclysis — slow infusion of sterile fluid into the fat under the skin, for mild to moderate dehydration.
+- Suspected cholera (GTFCC) — before an outbreak: age 2 years or older with acute watery diarrhoea and severe dehydration, or death from it; during an outbreak: anyone with acute watery diarrhoea.
+- High purging — at least one stool per hour on average over the first 4 hours of rehydration; an indication for antibiotics in cholera.
+- Cholera bed — a cot with a hole under the buttocks and a bucket beneath, so a purging patient can lie still and stools can be counted.
+- Line list — a simple table of every case in an outbreak (who, where, when, severity, treatment, outcome) used to spot patterns.
+- Free residual chlorine (FRC) — the chlorine left in water after disinfection; Sphere asks for 0.2-0.5 mg/L at the point of delivery.
+- Sphere minimum standards — humanitarian minimums for water, sanitation, food, shelter and health (for example 15 L of water per person per day, 1 toilet per 20 people).
+- Tippy tap — a foot-operated handwashing station made from a container hung on sticks and tipped with a string pedal.
+- SODIS — solar disinfection: clear plastic bottles of clear water left in full sun for a day, or two if cloudy.
+- F-diagram — the routes by which faeces reach mouths: fluids, fingers, flies, fields and food.
+- MUAC — mid-upper arm circumference; in children 6-59 months, under 115 mm is severe and 115-124 mm moderate acute malnutrition.
+- Bilateral pitting oedema — a pit left in both feet after 3 seconds of thumb pressure; means severe acute malnutrition whatever the MUAC.
+- SAM / MAM — severe and moderate acute malnutrition.
+- RUTF — ready-to-use therapeutic food, an energy-dense paste used to treat severe acute malnutrition at home.

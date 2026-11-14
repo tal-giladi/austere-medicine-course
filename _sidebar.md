@@ -88,3 +88,21 @@
   - [64 · Ankle and fracture-dislocations: realignment when circulation is at risk](lessons/module-10/lesson-03.md)
   - [65 · Long-term splint care and walking out](lessons/module-10/lesson-04.md)
   - [Module 10 quiz](assessments/module-10-quiz.md)
+- Stage 3 — When the system is down: low-resource medicine
+- **Module 11 — Fluids, diarrhoea and outbreaks**
+  - [66 · How oral rehydration works](lessons/module-11/lesson-01.md)
+  - [67 · Making ORS: WHO formula, home recipe and common mistakes](lessons/module-11/lesson-02.md)
+  - [68 · How much to give: WHO plans A, B and C, and zinc](lessons/module-11/lesson-03.md)
+  - [69 · When they can't drink: nasogastric and subcutaneous fluids](lessons/module-11/lesson-04.md)
+  - [70 · Cholera and outbreak control in a shelter](lessons/module-11/lesson-05.md)
+  - [71 · Water, toilets and hygiene for a group](lessons/module-11/lesson-06.md)
+  - [72 · Malnutrition screening with MUAC in children](lessons/module-11/lesson-07.md)
+  - [Module 11 quiz](assessments/module-11-quiz.md)
+- **Module 12 — Medicine without a doctor**
+  - [73 · Fever and infection: who is dangerous](lessons/module-12/lesson-01.md)
+  - [74 · Common infections: chest, urine, skin, ear, throat and gut](lessons/module-12/lesson-02.md)
+  - [75 · Chronic patients without their medication](lessons/module-12/lesson-03.md)
+  - [76 · Stockpiling medication: what to keep, shelf life and storage](lessons/module-12/lesson-04.md)
+  - [77 · Dental emergencies: knocked-out tooth, lost filling, abscess](lessons/module-12/lesson-05.md)
+  - [78 · Eye, ear and nose problems: foreign bodies and severe nosebleed](lessons/module-12/lesson-06.md)
+  - [Module 12 quiz](assessments/module-12-quiz.md)

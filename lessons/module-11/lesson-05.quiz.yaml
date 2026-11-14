@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    In a shelter of 150 people, no outbreak has been declared. Today a 35-year-old woman has profuse
+    painless watery diarrhoea with severe dehydration, and yesterday a 68-year-old man died of acute
+    watery diarrhoea. What is the right reaction?
+  options:
+    - Wait for a laboratory result before changing anything in the shelter.
+    - Treat it as suspected cholera, start the controls and report to the health office.
+    - Give every person in the shelter a single dose of doxycycline today.
+    - Move the woman out of the shelter and close it to new arrivals.
+  correct: 1
+  explanation: >-
+    Both fit the GTFCC suspected-cholera definition where no outbreak is declared. Act and report
+    now. Mass antibiotic prophylaxis is not recommended, and treating close to the family works better
+    than expulsion.
+- id: q2
+  question: >-
+    Which cholera patient does NOT need an antibiotic under GTFCC indications?
+  options:
+    - A 30-year-old pregnant woman with some dehydration.
+    - A 45-year-old man passing more than one stool per hour during the first 4 hours.
+    - A 72-year-old woman with some dehydration.
+    - A 25-year-old man with no dehydration and three loose stools a day.
+  correct: 3
+  explanation: >-
+    Antibiotics go to patients with severe dehydration and, whatever the dehydration, to high purging,
+    failure of the first 4 hours, pregnancy, malnutrition or other illness, and age over 60. A
+    non-dehydrated young adult needs ORS only.
+- id: q3
+  question: >-
+    A 15 kg, 4-year-old girl with cholera and severe dehydration has been rehydrated and the local
+    strain is sensitive to doxycycline. Which antibiotic plan fits GTFCC guidance?
+  options:
+    - Doxycycline 30-60 mg by mouth as a single dose.
+    - Doxycycline 100 mg twice daily for 7 days.
+    - No antibiotic, because doxycycline is forbidden under 8 years.
+    - Ciprofloxacin 500 mg twice daily for 3 days.
+  correct: 0
+  explanation: >-
+    GTFCC gives children under 12 doxycycline 2-4 mg/kg as a single dose (30-60 mg for 15 kg) and
+    considers the old tooth-staining concern minor for a single dose. Azithromycin 20 mg/kg single dose
+    is the alternative.
+- id: q4
+  question: >-
+    Your bleach label says 4% sodium hypochlorite. How do you make 1 litre of 0.2% solution for
+    wiping cholera beds?
+  options:
+    - 5 ml of bleach made up to 1 litre with water.
+    - 200 ml of bleach made up to 1 litre with water.
+    - 50 ml of bleach made up to 1 litre with water.
+    - 500 ml of bleach mixed with 500 ml of water.
+  correct: 2
+  explanation: >-
+    Bleach per litre is 1000 × wanted strength ÷ bleach strength: 1000 × 0.2 ÷ 4 is 50 ml. 500 ml
+    plus 500 ml would make 2%, the strength for buckets and bodies.
+- id: q5
+  question: >-
+    Volunteers want to put chlorine footbaths at every door and spray the sleeping areas daily. You
+    have limited bleach. Where is it best used?
+  options:
+    - Footbaths at every door, since cholera is carried on shoes.
+    - Spraying the sleeping areas, then the toilets if any is left.
+    - Spraying people as they enter the cholera corner.
+    - Handwashing points, stool and vomit buckets, beds and drinking water.
+  correct: 3
+  explanation: >-
+    GTFCC finds no evidence that footbaths help, and household spraying is not recommended in many
+    guidelines. Cholera spreads by faeces to hands, water and food, so chlorine goes to hands,
+    buckets, surfaces and drinking water.

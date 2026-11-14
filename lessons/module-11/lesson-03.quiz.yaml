@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A 12 kg two-year-old is restless, has sunken eyes and grabs the cup and drinks eagerly. Skin
+    pinch goes back slowly. How much ORS do you give, and over what time?
+  options:
+    - 100-200 ml after each loose stool only, since she is still drinking.
+    - About 900 ml over 4 hours, plus extra for each further stool, then reassess.
+    - About 1200 ml over 30 minutes, because eager drinking means severe dehydration.
+    - About 360 ml over 1 hour, then 840 ml over the next 5 hours.
+  correct: 1
+  explanation: >-
+    Restless, sunken eyes, thirsty and slow skin pinch is some dehydration: Plan B, 75 ml/kg over
+    4 hours, so 12 × 75 is 900 ml, plus Plan A amounts for further stools. The 30 then 70 ml/kg
+    schedule is Plan C, given intravenously.
+- id: q2
+  question: >-
+    Two hours into Plan B, a 9-month-old's eyelids become puffy. He is alert and has passed urine.
+    What do you do?
+  options:
+    - Speed up the ORS, since puffy eyes are a sign of worsening dehydration.
+    - Continue the full Plan B volume, because the 4 hours are not finished.
+    - Stop all fluids including breast milk until the puffiness has gone.
+    - Stop the ORS, give breast milk or plain water, and restart Plan A when it settles.
+  correct: 3
+  explanation: >-
+    Puffy eyelids during Plan B are a sign of too much fluid. WHO and MSF say stop ORS, continue
+    breastfeeding or give plain water, and return to Plan A once the puffiness is gone.
+- id: q3
+  question: >-
+    A 4-year-old with watery diarrhoea is not dehydrated. You have only an adult zinc supplement
+    labelled "zinc gluconate 50 mg, equivalent to 7 mg elemental zinc". What is a reasonable plan?
+  options:
+    - One crushed tablet daily in a spoon of ORS for 10-14 days.
+    - No zinc, because zinc is only for children who are dehydrated.
+    - Seven tablets a day, to reach 50 mg of zinc gluconate.
+    - Half a tablet once only, since a single dose is enough.
+  correct: 0
+  explanation: >-
+    Zinc is for every child with diarrhoea, whatever the dehydration. The dose is counted as elemental
+    zinc; 7 mg daily lies between the 5 mg WHO now suggests and the classic 20 mg, given for 10-14 days.
+- id: q4
+  question: >-
+    An 8 kg infant is lethargic, will not drink, has a very slow skin pinch and cold hands. No one
+    in the shelter can start an IV and no help can arrive for many hours. What is the best course?
+  options:
+    - Give 30 ml/kg of ORS by spoon over 30 minutes, then stop and wait for help.
+    - Give 75 ml/kg of ORS over 4 hours, as for any child who is dehydrated.
+    - Give ORS by nasogastric tube at about 160 ml per hour for 6 hours and keep seeking help.
+    - Give nothing by mouth or tube, because severe dehydration needs IV fluids only.
+  correct: 2
+  explanation: >-
+    This is severe dehydration. Without IV or IO access, WHO allows ORS by nasogastric tube (or by
+    mouth) at 20 ml/kg/h for 6 hours, 160 ml/h for 8 kg. It cannot reverse true shock quickly,
+    so keep trying to get a provider.
+- id: q5
+  question: >-
+    A father asks for loperamide to stop his 3-year-old's watery diarrhoea so the family can sleep.
+    What do you tell him?
+  options:
+    - Give a quarter of an adult dose, which is safe for small children.
+    - Give it only at night, when the diarrhoea is most tiring.
+    - Give it only if the child also has blood in the stool.
+    - Do not give it to children; give ORS, zinc and food instead.
+  correct: 3
+  explanation: >-
+    WHO advises against antidiarrhoeal drugs in children. The treatment is fluid replacement, zinc and
+    continued feeding. Blood in the stool needs an antibiotic, never an antidiarrhoeal.

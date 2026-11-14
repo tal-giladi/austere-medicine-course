@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    After an earthquake, 200 people sleep in a school. On day 1 you can set up toilets. What is the
+    Sphere target now, and what should it become?
+  options:
+    - 10 toilets now (1 per 20), 20 later (1 per 10).
+    - 4 toilets now (1 per 50), 10 as soon as possible (1 per 20).
+    - 2 toilets now (1 per 100), 4 later (1 per 50).
+    - 1 toilet per classroom now, regardless of how many people sleep there.
+  correct: 1
+  explanation: >-
+    Sphere accepts 1 shared toilet per 50 people in the first phase of a rapid-onset crisis and asks
+    for 1 per 20 as soon as possible, with 3 female toilets for every male one and a handwashing
+    station at each.
+- id: q2
+  question: >-
+    Your bleach label says 3.5% sodium hypochlorite. The tap water in the shelter is clear but
+    untrusted. How do you chlorinate a 20 L jerrycan for drinking?
+  options:
+    - Add about 2.5 ml, stir well and let people drink it after 5 minutes.
+    - Add about 50 ml, so a strong chlorine taste proves it has worked.
+    - Add about 4.5 ml, stir, wait 30 minutes, then check for a faint smell.
+    - Add 2 drops in total, the same as the CDC dose for one litre.
+  correct: 2
+  explanation: >-
+    CDC's dose for 5-9% bleach is about 2.5 ml per 19 L; weaker 3-4% bleach needs roughly double,
+    about 4.5 ml. Wait at least 30 minutes, then look for a slight smell or test for 0.2 mg/L or
+    more. 50 ml is a cleaning-strength overdose.
+- id: q3
+  question: >-
+    The shelter's water tank is chlorinated and tests at 0.4 mg/L, yet diarrhoea keeps spreading.
+    Families dip their own cups into open buckets of the tank water by their beds. What is the
+    most likely problem and fix?
+  options:
+    - The chlorine dose at the tank is too low; triple it and test again daily.
+    - The tank must be emptied, and all water boiled instead of chlorinated.
+    - The water is fine; the cause must be a virus that chlorine cannot kill.
+    - Water is recontaminated after collection; give covered containers with taps.
+  correct: 3
+  explanation: >-
+    Sphere warns that safe water is often recontaminated during collection and storage. Hands and
+    cups dipped into open buckets reintroduce faeces. Covered containers with taps and testing at
+    the point of use fix it.
+- id: q4
+  question: >-
+    Where do you dig the trench latrine for a group camped near a spring that supplies their
+    drinking water?
+  options:
+    - At least 30 m from the spring and downhill from it, within 50 m of the tents.
+    - Right beside the spring, so people wash hands with running water after use.
+    - Uphill from the spring, so waste drains away from the tents.
+    - At least 200 m from the tents, so smell does not reach the camp.
+  correct: 0
+  explanation: >-
+    Sphere: containment at least 30 m from water sources, pit bottom 1.5 m above groundwater, and
+    toilets no more than 50 m from dwellings so people use them, day and night.
+- id: q5
+  question: >-
+    A shelter has 10,000 litres of water for 100 people for 10 days. What does Sphere advise?
+  options:
+    - Keep all of it for drinking only, at 10 L per person per day, and stop handwashing.
+    - Use it for drinking, cooking and hygiene, about 10 L per person per day.
+    - Reject the water unless it can all be brought to drinking quality first.
+    - Ration it to 2.5 L per person per day, so it lasts four times as long.
+  correct: 1
+  explanation: >-
+    Ten litres per person per day is below the 15 L minimum but above the 7.5 L short-term survival
+    figure. Sphere puts quantity before quality and includes hygiene, because handwashing stops
+    outbreaks.

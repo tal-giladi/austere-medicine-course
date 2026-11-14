@@ -157,7 +157,7 @@ Most sore throats are viral. MSF uses the **Centor score**, 1 point each: temper
 
 ### Gut
 
-Most diarrhoea and vomiting is viral or toxin-related: **oral rehydration is the treatment** (Module 11), with zinc for children. Antibiotics are for:
+Most diarrhoea and vomiting is viral or toxin-related: **oral rehydration is the treatment** ([lesson 11.3](../module-11/lesson-03.md)), with zinc for children. Antibiotics are for:
 
 | Situation | First line (MSF) | Alternative | Duration |
 |---|---|---|---|
@@ -211,7 +211,7 @@ https://www.youtube.com/watch?v=zpjrHWcQq78
 | Amoxicillin for cellulitis | Staph often resistant | Cefalexin or amoxicillin-clavulanate |
 | Amoxicillin for a sore throat that is glandular fever | Widespread itchy rash (not true allergy) | Stop; record "rash with EBV", not "penicillin allergy" |
 | Looking down the throat of a drooling child with stridor | Complete airway obstruction | Keep calm, upright, evacuate |
-| Antibiotic for watery diarrhoea | No benefit, side effects | ORS and zinc (Module 11) |
+| Antibiotic for watery diarrhoea | No benefit, side effects | ORS and zinc ([lesson 11.3](../module-11/lesson-03.md)) |
 
 ## Scope and law
 

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    In the shelter you find ORS sachets marked "dissolve in 200 ml". A volunteer has been dissolving
+    one sachet in each 1.5 L bottle of mineral water. What is the effect?
+  options:
+    - The solution is too concentrated and could raise the children's blood sodium.
+    - The solution is correct, because sachets are designed to work in any volume.
+    - The solution is about seven times too dilute and gives too little salt and glucose.
+    - The solution is slightly weak but fine, since dilute ORS works the same way.
+  correct: 2
+  explanation: >-
+    A 200 ml sachet in 1500 ml is diluted about 7.5 times. A slightly dilute solution is not
+    dangerous, but this one carries far too little sodium and glucose to rehydrate. Always read the
+    volume on the sachet.
+- id: q2
+  question: >-
+    You have no sachets, a bag of fine table salt, sugar and only cutlery spoons. What is the best
+    way to make the home recipe accurately?
+  options:
+    - Use 6 heaped cutlery teaspoons of sugar and half a heaped one of salt.
+    - Use one level tablespoon of sugar and one level teaspoon of salt per litre.
+    - Use your cutlery spoons level, since any spoon is close to 5 ml.
+    - Measure 30 ml of sugar and 2.5 ml of salt with a syringe, both level, into 1 L.
+  correct: 3
+  explanation: >-
+    Household teaspoons vary from about 2.5 to 7.3 ml. Six level 5 ml teaspoons of sugar is 30 ml and
+    half a level teaspoon of salt is 2.5 ml; a syringe removes the spoon error. Heaped spoons and
+    tablespoons overdose the salt.
+- id: q3
+  question: >-
+    A mother wants to make home ORS "nicer" for her 8-month-old by adding two teaspoons of honey and
+    some apple juice. What do you tell her?
+  options:
+    - Do not add them; extra sugar worsens diarrhoea and honey is unsafe under 1 year.
+    - Honey is fine because it is natural, but leave out the juice.
+    - Add them; a child who drinks a sweeter solution gets more fluid overall.
+    - Add only the juice, because juice replaces the potassium the home recipe lacks.
+  correct: 0
+  explanation: >-
+    Extra sugar draws water into the bowel and makes diarrhoea worse, and honey carries a botulism
+    risk in infants under 12 months. Potassium is better given as food once the child eats.
+- id: q4
+  question: >-
+    You made salted rice-water ORS at 8 a.m. in a hot shelter. At 6 p.m. it smells sour and has
+    small bubbles. What do you do?
+  options:
+    - Use it, since boiling during preparation made it sterile for the whole day.
+    - Throw it away and make a fresh batch; starch drinks ferment within hours.
+    - Add half a teaspoon of salt to stop the fermentation and use it.
+    - Boil it again for 10 minutes and use it once it has cooled.
+  correct: 1
+  explanation: >-
+    Cereal-based ORS spoils quickly at room temperature; the course rule is to use it within 6-8 hours.
+    Sour smell and bubbles mean fermentation. Make fresh rather than trying to rescue it.
+- id: q5
+  question: >-
+    At a pharmacy you compare a "hydration powder" and an ORS product. Which label tells you the
+    product can replace WHO ORS?
+  options:
+    - Sodium 20 mmol/L, sugar 60 g/L, with added vitamins and caffeine.
+    - Sodium 5 mmol/L, potassium 40 mmol/L, sugar 25 g/L, from coconut water.
+    - Sodium 60 mmol/L, potassium 20 mmol/L, glucose 16 g/L, citrate 10 mmol/L.
+    - Sodium 150 mmol/L, glucose 13.5 g/L, sold as a "concentrate" for athletes.
+  correct: 2
+  explanation: >-
+    Sodium about 45-90 mmol/L with glucose roughly equal in mmol is an ORS. Sports powders have too
+    little sodium and too much sugar, coconut water too little sodium, and 150 mmol/L would raise
+    blood sodium.

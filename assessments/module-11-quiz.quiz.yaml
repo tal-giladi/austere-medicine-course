@@ -1,0 +1,142 @@
+- id: q1
+  question: >-
+    A week into a water cut, a grandmother has been treating her grandson's diarrhoea with cola "to
+    give him energy". He is passing more stool than before. What explains it, and what do you give
+    instead?
+  options:
+    - Cola has too much salt; give plain water until the diarrhoea stops.
+    - Cola is fine, but he needs it diluted one to one with water.
+    - Cola's sugar without sodium pulls water into the bowel; give ORS by plan.
+    - Cola has caffeine, which is the only problem; give caffeine-free soft drinks.
+  correct: 2
+  explanation: >-
+    Soft drinks carry a large sugar load with almost no sodium, so unabsorbed sugar draws water into
+    the gut. ORS balances sodium and glucose so both are absorbed together and water follows.
+- id: q2
+  question: >-
+    You have salt, sugar, a 1.5 L mineral water bottle, cutlery spoons and a 10 ml syringe. A
+    neighbour asks for "the recipe" for her vomiting toddler. What do you hand her?
+  options:
+    - 1 L measured to a line on the bottle, 30 ml of sugar and 2.5 ml of salt by syringe.
+    - The full 1.5 L bottle, 6 cutlery teaspoons of sugar and half a cutlery teaspoon of salt.
+    - 1 L of water, one tablespoon of sugar and one tablespoon of salt, stirred well.
+    - The full 1.5 L bottle with 9 heaped teaspoons of sugar and a level teaspoon of salt.
+  correct: 0
+  explanation: >-
+    The WHO home recipe is 1 L of water, 6 level 5 ml teaspoons of sugar (30 ml) and half a level
+    teaspoon of salt (2.5 ml). Cutlery spoons range from about 2.5 to 7.3 ml, so a syringe removes
+    the error; 1.5 L is not 1 L.
+- id: q3
+  question: >-
+    A 16 kg 4-year-old is irritable, has sunken eyes, drinks eagerly and her skin pinch goes back
+    slowly. MUAC is 141 mm. Her mother can stay with her in the shelter's health corner. What plan
+    do you write?
+  options:
+    - ORS 100-200 ml after each stool at home, and come back in 2 days.
+    - Ringer's lactate 480 ml in 30 minutes, then 1120 ml over 2.5 hours.
+    - ORS 20 ml/kg per hour by nasogastric tube for 6 hours.
+    - ORS 1200 ml over 4 hours, extra per stool, zinc, reassess at 4 hours.
+  correct: 3
+  explanation: >-
+    Two or more signs of some dehydration in a well-nourished child: Plan B, 75 ml/kg (1200 ml) over
+    4 hours, plus 100-200 ml per further stool, zinc, and reassessment at 4 hours. Plan C is for
+    severe dehydration.
+- id: q4
+  question: >-
+    A 9 kg baby with severe dehydration cannot drink. No one can place an IV or IO for hours. You
+    have NG tubes, an enteral syringe and ORS but no pH strips. After insertion, you aspirate cloudy
+    fluid. What is the safest decision?
+  options:
+    - Confirm by pushing air and listening over the stomach, then run 180 ml per hour.
+    - Do not run fluid through an unconfirmed tube; get pH paper or use another route.
+    - Run the ORS slowly; aspirate was obtained, so the tube must be in the stomach.
+    - Run ORS at 20 ml/kg/h, because the risk of the airway is lower in babies.
+  correct: 1
+  explanation: >-
+    Only an aspirate pH of 5.5 or less (or an X-ray) confirms placement; the whoosh test is
+    unreliable and fluid in the lungs can kill. Find pH paper (pool or aquarium kits) or use
+    syringe-in-cheek, rectal or other routes while seeking help.
+- id: q5
+  question: >-
+    An 80 kg man with suspected cholera had severe dehydration and has been rehydrated. Which
+    antibiotic order matches GTFCC guidance if the local strain is sensitive to doxycycline?
+  options:
+    - Doxycycline 100 mg twice daily for 7 days.
+    - Doxycycline 300 mg by mouth as a single dose.
+    - Ciprofloxacin 500 mg twice daily for 5 days.
+    - No antibiotic, because rehydration alone is enough for every cholera patient.
+  correct: 1
+  explanation: >-
+    Severe dehydration is an indication. GTFCC's first choice for adults, including pregnant women,
+    is doxycycline 300 mg as a single dose; azithromycin 1 g or ciprofloxacin 1 g single doses are
+    the alternatives.
+- id: q6
+  question: >-
+    You are setting up a cholera corner in a sports hall. Your bleach is 5%. Which set of
+    solutions and uses is right?
+  options:
+    - 2% for handwashing, 0.2% for stool buckets, 0.05% for the dead.
+    - 0.5% for everything, including handwashing and drinking water.
+    - 0.2% footbaths at every door and sprayed on all sleeping mats daily.
+    - 0.05% for hands and laundry, 0.2% for beds and floors, 2% for buckets and the dead.
+  correct: 3
+  explanation: >-
+    MSF uses 0.05% for hands and laundry, 0.2% for surfaces, beds and utensils, and 2% for stool and
+    vomit buckets and bodies. With 5% bleach that is 10 ml, 40 ml and 400 ml per litre. Footbaths
+    and spraying show no benefit.
+- id: q7
+  question: >-
+    A public shelter holds 90 people with the mains water cut for 5 days. What is the Sphere-based
+    plan for water and toilets?
+  options:
+    - About 6,750 L of water, 2 toilets at first, rising to 5, with handwashing at each.
+    - About 1,350 L of water, 1 toilet, and handwashing only in the kitchen.
+    - About 13,500 L of water, 9 toilets on day 1, no handwashing needed if water is short.
+    - About 2,250 L of water for drinking only, with toilets once water returns.
+  correct: 0
+  explanation: >-
+    Sphere: 15 L per person per day (90 × 15 × 5 is 6,750 L), 1 toilet per 50 people at first then
+    1 per 20 (5), and a handwashing station with soap at every shared toilet.
+- id: q8
+  question: >-
+    Your shelter's only bleach is a 3.5% household product and you must make 20 L of drinking water
+    safe. The water is cloudy after rain. What do you do?
+  options:
+    - Add about 2.5 ml straight away and drink after 10 minutes.
+    - Add 2 drops and wait 30 minutes, since cloudy water needs less chlorine.
+    - Settle and filter, add about 9 ml, wait 30 minutes, check the smell.
+    - Skip treatment and boil only the water for children under 5.
+  correct: 2
+  explanation: >-
+    Clear the water first, then use about 4.5 ml per 20 L for 3-4% bleach, doubled to about 9 ml for
+    cloudy water (CDC, EPA), wait at least 30 minutes and expect a slight chlorine smell or test for
+    0.2 mg/L or more.
+- id: q9
+  question: >-
+    An elderly woman in a cut-off village is mildly dehydrated, cannot swallow safely after a stroke,
+    and has no usable veins. You have sterile saline, giving sets and butterfly needles. What is a
+    reasonable plan?
+  options:
+    - Spoon ORS into her mouth slowly, since mild dehydration needs nothing else.
+    - Run 1 litre of saline into her thigh over 30 minutes to correct it quickly.
+    - Boil salted tap water, cool it, and run it under the skin of her abdomen.
+    - Subcutaneous saline at about 1 ml per minute, up to about 1.5 L per site per day.
+  correct: 3
+  explanation: >-
+    Hypodermoclysis suits mild to moderate dehydration in older people who cannot drink. About 1 ml
+    per minute, up to 1-1.5 L per site per day; only sterile fluid. Oral fluids risk aspiration after
+    a stroke, and fast infusions do not absorb.
+- id: q10
+  question: >-
+    During screening, a 20-month-old has a MUAC of 111 mm and no oedema. He has watery diarrhoea,
+    eats well and has no fever. Which response is right?
+  options:
+    - "Severe malnutrition: slow ORS, frequent feeds, refer for therapeutic food."
+    - "Moderate malnutrition: Plan B ORS and extra porridge at home."
+    - "Normal for his age: Plan A ORS and zinc only."
+    - "Severe malnutrition: Plan C, because wasted children dehydrate faster."
+  correct: 0
+  explanation: >-
+    Under 115 mm is severe acute malnutrition. Standard Plans B and C risk overload; use ReSoMal or
+    ORS slowly (5 ml/kg per stool), feed often day and night, and get him into a therapeutic feeding
+    programme. With good appetite and no complications, outpatient care is possible.
