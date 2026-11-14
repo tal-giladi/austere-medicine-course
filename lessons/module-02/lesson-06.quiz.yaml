@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    After a rocket hits a building, a woman is pulled from the rubble with an above-knee near-
+    amputation. She denies pelvic pain and her pelvis looks normal. Does she need a pelvic binder?
+  options:
+    - No, because she has no pelvic pain and no visible pelvic deformity.
+    - Only after you squeeze the pelvis gently and confirm that it moves.
+    - No, because binders are meant only for falls and car crashes.
+    - Yes - blast plus a major lower-limb near-amputation is an indication.
+  correct: 3
+  explanation: >-
+    TCCC 2026 lists severe blunt or blast injury plus any one of: pelvic pain, major lower-limb
+    amputation or near-amputation, signs of fracture, unconsciousness or shock. Never squeeze the
+    pelvis to test it.
+- id: q2
+  question: >-
+    A helper has tied a folded sheet tightly around a casualty's waist, over the belly button. What
+    do you do?
+  options:
+    - Leave it, because any circumferential compression helps a pelvic fracture.
+    - Move it down to the greater trochanters, level with the pubic bone, and re-secure it.
+    - Add a second sheet lower down and keep the first one as extra support.
+    - Loosen it slightly so the casualty can breathe, and keep it at the waist.
+  correct: 1
+  explanation: >-
+    A binder works at the level of the greater trochanters and pubic symphysis. At the waist it
+    squeezes the abdomen and does little for the pelvic ring.
+- id: q3
+  question: >-
+    You are improvising a pelvic binder from a bed sheet with one helper. Which method is most
+    likely to hold through a carry down the stairs?
+  options:
+    - A 20 cm folded sheet pulled by two people, fixed with cable ties.
+    - The sheet twisted into a rope and tied around the hips with a bow.
+    - A leather belt buckled as tight as possible around the hips.
+    - The sheet laid flat under the pelvis and tucked in at both sides.
+  correct: 0
+  explanation: >-
+    A wide band spreads the pressure, two people keep tension while it is secured, and cable ties or
+    clamps hold better than a knot. Ropes and belts are too narrow and a flat sheet compresses
+    nothing.
+- id: q4
+  question: >-
+    Thirty minutes after you applied a binder correctly, the casualty is paler, more confused and
+    his radial pulse is weaker. What does this mean?
+  options:
+    - The binder is far too tight and must come off immediately.
+    - He is reacting to the pain of the binder, which will soon settle.
+    - He may still be bleeding inside; recheck the binder and evacuate urgently.
+    - The binder has fixed the fracture, so this must be a new head injury.
+  correct: 2
+  explanation: >-
+    A binder buys time but does not stop arterial bleeding. Worsening shock means ongoing internal
+    bleeding: check that the binder has not ridden up, treat shock and evacuate urgently.
+- id: q5
+  question: >-
+    In the module drill, you have converted a thigh tourniquet and the dressing has stayed dry for
+    30 minutes. Two tourniquets are on the limb: the old over-trousers one and the loosened skin one.
+    What is correct?
+  options:
+    - Remove both tourniquets so that the limb has no pressure on it at all.
+    - Retighten the skin tourniquet slightly to protect the new conversion.
+    - Leave both loosened in place and record nothing until the handover.
+    - Remove the old one, leave the skin one loose in place, record the time.
+  correct: 3
+  explanation: >-
+    The loosened skin tourniquet stays as a ready backup; the extra one can come off. Every
+    tourniquet event, including removal, goes on the card with its time.

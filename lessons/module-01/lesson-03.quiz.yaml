@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    You are alone with a casualty who has a gurgling airway from a jaw wound and a steadily pumping
+    wound on his thigh. What do you do first?
+  options:
+    - >-
+      Clear and position the airway, because airway always comes first in any casualty.
+    - >-
+      Put a tourniquet on the thigh, then sit him up and lean him forward to drain the mouth.
+    - >-
+      Call MDA and wait on the line for instructions before touching him.
+    - >-
+      Pack the jaw wound with gauze to stop the gurgling, then deal with the leg.
+  correct: 1
+  explanation: >-
+    With massive limb bleeding, a tourniquet takes seconds and stops the fastest killer. The airway
+    comes immediately after, by positioning (sit up, lean forward) rather than by packing the mouth.
+- id: q2
+  question: >-
+    What did the IDF Medical Corps guideline of 30 April 2024 change, according to the registry
+    study of the Gaza ground operation?
+  options:
+    - >-
+      It required intubation of every unconscious casualty before evacuation.
+    - >-
+      It replaced tourniquets with pressure dressings for most limb wounds.
+    - >-
+      It limited airway and chest procedures, and their use fell with mortality unchanged.
+    - >-
+      It stopped the use of blood products in the field to save time for evacuation.
+  correct: 2
+  explanation: >-
+    The guideline limited the indications for definitive airway management and chest
+    decompression. Intubation or cric fell from 3.8% to 0.8% and decompression from 2.8% to 0.0%,
+    while mortality and blood product use stayed stable.
+- id: q3
+  question: >-
+    A 15-year-old is pulled out of a pool, not breathing, with no visible injuries. How does
+    "circulation first" apply?
+  options:
+    - >-
+      Do a full blood sweep before anything else, since bleeding is the top killer.
+    - >-
+      Apply a pelvic binder first in case of hidden bleeding from the fall in.
+    - >-
+      Check the radial pulse for a full minute to decide whether he is in shock.
+    - >-
+      It doesn't; this is not bleeding trauma, so open the airway and start resuscitation.
+  correct: 3
+  explanation: >-
+    Circulation first is a rule for trauma with bleeding. Drowning is a breathing problem with no
+    bleeding, so the airway and resuscitation come first.
+- id: q4
+  question: >-
+    During your sweep you find a tourniquet-able wound on the forearm. What should you do next?
+  options:
+    - >-
+      Apply the tourniquet and finish the sweep before working on any single wound in detail.
+    - >-
+      Spend the next few minutes dressing the forearm carefully so it doesn't need re-doing.
+    - >-
+      Stop the sweep and check the airway, since one bleeding site has now been found.
+    - >-
+      Note the wound and come back to it after you have counted breathing for a full minute.
+  correct: 0
+  explanation: >-
+    Stop the life threat with the fastest tool, then complete the sweep. Blast and gunshot
+    casualties often have several wounds, and the one you miss on the back can be the one that
+    kills.
+- id: q5
+  question: >-
+    You have no gauze. A deep wound in the groin is bleeding heavily. Which improvised material is
+    the best choice for packing it?
+  options:
+    - >-
+      Several tampons pushed in side by side.
+    - >-
+      Long strips torn from a clean cotton T-shirt.
+    - >-
+      Paper towels folded into a thick pad.
+    - >-
+      A synthetic sports shirt rolled into a ball.
+  correct: 1
+  explanation: >-
+    Long strips of clean cotton can fill the wound cavity from the bottom and hold pressure.
+    Tampons are too small, paper falls apart, and synthetic fabric doesn't absorb. Press on top for
+    at least 3 minutes.

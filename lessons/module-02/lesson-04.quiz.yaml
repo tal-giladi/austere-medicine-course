@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    In a safe room with no evacuation for at least 5 hours, a casualty has had a tourniquet on the
+    skin above a calf wound for 50 minutes. He is alert with a strong radial pulse and you can stay
+    with him. What do you do?
+  options:
+    - Convert now - pack, press 3 minutes, pressure bandage, release slowly over one minute.
+    - Leave the tourniquet on until evacuation, because conversion is a hospital procedure.
+    - Wait until the tourniquet reaches 2 hours, then convert, to let the wound clot first.
+    - Remove the tourniquet completely and watch the wound without a dressing.
+  correct: 0
+  explanation: >-
+    He meets all three criteria and is well inside 2 hours. TCCC 2026 says convert as soon as
+    possible and make every effort to do it in less than 2 hours; waiting only costs muscle.
+- id: q2
+  question: >-
+    A casualty has a tourniquet above a thigh wound for 1 hour 30 minutes. Her radial pulse is weak
+    and she is confused, with no head injury. Should you convert?
+  options:
+    - Yes, because the 2-hour deadline is close and the limb matters most now.
+    - Yes, but release the tourniquet quickly so the bleeding check is short.
+    - No - she is in shock, so treat the shock and keep the tourniquet on.
+    - No, because a tourniquet on longer than one hour can never be converted.
+  correct: 2
+  explanation: >-
+    A weak radial pulse and altered mental status mean shock, which fails the first criterion.
+    Resuscitate and recheck; if shock persists the tourniquet stays.
+- id: q3
+  question: >-
+    You are an EMT-level responder. A tourniquet has been on an arm for 3 hours, the casualty is
+    stable, and your phone works. According to TCCC 2026, what is the right approach?
+  options:
+    - Convert on your own, since he meets all three criteria.
+    - Remove it at once, because 3 hours is close to the 6-hour limit.
+    - Never touch it again; tourniquets past 2 hours stay until surgery.
+    - Call a physician or paramedic and convert only if they direct it.
+  correct: 3
+  explanation: >-
+    The 2026 note says responders at the ASM/CLS level should not convert beyond 2 hours unless
+    directed by more advanced medical personnel; without oversight, keep it on and monitor.
+- id: q4
+  question: >-
+    During conversion you release the tourniquet slowly and at 40 seconds blood starts soaking
+    through the pressure bandage. What do you do first?
+  options:
+    - Finish releasing the tourniquet, then add a second pressure bandage on top.
+    - Retighten the original tourniquet until bleeding and the distal pulse stop.
+    - Remove the bandage and the packing to look for the bleeding vessel directly.
+    - Elevate the limb and wait two full minutes to see if the bleeding slows.
+  correct: 1
+  explanation: >-
+    The skill card says that if bleeding recurs, retighten the original tourniquet so bleeding is
+    controlled and the distal pulse is absent. Leaving it loosely in place is what makes this fast.
+- id: q5
+  question: >-
+    Which casualty should keep the tourniquet, even though they are stable, alert and can be
+    watched?
+  options:
+    - A man with a traumatic below-knee amputation, tourniquet on for 40 minutes.
+    - A woman with a deep thigh wound, tourniquet on the skin for 30 minutes.
+    - A teenager with a forearm wound, tourniquet on for 1 hour 10 minutes.
+    - A man with a calf wound, tourniquet repositioned to skin 20 minutes ago.
+  correct: 0
+  explanation: >-
+    The third criterion excludes tourniquets controlling bleeding from an amputated extremity. The
+    others are stable, monitorable, under 2 hours and not amputations, so they should be converted.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A 74-year-old man on a blood thinner has a deep, wide shrapnel wound high on the thigh that a
+    tourniquet cannot cover. Your kit has Combat Gauze and Celox Gauze. Which do you pack first?
+  options:
+    - Combat Gauze, because kaolin works best when the casualty's own clotting is weak.
+    - Neither; packing is unsafe in anyone taking a blood thinner.
+    - Celox Gauze, because chitosan forms a plug without relying on the clotting cascade.
+    - Whichever is closer, because chitosan and kaolin work by the same mechanism.
+  correct: 2
+  explanation: >-
+    Kaolin activates the body's own clotting cascade, which a blood thinner blocks. Chitosan sticks
+    to blood cells and tissue directly, so it is the reasonable first pick here; either still needs
+    3 minutes of hard pressure.
+- id: q2
+  question: >-
+    You packed a groin wound with Combat Gauze and pressed hard for 3 minutes by the clock. Blood is
+    still running out from the edges. What is the best next step?
+  options:
+    - Remove the gauze and repack from the bleeding point with a fresh hemostatic dressing.
+    - Leave it and stack more pressure bandages on top until the bleeding stops showing.
+    - Release pressure for a minute so a clot can form, then press again.
+    - Pour clotting powder from an old kit into the wound around the gauze.
+  correct: 0
+  explanation: >-
+    TCCC 2026 says each dressing works differently: if one fails, remove it and apply a fresh one of
+    the same or a different type. Piling dressings on a failed pack hides ongoing bleeding, and
+    granules are not on the current list.
+- id: q3
+  question: >-
+    A casualty has a narrow, deep shrapnel tract in the armpit that you cannot get a finger into.
+    You apply XStat and the bleeding slows but does not stop. What do you do?
+  options:
+    - Pull the XStat out and pack the tract with Combat Gauze instead.
+    - Apply a tourniquet as high on the arm as it will go.
+    - Hold pressure for 3 minutes, then remove the XStat to check the bleeding point.
+    - Add more XStat or hemostatic gauze over it, plus a pressure dressing.
+  correct: 3
+  explanation: >-
+    XStat is never removed in the field because a surgeon must remove every sponge. You add more
+    XStat, other hemostatic adjuncts or trauma dressings over it, and mark it on the card.
+- id: q4
+  question: >-
+    You have no hemostatic gauze at home. A neighbour has a deep calf wound bleeding heavily, and the
+    tourniquet is already in use on someone else. Which improvised packing is most likely to work?
+  options:
+    - A box of tampons pushed into the wound one after another until full.
+    - Cotton T-shirt strips packed tight to the bottom, then 3 minutes of hard pressure.
+    - A handful of flour pressed into the wound to absorb the blood and form a crust.
+    - A folded polyester sports shirt laid over the wound and held with tape.
+  correct: 1
+  explanation: >-
+    Packing plus pressure does most of the work; cotton absorbs and grips. Tampons are too small for
+    large wounds, kitchen powders contaminate without proven effect, and slippery synthetic fabric
+    laid on top does not press from inside.
+- id: q5
+  question: >-
+    A helper hands over a casualty to the ambulance crew. The groin wound was packed with XStat.
+    What must the handover include?
+  options:
+    - Only the time of packing, since the hospital will find the dressing anyway.
+    - Nothing extra, because XStat dissolves inside the body within a few hours.
+    - That XStat was used and how many applicators, written on the card and dressing.
+    - A note to remove the XStat in the ambulance to check for bleeding.
+  correct: 2
+  explanation: >-
+    Every XStat sponge must be removed surgically, with X-ray confirmation, so the surgeon must know
+    it is there and how much was used. It does not dissolve and is not removed in the field.

@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    A neighbour asks why you bother reassessing a tourniquet that is clearly stopping the bleeding.
+    Which fact from the Ukrainian data best answers him?
+  options:
+    - Most casualties with long tourniquets had a vascular injury that needed a tourniquet anyway.
+    - Tourniquets left on for 4 hours or more caused no problems once the casualty reached surgery.
+    - After tourniquets of 4 hours or more, most needed dialysis and over a third lost the limb.
+    - Long tourniquet times reduced the need for dialysis because less blood reached the kidneys.
+  correct: 2
+  explanation: >-
+    In Lukiianchuk et al. (2025), about 71% needed acute dialysis, 36% had a delayed amputation and
+    7% died, although only about a quarter had a vascular injury. Longer times meant more dialysis
+    and more deaths.
+- id: q2
+  question: >-
+    A tourniquet has been on a thigh for 7 hours in a cut-off village and the evacuation will come
+    tomorrow. The casualty is stable. A relative begs you to release it to save the leg. What do you
+    do?
+  options:
+    - Release it slowly over one minute while you watch for bleeding.
+    - Loosen it for five minutes every hour so some blood reaches the leg.
+    - Convert it to a pressure dressing, since he is stable and you can monitor him.
+    - Keep it on, monitor and call a physician; release over 6 hours needs monitoring and labs.
+  correct: 3
+  explanation: >-
+    TCCC 2026 says do not remove a tourniquet on longer than 6 hours unless close monitoring and lab
+    capability are available. Release floods the body with potassium and myoglobin; a brief release
+    carries the same risk.
+- id: q3
+  question: >-
+    Several hours after a long tourniquet was released by someone else, the casualty passes a small
+    amount of dark brown urine and says he feels weak. What does this suggest?
+  options:
+    - Muscle breakdown products are reaching the kidneys and potassium may be rising.
+    - Normal dehydration after injury that will settle with a glass of water.
+    - A urinary tract infection from lying still, which can wait for evacuation.
+    - Blood from the original wound that has drained into the bladder.
+  correct: 0
+  explanation: >-
+    Dark brown "cola" urine means myoglobin from dead muscle; weakness can mean high potassium. Both
+    are emergencies that need a physician now; field treatment is covered in Module 8.
+- id: q4
+  question: >-
+    Three casualties have tourniquets and one helicopter seat is available now. Which goes first?
+  options:
+    - A forearm wound, tourniquet 40 minutes, stable and suitable for conversion.
+    - A below-knee amputation, tourniquet 4 hours, that cannot be converted.
+    - A calf wound converted successfully 2 hours ago, no rebleeding.
+    - A thigh wound, tourniquet 1 hour, stable and meeting all conversion criteria.
+  correct: 1
+  explanation: >-
+    The amputation cannot be converted and its tourniquet clock is running toward 6 hours. The others
+    can be converted in the field or already have been, so their limbs are not ticking down.

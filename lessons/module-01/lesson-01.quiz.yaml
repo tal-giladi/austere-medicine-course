@@ -1,0 +1,92 @@
+- id: q1
+  question: >-
+    Rockets are falling and the home front alert has been active for 40 minutes. Your neighbour has
+    a deep thigh wound under a tourniquet you placed in your safe room. MDA says on the phone they
+    cannot come until the alert ends, and they do not know when that will be. Which time band
+    should you plan for?
+  options:
+    - >-
+      Minutes to 1 hour, because MDA has confirmed it will come once the alert is over.
+    - >-
+      Days to weeks, because any attack means the health system has collapsed.
+    - >-
+      1 to 72 hours, because the delay is unknown and planning for the longer band costs little.
+    - >-
+      No band yet, because the time band is decided only after the threat has ended.
+  correct: 2
+  explanation: >-
+    When the time to handover is unknown, plan for the next band up. Preparing for a long hold
+    (tourniquet conversion plan, warmth, written times) costs little if help comes early, while the
+    reverse can cost the limb.
+- id: q2
+  question: >-
+    You have two commercial pressure dressings, one tourniquet and plenty of clean towels. A
+    casualty has a bleeding scalp cut that stops with firm pressure, and more wounded may arrive.
+    What is the best use of your supplies?
+  options:
+    - >-
+      Control the scalp with a folded clean towel and a tight wrap, and keep the commercial items.
+    - >-
+      Use one commercial dressing on the scalp, since sterile items are always the right choice.
+    - >-
+      Apply the tourniquet to the neck area only if the scalp bleeding restarts later.
+    - >-
+      Use both commercial dressings on the scalp so it is controlled once and for all.
+  correct: 0
+  explanation: >-
+    Rationing means treating non-life-threatening wounds with improvised items first and keeping
+    commercial items for the next life threat. A tourniquet is never used on the head or neck.
+- id: q3
+  question: >-
+    In the "minimum, better, best" approach, which is the minimum level of care for a casualty with
+    life-threatening bleeding from a forearm during a barrage?
+  options:
+    - >-
+      Surgical exploration of the wound by the most experienced person present.
+    - >-
+      Packing the wound with hemostatic gauze and then removing the tourniquet straight away.
+    - >-
+      Waiting for the alert to end so that care can be given in better light outside.
+    - >-
+      A correctly placed tourniquet with the time of application written down.
+  correct: 3
+  explanation: >-
+    Minimum is what keeps the casualty alive with what you have now. A tourniquet with a recorded
+    time does that. Conversion to a dressing is a "better" step that comes later, once the
+    criteria are met.
+- id: q4
+  question: >-
+    The US military's 2009 rule to evacuate critically injured casualties by helicopter within 60
+    minutes was followed by a fall in deaths. What does that teach you for an austere situation?
+  options:
+    - >-
+      Nothing, because evacuation speed only matters for soldiers and not for civilians.
+    - >-
+      That when fast evacuation is impossible, you must do more of the life-saving work yourself.
+    - >-
+      That every casualty dies after 60 minutes if they have not reached a surgeon by then.
+    - >-
+      That helicopters are the only effective treatment for bleeding casualties.
+  correct: 1
+  explanation: >-
+    Time to surgical care is a major driver of survival. When you cannot shorten it, you must
+    extend what you can do in the field: bleeding control, warmth, monitoring and planning for a
+    longer hold. There is no fixed 60-minute death limit.
+- id: q5
+  question: >-
+    You are holding a stable casualty in a basement after an earthquake. Nobody else there has
+    medical training. How often should you re-assess?
+  options:
+    - >-
+      Only when the casualty complains, to avoid disturbing their rest.
+    - >-
+      Once every few hours, since the casualty is already stable.
+    - >-
+      Every 30-60 minutes on a timer, and after any move or change.
+    - >-
+      Every 2 minutes for the whole hold, including through the night.
+  correct: 2
+  explanation: >-
+    With nobody to take over, you must re-assess on a clock: every 5-15 minutes while unstable,
+    every 30-60 minutes once stable, and after every move or change. Every 2 minutes for hours is
+    not sustainable and leaves no time for anything else.

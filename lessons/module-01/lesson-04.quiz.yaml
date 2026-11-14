@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    According to the IDF Trauma Registry for October 2023 to December 2024, which life-saving
+    intervention was used most often, and what does that mean for your preparation?
+  options:
+    - >-
+      Chest decompression, so a decompression needle should be in every personal kit.
+    - >-
+      Tourniquets, so you carry one daily and keep several at home and in the car.
+    - >-
+      Intubation, so airway training should come before bleeding control training.
+    - >-
+      Whole blood, so civilians should organise their own walking blood banks.
+  correct: 1
+  explanation: >-
+    Tourniquets were applied to 13-14% of casualties, more than any other life-saving
+    intervention; chest decompression and intubation were rare. Extremity injuries were the most
+    common, which is why tourniquets come first in every kit.
+- id: q2
+  question: >-
+    The MDA paper on 7 October reports amputations caused by limb ischemia from prolonged
+    tourniquets. Which preparation follows most directly from that?
+  options:
+    - >-
+      Avoid tourniquets altogether and rely on direct pressure for all limb bleeding.
+    - >-
+      Loosen every tourniquet for a few minutes every half hour to let blood through.
+    - >-
+      Write the time on every tourniquet and learn when and how to convert one.
+    - >-
+      Place tourniquets only on the thigh and upper arm, never on the forearm.
+  correct: 2
+  explanation: >-
+    Tourniquets save lives, but long times cost limbs. Recording the time and planning conversion
+    when the hold will be long (module 2) is the answer. Periodic loosening is not taught in TCCC
+    and causes repeated blood loss.
+- id: q3
+  question: >-
+    Three casualties are being carried into your house during a barrage. Where should they be
+    treated?
+  options:
+    - >-
+      On the beds in different bedrooms, so each one is comfortable and has privacy.
+    - >-
+      In the garden, where there is the most daylight and room to work.
+    - >-
+      On the sofa and armchairs in the living room, because it is the largest room.
+    - >-
+      On a protected floor in the safest room, with zones and supplies laid out.
+  correct: 3
+  explanation: >-
+    The floor lets you reach all sides, nobody can fall, and one room keeps everyone in sight. The
+    room should be protected from the threat; the garden is exposed during a barrage.
+- id: q4
+  question: >-
+    On 7 October gunshot wounds made up 90% of hospitalised mechanisms, while in the war that
+    followed explosions with fragments dominated. What practical point do both share?
+  options:
+    - >-
+      Casualties often have several wounds, so a full blood sweep is always needed.
+    - >-
+      Fragment wounds are always minor, so they can wait until gunshot wounds are treated.
+    - >-
+      Gunshot wounds never need tourniquets because the holes are small.
+    - >-
+      Only soldiers get blast injuries, so civilians can skip fragment wound training.
+  correct: 0
+  explanation: >-
+    Both gunshot and fragment injuries often produce multiple wounds, and multiple mechanisms were
+    recorded in 16% of 7 October hospitalisations. Finish the full sweep before focusing on one
+    wound.
+- id: q5
+  question: >-
+    You must drive an unconscious neighbour with a tourniquet on his leg to an MDA meeting point.
+    How do you set up the car?
+  options:
+    - >-
+      Seat him upright in the back with a seat belt, and drive alone as fast as possible.
+    - >-
+      Lay him on his side, with a carer who can see his face and reach the tourniquet.
+    - >-
+      Put him on his back in the boot with the lid closed to keep him warm.
+    - >-
+      Seat him in the front passenger seat so the driver can watch him while driving.
+  correct: 1
+  explanation: >-
+    An unconscious casualty goes on his side to protect the airway, and a carer who can see the
+    face and reach the tourniquet re-checks him on the way. A driver cannot both drive and monitor.

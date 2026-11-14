@@ -1,3 +1,49 @@
 # Glossary
 
 Terms used in the course, in alphabetical order.
+
+- **AT-MIST** — A handover format some services use: age, time of injury, then MIST.
+- **AVPU** — Level of consciousness scale: alert, responds to voice, responds to pain, unresponsive.
+- **C-TECC** — Committee for Tactical Emergency Casualty Care, the civilian body that publishes the TECC guidelines.
+- **Care Under Fire** — The TCCC name for care while the threat is still acting on rescuer and casualty; the TECC equivalent is direct threat care.
+- **Casualty collection point (CCP)** — A place where casualties are gathered, triaged and treated before evacuation.
+- **Chitosan** — substance from shellfish shell in Celox and ChitoGauze that sticks to blood cells and tissue and forms a plug without relying on the clotting cascade.
+- **Circulation first** — The principle of controlling major bleeding before airway and breathing interventions in trauma; adopted by the IDF Medical Corps guideline of 30 April 2024.
+- **Combat Gauze** — QuikClot Combat Gauze, the kaolin dressing that TCCC names as the hemostatic dressing of choice.
+- **CoTCCC** — Committee on Tactical Combat Casualty Care, the US military body that publishes the TCCC guidelines.
+- **DD Form 1380** — The TCCC casualty card used to record mechanism, injuries, signs and treatments; attached visibly to the casualty.
+- **Direct threat care** — TECC phase (hot zone) in which the threat is active; only cover, self-aid, movement and hasty tourniquets.
+- **Distal pulse** — pulse below a tourniquet (wrist for the arm, ankle or foot for the leg); its absence confirms an arterial tourniquet.
+- **Duty to Rescue Law** — Israel's חוק לא תעמוד על דם רעך, 1998: a duty to help a person in sudden serious danger when you can without risk to yourself or others; calling MDA counts as helping.
+- **Evacuation care** — TECC phase (cold zone) that starts at handover or transport; every intervention is re-assessed.
+- **Evacuation category** — Urgent, priority or routine: how soon a casualty needs to reach surgical care.
+- **Greater trochanter** — bony bump on the outside of the upper thigh, roughly level with the pubic bone; the level at which a pelvic binder is centred.
+- **Hemostatic dressing** — gauze coated with an agent (kaolin or chitosan) that speeds clot formation when packed into a wound with pressure.
+- **High and tight** — Placing a tourniquet as close to the body as possible on the injured limb when the bleeding site cannot be seen under direct threat.
+- **IFAK** — Individual first aid kit: the personal trauma kit carried on the body every day.
+- **Indirect threat care** — TECC phase (warm zone) in relative safety where the threat may return; the full MARCH sequence is done here. TCCC calls it Tactical Field Care.
+- **Ischemia-reperfusion injury** — damage when blood returns to tissue that has been without it, releasing potassium, acid and myoglobin into the circulation.
+- **iTClamp** — spring clamp with small needles that closes wound edges so a contained clot forms underneath; used mainly on scalp and neck wounds.
+- **Junctional bleeding** — bleeding where a limb joins the trunk (groin, buttock, armpit) or at the base of the neck, where a limb tourniquet cannot be applied.
+- **Junctional tourniquet** — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
+- **Kaolin** — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
+- **MARCH** — Treatment order: massive hemorrhage, airway, respiration, circulation, hypothermia/head injury.
+- **Minimum, better, best** — The prolonged field care approach of describing every capability at three levels of equipment and skill.
+- **MIST** — Handover and documentation format: mechanism, injuries, signs and symptoms, treatments.
+- **Myoglobin** — muscle pigment released from dying muscle; turns urine dark brown and can cause kidney failure.
+- **Necessity defence** — Israeli Penal Law s. 34יא: no criminal responsibility for an act immediately necessary to save life or body from a real danger of serious harm when there was no other way, provided the act was reasonable.
+- **PAWS** — Teaching mnemonic that follows MARCH: pain, antibiotics, wounds, splinting.
+- **Pelvic binder** — wide belt or folded sheet tightened around the greater trochanters to close and stabilise a broken pelvic ring.
+- **Pre-staged tourniquet** — A tourniquet carried with its loop open and folded so it can be applied quickly with one hand.
+- **Pressure delivery device** — improvised hard bolus strapped over a junctional pressure point to keep pressure on it without a rescuer's hands.
+- **TACEVAC** — Tactical evacuation care, the third TCCC phase, covering casualty and medical evacuation.
+- **TCCC** — Tactical Combat Casualty Care, the military trauma care guidelines; current version 01 May 2026.
+- **TECC** — Tactical Emergency Casualty Care, the civilian adaptation of TCCC for all ages and hazards; current version 2025-1-2.
+- **Time band** — In this course, the expected time until someone more qualified takes over: minutes to 1 hour, 1 to 72 hours, or days to weeks.
+- **Tourniquet conversion** — replacing a tourniquet with a packed hemostatic dressing and pressure bandage, then releasing the tourniquet slowly while watching for bleeding.
+- **Tourniquet reassessment** — exposing the wound and checking whether a tourniquet is needed, correctly placed and tight enough to stop the distal pulse.
+- **Tourniquet repositioning** — replacing a tourniquet applied over clothing or "high and tight" with one on the skin 2-3 inches above the wound, then loosening the first.
+- **Tourniquet syndrome** — ischemic muscle death, compartment syndrome and kidney failure after a tourniquet left on for many hours.
+- **Venous tourniquet** — tourniquet tight enough to block veins but not the artery, which increases bleeding and swells the limb.
+- **X-ABCDE** — Assessment order: exsanguination, airway, breathing, circulation, disability, exposure; also written <C>ABC.
+- **XStat** — applicator that injects small expanding sponges into deep, narrow wound tracts; never removed in the field.

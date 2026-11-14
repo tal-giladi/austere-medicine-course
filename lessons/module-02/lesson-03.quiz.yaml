@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Forty minutes after a shooting, you reach a casualty in a stairwell with a tourniquet placed over
+    jeans high on the thigh. The wound is mid-thigh and the threat is over. What do you do?
+  options:
+    - Leave it untouched until the ambulance arrives, since it is stopping the bleeding.
+    - Loosen it at once to restore blood flow, then apply a pressure dressing.
+    - Tighten it two more turns over the jeans to make sure it is arterial.
+    - Expose the wound, put a second tourniquet on skin above it, then loosen the first.
+  correct: 3
+  explanation: >-
+    TCCC 2026 tells you to expose the wound and, if a tourniquet is needed, reposition it by applying
+    a second one on the skin 2-3 inches above the wound and only then loosening the first.
+- id: q2
+  question: >-
+    After you tighten a tourniquet on the skin above a forearm wound, the bleeding has stopped but you
+    can still feel a radial pulse. What does this mean and what do you do?
+  options:
+    - Arterial blood still enters the limb; tighten further or add a second tourniquet.
+    - The tourniquet is perfect; a pulse shows the hand is still getting oxygen.
+    - The pulse is from the other arm; check the opposite wrist instead.
+    - The wound has clotted; loosen the tourniquet now and watch for bleeding.
+  correct: 0
+  explanation: >-
+    A properly arterial tourniquet stops both bleeding and the distal pulse in a limb that is not
+    amputated. A remaining pulse risks rebleeding and swelling, so tighten or add a second one side by
+    side.
+- id: q3
+  question: >-
+    A heavy-set man has a tourniquet on the skin above a thigh wound, windlass turned as far as it
+    goes, and the wound still bleeds. Where does the second tourniquet go?
+  options:
+    - Directly on top of the first one, so the two straps share the pressure.
+    - Below the wound, to stop blood flowing back up from the foot.
+    - Side by side with the first, just above it, then tighten it.
+    - Over the knee, where the artery is closest to the surface.
+  correct: 2
+  explanation: >-
+    TCCC 2026 says to apply a second tourniquet side by side with the first. Stacked straps cannot
+    grip, a tourniquet below the wound does nothing for arterial bleeding, and joints shield the
+    artery.
+- id: q4
+  question: >-
+    Your only commercial tourniquet is in use. A second casualty has arterial bleeding from the lower
+    leg. Which improvised tourniquet is most likely to work?
+  options:
+    - A leather belt pulled tight by hand and buckled above the wound.
+    - A 5 cm wide folded cotton strip with a strong wooden spoon twisted as a windlass.
+    - A phone charging cable wrapped three times and knotted above the wound.
+    - A rubber exercise band stretched tight and tied in a double knot.
+  correct: 1
+  explanation: >-
+    A wide strap plus a rigid windlass gives the mechanical advantage needed. In a manikin study,
+    improvised tourniquets without a windlass failed 99% of the time; cords and bands are too narrow
+    and stretch.
+- id: q5
+  question: >-
+    On reassessment you find a tourniquet over a sleeve, applied 25 minutes ago for a shallow
+    forearm cut that now only oozes. The casualty is not in shock. What is correct?
+  options:
+    - Leave it on, because once applied a tourniquet must stay on until surgery.
+    - Dress the cut, loosen it slowly, remove it if no bleeding, and record the time.
+    - Tighten it further, because a venous tourniquet is what causes the oozing.
+    - Move it onto the skin 2-3 inches above the cut and keep it on until evacuation.
+  correct: 1
+  explanation: >-
+    TCCC 2026 says that if reassessment shows the tourniquet was not needed, remove it and note the
+    time of removal. Leaving an unneeded tourniquet on only costs muscle and nerve.

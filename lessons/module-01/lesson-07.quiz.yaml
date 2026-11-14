@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    You placed a tourniquet at 10:05 and wrote the time on the card in your pocket. The casualty
+    is loaded into a private car to an MDA meeting point while you stay behind. What went wrong?
+  options:
+    - >-
+      Nothing; the time is recorded, so the crew can call you to ask for it.
+    - >-
+      The tourniquet should have been loosened before transport to protect the limb.
+    - >-
+      The card stayed with you; it must go with the casualty, attached where it can be seen.
+    - >-
+      The time should have been written only on the tourniquet, never on a card.
+  correct: 2
+  explanation: >-
+    The DD 1380 instructions require the completed card to be visibly attached to the casualty, and
+    TCCC says to forward documentation with the casualty. Mark the time on both the tourniquet and
+    the card.
+- id: q2
+  question: >-
+    Which handover is in the correct MIST order?
+  options:
+    - >-
+      "Tourniquet 19:42. Pulse 110. Fragment wound to the thigh. Rocket at 19:40."
+    - >-
+      "Rocket at 19:40. Thigh bleed. Pulse 118 then 110, alert. Tourniquet 19:42."
+    - >-
+      "Pulse 110, alert. Rocket at 19:40. Tourniquet 19:42. Thigh bleed."
+    - >-
+      "Thigh bleed. Tourniquet 19:42. Rocket at 19:40. Pulse 118 then 110."
+  correct: 1
+  explanation: >-
+    MIST is mechanism, injuries, signs, treatment. Giving them in a fixed order lets the crew take
+    in the headline in seconds; the details are on the card.
+- id: q3
+  question: >-
+    A casualty with a tourniquet had a pulse of 96 and was alert at 20:00. At 20:30 the pulse is
+    124, the radial pulse is weak and he answers slowly. He was marked "Priority". What now?
+  options:
+    - >-
+      Change to Urgent and record the new row; the trend shows shock developing.
+    - >-
+      Keep Priority, since categories are set once and shouldn't change.
+    - >-
+      Change to Routine, since the tourniquet has already controlled the bleeding.
+    - >-
+      Keep Priority but stop recording vital signs to save time for treatment.
+  correct: 0
+  explanation: >-
+    Categories are re-assessed at every check. A rising pulse, weak radial pulse and slower
+    responses are field signs of shock, so the casualty becomes Urgent. The timed rows show the
+    trend to the crew.
+- id: q4
+  question: >-
+    You have no casualty cards in the safe room. What is the best way to document a tourniquet
+    and allergy for a casualty who will leave with MDA?
+  options:
+    - >-
+      Record a voice memo on your phone and play it to the crew when they arrive.
+    - >-
+      Tell a neighbour the details so that they can repeat them to the crew later.
+    - >-
+      Write the details on the casualty's forehead only, since tape falls off.
+    - >-
+      Tape on the chest with category, tourniquet time and allergy; time on the tourniquet.
+  correct: 3
+  explanation: >-
+    Tape on the chest and a time on the tourniquet travel with the casualty. A voice memo stays on
+    your phone and a neighbour may not be there; skin writing smears and should never be the only
+    record.
+- id: q5
+  question: >-
+    In the module scenario, Miriam's chest seal was burped once at 20:11 after she deteriorated.
+    Why must this be on her card and in the handover?
+  options:
+    - >-
+      Because burping a seal is a beyond-scope act that must be reported to the police.
+    - >-
+      Because it means she no longer needs any monitoring of her breathing.
+    - >-
+      Because tension may build again, and the crew needs to know it already happened.
+    - >-
+      Because once a seal is burped, the crew must replace it with a non-vented one.
+  correct: 2
+  explanation: >-
+    A deterioration that improved after burping suggests air was trapped. It can recur, so the
+    crew must watch for it and know the earlier episode and its times. Burping is an EMT-level
+    action and needs no report beyond the card.

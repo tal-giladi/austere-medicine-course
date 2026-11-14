@@ -1,0 +1,21 @@
+# Glossary inbox — Module 2
+
+- Hemostatic dressing — gauze coated with an agent (kaolin or chitosan) that speeds clot formation when packed into a wound with pressure.
+- Kaolin — clay mineral in QuikClot Combat Gauze that activates factor XII and so starts the body's own clotting cascade.
+- Chitosan — substance from shellfish shell in Celox and ChitoGauze that sticks to blood cells and tissue and forms a plug without relying on the clotting cascade.
+- Combat Gauze — QuikClot Combat Gauze, the kaolin dressing that TCCC names as the hemostatic dressing of choice.
+- XStat — applicator that injects small expanding sponges into deep, narrow wound tracts; never removed in the field.
+- iTClamp — spring clamp with small needles that closes wound edges so a contained clot forms underneath; used mainly on scalp and neck wounds.
+- Junctional bleeding — bleeding where a limb joins the trunk (groin, buttock, armpit) or at the base of the neck, where a limb tourniquet cannot be applied.
+- Junctional tourniquet — device that presses on the artery above a groin or armpit wound, such as the SAM Junctional Tourniquet, CRoC or JETT.
+- Pressure delivery device — improvised hard bolus strapped over a junctional pressure point to keep pressure on it without a rescuer's hands.
+- Tourniquet reassessment — exposing the wound and checking whether a tourniquet is needed, correctly placed and tight enough to stop the distal pulse.
+- Tourniquet repositioning — replacing a tourniquet applied over clothing or "high and tight" with one on the skin 2-3 inches above the wound, then loosening the first.
+- Distal pulse — pulse below a tourniquet (wrist for the arm, ankle or foot for the leg); its absence confirms an arterial tourniquet.
+- Venous tourniquet — tourniquet tight enough to block veins but not the artery, which increases bleeding and swells the limb.
+- Tourniquet conversion — replacing a tourniquet with a packed hemostatic dressing and pressure bandage, then releasing the tourniquet slowly while watching for bleeding.
+- Tourniquet syndrome — ischemic muscle death, compartment syndrome and kidney failure after a tourniquet left on for many hours.
+- Ischemia-reperfusion injury — damage when blood returns to tissue that has been without it, releasing potassium, acid and myoglobin into the circulation.
+- Myoglobin — muscle pigment released from dying muscle; turns urine dark brown and can cause kidney failure.
+- Pelvic binder — wide belt or folded sheet tightened around the greater trochanters to close and stabilise a broken pelvic ring.
+- Greater trochanter — bony bump on the outside of the upper thigh, roughly level with the pubic bone; the level at which a pelvic binder is centred.

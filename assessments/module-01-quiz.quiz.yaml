@@ -1,0 +1,179 @@
+- id: q1
+  question: >-
+    A drone hits a car on your street. The alert is still sounding. A man by the car is bleeding
+    heavily from his right forearm and can move. You are 10 metres away behind a concrete wall.
+    What do you do first?
+  options:
+    - >-
+      Shout to him to get behind the wall and press hard on the wound.
+    - >-
+      Run to him with your kit and do a full blood sweep beside the car.
+    - >-
+      Wait behind the wall until the alert ends, then treat him where he lies.
+    - >-
+      Call MDA and stay on the line until they arrive, without approaching him.
+  correct: 0
+  explanation: >-
+    Under direct threat, the first actions are cover and self-aid: direct the casualty to cover
+    and to control his own bleeding, then move him if needed. A full assessment waits for
+    relative safety; you may still call MDA, but not instead of helping when you safely can.
+- id: q2
+  question: >-
+    You are in your safe room with an injured neighbour. MDA says it cannot come until the
+    barrage ends and gives no estimate. A tourniquet is on her thigh. Which plan fits best?
+  options:
+    - >-
+      Assume help comes within the hour and do nothing more than watch the tourniquet.
+    - >-
+      Loosen the tourniquet every 20 minutes to keep the leg alive until help arrives.
+    - >-
+      Start moving her to the car straight away, since waiting is never the right choice.
+    - >-
+      Plan for hours: time on the tourniquet, warmth, timed checks, and a conversion plan.
+  correct: 3
+  explanation: >-
+    With an unknown delay you plan for the next time band up. That means recording the time,
+    preventing heat loss, re-assessing on a clock and preparing for tourniquet conversion if the
+    hold exceeds 2 hours. Periodic loosening is not taught and causes repeated bleeding.
+- id: q3
+  question: >-
+    You reach a casualty in a stairwell after the alert ends. He is snoring, unconscious, and
+    there is a pool of blood spreading from under his left leg. You are alone. What comes first?
+  options:
+    - >-
+      Open the airway with a head tilt, since an unconscious casualty needs airway first.
+    - >-
+      Find and stop the bleeding from the leg, then put him in the recovery position.
+    - >-
+      Check his pulse and breathing for a full minute before deciding what he needs.
+    - >-
+      Put him in the recovery position, then start the blood sweep from the head down.
+  correct: 1
+  explanation: >-
+    In trauma with massive bleeding, circulation comes first: a tourniquet or packing takes
+    seconds and stops the fastest killer. The airway is positioned immediately afterwards.
+- id: q4
+  question: >-
+    A friend argues that since the IDF data showed chest decompression fell to 0.0% after the 2024
+    guideline, you never need to think about tension pneumothorax. What is the best reply?
+  options:
+    - >-
+      He is right; the data proves that tension pneumothorax does not occur in war.
+    - >-
+      He is right for soldiers, but civilians get tension pneumothorax far more often.
+    - >-
+      The procedure was over-used, but tension still happens; learn the indications.
+    - >-
+      He is wrong; the data shows decompression rates rose after the guideline.
+  correct: 2
+  explanation: >-
+    The guideline narrowed the indications, procedures fell, and mortality was stable. That shows
+    many procedures weren't needed, not that the condition never occurs. You still assess for it
+    and learn the narrow indications in module 3.
+- id: q5
+  question: >-
+    On 7 October, casualty treatment points opened in a synagogue, a kibbutz safe room and a
+    private house. Three casualties are being carried to your home. How do you set up?
+  options:
+    - >-
+      Put each casualty in a different room so they don't see each other's injuries.
+    - >-
+      Treat them in the entrance hall so that MDA can reach them quickly later.
+    - >-
+      One protected room, casualties on a covered floor, marked zones and supplies by MARCH.
+    - >-
+      Lay them on the beds in the safe room and keep the kits in the kitchen.
+  correct: 2
+  explanation: >-
+    One protected room lets you see everyone; the floor gives access from all sides; zones,
+    labelled casualties and supplies sorted by MARCH stop chaos. Kits belong where you treat.
+- id: q6
+  question: >-
+    During a cut-off after an earthquake, a woman's breathing worsens after a chest seal. Phones
+    work intermittently. A paramedic answers a voice message and offers to guide you. What does
+    the last-resort test tell you to do?
+  options:
+    - >-
+      Follow the paramedic's direction and record who directed you and when.
+    - >-
+      Ignore the paramedic, since remote advice has no legal standing at all.
+    - >-
+      Do any procedure you have seen on video, since the necessity defence covers it.
+    - >-
+      Do nothing until the paramedic can physically reach you, however long that takes.
+  correct: 0
+  explanation: >-
+    If someone more qualified can direct you, even remotely, "no one better" means you follow
+    their direction. Record it on the card. Necessity does not cover unreasonable or untrained
+    acts.
+- id: q7
+  question: >-
+    A neighbour says, "Under the Duty to Rescue Law you can't be prosecuted for anything you do to
+    help." Which statement is accurate?
+  options:
+    - >-
+      Correct; section 2 of the law grants full immunity to rescuers.
+    - >-
+      Correct, as long as the rescuer holds any first aid certificate.
+    - >-
+      Incorrect; the law forbids non-doctors from treating anyone at all.
+    - >-
+      Incorrect; it creates a duty to help but gives no immunity.
+  correct: 3
+  explanation: >-
+    The 1998 law imposes a duty (s. 1), deals with expenses (s. 2) and sets a fine (s. 4). It has
+    no immunity clause. The Penal Law necessity defence, the Physicians Ordinance exception for
+    occasional unpaid treatment and the negligence standard decide your position.
+- id: q8
+  question: >-
+    You are choosing what to carry every day in a small belt pouch. Which set best matches what
+    the war data and TCCC priorities say?
+  options:
+    - >-
+      Pulse oximeter, thermometer, blood pressure cuff and a casualty card.
+    - >-
+      Tourniquet, packing gauze, pressure bandage, gloves, marker and a card.
+    - >-
+      Two chest seals, a nasopharyngeal airway, lubricant and a foil blanket.
+    - >-
+      Pain medication, antibiotics, oral rehydration salts and plasters.
+  correct: 1
+  explanation: >-
+    Limb wounds and bleeding dominate and tourniquets were the most used life-saving intervention,
+    so the personal kit is built around M: tourniquet, packing and pressure, with gloves and
+    documentation. Monitoring and medications belong in the home kit.
+- id: q9
+  question: >-
+    You hand over three casualties to one MDA crew. Which is the best way to do it?
+  options:
+    - >-
+      Most urgent first, a MIST handover each under 30 seconds, numbered cards attached.
+    - >-
+      In the order they were injured, with every detail you remember, cards in your pocket.
+    - >-
+      The child first regardless of injuries, since children always take priority.
+    - >-
+      All three together in one long summary, then let the crew sort out the cards.
+  correct: 0
+  explanation: >-
+    Hand over in order of urgency, in MIST order, briefly, with a numbered card visibly attached
+    to each casualty. Priority depends on the injuries, not on age alone.
+- id: q10
+  question: >-
+    A casualty's card shows a tourniquet at 08:10 and two vital-sign rows: 08:20 pulse 98, alert;
+    08:50 pulse 122, weak radial, responds to voice. The card says "Priority". What should the next
+    entry be?
+  options:
+    - >-
+      Nothing new, since the card already has the two rows it needs.
+    - >-
+      A note to loosen the tourniquet to check whether bleeding has stopped.
+    - >-
+      Change to Routine, since the tourniquet has been on for 40 minutes.
+    - >-
+      Change to Urgent with the time, and re-sweep for missed bleeding.
+  correct: 3
+  explanation: >-
+    A rising pulse, weak radial pulse and falling mental status are field signs of shock. The
+    casualty becomes Urgent, the change is timed on the card, and you re-sweep for bleeding you
+    may have missed.

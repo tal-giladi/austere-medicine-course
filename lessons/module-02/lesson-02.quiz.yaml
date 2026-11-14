@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A drone fragment has torn into the right groin and blood is pouring out. You are alone with a
+    full kit including a SAM Junctional Tourniquet still packed. What do you do first?
+  options:
+    - Open the SAM-JT and slide the belt under the hips before touching the wound.
+    - Press hard into the groin with a knee or straight arms while you get the kit open.
+    - Put a limb tourniquet as high on the thigh as possible and tighten it fully.
+    - Pour hemostatic gauze over the wound and wait to see if it clots on its own.
+  correct: 1
+  explanation: >-
+    Immediate hard pressure stops the flow while the device is readied. TCCC then says to apply the
+    junctional tourniquet as soon as it is ready; a limb tourniquet cannot sit above a groin wound.
+- id: q2
+  question: >-
+    You packed a neck wound and need to hold the pack in place while you treat another casualty.
+    How do you wrap the pressure bandage?
+  options:
+    - Twice around the neck, pulled tight enough that the pad cannot move at all.
+    - Once around the neck loosely, then tape both ends down to the upper chest.
+    - Around the forehead and under the chin, so no bandage crosses the neck.
+    - Around the neck and under the opposite armpit, that arm raised as you wrap.
+  correct: 3
+  explanation: >-
+    Going under the opposite armpit keeps pressure on the wound without circling the airway. Any wrap
+    only around the neck can choke the casualty, and a head wrap does not press on the neck wound.
+- id: q3
+  question: >-
+    Ten minutes after you placed an iTClamp on a neck laceration, the casualty's voice becomes hoarse
+    and a lump next to the clamp is growing. What does this mean?
+  options:
+    - A hematoma is expanding under the closed skin and may compress the airway.
+    - The clamp is working as designed and the clot is maturing normally.
+    - The needles have caused a local allergy that will settle within the hour.
+    - The clamp is too loose and needs a pressure bandage wrapped around the neck.
+  correct: 0
+  explanation: >-
+    The iTClamp seals the skin so a contained clot forms underneath; if the bleeding continues the
+    swelling grows and can press on the airway. TCCC 2026 requires frequent airway checks and
+    considering an airway intervention when this happens.
+- id: q4
+  question: >-
+    A casualty has a penetrating head wound with exposed brain tissue and bleeding from the wound
+    edges. What is the correct bleeding control?
+  options:
+    - Pack hemostatic gauze firmly into the wound cavity and press for 3 minutes.
+    - Apply an iTClamp across the wound to close it and stop the bleeding.
+    - Hemostatic gauze on the surface with gentle pressure, and no packing inside.
+    - No dressing at all, because any pressure will raise pressure in the skull.
+  correct: 2
+  explanation: >-
+    TCCC 2026 says penetrating head wounds get a surface dressing, hemostatic gauze on the surface
+    with gentle pressure if bleeding, and nothing packed into the cavity or closed over it.
+- id: q5
+  question: >-
+    At home with no medical kit, you have packed a groin wound with towel strips and need to keep
+    pressure on it during a 40-minute wait. Which improvised setup is most likely to hold?
+  options:
+    - A folded T-shirt on the wound with a heavy book resting on top of it.
+    - A cloth-wrapped water bottle strapped round the hips and in a figure-of-eight.
+    - A thin cord tied tightly around the top of the thigh, just below the wound itself.
+    - A belt buckled firmly around the waist with a rolled sock tucked under it.
+  correct: 1
+  explanation: >-
+    A hard bolus over the pressure point, strapped both around the hips and the thigh, stays in place
+    when the casualty is moved. Soft padding collapses, loose weights fall off, a cord below the
+    wound does nothing, and a waist belt slides off the groin.

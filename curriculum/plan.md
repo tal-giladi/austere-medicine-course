@@ -48,7 +48,7 @@ basic shock, CPR/AED, epinephrine for anaphylaxis, standard splinting.
 
 - Every procedure is taught completely (indications, equipment, steps, failure, what next), and
   then practised on models and animal tissue at home. Lessons state the Israeli legal scope:
-  the Duty to Rescue Law (1998) protects reasonable lay aid; needle decompression, cric, IO/IV
+  the Duty to Rescue Law (1998) creates a duty to help but gives no immunity; lay aid rests on Physicians Ordinance s.3(b)(3) (occasional unpaid treatment) and the Penal Law necessity defence (s.34יא, limited by s.34טז), with negligence exposure (Penal Law ss.304, 341; Civil Wrongs Ordinance s.35) — taught in 01.5; needle decompression, cric, IO/IV
   drugs and prescription drugs are paramedic/physician powers. The course's framing is "do it
   when it's this or death and no one more qualified can be reached", and "prepare and assist
   when they can".

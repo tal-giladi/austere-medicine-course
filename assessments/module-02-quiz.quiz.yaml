@@ -1,0 +1,143 @@
+- id: q1
+  question: >-
+    A kibbutz member, 68 and on a blood thinner, has a deep buttock wound from a mortar fragment.
+    It is cold and raining. Your kit holds Combat Gauze, ChitoGauze and an Israeli bandage. What is
+    the best plan?
+  options:
+    - Combat Gauze first, because it is the TCCC first choice in every situation.
+    - ChitoGauze packed to the bleeding point, 3 minutes of pressure, then the bandage.
+    - A tourniquet as high on the thigh as possible, since packing fails on blood thinners.
+    - Both gauzes laid over the wound together, then the bandage without packing.
+  correct: 1
+  explanation: >-
+    Cold and a blood thinner both weaken the clotting cascade that kaolin depends on, so chitosan is a
+    reasonable first pick. It still has to be packed to the bleeding point with 3 minutes of
+    pressure; a tourniquet cannot reach a buttock wound.
+- id: q2
+  question: >-
+    During an infiltration, a man has a narrow fragment tract deep in the groin. You packed it with
+    XStat and a SAM Junctional Tourniquet is now ready. Bleeding has slowed but not stopped. What do
+    you do?
+  options:
+    - Remove the XStat so the junctional tourniquet pad can press directly on the vessel.
+    - Wait 10 minutes to see whether the XStat sponges finish expanding.
+    - Apply a limb tourniquet just below the groin crease instead.
+    - Apply the junctional tourniquet now over the packed wound and record the time.
+  correct: 3
+  explanation: >-
+    TCCC 2026 says to apply a junctional tourniquet immediately once it is ready. XStat is never
+    removed in the field, and a limb tourniquet cannot sit above a groin wound.
+- id: q3
+  question: >-
+    A casualty has a deep wound on the side of the neck. You packed it and want to free your hands
+    to treat a second casualty. What is the safest way to hold the pack?
+  options:
+    - A bandage around the neck and under the opposite armpit; watch the airway.
+    - A pressure bandage wrapped twice around the neck so the pack cannot shift.
+    - An iTClamp placed across the wound, with no further airway checks needed.
+    - A cervical collar pulled firmly over the pack to hold it in its place.
+  correct: 0
+  explanation: >-
+    Wrapping under the opposite armpit presses on the wound without circling the airway. Any neck
+    wound or iTClamp needs repeated airway checks for an expanding swelling, and collars are not
+    used for penetrating-only neck wounds.
+- id: q4
+  question: >-
+    You reach a casualty 45 minutes after a stabbing. A bystander put a tourniquet over thick winter
+    trousers high on the thigh. The wound is just above the knee. What is the correct reassessment?
+  options:
+    - Tighten the existing tourniquet over the trousers until the foot pulse is gone.
+    - Remove the tourniquet and look at the wound, then decide whether to reapply.
+    - Expose the wound, apply a tourniquet on skin 2-3 inches above it, then loosen the first.
+    - Leave everything as it is, because the bleeding has stopped and evacuation is coming.
+  correct: 2
+  explanation: >-
+    TCCC 2026 reassessment: expose the wound and, if a tourniquet is needed, reposition by applying a
+    second one on the skin 2-3 inches above the wound before loosening the first. Removing first
+    risks losing control of the bleeding.
+- id: q5
+  question: >-
+    After repositioning a tourniquet on the skin above a thigh wound, the bleeding has stopped but
+    the foot is swelling, turning purple, and you can still feel a pulse behind the ankle. What is
+    happening?
+  options:
+    - The tourniquet is working and the colour change is normal ischemia.
+    - The limb is reacting to the cold and needs to be covered.
+    - It is a venous tourniquet; tighten it or add a second one side by side.
+    - The wound has clotted, so the tourniquet can be loosened now.
+  correct: 2
+  explanation: >-
+    A pulse below the tourniquet plus a swelling, engorged limb means arterial blood is still going in
+    while veins are blocked. TCCC says tighten further or add a second tourniquet side by side until
+    the distal pulse is gone.
+- id: q6
+  question: >-
+    In a safe room, a casualty's tourniquet above a calf wound has been on for 1 hour 15 minutes. He
+    is alert with a strong radial pulse, you can watch the wound, and evacuation is 6 hours away. What
+    do you do?
+  options:
+    - Convert now - pack, 3 minutes of pressure, pressure bandage, release over one minute.
+    - Keep it on, because conversion belongs to the hospital team.
+    - Loosen it for a few minutes every hour to let blood reach the foot.
+    - Wait for the 2-hour mark and convert then, to give the wound more time to clot.
+  correct: 0
+  explanation: >-
+    He meets all three criteria (not in shock, can be monitored, not an amputation) and is inside
+    the 2-hour window. TCCC says convert as soon as possible; intermittent loosening is not a
+    substitute.
+- id: q7
+  question: >-
+    You are converting a forearm tourniquet. After 30 seconds of slow release, blood seeps through the
+    pressure bandage. The tourniquet has been on for 1 hour. What is the best sequence?
+  options:
+    - Finish the release, then add two more pressure bandages over the first one.
+    - Remove the tourniquet completely, then repack the wound with plain gauze only.
+    - Leave the tourniquet loose and elevate the arm above the heart for ten minutes.
+    - Retighten, record the time, then repack and retry once if criteria still hold.
+  correct: 3
+  explanation: >-
+    If bleeding recurs, the skill card says retighten the original tourniquet until bleeding and the
+    distal pulse stop. With time left in the 2-hour window and the criteria still met, one more
+    attempt with fresh packing is reasonable.
+- id: q8
+  question: >-
+    A tourniquet has been on a thigh for 4 hours. You are the only trained responder, the casualty is
+    stable, and you can reach an emergency physician by phone. What is correct under TCCC 2026?
+  options:
+    - Convert alone, since 4 hours is still under the 6-hour limit.
+    - Call the physician; convert only if they direct it, otherwise keep it on and monitor.
+    - Remove the tourniquet now before it reaches 6 hours and becomes unsafe.
+    - Keep it on without telling anyone, since nothing can change after 2 hours.
+  correct: 1
+  explanation: >-
+    Responders at the ASM/CLS level should not convert beyond 2 hours unless directed by advanced
+    medical personnel. A phone physician can direct; without direction, keep it on, monitor and press
+    for evacuation.
+- id: q9
+  question: >-
+    A casualty in a cut-off village had a tourniquet for 8 hours before someone released it. Now he
+    is weak, his pulse is irregular, and his urine is dark brown. What is the most likely problem?
+  options:
+    - Potassium and muscle breakdown products released from dead muscle.
+    - Simple dehydration that a few glasses of water will quickly correct.
+    - A urinary infection caused by lying still in one place for many hours.
+    - Normal recovery pain and weakness as blood returns to the limb.
+  correct: 0
+  explanation: >-
+    Reperfusion after hours of ischemia releases potassium (heart rhythm problems) and myoglobin
+    (dark urine, kidney failure). That is why TCCC forbids release after 6 hours without monitoring
+    and labs; he needs a physician now.
+- id: q10
+  question: >-
+    A man was thrown by a blast and is now drowsy with a weak radial pulse. He has no visible
+    bleeding. You have a bed sheet, cable ties and a helper. What do you do for the pelvis?
+  options:
+    - Squeeze the pelvis to check for movement, and bind it only if it moves.
+    - Tie the sheet around his waist so it also supports the lower back.
+    - Sheet at the greater trochanters, cable-tied, then tie knees and ankles.
+    - Skip the binder, since there is no pelvic pain and no visible bleeding.
+  correct: 2
+  explanation: >-
+    Blast plus unconsciousness or shock is an indication for a binder even without visible bleeding
+    or pain. It goes at the greater trochanters, not the waist, and the pelvis is never squeezed to
+    test it.

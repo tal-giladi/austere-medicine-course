@@ -2,3 +2,20 @@
 - [Glossary](glossary.md)
 
 - Stage 1 — Under threat: war and attack trauma
+- **Module 1 — When the ambulance isn't coming**
+  - [01 · What changes when the ambulance isn't coming](lessons/module-01/lesson-01.md)
+  - [02 · The phases of care: direct threat, indirect threat, evacuation](lessons/module-01/lesson-02.md)
+  - [03 · Circulation first: why bleeding comes before airway](lessons/module-01/lesson-03.md)
+  - [04 · Lessons from 7 October and the war: what the data shows](lessons/module-01/lesson-04.md)
+  - [05 · The law and your scope in Israel](lessons/module-01/lesson-05.md)
+  - [06 · Kits: personal, car, home and community](lessons/module-01/lesson-06.md)
+  - [07 · Casualty card and handover](lessons/module-01/lesson-07.md)
+  - [Module 1 quiz](assessments/module-01-quiz.md)
+- **Module 2 — Bleeding beyond EMT**
+  - [08 · Hemostatic agents compared](lessons/module-02/lesson-01.md)
+  - [09 · Head, neck and junctional bleeding](lessons/module-02/lesson-02.md)
+  - [10 · Tourniquet reassessment](lessons/module-02/lesson-03.md)
+  - [11 · Tourniquet conversion and removal](lessons/module-02/lesson-04.md)
+  - [12 · Life over limb: long tourniquet times](lessons/module-02/lesson-05.md)
+  - [13 · Pelvic binder](lessons/module-02/lesson-06.md)
+  - [Module 2 quiz](assessments/module-02-quiz.md)

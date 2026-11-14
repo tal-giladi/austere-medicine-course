@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    You can carry only one item every day, on your belt. Based on what kills people in attacks,
+    which should it be?
+  options:
+    - >-
+      A nasopharyngeal airway with lubricant.
+    - >-
+      A pair of vented chest seals.
+    - >-
+      A pulse oximeter.
+    - >-
+      A pre-staged commercial tourniquet.
+  correct: 3
+  explanation: >-
+    Bleeding is the leading cause of preventable trauma death, and tourniquets were the most used
+    life-saving intervention in the IDF war data. If you can carry only one thing, it is the
+    tourniquet, reachable with either hand.
+- id: q2
+  question: >-
+    A website sells a tourniquet that looks exactly like a well-known brand for a third of the
+    price. What is the sound decision?
+  options:
+    - >-
+      Buy it from the manufacturer or an authorised dealer, since copies can break or slip.
+    - >-
+      Buy the cheap one for your real kit and the brand one for practice.
+    - >-
+      Buy several cheap ones, since having more tourniquets matters more than quality.
+    - >-
+      Buy the cheap one and test it by fully tightening it on a friend's leg once a month.
+  correct: 0
+  explanation: >-
+    A tourniquet that fails is worse than none because you trust it. Buy recommended designs from
+    reliable sources, and keep a separate training tourniquet. Never fully tighten a tourniquet on
+    a healthy person for practice.
+- id: q3
+  question: >-
+    Where should the household medication stock, including family members' regular medicines,
+    be kept?
+  options:
+    - >-
+      In the car kit, so it is always with you when you leave home.
+    - >-
+      In the home or safe-room kit, with printed copies of the prescriptions.
+    - >-
+      In the IFAK, so each person carries a week's supply on their belt.
+    - >-
+      In the kitchen cupboard, separate from all emergency kits.
+  correct: 1
+  explanation: >-
+    Medications degrade in a hot parked car and are too bulky for an IFAK. The home or safe-room
+    kit holds them, together with printed prescriptions, so they are with you during a long stay
+    in the protected space.
+- id: q4
+  question: >-
+    You have no chest seal. A neighbour has an open wound in the chest. Using household items, what
+    do you do and what do you watch for?
+  options:
+    - >-
+      Pack the wound tightly with cotton strips and press on it to stop air entering.
+    - >-
+      Leave it open, since a sealed chest wound always causes tension.
+    - >-
+      Tape cling film on all sides, and lift one edge if breathlessness increases.
+    - >-
+      Tape cling film on three sides only, which is the current TCCC method.
+  correct: 2
+  explanation: >-
+    TCCC prefers a vented seal and accepts a non-vented one with monitoring for tension. Cling film
+    taped on all sides acts as a non-vented seal; if breathing worsens, lift ("burp") one edge. The
+    three-sided dressing is no longer taught.
+- id: q5
+  question: >-
+    During the monthly kit check you find a hemostatic gauze two months from expiry and a
+    tourniquet with a cracked windlass. What do you do?
+  options:
+    - >-
+      Keep both until they are used, since expired and cracked items still mostly work.
+    - >-
+      Replace the gauze only, since tourniquet windlasses are designed to flex.
+    - >-
+      Move both to the car kit, where they are less likely to be needed.
+    - >-
+      Replace the tourniquet now and schedule the gauze replacement before its expiry.
+  correct: 3
+  explanation: >-
+    A cracked windlass can snap under load, so the tourniquet is replaced immediately. The gauze is
+    still in date, so you note the date and replace it before it expires.

@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    You are treating a casualty in your stairwell after a rocket impact. The alert ended five
+    minutes ago. A new alert sounds. What phase of care are you in now?
+  options:
+    - >-
+      Indirect threat, because you are still indoors and the casualty is already being treated.
+    - >-
+      Direct threat, because the threat can hurt you both right now, wherever you are.
+    - >-
+      Evacuation care, because the next step is to move the casualty to the safe room.
+    - >-
+      Indirect threat, because a stairwell counts as a protected space during alerts.
+  correct: 1
+  explanation: >-
+    Phases follow the threat, not the place. An active alert means direct threat: get to cover
+    with the casualty, control limb bleeding only if feasible, and resume the full sequence once
+    in relative safety.
+- id: q2
+  question: >-
+    Under direct threat, a man is bleeding heavily from somewhere on his left leg but you can't
+    see the wound through his clothes. What do you do?
+  options:
+    - >-
+      Cut away the trousers to find the wound before placing anything.
+    - >-
+      Pack the area that looks wettest with gauze and hold firm pressure.
+    - >-
+      Place a tourniquet high and tight on the left leg over the clothes, then move.
+    - >-
+      Place him in the recovery position and come back when the threat ends.
+  correct: 2
+  explanation: >-
+    When the bleeding site is not obvious under direct threat, TCCC says to place the tourniquet
+    "high and tight" over the clothing on the injured limb and move to cover. Exposure and
+    re-positioning happen in indirect threat.
+- id: q3
+  question: >-
+    You are now in a safe room with a casualty whose tourniquet you placed over his jeans five
+    minutes ago. What is the correct next step for that tourniquet?
+  options:
+    - >-
+      Expose the wound; if it is needed, put a new one on skin 5-7.5 cm above it, then loosen the first.
+    - >-
+      Leave it untouched until hospital, because loosening a tourniquet always restarts bleeding.
+    - >-
+      Remove it immediately, since tourniquets over clothing never work properly.
+    - >-
+      Tighten it one more turn, because tourniquets loosen with time and that is enough.
+  correct: 0
+  explanation: >-
+    In indirect threat every tourniquet is re-assessed: expose the wound, decide if a tourniquet is
+    needed, and if so re-apply on the skin 2-3 inches above the wound before loosening the first.
+    If not needed, remove it and record the time.
+- id: q4
+  question: >-
+    Three people were hurt in an attack. You are in relative safety but not at a fixed casualty
+    collection point. According to TECC, how should you triage them?
+  options:
+    - >-
+      Full START triage with a tag and respiratory rate for every casualty.
+    - >-
+      Treat them in the order you reach them and triage later at the hospital.
+    - >-
+      Ask the casualties to rank who is worse and treat in that order.
+    - >-
+      Sort into walking or minimally hurt, dead or dying, and everyone else.
+  correct: 3
+  explanation: >-
+    Outside a fixed casualty collection point, TECC limits indirect threat triage to three groups:
+    able to walk or minimally injured, deceased or dying, and all others. Formal triage systems
+    come later.
+- id: q5
+  question: >-
+    A woman hit by blast fragments in the chest has no pulse, no breathing and no signs of life.
+    Two other casualties are bleeding. What do the guidelines say about CPR here?
+  options:
+    - >-
+      Start CPR at once, because early compressions are the key to survival in every arrest.
+    - >-
+      Don't start CPR; decompress both sides of the chest if trained, then treat the living.
+    - >-
+      Start CPR and ask one of the bleeding casualties to compress their own wounds.
+    - >-
+      Do one minute of CPR first to confirm the arrest, then move on to the others.
+  correct: 1
+  explanation: >-
+    TCCC and TECC state that CPR for blast or penetrating trauma with no signs of life will not
+    succeed in this phase. Torso trauma in arrest should get bilateral needle decompression before
+    care stops, by someone trained to do it. Your effort goes to casualties who can be saved.

@@ -1,0 +1,90 @@
+- id: q1
+  question: >-
+    You see a car crash on the road but there is an active shooting nearby and approaching the car
+    would expose you to fire. What does the Duty to Rescue Law require of you?
+  options:
+    - >-
+      To run to the car at once, since the law requires help in every serious danger.
+    - >-
+      Nothing at all, since the law only applies to doctors, nurses and paramedics.
+    - >-
+      To call MDA or the police, which the law counts as giving help.
+    - >-
+      To wait until the shooting ends and then report to the police within 24 hours.
+  correct: 2
+  explanation: >-
+    The duty applies only when you can help without endangering yourself or others, and s. 1(b)
+    says that informing MDA, the police or the fire service counts as helping.
+- id: q2
+  question: >-
+    An off-duty EMT friend says, "The Duty to Rescue Law protects us from being sued for anything
+    we do while helping." Is that right?
+  options:
+    - >-
+      No; the law creates a duty and repays expenses, but has no immunity clause.
+    - >-
+      Yes; section 2 gives rescuers full immunity from civil claims.
+    - >-
+      Yes, but only if the rescuer is a certified EMT or paramedic.
+    - >-
+      No; the law makes rescuers automatically liable for any harm they cause.
+  correct: 0
+  explanation: >-
+    The 1998 law imposes the duty (s. 1), deals with expenses (s. 2) and sets a fine (s. 4). It
+    contains no protection from liability; that comes from other rules such as the necessity
+    defence and the reasonableness standard in negligence.
+- id: q3
+  question: >-
+    In a cut-off village, a paramedic is reachable by phone and offers to talk you through a
+    procedure above your scope that your casualty urgently needs. What does the four-part test
+    say?
+  options:
+    - >-
+      Refuse, because a procedure above your scope is never allowed in any situation.
+    - >-
+      Do it your own way, since the paramedic cannot see the casualty and can't direct you.
+    - >-
+      Ask the paramedic to drive over first, and wait however long that takes.
+    - >-
+      "No one better" now means following their direction, and you record who directed you.
+  correct: 3
+  explanation: >-
+    If a more qualified person can direct you, even by phone, you follow their direction and write
+    down who directed you and when. That is safer for the casualty and easier to defend later.
+- id: q4
+  question: >-
+    Which Israeli rule allows any person to give treatment occasionally and without payment
+    without breaking the ban on practising medicine?
+  options:
+    - >-
+      Section 1 of the Duty to Rescue Law.
+    - >-
+      Section 3(b)(3) of the Physicians Ordinance.
+    - >-
+      Section 35 of the Civil Wrongs Ordinance.
+    - >-
+      Section 304 of the Penal Law.
+  correct: 1
+  explanation: >-
+    Physicians Ordinance s. 3(a) reserves practising medicine to licensed physicians, and s.
+    3(b)(3) says this does not prevent any person from giving advice or treatment occasionally and
+    without payment or reward.
+- id: q5
+  question: >-
+    You are considering a needle decompression in a safe room. You have the right needle but have
+    never practised, not even on animal tissue. Under the necessity defence and the four-part test,
+    what is the right call?
+  options:
+    - >-
+      Go ahead, since the necessity defence covers any act done to save a life.
+    - >-
+      Go ahead, but only after getting written consent from the casualty's family.
+    - >-
+      Don't; it fails "reasonable and trained", so stay in scope and keep calling.
+    - >-
+      Don't, because chest decompression is never indicated outside a hospital.
+  correct: 2
+  explanation: >-
+    Penal Law s. 34טז removes the necessity defence when the act was not reasonable. An untrained
+    attempt fails the "reasonable and trained" part of the test. Decompression is indicated in the
+    field, but for trained hands.

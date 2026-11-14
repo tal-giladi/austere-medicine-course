@@ -48,7 +48,7 @@ One plain intro paragraph (what the learner will be able to do by the end).
   dressings/sterile field/urine collection/litter/ORS. For each: what works, what fails, the risk,
   and how to tell it is failing.
 - `## When it goes wrong`: common mistakes, complications, how to recover.
-- `## Scope and law`: 2-5 sentences. Israeli scope (Duty to Rescue Law 1998 protects reasonable lay
+- `## Scope and law`: 2-5 sentences. Israeli scope (Duty to Rescue Law 1998 gives NO immunity; link to ../module-01/lesson-05.md for the legal basis instead of repeating it; reasonable lay
   aid; NDC, cric, IO/IV drugs, prescription drugs are paramedic/physician powers) and when acting
   beyond it is the last resort (it's this or death and no one more qualified can be reached).
 - `## Practice`: a concrete drill with what you need (kosher-butcher tissue only, never pork: lamb or
