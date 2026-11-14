@@ -48,8 +48,10 @@ basic shock, CPR/AED, epinephrine for anaphylaxis, standard splinting.
   when they can".
 - Drugs: full field doses as taught in TCCC/WHO/MSF, marked as prescription where they are,
   with how a civilian can legally get a home supply (prescriber, kit programs).
-- Hands-on kit (home practice): tourniquets (owned), trainer IO or chicken/turkey bone, pork
-  ribs for needle decompression, pig trachea/larynx for cric, pig's feet for suturing/abscess,
+- Hands-on kit (home practice, kosher-butcher available, no pork): tourniquets (owned), turkey
+  leg / chicken bone for IO, lamb or beef rib rack (with meat/fat on) for needle decompression,
+  lamb or calf trachea+larynx for cric, whole chicken / chicken thighs (skin on) or beef tongue
+  for suturing and abscess drainage, silicone suture pad as a meat-free option,
   NPA + BVM, pulse oximeter, blood pressure cuff, suture kit, syringes/catheters. Cost estimate
   in course-details.
 - Lessons recommend real hands-on courses for the invasive skills (open question 3).
@@ -110,7 +112,7 @@ and a module quiz.
 5. Finger thoracostomy: what it is and when (awareness)
 6. Surgical cricothyroidotomy: anatomy, bougie-aided and open technique, securing
 7. Oxygen in the field: cylinders, concentrators, who actually needs it; pulse-oximetry pitfalls
-- Practical: needle decompression on pork ribs; cric on a pig larynx; airway decision drill.
+- Practical: needle decompression on lamb or beef ribs; cric on a lamb or calf larynx; airway decision drill.
 
 **Module 4 — Circulation, resuscitation and field drugs**
 1. Shock resuscitation in the field: permissive targets, endpoints, shock index, when not to give fluid
@@ -171,7 +173,7 @@ and a module quiz.
 4. Suturing (simple interrupted, mattress) and staples; removal
 5. Abscess drainage
 6. Foreign bodies: splinters, fish hooks, glass, ring removal
-- Practical: suture and drain on pig's feet.
+- Practical: suture and drain on chicken with skin or beef tongue.
 
 **Module 10 — Dislocations and orthopaedics without X-ray**
 1. Shoulder dislocation: assessment and reduction techniques
@@ -233,4 +235,5 @@ and a module quiz.
    embeds several different videos (different instructors, angles, models) plus simulations,
    so each action is seen from multiple perspectives.
 4. DECIDED 2026-11-14: full doses.
-5. Home practice with animal tissue (pork ribs, pig larynx, pig's feet) — OK?
+5. Home practice with animal tissue: no pork in Israel. Proposed: lamb/beef ribs (NDC),
+   lamb/calf larynx (cric), chicken with skin or beef tongue (suturing), turkey leg (IO) — OK?
