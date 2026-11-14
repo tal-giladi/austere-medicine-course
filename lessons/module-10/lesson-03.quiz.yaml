@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A woman fell down rubble stairs. Her foot points backwards and outward, the skin over her inner
+    ankle bone is stretched white, and the foot is still warm. Evacuation is 9 hours away. What do you do?
+  options:
+    - Splint it exactly as found, because the foot is warm and the pulse is present.
+    - Leave her boot on and laced tightly to hold everything in place until evacuation.
+    - Wait for oral painkillers to work fully for two hours, then reassess the skin.
+    - Realign gently with traction and repositioning now, splint at 90 degrees, recheck CSM.
+  correct: 3
+  explanation: >-
+    Skin tenting can kill the skin within hours and turn the injury into an open fracture. With a
+    long evacuation, tenting alone justifies prompt, gentle realignment, followed by splinting and a
+    repeat CSM check.
+- id: q2
+  question: >-
+    Before realigning a posterior ankle dislocation, why do you put a pillow behind the knee so the
+    knee is bent?
+  options:
+    - To slacken the calf muscle, the main force holding the foot displaced.
+    - To raise the foot above the heart and reduce bleeding at the ankle.
+    - To make it easier to check the pulse behind the knee during the pull.
+    - To stop the casualty from kicking the person who holds the heel.
+  correct: 0
+  explanation: >-
+    The calf muscles cross the knee. Bending the knee relaxes them, so gentle traction on the heel
+    can bring the foot back under the leg with less force.
+- id: q3
+  question: >-
+    A man was in a head-on car crash. His right leg is short, bent at the hip, turned inward and lying
+    across the other leg. His foot is warm. Evacuation will take 4 hours. What is right?
+  options:
+    - Pull the leg straight with two people to beat the 6-hour limit.
+    - Support the leg as found with pillows, treat for shock and evacuate.
+    - Splint the leg straight to a board so it fits on the stretcher for transport.
+    - Ask him to roll onto his front and let the leg hang to reduce itself by gravity.
+  correct: 1
+  explanation: >-
+    This is a posterior hip dislocation. Reduction needs procedural sedation and strong traction and
+    is not a field procedure; splint as found, look for pelvic and femoral injuries, and make
+    evacuation the priority because femoral-head damage rises with delay.
+- id: q4
+  question: >-
+    A 6-year-old fell from a climbing frame onto his outstretched hand. His elbow is swollen and held
+    half bent; his hand is pink and warm. What should you do?
+  options:
+    - Gently pull along the forearm to reduce a likely elbow dislocation.
+    - Straighten the arm fully and bandage it to a board to keep it still.
+    - Splint the elbow as found, recheck the hand and evacuate urgently.
+    - Ask him to move the elbow through its full range to rule out a fracture.
+  correct: 2
+  explanation: >-
+    In a child, a fracture just above the elbow is much more common than a dislocation and puts the
+    same artery at risk. With a pink hand, splint as found and evacuate; do not manipulate.
+- id: q5
+  question: >-
+    After you realign an ankle fracture-dislocation, the foot was pink but has turned pale since the
+    splint was tied. What do you do first?
+  options:
+    - Loosen the splint and check whether colour and refill return.
+    - Give more painkillers, since pallor is a sign of pain.
+    - Tighten the splint further to stop the bones moving against the artery.
+    - Realign the ankle again with stronger traction.
+  correct: 0
+  explanation: >-
+    A change after splinting points first to the splint. Loosen it, recheck CSM, and move the foot back
+    towards the position where it was pink if needed; then evacuate.

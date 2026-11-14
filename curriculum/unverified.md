@@ -27,3 +27,6 @@ To review before a public release.
 
 ## Module 7
 - Child urine targets (ATLS summaries); NPIAP staging from memory; NICE refeeding numbers not fetched; rectal maintenance volumes vs 04.1's 100-400 ml/h (inconsistent — reconcile); no Israeli lay telemedicine pathway source; Percocet acetaminophen 325 vs 650; EZ-IO 24 vs 48 h; course rules labelled.
+
+## Module 10
+- No WMS dislocation guideline exists; NOLS 2015 only via Wayback; StatPearls blocked (used MSD Manual); anterior/posterior dislocation percentages; WMS pain guideline full text; methoxyflurane limits and Israeli status; haematoma block volume; FARES rates not quoted; Israeli scope for reductions; course rules labelled. 10.2 mentions 09.3 as plain text — link it once module 9 is in.

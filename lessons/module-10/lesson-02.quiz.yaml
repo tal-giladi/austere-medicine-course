@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    A 17-year-old girl twisted while dancing. Her knee is bent, there is a lump on the outer side
+    and a hollow at the front. Her foot is warm with good pulses. What do you do?
+  options:
+    - Splint the knee bent exactly as found and carry her out without any attempt.
+    - Slowly straighten the knee with the hip slightly bent, pushing the kneecap inward if needed.
+    - Pull hard along the leg first to stretch the thigh muscle, then bend the knee fully.
+    - Push the kneecap outward to unlock it, then bend the knee to 90 degrees.
+  correct: 1
+  explanation: >-
+    A low-energy twist with a lateral lump is a kneecap dislocation. Straightening the knee with the
+    thigh muscle slackened often reduces it; a gentle inward push on its outer edge finishes the job.
+- id: q2
+  question: >-
+    After a car crash, a man's knee "went back by itself". It now wobbles in every direction and the
+    pulse on top of his foot is weaker than on the other side. What is the priority?
+  options:
+    - Treat it as a kneecap dislocation that is now reduced and let him walk in a splint.
+    - Wait 24 hours to see whether the pulse recovers before deciding on evacuation.
+    - Splint the leg, check the foot every 15-30 minutes and evacuate urgently.
+    - Bend the knee fully to test the ligaments and confirm which ones are torn.
+  correct: 2
+  explanation: >-
+    High energy plus multidirectional instability means a knee dislocation that reduced itself. About
+    one in ten injure the popliteal artery, and a weaker pulse is a warning; this is a time-critical
+    vascular emergency.
+- id: q3
+  question: >-
+    A climber's index finger points backwards at a sharp angle at the knuckle where it joins the
+    hand. What is the correct approach to a reduction?
+  options:
+    - Strong straight traction along the finger until it lengthens and drops in.
+    - Bend the wrist, then push the base of the finger forward over the knuckle without pulling.
+    - Hyperextend the finger as far as it goes and then pull firmly along its axis.
+    - Buddy-tape it in its current position and wait for it to settle back on its own.
+  correct: 1
+  explanation: >-
+    Pulling on a knuckle (MCP) dislocation can trap the volar plate in the joint and turn it into an
+    irreducible complex dislocation. Flex the wrist and push the base over; if one gentle attempt
+    fails, splint and evacuate.
+- id: q4
+  question: >-
+    You have reduced a dorsal dislocation of the middle joint of a finger. It looks straight. What
+    should you check and do next?
+  options:
+    - Active bending and straightening, side stability and CSM, then buddy-tape with padding.
+    - Nothing more; a straight-looking finger means the reduction is complete and stable.
+    - Tape the finger tightly over the joint itself with no padding to stop swelling.
+    - Ask the casualty to grip a heavy bag repeatedly to restore strength quickly.
+  correct: 0
+  explanation: >-
+    After any reduction you test active movement, stability and circulation and sensation on both
+    sides of the finger. Buddy tape goes above and below the joint, with padding between fingers.
+- id: q5
+  question: >-
+    Why does this lesson tell you to remove rings from the hand early in any finger injury?
+  options:
+    - Metal rings interfere with the pulse check on the fingertip.
+    - Rings conduct cold and cause frostbite of the finger within hours.
+    - Rings make buddy taping impossible because the tape slides on metal.
+    - Swelling over the following hours can trap a ring and cut off circulation.
+  correct: 3
+  explanation: >-
+    Injured fingers swell for hours to days. A ring that came off easily now may later act as a
+    tourniquet and need cutting off.

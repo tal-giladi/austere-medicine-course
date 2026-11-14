@@ -1,0 +1,21 @@
+# Glossary inbox — Module 10
+
+- Anterior shoulder dislocation — the head of the upper-arm bone slips forward and down out of the socket; by far the commonest shoulder dislocation.
+- Axillary nerve — nerve wrapping around the upper arm that supplies the deltoid; tested by feeling on the outer upper arm before and after a shoulder reduction.
+- CSM — circulation, sensation and movement beyond an injury; checked before and after every splint or manoeuvre.
+- Cunningham technique — seated shoulder reduction by massaging the biceps, deltoid and trapezius while the casualty pulls the shoulder blades back; no traction.
+- Davos (Boss-Holzach-Matter) technique — self-reduction of a shoulder: wrists bound around the bent knee, the casualty leans back to apply their own traction.
+- FARES — FAst, REliable, Safe shoulder reduction: gentle traction with small vertical oscillations while the arm is slowly raised to the side and turned out.
+- Scapular manipulation — shoulder reduction by pushing the lower tip of the shoulder blade towards the spine while the arm is under gentle traction.
+- Stimson technique — shoulder reduction with the casualty face down and a weight hanging from the wrist.
+- Spaso technique — shoulder reduction lying on the back by lifting the straight arm to vertical with gentle traction and slight outward rotation.
+- Patellar dislocation — the kneecap slips out of its groove, almost always to the outer side; reduced by straightening the knee.
+- Knee dislocation — displacement of the shin bone from the thigh bone; a high-energy injury with a high risk of popliteal artery and nerve injury.
+- Complex MCP dislocation — knuckle dislocation with the volar plate trapped in the joint; cannot be reduced by pulling and often needs surgery.
+- Buddy taping — taping an injured finger or toe to its neighbour, with padding between, above and below the injured joint.
+- Skin tenting — skin stretched white over a displaced bone end; it will die within hours unless the bone is realigned.
+- Haematoma block — local anaesthetic injected into the blood collection around a fracture to allow manipulation.
+- Quigley's traction — suspending the leg by the foot in a fabric sling so its own weight helps realign a displaced ankle fracture.
+- Ottawa rules — validated bedside rules (ankle, foot, knee) that identify which injuries are unlikely to be fractures without an X-ray.
+- Peroneal nerve palsy — numb top of the foot and foot drop from pressure on the nerve just below the outer knee.
+- Crutch palsy — weakness of the wrist and hand from leaning the armpit on a crutch, compressing the radial nerve.

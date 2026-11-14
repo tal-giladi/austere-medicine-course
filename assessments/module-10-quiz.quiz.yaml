@@ -1,0 +1,136 @@
+- id: q1
+  question: >-
+    In a safe room during a long rocket barrage, a 30-year-old man's shoulder dislocates as he lifts a
+    child. He says it has happened three times before. His hand is warm and the outer arm feels
+    normal. Evacuation is not possible for at least 12 hours. What is the best plan?
+  options:
+    - Sling it as found and wait 12 hours, since only a doctor may touch a dislocation.
+    - Pull hard on the arm with a foot in his armpit to get it back at the first attempt.
+    - Coach him through Davos self-reduction or use a low-force technique, then CSM and a sling.
+    - Give him whatever sleeping pills are in the house so his muscles relax before you try.
+  correct: 2
+  explanation: >-
+    A recurrent anterior dislocator with normal CSM and a long wait is the ideal case for gentle
+    techniques or self-reduction, which he controls. The heel-in-armpit method is not to be used, and
+    sedatives add risk without reliably relaxing spasm.
+- id: q2
+  question: >-
+    A 72-year-old woman fell directly onto the side of her shoulder on a stone floor. The shoulder is
+    swollen and very painful, the contour is still round, and you feel grating when she moves. What
+    do you do?
+  options:
+    - Sling and swathe in comfort, pain relief, CSM checks and evacuation for an X-ray.
+    - FARES, because it uses no countertraction and is safe in older people.
+    - Stimson face down with 7 kg for 30 minutes to overcome her muscle spasm.
+    - External rotation, accepting some grating as a normal part of reduction.
+  correct: 0
+  explanation: >-
+    A direct fall, a preserved round contour and grating point to a fracture of the upper humerus,
+    which is a contraindication to manipulation. Immobilise and evacuate.
+- id: q3
+  question: >-
+    During your second gentle reduction attempt on an anterior shoulder dislocation, the casualty's
+    hand becomes cold and pale and the radial pulse disappears. It was present before. What now?
+  options:
+    - Finish the manoeuvre quickly, since reduction will restore the pulse.
+    - Stop manipulating, return to the position with a pulse, immobilise, evacuate urgently.
+    - Try a third, stronger technique so the artery is freed from the humeral head.
+    - Massage the hand and wrist to restore circulation, then continue the attempt.
+  correct: 1
+  explanation: >-
+    A new loss of circulation during a manoeuvre means stop, go back to the position where the pulse
+    was present, immobilise and treat as an emergency. Escalating force risks further injury.
+- id: q4
+  question: >-
+    After a motorbike crash, a man's knee is grossly deformed and his foot is cold and pulseless.
+    The nearest hospital is 5 hours away. What is right?
+  options:
+    - Splint it exactly as found; any movement of a dislocated knee is forbidden.
+    - Push the kneecap inward, since most knee deformities are kneecap dislocations.
+    - Gentle in-line traction to straighten it, splint in slight bend, emergency evacuation.
+    - Bend the knee fully to relieve pressure on the artery behind it, then splint.
+  correct: 2
+  explanation: >-
+    A deformed knee after high energy with a pulseless foot is a knee dislocation with likely
+    popliteal artery injury. Gentle in-line traction to restore alignment may restore flow; then
+    splint and evacuate as fast as possible.
+- id: q5
+  question: >-
+    A hiker's ring finger has a step at the middle joint after a ball hit it; the middle segment sits
+    on top. You reduce it with traction and pressure. He can bend and straighten it fully and it is
+    stable. How do you immobilise it?
+  options:
+    - Tape it straight to a rigid board for six weeks without removing it.
+    - Leave it free, since a stable joint after reduction needs no protection.
+    - Wrap the whole hand in a tight bandage to keep the swelling down.
+    - Buddy-tape to the middle finger with padding, plus a block against bending back.
+  correct: 3
+  explanation: >-
+    A reduced dorsal middle-joint dislocation is protected in slight bend for about 3 weeks; in the
+    field, buddy taping with padding and a block against hyperextension does this.
+- id: q6
+  question: >-
+    An ankle is displaced backwards after a fall, but the foot is warm and pink with good pulses and
+    no skin tenting. An ambulance will reach you in 40 minutes. What do you do?
+  options:
+    - Splint it as found with padding, elevate, recheck CSM and wait for the ambulance.
+    - Realign it now with traction, since every deformed ankle must be straightened.
+    - Ask him to stand on it to see whether it will settle back into place.
+    - Remove the boot and leave the ankle unsupported so the swelling can be watched.
+  correct: 0
+  explanation: >-
+    Realignment is indicated for a threatened foot, skin tenting or a prolonged evacuation. With a
+    healthy foot and help 40 minutes away, splint as found and let the hospital reduce it.
+- id: q7
+  question: >-
+    An elderly man with a hip replacement bent to tie his shoe and now cannot move. His leg is short
+    and turned inward. The village is cut off for at least a day. What is the field plan?
+  options:
+    - Two people pull the leg straight with all their strength before the 6-hour limit.
+    - Support the leg as found with pillows, relieve pain and push for evacuation.
+    - Make him walk with two sticks to keep the joint moving until help arrives.
+    - Tie the leg straight to the other leg so that it is easier to carry him.
+  correct: 1
+  explanation: >-
+    A dislocated artificial hip still needs sedation and controlled traction to reduce. In the field,
+    support the leg as found, check the foot (sciatic nerve), relieve pain and make evacuation a
+    priority.
+- id: q8
+  question: >-
+    On day 2 in a shelter, a casualty's realigned ankle is splinted. He says the splint is fine, but
+    when you open it the skin over the outer ankle bone is red and stays red when pressed. What do you do?
+  options:
+    - Nothing; redness is expected under any splint and will fade on its own.
+    - Remove the splint permanently so the skin can recover in the air.
+    - Re-pad around the bone to relieve pressure and check that skin twice daily.
+    - Tighten the splint so the bone moves less against the padding.
+  correct: 2
+  explanation: >-
+    Non-blanching redness is an early pressure injury. Relieve the pressure with padding around the
+    point, keep the splint, and inspect the skin more often.
+- id: q9
+  question: >-
+    A 25-year-old twisted her ankle on rubble. She cannot take any steps, even with help, but has no
+    bone tenderness at the ankle or midfoot points. What does this mean for the decision to walk?
+  options:
+    - The rule is negative, so she can walk out with an elastic wrap.
+    - The rule is positive; treat it as a possible fracture and do not walk on it.
+    - The Ottawa rule cannot be used because she is under 55 years old.
+    - She is exaggerating; encourage her to walk to prove it is a sprain.
+  correct: 1
+  explanation: >-
+    Inability to take 4 steps both immediately and when examined is enough to make the Ottawa ankle
+    rule positive. Splint as a fracture and do not make her walk on it.
+- id: q10
+  question: >-
+    Your group must leave a building that is on fire. One casualty has a splinted Ottawa-positive
+    lower leg, and there are no litters. What is the right approach?
+  options:
+    - Stay inside, since a positive Ottawa rule means he must never be moved before X-ray.
+    - Wait until a proper litter and six carriers are found before moving him.
+    - Make him walk normally, because the fire makes the fracture irrelevant.
+    - Move him out now by the fastest safe means, such as a carry, a drag or a human crutch.
+  correct: 3
+  explanation: >-
+    Threat beats comfort: when staying means exposure to fire or collapse, the casualty is moved
+    immediately after the quickest splint that holds, with as little weight on the leg as possible.

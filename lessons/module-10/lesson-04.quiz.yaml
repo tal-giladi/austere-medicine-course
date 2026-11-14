@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A 30-year-old twisted his ankle on a path. He walked to a rock with a limp, has swelling in front
+    of the outer ankle bone, but no tenderness at the back edge or tip of either ankle bone, at the
+    base of the fifth metatarsal or at the navicular. How do you classify it?
+  options:
+    - Ottawa-positive, because swelling in front of the ankle bone counts as bone tenderness.
+    - Impossible to judge without X-ray, so he must be carried whatever the distance.
+    - Ottawa-negative, probably a sprain; he may walk out with support and rechecks.
+    - Ottawa-positive, because any limp means he cannot bear weight at all.
+  correct: 2
+  explanation: >-
+    The rules need tenderness on specific bony points or inability to take 4 steps. Soft-tissue
+    swelling and a limp with 4 steps taken do not make the rule positive; a negative rule makes a
+    significant fracture unlikely.
+- id: q2
+  question: >-
+    A 60-year-old woman twisted her knee. She can bend it to 90 degrees, has no fibular head or
+    kneecap tenderness and took 4 steps. What does the Ottawa knee rule say?
+  options:
+    - Negative, since every examination finding is normal.
+    - Positive, because she is 55 or older.
+    - Negative, because age only matters for the ankle rule.
+    - Positive only if she also has a large knee swelling.
+  correct: 1
+  explanation: >-
+    Age 55 or older is one of the five knee-rule criteria. Any one makes the rule positive, so treat
+    the knee as possibly fractured.
+- id: q3
+  question: >-
+    On day 3, a casualty in a long-leg splint says the outer side below his knee is sore and the top
+    of his foot feels numb; he cannot lift his foot well. What is the most likely cause and action?
+  options:
+    - Pressure on the peroneal nerve at the outer knee; move ties and edges and pad it.
+    - A normal effect of immobilisation that will pass if he keeps the splint on.
+    - A deep vein thrombosis; tighten the splint to stop the clot moving.
+    - Pain from the original injury; increase his painkillers and recheck in 12 hours.
+  correct: 0
+  explanation: >-
+    The peroneal nerve runs just below the outer knee and is easily compressed by splint edges or
+    ties, causing a numb top of the foot and foot drop. Relieve the pressure, record and evacuate for
+    review.
+- id: q4
+  question: >-
+    Your group is 8 km from help with a casualty whose realigned ankle fracture-dislocation is
+    splinted. Help can reach you by vehicle in 6 hours and your position is safe. What is best?
+  options:
+    - Let her walk on crutches, since the ankle has been realigned and is splinted.
+    - Carry her immediately over the 8 km, because every hour of delay is dangerous.
+    - Make her walk short stages with a stick so she keeps the leg moving.
+    - Stay in shelter with splint care and CSM checks, and send a party to guide help in.
+  correct: 3
+  explanation: >-
+    A realigned fracture-dislocation must not bear weight, and a long carry is slow, exhausting and
+    risky. In a safe place with help a few hours away, staying put with good splint care is better.
+- id: q5
+  question: >-
+    You fit an improvised crutch made from a broom. Where should the padded top sit?
+  options:
+    - Pressed firmly into the armpit so the casualty can rest his weight there.
+    - About 5 cm below the armpit, with the weight taken through the hands.
+    - At waist height, so it works like a walking stick.
+    - At shoulder height, so he can lean forward over it on slopes.
+  correct: 1
+  explanation: >-
+    Weight on the armpit compresses the radial nerve and causes crutch palsy. The top sits about
+    three finger widths below the armpit and the handgrip at the wrist crease.

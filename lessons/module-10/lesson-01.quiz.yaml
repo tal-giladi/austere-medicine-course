@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A 24-year-old hiker slipped while grabbing a branch above his head. He holds his right arm slightly
+    away from his body with his left hand; the shoulder looks squared off and he cannot touch his left
+    shoulder with his right palm. Help is 10 hours away. What is your first action?
+  options:
+    - Pull firmly along the arm straight away, before spasm sets in.
+    - Check and record the radial pulse, hand sensation and the outer upper arm.
+    - Strap the arm tightly to his chest and start walking out at once.
+    - Ask him to lift the arm sideways to test the deltoid muscle.
+  correct: 1
+  explanation: >-
+    This is a typical anterior dislocation and field reduction is reasonable, but the neurovascular
+    check comes first and is repeated after every attempt. Asking him to lift the dislocated arm is
+    painful and useless; a firm pull is exactly what the gentle techniques avoid.
+- id: q2
+  question: >-
+    A man had a seizure in a shelter. His left arm is held tightly against his body, turned inward,
+    and he cannot turn it outward at all. The front of the shoulder looks flat. What do you do?
+  options:
+    - Use external rotation, since it is the gentlest technique for any dislocation.
+    - Try FARES, because it works without countertraction and needs no assistant.
+    - Sling it in the position of comfort, give pain relief and plan evacuation.
+    - Hang a 5 kg weight from his wrist face down for 30 minutes.
+  correct: 2
+  explanation: >-
+    A seizure and an arm locked in internal rotation suggest a posterior dislocation. The anterior
+    techniques are not for it; posterior dislocations are reduced in hospital with traction under
+    sedation.
+- id: q3
+  question: >-
+    During a slow external rotation attempt, the casualty's spasm increases and he cries out at
+    about 50 degrees. What is the right response?
+  options:
+    - Pause and hold the arm still until the spasm settles, then continue slowly.
+    - Push through quickly, since reduction usually happens just beyond this point.
+    - Switch to the Kocher manoeuvre, which uses leverage instead of rotation.
+    - Abandon all reduction and never try another technique on this shoulder.
+  correct: 0
+  explanation: >-
+    Gentle techniques work by letting the muscles relax. Pause at pain or spasm, wait, then continue;
+    stop altogether at firm resistance. Kocher levering should not be performed.
+- id: q4
+  question: >-
+    A 15-year-old fell off a bicycle onto his shoulder. It looks deformed and very painful, but his
+    hand is warm, pink and has normal feeling. Evacuation will take a day. What is best?
+  options:
+    - One gentle Cunningham attempt, since it uses no traction.
+    - Teach him Davos self-reduction so he controls the force himself.
+    - Stimson face down with a light weight, since it needs little skill.
+    - Sling and swathe in comfort, pain relief, CSM checks and evacuation.
+  correct: 3
+  explanation: >-
+    In a child or adolescent an apparent shoulder dislocation is often a growth-plate fracture, and a
+    direct fall onto the shoulder also suggests a fracture. With a healthy hand, you immobilise and
+    evacuate rather than manipulate.
+- id: q5
+  question: >-
+    You have reduced a shoulder. The contour is round and the pain has eased, but the outer upper arm
+    now feels numb when before the attempt it was normal. What do you do?
+  options:
+    - Nothing special; numbness there is expected after every reduction.
+    - Record it, immobilise in a sling and swathe, and evacuate for assessment.
+    - Re-dislocate the shoulder gently to take the tension off the nerve.
+    - Remove the sling and exercise the arm every hour to wake the nerve.
+  correct: 1
+  explanation: >-
+    A new axillary nerve deficit after a manoeuvre must be documented and assessed by a doctor. It
+    often recovers over weeks to months, but you stop manipulating, immobilise and evacuate.
